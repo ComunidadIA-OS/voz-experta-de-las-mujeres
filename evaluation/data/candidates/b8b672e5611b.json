@@ -1,0 +1,26 @@
+{
+  "id": "b8b672e5611b",
+  "url": "https://www.agenciasinc.es/Noticias/Las-ranas-arboricolas-hembras-tardan-mas-en-elegir-pareja-cuando-oyen-demasiados-cantos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-14T09:49:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:36:10+00:00",
+  "campos": {
+    "titular": "Las ranas arborícolas hembras tardan más en elegir pareja cuando oyen demasiados cantos",
+    "entradilla": "Un estudio revela que la abundancia de señales acústicas durante el cortejo dificulta la toma de decisiones de las hembras y reduce la probabilidad de seleccionar al macho. El efecto se mantiene incluso cuando se controla el ruido de fondo, lo que apunta a una limitación cognitiva ante un exceso de opciones.",
+    "cuerpo": "Durante la época reproductiva, los machos de la rana arborícola gris de Cope (Hyla chrysoscelis) se agrupan en grandes coros en el este de Norteamérica y emiten sus llamadas de apareamiento de forma simultánea. Para las hembras, identificar entre ese entramado acústico a un posible compañero puede ser difícil, tanto por la interferencia entre sonidos como por la cantidad de alternativas disponibles.\nUn equipo del Instituto Smithsonian de Investigaciones Tropicales y de la Universidad de Tennessee (EE UU) ha estudiado hasta qué punto el número de cantos influye en esta decisión. El trabajo, publicado en iScience, distingue entre el denominado ‘enmascaramiento energético’ —la dificultad para percibir una llamada cuando se superpone con otras— y la llamada ‘sobrecarga de opciones’, que se produce cuando la cantidad de alternativas complica el proceso de elección.\nPara comprobar ambos efectos, los investigadores reprodujeron en el laboratorio grabaciones de cantos de apareamiento y observaron la respuesta de las hembras ante un número creciente de posibles parejas. En las pruebas se combinó un canto objetivo con distintas cantidades de llamadas competidoras y se introdujeron además diferentes niveles de ruido de fondo, lo que permitió evaluar por separado el efecto de la abundancia de señales y el de la interferencia acústica.\n“Nos interesaba especialmente determinar por qué las hembras de las ranas arborícolas tienen dificultades para encontrar pareja: si se debe a que les cuesta escuchar a los machos en un entorno ruidoso o si, sencillamente, se sienten abrumadas por el número de opciones”, explica Claire Hemingway, investigadora asociada del Instituto Smithsonian de Investigaciones Tropicales, profesora adjunta de la Universidad de Tennessee (EE UU) y autora principal del estudio.\n“En términos humanos, ¿es como entrar en un bar abarrotado y no poder oír a nadie, o como utilizar una aplicación de citas y ser incapaz de elegir entre tantas opciones?”, añade.\nLos resultados muestran un efecto claro del número de alternativas sobre la conducta de las hembras. Ante dos cantos —uno correspondiente al macho objetivo y otro competidor—, el 97 % de las ranas inició el desplazamiento hacia una pareja. Al elevar a ocho el número de llamadas disponibles, esa proporción se redujo al 82 %.\nLa cantidad de opciones también afectó a la elección final y al tiempo necesario para tomarla. Con dos cantos, las hembras escogieron la llamada objetivo en el 76 % de los casos y tardaron una media de 114 segundos en alcanzarla.\nCuando se les presentaron ocho, la proporción de elecciones correctas cayó hasta el 25 % y el tiempo medio aumentó a 183 segundos. Estos resultados indican que el problema no se limita a distinguir las señales en un entorno acústicamente complejo, si no que disponer de más alternativas también dificulta el proceso de decisión.\n“Nos sorprendió lo claros que fueron los resultados”, señala Jessie Tanner, profesora adjunta de la Universidad de Tennessee y autora principal sénior del estudio. “Con ruido de fondo o sin él, cuando presentamos más cantos simultáneamente a las hembras, su rendimiento empeoró en varios aspectos, lo que pone de manifiesto el efecto de la sobrecarga de opciones”.\nLos autores consideran que estos resultados muestran que la cantidad de alternativas disponibles puede condicionar la elección de pareja en las ranas arborícolas, de forma comparable a lo observado en humanos ante un exceso de opciones.\nEl trabajo plantea así que las capacidades cognitivas para procesar información podrían tener un papel relevante en la selección sexual y en la evolución de las preferencias reproductivas en otras especies."
+  },
+  "sha256": {
+    "titular": "8ba4241dc2b79e68a147089eb99d59c1a72b62e922d43389ec8dccd778577a5c",
+    "entradilla": "ccee9f4371084676750ac80d99751bf8b498d7fd8a8fccee12bf4a1e75ce93d6",
+    "cuerpo": "9c6a2448d250eeccf4d4e20b3ac16868a93498065d81f8f504fdb3fd2ce54ce2"
+  }
+}

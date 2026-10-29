@@ -1,0 +1,31 @@
+{
+  "annotators": [
+    "Eva_Mar",
+    "Elena"
+  ],
+  "group": "calibration",
+  "articles": 6,
+  "people": {
+    "both": 13,
+    "only_first": 2,
+    "only_second": 0
+  },
+  "kappa": {
+    "gender": 0.8785046728971964,
+    "role": 0.48000000000000026,
+    "quoted": 1.0,
+    "work_role": 0.8142857142857144,
+    "headline_reference": null
+  },
+  "observed": {
+    "gender": 0.9230769230769231,
+    "role": 0.9230769230769231,
+    "quoted": 1.0,
+    "work_role": 0.9230769230769231,
+    "headline_reference": 1.0
+  },
+  "minutes_mean": {
+    "Eva_Mar": 6.7,
+    "Elena": 4.0
+  }
+}

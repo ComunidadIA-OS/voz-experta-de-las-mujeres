@@ -1,0 +1,26 @@
+{
+  "id": "ac53e35f7907",
+  "url": "https://www.agenciasinc.es/Noticias/Mayo-registra-101-muertes-asociadas-al-calor-la-cifra-mas-alta-de-este-mes-en-una-decada",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-03T14:05:00+02:00",
+  "fuente_y_derechos": "Fuente: Ministerio de Sanidad | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:23+00:00",
+  "campos": {
+    "titular": "Mayo registra 101 muertes asociadas al calor, la cifra más alta de este mes en una década",
+    "entradilla": "Las estimaciones del Sistema de Monitorización de la Mortalidad Diaria concluyen que entre 2015 y 2025 ha habido 27 564 muertes atribuibles al calor. El Ministerio de Sanidad ha puesto en marcha un plan nacional de prevención contra el calor extremo que estará activo hasta octubre.",
+    "cuerpo": "Este mes de mayo se han registrado 101 muertes atribuibles a las altas temperaturas, la cifra más elevada para este periodo desde 2015, según las estimaciones del sistema de monitorización de la mortalidad diaria (MoMO).\nEste dato multiplica por 3,6 la media de fallecimientos asociados al calor en los meses de mayo de la última década y revela el impacto sanitario que pueden tener los episodios de calor extremo incluso antes del inicio del verano.\nEn concreto, MoMo estima 27 567 defunciones ocasionadas por el calor entre 2015 y 2025. Los años con una mayor mortalidad han sido 2022 con 4 789 muertes y 2025 con 3 832.\nEl riesgo de mortalidad aumenta entre un 9,1 % y un 10,7 % por cada grado que la temperatura supera el umbral de riesgo para la salud. Por ello, el Ministerio de Sanidad ha puesto en marcha el Plan Nacional de Actuaciones Preventivas de los Efectos del Exceso de Temperaturas sobre la Salud 2026 con el objetivo de reducir la morbilidad asociada a las olas de calor.\nLos umbrales de impacto en salud se han determinado mediante un análisis estadístico de la asociación entre series temporales de mortalidad por causas naturales y temperaturas máximas diarias. Las autoridades descartaron los años 2020 y 2021 por los efectos de la covid.\nEl Plan se estructura en 182 zonas de meteosalud, definidas según áreas con climatologías similares de Fenómenos Meteorológicos Adversos (FMA). Esta desagregación territorial, instaurada en 2024, permite que las alertas se ajusten a la vulnerabilidad específica de cada población local.\nEl sistema de avisos utiliza un algoritmo de decisión basado en la persistencia de temperaturas previstas por encima del umbral durante tres días consecutivos y los niveles se identifican por colores: verde (ausencia de riesgo), amarillo (bajo riesgo), naranja (riesgo medio) y rojo (alto riesgo).\nLa activación de este plan comprende desde el 13 de mayo hasta el 13 de septiembre, aunque se mantiene un criterio de flexibilidad que permitirá el seguimiento desde el 1 de mayo hasta el 15 de octubre.\nEl impacto de las temperaturas extremas se concentra en grupos de mayores de 75 años, pero también afecta a lactantes, menores de 4 años, mujeres gestantes y personas con enfermedades crónicas.\nPor ello, Sanidad recomienda a la ciudadanía seguir pautas básicas de prevención como beber agua con frecuencia, permanecer en lugares frescos o climatizados, reducir la actividad física en las horas centrales del día, mantener las medicinas en lugares frescos para que el calor no altere su composición y, por último, evitar bebidas con cafeína, alcohol o azúcar."
+  },
+  "sha256": {
+    "titular": "8dc56cf9322d49e3abf4c55f6a0b51d368990a53f6c4fec559b378e069330afb",
+    "entradilla": "57331a47f6f74840cf4c22a463ccb3c9a72a80af1d1e79bc61673706b97dd5b9",
+    "cuerpo": "f1ddf6ea46f4bbb9503030251c96d8f2e6306dd1a86476d463c84efb74b23ec2"
+  }
+}

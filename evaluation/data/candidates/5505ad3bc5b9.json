@@ -1,0 +1,26 @@
+{
+  "id": "5505ad3bc5b9",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-que-los-invisibles-anillos-de-Chariklo-estan-cambiando",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-09-10T11:00:00+02:00",
+  "fuente_y_derechos": "Fuente: IAA | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:34:05+00:00",
+  "campos": {
+    "titular": "Descubren que los invisibles anillos de Chariklo están cambiando",
+    "entradilla": "Un equipo internacional liderado por el Instituto de Astrofísica de Andalucía demuestra por primera vez que los dos anillos de este pequeño cuerpo del Sistema Solar están cambiando en sentidos opuestos. Los resultados se han obtenido gracias a la primera ocultación estelar planificada y observada con el telescopio espacial James Webb.",
+    "cuerpo": "Hasta hace poco más de una década, se pensaba que los sistemas de anillos eran exclusivos de los planetas gigantes del Sistema Solar, como Júpiter, Saturno, Urano y Neptuno. Sin embargo, en 2013, un pequeño cuerpo de apenas 250 kilómetros de diámetro situado a casi 17 veces la distancia entre la Tierra y el Sol, se sumó a este reducido grupo. Se trata de Chariklo, un cuerpo menor que orbita entre Saturno y Urano, alrededor del cual se descubrieron dos densos anillos.\nEl 18 de octubre de 2022, el Instituto de Astrofísica de Andalucía (IAA-CSIC) lideró la observación con el telescopio espacial James Webb (JWST) para estudiar los anillos de Chariklo mediante una ocultación estelar, una técnica que consiste en medir la disminución de la luz de una estrella cuando el objeto pasa por delante de ella.\nAhora, un nuevo estudio publicado en Science Advances y liderado también por el IAA-CSIC demuestra, por primera vez, que el sistema de anillos de Chariklo ha experimentado cambios en escalas de tiempo de apenas unos años.\n“La comparación de las observaciones del JWST con las obtenidas durante otras ocultaciones estelares a lo largo de la última década nos ha permitido descubrir cambios opuestos en los dos anillos: mientras el anillo interior muestra una opacidad significativamente mayor, el exterior presenta una opacidad menor”, explica Pablo Santos-Sanz, investigador del IAA-CSIC que lidera el estudio.\nEste comportamiento inesperado indica que el sistema de anillos de Chariklo es dinámico y que podría estar sometido a procesos físicos mucho más complejos de lo que se pensaba.\nEl estudio supone también un importante avance tecnológico: la ocultación por Chariklo ha sido la primera ocultación estelar predicha y planificada específicamente para ser observada con el James Webb y ejecutada con éxito desde este telescopio espacial.\n“Conseguirlo requirió conocer con una precisión extraordinaria la órbita de Chariklo, la posición de la estrella —gracias a la misión Gaia de la ESA— y la trayectoria del propio JWST alrededor del punto de Lagrange L2, una región del espacio situada a unos 1,5 millones de kilómetros de la Tierra en dirección opuesta al Sol. El JWST orbita alrededor de esta región siguiendo una trayectoria que debe corregirse periódicamente mediante maniobras de mantenimiento”, apunta Yücel Kilic, investigador posdoctoral del IAA-CSIC contratado en el marco del proyecto Severo Ochoa y coautor del estudio.\nEn el momento de la ocultación, Chariklo se desplazaba respecto al JWST a tan solo 2,5 kilómetros por segundo. Esta velocidad relativa excepcionalmente baja permitió obtener una resolución espacial sin precedentes para estudiar la estructura de sus anillos.\nEstos anillos son tan estrechos y Chariklo se encuentra tan lejos que no pueden fotografiarse directamente, ni siquiera con el propio James Webb o con los mayores telescopios terrestres. Las ocultaciones estelares permiten estudiarlos de forma indirecta, midiendo las breves disminuciones en el brillo de una estrella cuando cada uno de los anillos pasa por delante de ella.\nHasta ahora, los anillos que rodean a pequeños cuerpos del Sistema Solar se consideraban estructuras relativamente estables. Los cambios detectados en Chariklo cuestionan esta visión y apuntan a que estos sistemas pueden ser mucho más dinámicos de lo que se esperaba.\n“Nuestros resultados obligan a replantearse cómo se forman, cómo evolucionan y qué mecanismos mantienen su estabilidad. La posibilidad de detectar estos cambios abre una nueva ventana para comprender la evolución de estos sistemas y, posiblemente, la de otros sistemas de anillos del Sistema Solar”, señala Santos-Sanz.\nEl origen físico de los cambios detectados sigue siendo, sin embargo, una cuestión abierta: podrían reflejar una evolución temporal de los anillos, diferencias relacionadas con el uso de distintos filtros de observación o una combinación de ambos efectos."
+  },
+  "sha256": {
+    "titular": "95e36af59cbcedddfe950e762c3451e72cabfb08c32f0f5064f6bf1a15e1e997",
+    "entradilla": "1d14ce8eb8d4bdebc571fd528a4285efa2e915c8a5d68a1dcfa10445c8c52a8e",
+    "cuerpo": "0802e28801de9f836047785f615bffe3f5936f414d95fca95ebea4331dbf8761"
+  }
+}

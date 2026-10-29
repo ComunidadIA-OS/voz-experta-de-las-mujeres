@@ -1,0 +1,26 @@
+{
+  "id": "c7b854d7feed",
+  "url": "https://www.agenciasinc.es/Noticias/Una-nueva-tecnica-agita-atomos-para-estudiar-la-fisica-de-los-agujeros-negros-en-el-laboratorio",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-09-15T10:34:00+02:00",
+  "fuente_y_derechos": "Fuente: UCM | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Física"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:33:51+00:00",
+  "campos": {
+    "titular": "Una nueva técnica agita átomos para estudiar la física de los agujeros negros en el laboratorio",
+    "entradilla": "Investigadores de la Universidad Complutense de Madrid proponen una técnica experimental que reproduce el modelo de Sachdev-Ye-Kitaev, relacionado con el estudio del caos cuántico, la pérdida de información en agujeros negros y el comportamiento de ultraconductores, con átomos ultrafríos. Este avance acerca al laboratorio fenómenos hasta ahora reservados a la teoría.",
+    "cuerpo": "Un equipo de investigadores de la Universidad Complutense de Madrid (UCM), en colaboración con el Collège de France, ha desarrollado una nueva estrategia agitando átomos para reproducir experimentalmente uno de los modelos más estudiados de la física cuántica actual: el modelo de Sachdev-Ye-Kitaev (SYK), relacionado con el estudio del caos cuántico, la pérdida de información en agujeros negros y el comportamiento de los superconductores de alta temperatura.\nEl trabajo, publicado en Physical Review Letters, propone una forma mucho más sencilla de obtener la compleja física del modelo SYK utilizando átomos ultrafríos atrapados en una red óptica —un ‘cristal de luz’—, una de las plataformas experimentales más precisas para simular materiales cuánticos.\nEn lugar de construir un sistema complejo con interacciones intrincadas de largo alcance, los investigadores demuestran que ‘agitar’ periódicamente una configuración mucho más simple puede hacer que esta se comporte como el modelo de SYK. Esta técnica se conoce como ingeniería de Floquet.\nEl método suprime el movimiento convencional (basado en el salto individual de átomos entre sitios) sustituyéndolo por una dinámica correlacionada generada exclusivamente por interacciones efectivas y simultáneas entre todas las partículas, en un escenario que se asemeja estrechamente a la estructura inusual del modelo.\n“En vez de fabricar un sistema extremadamente complejo, demostramos que basta con agitar periódicamente uno mucho más simple para que aparezca de forma natural la física que buscamos”, indica Charles Creffield, profesor del Departamento de Física de Materiales de la UCM.\nLas simulaciones numéricas realizadas muestran que el sistema reproduce dos de las características más importantes del modelo: su intenso caos cuántico y la rápida propagación del entrelazamiento cuántico, propiedades fundamentales para comprender algunos de los problemas abiertos de la física moderna.\n“Cabe destacar que este enfoque puede implementarse con las tecnologías de átomos fríos existentes, lo que ofrece una vía práctica para explorar experimentalmente fenómenos que antes se limitaban a la teoría abstracta. Este trabajo abre la puerta al estudio de comportamientos cuánticos extremos —incluidas las conexiones con los agujeros negros— en entornos de laboratorio altamente controlables”, destaca Fernando Sols, catedrático de la UCM.\nEl siguiente paso del proyecto será extender el método a gases de átomos fermiónicos, ya que el modelo SYK fue formulado originalmente para fermiones —en particular, fermiones de Majorana—. El equipo también estudia incorporar desorden controlado y ampliar el método a redes ópticas de mayor dimensión."
+  },
+  "sha256": {
+    "titular": "dac827825fb36681e5c012b5e6a9d3982820b83818cbff47a1ba9bbc808ebd14",
+    "entradilla": "216a42b66c008dd975c7b0fda5f4a75d9c09ba8833750bc2e20e9f994da3915c",
+    "cuerpo": "b0327de3024d739136b47510f9b3851484037a372db9aee577e6729b7df89d4c"
+  }
+}

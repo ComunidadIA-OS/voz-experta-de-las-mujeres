@@ -1,0 +1,26 @@
+{
+  "id": "c509c28246a2",
+  "url": "https://www.agenciasinc.es/Noticias/El-dengue-puede-debilitar-de-forma-reversible-la-barrera-de-los-vasos-sanguineos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-09-17T09:23:00+02:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:33:35+00:00",
+  "campos": {
+    "titular": "El dengue puede debilitar de forma reversible la barrera de los vasos sanguíneos",
+    "entradilla": "Comprender con precisión este proceso permitirá diseñar nuevas estrategias para proteger dicha barrera en pacientes con dengue severo, según un trabajo con participación del CSIC.",
+    "cuerpo": "Un equipo internacional con participación del Consejo Superior de Investigaciones Científicas (CSIC) a través del Centro de Investigación del Cáncer (CSIC-USAL-FICUS) ha descubierto que la infección por el virus del dengue puede debilitar temporalmente la barrera de los vasos sanguíneos.\nComprender con precisión cómo y cuándo se produce este debilitamiento permitirá diseñar nuevas estrategias para proteger dicha barrera en pacientes con dengue severo, que presentan mayor riesgo de hemorragias graves, shock inflamatorio y caídas bruscas de presión arterial, complicaciones potencialmente mortales para las que aún no existe un tratamiento específico.\nLa pared interna de capilares y venas está formada por células que regulan qué sustancias pasan de la sangre a los tejidos y cuales permanecen fuera de ellos.\nEstas células dejan pasar agua, oxígeno y nutrientes, mientras bloquean sustancias que podrían causar inflamación o dañar el tejido y provocar hemorragias. Cuando esta pared se altera, los líquidos escapan de los vasos y producen acumulación de líquido en los tejidos y hemorragias, un fenómeno característico del dengue grave.\nPara el estudio, los investigadores emplearon células de pequeños vasos sanguíneos (microvasculature) humanos cultivadas en laboratorio. Las expusieron a sustancias solubles liberadas por células infectadas con el virus del dengue y observaron cambios tanto en la forma celular como en las proteínas responsables de mantenerlas unidas entre sí, cambios que facilitan la fuga de líquidos fuera de los vasos.\nMiguel Vicente-Manzanares, investigador principal del Centro de Investigación del Cáncer (CIC) y codirector del trabajo, explica que la investigación se centra en esta fase reversible: \"Hemos comprobado que estas células entran en un estado de plasticidad temporal. Dejan de comportarse como células endoteliales normales y adquieren rasgos más propios de células implicadas en la reparación de tejidos. Este cambio no es permanente, y esa reversibilidad podría explicar por qué la alteración de la barrera vascular en el dengue grave suele ser transitoria\".\nSegún Vicente-Manzanares, entender mejor cómo y cuándo se debilita esta barrera facilitará el diseño de estrategias para protegerla en los pacientes con mayor riesgo de complicaciones graves.\nAdemás de los experimentos, el equipo desarrolló un modelo computacional que simula el comportamiento de estas células durante la infección. El modelo identifica dos moléculas clave que actúan como centros de control de la respuesta vascular al dengue: la interleucina 6 (IL-6) y la fibronectina (FN1).\nLos resultados sugieren que bloquear la acción de IL-6 o modular la fibronectina podría ayudar a proteger la barrera vascular en pacientes con dengue grave.\nAlgunos fármacos que actúan sobre estas vías ya se utilizan en otras enfermedades, lo que podría acelerar su posible aprobación para el tratamiento del dengue, si superan todas las fases de investigación clínica. Esto abre la puerta a estudiar si podrían servir para reducir las complicaciones vasculares de la enfermedad.\nEste trabajo combina experimentos biológicos y simulaciones informáticas, ofreciendo una nueva herramienta para el diseño de futuras estrategias que prevengan la pérdida de integridad vascular en el dengue."
+  },
+  "sha256": {
+    "titular": "6a163d5815623786c33a0946d03b42197ffe2780d31b7c6fbf564d92dd0ac919",
+    "entradilla": "fa8249f2c81867421d46eb6075ccaabc8734a2324bd40bf11fe43695f1a17036",
+    "cuerpo": "f6b19077f531371eac66083aa7d6e39d3961686c6fa79b6137c36aa4dd7f261b"
+  }
+}

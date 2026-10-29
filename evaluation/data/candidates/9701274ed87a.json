@@ -1,0 +1,26 @@
+{
+  "id": "9701274ed87a",
+  "url": "https://www.agenciasinc.es/Noticias/Una-macroalga-tropical-invasora-llega-por-primera-vez-a-Galicia",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-03T09:55:00+02:00",
+  "fuente_y_derechos": "Fuente: Instituto Español de Oceanografía | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:40:22+00:00",
+  "campos": {
+    "titular": "Una macroalga tropical invasora llega por primera vez a Galicia",
+    "entradilla": "El calentamiento del mar favorece la llegada de esta especie a las costas gallegas. El hallazgo, liderado por un equipo del Instituto Español de Oceanografía, supone la cita más septentrional registrada hasta la fecha en aguas europeas y una expansión de más de 500 km respecto a su distribución conocida.",
+    "cuerpo": "Un equipo internacional liderado por personal investigador del Instituto Español de Oceanografía (IEO, CSIC) ha documentado, por primera vez, la presencia en la costa gallega de la macroalga Asparagopsis taxiformis.\nEste hallazgo amplía significativamente el límite conocido para esta especie, lo que podría estar relacionado con el calentamiento de las aguas y la actividad humana. La investigación, publicada en la revista Bioinvasions Records, parte de un ejemplar localizado en las Rías Baixas en 2025.\nLos análisis moleculares confirmaron que pertenece al linaje 2 de esta especie, una variante con gran capacidad invasora y elevada tolerancia ambiental, lo que podría facilitar su supervivencia en aguas templadas como las gallegas.\n“Aunque la población detectada parece todavía incipiente -la ausencia de estructuras reproductoras así lo sugiere-, este hallazgo pone de manifiesto cómo el calentamiento de las aguas y las actividades humanas pueden favorecer la llegada y establecimiento de especies de afinidad tropical en ecosistemas templados”, señala Eva Cacabelos, investigadora del Centro Oceanográfico de Vigo del IEO y primera autora del estudio.\nA este escenario se suma una amenaza adicional advertida por el equipo investigador: el riesgo de coinvasión. El estudio señala que la posible coexistencia de A. taxiformis con otras macroalgas invasoras de reciente aparición en la zona, como la Rugulopteryx okamurae, podría intensificar drásticamente los impactos ecológicos.\nLa interacción simultánea de múltiples especies exóticas tiene la capacidad de monopolizar el sustrato, agravando la disrupción de los ecosistemas bentónicos autóctonos.\nEl trabajo subraya la importancia de la vigilancia temprana y del seguimiento continuado para anticipar posibles impactos ecológicos y cambios en las comunidades marinas de Galicia.\nAdemás del IEO-CSIC, el artículo contó con la participación de personal investigador de organismos nacionales como el IFAPA Centro El Toruño, Marine Research Institute de la Universidad de Cádiz y de la Universidad de Málaga."
+  },
+  "sha256": {
+    "titular": "55db7621a4ea8c1e920fdf3ac72ce28f1147858c87045ffcbfcc79a90c96efb9",
+    "entradilla": "efe56f7a9647a20d4ffdee2fdcfbb060c6fc62a31a533223b37fe2d4a26a55c1",
+    "cuerpo": "f39f598d9ad58461c8f25306d943077e817a555c2f978cc05cdc101daf8379c7"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fd83dfad7912",
+  "url": "https://www.agenciasinc.es/Noticias/Por-que-es-tan-dificil-conseguir-el-apoyo-ciudadano-para-las-politicas-climaticas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-03T10:23:00+02:00",
+  "fuente_y_derechos": "Fuente: UAB | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Política científica"
+  ],
+  "secciones": [
+    "Sociedad"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:20+00:00",
+  "campos": {
+    "titular": "¿Por qué es tan difícil conseguir el apoyo ciudadano para las políticas climáticas?",
+    "entradilla": "Aunque existe un amplio consenso sobre la necesidad de actuar frente al cambio climático, muchas medidas concretas siguen generando rechazo. Un estudio basado en dos experimentos con muestras representativas de la población española concluye que el apoyo ciudadano depende en gran medida de cómo se comuniquen los costes, los beneficios y los efectos redistributivos de estas políticas.",
+    "cuerpo": "Aunque la mayoría de los ciudadanos reconoce la realidad del cambio climático y afirma apoyar la acción climática en abstracto, este apoyo suele quebrarse cuando se trata de políticas concretas como restringir vehículos contaminantes, peajes urbanos (zonas de bajas emisiones) o impuestos sobre vuelos.\nUn equipo de investigación de la de la Universidad Autónoma de Barcelona, la Universidad Pompeu Fabra y la Universidad de Barcelona se propuso entender por qué ocurre esto y qué papel desempeñan tres elementos clave: el coste que suponen estas políticas, los beneficios que aportan y las personas que resultan beneficiadas o perjudicadas.\nEl equipo diseñó dos experimentos originales. El primero, un experimento de viñetas incluido en dos oleadas de encuestas, expuso a los participantes a diez políticas climáticas diferentes, mostrándoles aleatoriamente información sobre los costes o los beneficios de dichas políticas.\nEl segundo, un experimento de conjuntos, presentó a los encuestados paquetes hipotéticos de políticas climáticas aplicadas a ciudades ficticias, variando su contenido, su coste, su beneficio y, sobre todo, el impacto esperado en los ciudadanos más ricos y en los más pobres.\nLos resultados indican que destacar los costes económicos de una política reduce significativamente el apoyo ciudadano, mientras que destacar sus beneficios solo lo incrementa moderadamente. Según los autores, la gente tiende a reaccionar con más intensidad ante posibles pérdidas que ante posibles ganancias.\nLa investigación también revela que el factor más determinante es la redistribución. Los participantes apoyan mucho más las políticas climáticas cuando se los informa de que mejorarán la situación de las personas con menos recursos. En cambio, los efectos sobre las personas más ricas tienen una influencia mínima en sus preferencias.\nAdemás, también han identificado importantes diferencias ideológicas. Las personas de izquierdas son las más partidarias de las medidas climáticas y las más sensibles a sus efectos redistributivos, mientras que las de derechas muestran menos apoyo general. Los autores también señalan una oposición especialmente alta entre los simpatizantes de la extrema derecha.\nLos resultados tienen implicaciones directas para el diseño y la comunicación de políticas climáticas. Por un lado, muestran que obtener apoyo ciudadano no depende solo de «qué» se hace, sino especialmente de \"cómo\" se comunica quién paga los costes y quién recibe los beneficios.\nEnfatizar la justicia distributiva —por ejemplo, asegurarse de que las medidas no perjudiquen a las personas con menos recursos— puede ser una forma eficaz de ampliar la aceptación social.\nPor otro lado, el estudio advierte de que el debate climático se polariza políticamente, con la extrema derecha como actor clave en la resistencia a estas políticas, una tendencia que podría condicionar la viabilidad futura de la acción climática en los países europeos.\nFinalmente, según Guinjoan, \"estos resultados pueden ayudar a pasar de un apoyo abstracto a las políticas climáticas a un diseño más eficaz y socialmente aceptado de estas acciones\".\nLa investigación señala que, para consolidar el apoyo ciudadano necesario para abordar la emergencia climática, es esencial combinar la ambición medioambiental con la percepción de equidad social y una comunicación transparente sobre los costes de las medidas."
+  },
+  "sha256": {
+    "titular": "70b2d3c0d1df3f29ae90e06ed031b6a7fc9bed852c85766a32c725cb27779f95",
+    "entradilla": "a176e52694b59ce4caa5899c68d0db66d66efd3cd50bed175bb163769ad27858",
+    "cuerpo": "dd2e2d6942e22d2f061adaab931cc1df275c0ef214e642bf5df314f7572f740c"
+  }
+}

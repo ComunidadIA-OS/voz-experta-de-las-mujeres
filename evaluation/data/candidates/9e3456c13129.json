@@ -1,0 +1,26 @@
+{
+  "id": "9e3456c13129",
+  "url": "https://www.agenciasinc.es/Noticias/Los-bosques-mediterraneos-liberan-compuestos-vinculados-al-trafico-durante-las-olas-de-calor",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-05T12:30:00+02:00",
+  "fuente_y_derechos": "Fuente: CREAF | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:06+00:00",
+  "campos": {
+    "titular": "Los bosques mediterráneos liberan compuestos vinculados al tráfico durante las olas de calor",
+    "entradilla": "Un nuevo estudio ha detectado emisiones significativas de tolueno en encinares mediterráneos, especialmente durante episodios extremos de calor y sequía. Este hallazgo sugiere que el compuesto podría utilizarse como indicador del estado fisiológico de estos ecosistemas.",
+    "cuerpo": "El tolueno, un compuesto orgánico volátil conocido principalmente por su relación con el tráfico, podría convertirse en un nuevo indicador del estrés ambiental en los bosques mediterráneos. Así lo indica un nuevo estudio del Instituto de Diagnóstico Ambiental y Estudios del Agua (IDAEA-CSIC) y el CREAF, que ha detectado emisiones significativas de esta sustancia en encinares mediterráneos, especialmente bajo condiciones climáticas extremas como olas de calor y sequía.\nEl estudio, publicado en la revista Environmental Science Atmospheres, se basa en datos recopilados en los veranos de 2021, 2022 y 2023 en el Parque Natural del Montseny (Barcelona). Este periodo coincide con uno de los episodios de sequía más intensos registrados en Cataluña en las últimas décadas. Durante esas campañas, el equipo detectó aumentos recurrentes de tolueno en zonas forestales, sobre todo tras episodios de calor extremo.\nEl análisis estadístico reveló que dichos episodios estaban bien definidos. En concreto, la temperatura fue unos 5ºC superior a las de los días sin las olas de calor y el aire estaba significativamente más seco lo cual indicaba una situación de estrés hídrico por parte de la vegetación.\n“Observamos que, aproximadamente dos días después de las olas de calor, aparecían picos de tolueno por la mañana. Esto nos hizo pensar que había una respuesta del propio bosque ante dichas condiciones de estrés”, destaca Ana Yánez-Serrano, primera autora del estudio e investigadora del IDAEA.\nEl hallazgo apunta al uso del tolueno como un posible trazador del estado fisiológico de los bosques mediterráneos. Los próximos pasos consistirán en comparar estos resultados con otros bosques mediterráneos, como los de Marsella o Chipre, para evaluar si este patrón se repite en distintas regiones.\n“Si confirmamos el mismo comportamiento en otros ecosistemas, el tolueno podría convertirse en una herramienta útil para monitorizar el estrés climático de los bosques”, señala el investigador del IDAEA y coautor del trabajo, Roger Seco.\nEl tolueno forma parte de los compuestos orgánicos volátiles, un grupo de sustancias químicas fundamentales en la formación de ozono troposférico y de partículas en suspensión, especialmente durante el verano. El ozono no siempre es beneficioso: en la estratosfera forma la capa de ozono protectora frente a la radiación ultravioleta.\nSin embargo, en la troposfera, la capa más cercana a la superficie, se comporta como un contaminante, que puede irritar las vías respiratorias, dañar la vegetación y actuar como un gas de efecto invernadero.\nPor tanto, un aumento de compuestos orgánicos volátiles en la atmósfera, como el tolueno, contribuye a la formación de ozono y puede agravar los episodios de contaminación estival. En zonas como el Montseny, estos compuestos volátiles reaccionan con los óxidos de nitrógeno procedentes del tráfico urbano y favorecen la formación de ozono.\n\"Hasta ahora, el tolueno se consideraba mayoritariamente un contaminante antropogénico emitido por el tráfico y la industria\", explica Joan Llusià, investigador del CREAF y uno de los coautores del estudio.\n“El hecho que los bosques mediterráneos emitan este compuesto de manera significativa bajo condiciones de calor permitirá calcular mejor la calidad del aire en unas condiciones cada vez más cálidas”, concluye Llusià.\nEn este sentido, la gran mayoría de los compuestos orgánicos volátiles no están regulados de forma específica, pero dado los resultados de este estudio, los investigadores coinciden en la importancia de incluirlos en las estrategias de calidad del aire debido a su papel relevante en la química atmosférica."
+  },
+  "sha256": {
+    "titular": "f0e9d392be3c8885b28b0510e1b8ca9ab913ffa01e305a76c404c2716fd99232",
+    "entradilla": "4e66add99fa74e3a787045ce96dc202c66abcb282f598ba4aab3ae7e0a8279dd",
+    "cuerpo": "4bf6d47479b822231a63df11e7094bf1cb2edec5eb4605fe5800be0b7a095c6f"
+  }
+}

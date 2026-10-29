@@ -1,0 +1,26 @@
+{
+  "id": "16fd51bf2b25",
+  "url": "https://www.agenciasinc.es/Noticias/El-Gobierno-amplia-el-confinamiento-de-aves-de-cria-a-todas-las-granjas-de-Espana",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-11-13T11:15:00+01:00",
+  "fuente_y_derechos": "Fuente: Ministerio de Agricultura, Alimentación y Medio Ambiente | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:59:00+00:00",
+  "campos": {
+    "titular": "El Gobierno amplía el confinamiento de aves de cría a todas las granjas de España",
+    "entradilla": "La orden, que entra en vigor hoy 13 de noviembre, se trata de una nueva medida preventiva de refuerzo ante el aumento del riesgo de expansión de la influenza aviar, altamente infecciosa.",
+    "cuerpo": "El Ministerio de Agricultura, Pesca y Alimentación ha decretado el confinamiento, a partir de hoy 13 de noviembre, de todas las aves de corral que se crían al aire libre en España. Se trata de un refuerzo de las medidas preventivas frente a la gripe aviar ante el aumento del riesgo de expansión de esta enfermedad altamente infecciosa.\nLa orden ministerial, publicada en el Boletín Oficial del Estado, extiende a todas las granjas avícolas, incluidas las explotaciones ecológicas y las de autoconsumo o las que produzcan carne o huevos para su venta directa al consumidor, la prohibición de que los animales permanezcan al aire libre que ya regía desde el pasado lunes, día 10, para las zonas consideradas de especial riesgo y especial vigilancia, 1 201 municipios.\nLa medida se toma tras la elevación del riesgo de la entrada de la enfermedad en España en la última semana. Para evaluar este riesgo se tienen en consideración factores como el número de focos notificados en Europa, los puntos en los que se localizan y los movimientos de aves silvestres desde zonas de riesgo en el continente.\nEn España se ha constatado una abundancia de aves migratorias en zonas de humedales, habitual en esta época del año. Además, el descenso de las temperaturas es un factor que facilita la supervivencia del virus. Las medidas de confinamiento tratan de evitar el contacto de las aves de corral con las migratorias que pueden ser portadoras del virus.\nDesde el mes de julio se han notificado 139 brotes de influenza aviar en granjas avícolas de Europa. En España se han producido 14 focos en explotaciones, la mitad de ellos en Castilla y León, además de 53 en aves silvestres y 5 en cautivas.\nLa orden publicada incluye además la prohibición de la cría de patos y gansos con otras especies de aves de corral, dar agua a las aves de corral procedente de depósitos de a los que puedan acceder aves silvestres, salvo en caso de que sea tratada a fin de garantizar la inactivación de posibles virus de influenza aviar y la presencia de aves de corral u otro tipo de aves cautivas en los centros de concentración de animales, incluidos los certámenes los certámenes ganaderos.\nEn los casos en los que no fuera posible el confinamiento de las aves de corral, la autoridad competente de las comunidades autónomas podrá autorizar el mantenimiento de la mismas al aire libre mediante la colocación de telas pajareras o cualquier otro dispositivo que impida la entrada de aves silvestres."
+  },
+  "sha256": {
+    "titular": "df29534561cb6214b585521206cd7fb3af619e54706a56d9806ac9cae4622713",
+    "entradilla": "d3568062e07bd68bf519cfe1c50ab22ca6dbba26925c2ad4cef2a1d0506c6845",
+    "cuerpo": "d8fb3678318ba5e5c4a2e79266840f911a9e96dfe027f0e1d8acae9fb607c737"
+  }
+}

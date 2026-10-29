@@ -1,0 +1,26 @@
+{
+  "id": "09eb389b9fa5",
+  "url": "https://www.agenciasinc.es/Noticias/Un-modelo-de-IA-anticipa-el-riesgo-de-sepsis-tras-una-cirugia",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-20T12:21:00+01:00",
+  "fuente_y_derechos": "Fuente: CIBERES Centro Integrado de Biomedicina en Red | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:55:04+00:00",
+  "campos": {
+    "titular": "Un modelo de IA anticipa el riesgo de sepsis tras una cirugía",
+    "entradilla": "Una nueva inteligencia artificial permite identificar, antes de la intervención, a los pacientes con mayor probabilidad de desarrollar septicemia mediante el análisis de su información genética. El sistema se ha aplicado en pacientes quirúrgicos.",
+    "cuerpo": "La detección temprana de la sepsis es clave para mejorar el pronóstico de los pacientes, especialmente en el ámbito quirúrgico. Un nuevo estudio liderado por personal investigador del CIBER en el Hospital Clínico Universitario de Valladolid ha desarrollado un modelo de inteligencia artificial que permite identificar y priorizar la información genética asociada a un mayor riesgo de desarrollar sepsis tras una intervención quirúrgica. Los resultados del trabajo se han publicado en Frontiers in Medicine.\nLa sepsis es una complicación grave causada por una respuesta descontrolada del organismo frente a una infección, habitualmente de origen bacteriano. Se trata de la forma más severa de una infección y presenta una mortalidad que oscila entre el 10 % y el 20 %, cifra que puede alcanzar el 40 % en los casos de shock séptico. A escala mundial, provoca alrededor de 11 millones de muertes cada año, de las cuales unas 17 000 se producen en España.\nEn este estudio, el equipo investigador analizó datos procedentes de un estudio de asociación del genoma completo (GWAS), que incluyó información genética de 750 pacientes que desarrollaron sepsis después de una cirugía y de 3 500 controles poblacionales. Mediante este modelo de inteligencia artificial, los investigadores pudieron no solo predecir el riesgo de aparición de sepsis, sino también identificar las variantes genéticas con mayor contribución a ese riesgo.\nEl análisis permitió detectar variaciones genéticas en los genes PRIM2, RBSN y SYNPR con posibles implicaciones funcionales, regulatorias y clínicas. Además, se identificaron genes relacionados con procesos biológicos clave como la regulación de la expresión génica, la replicación del ADN, la señalización celular, la proliferación celular y la disfunción cardíaca.\n“Anticiparnos a la sepsis puede marcar la diferencia en el pronóstico del paciente”, señalan los autores. La identificación de estas variantes genéticas mediante análisis de sangre preoperatorios podría facilitar una detección más temprana de la sepsis postoperatoria y orientar intervenciones clínicas más personalizadas, con el objetivo final de mejorar los resultados clínicos y la supervivencia de los pacientes.\nEl trabajo ha sido desarrollado por personal investigador del CIBER de Bioingeniería, Biomateriales y Nanomedicina (CIBER-BBN) y del CIBER de Enfermedades Infecciosas (CIBERINFEC), con la participación de otros grupos del CIBER y de la Universidad de Valladolid, así como de la Universidad de Leicester (Reino Unido), entre otras instituciones."
+  },
+  "sha256": {
+    "titular": "d6b9ddf9c9748c5123def3e45b9a098007d5e641420c1c7ead8ede342c899b94",
+    "entradilla": "3cbcb29cac92c7bbeeebe0951eeed0d18f979fff3d0033bbc649f06f8143c2cd",
+    "cuerpo": "96b342acd553bc85336047f51f14ece6e718e4c31b3c0b1b624962012317a3d9"
+  }
+}

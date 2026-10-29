@@ -1,0 +1,26 @@
+{
+  "id": "9b06324b6629",
+  "url": "https://www.agenciasinc.es/Noticias/Esta-particula-olvidada-puede-revelar-uno-de-los-mayores-misterios-sobre-el-origen-del-universo",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-10-20T01:01:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:16+00:00",
+  "campos": {
+    "titular": "Esta partícula ‘olvidada’ puede revelar uno de los mayores misterios sobre el origen del universo",
+    "entradilla": "Un nuevo modelo teórico demuestra que los neutrinos pesados desacoplados pudieron dominar la densidad de energía tras el Big Bang, modificando la evolución cosmológica y permitiendo que la materia prevaleciera sobre la antimateria.",
+    "cuerpo": "Uno de los mayores enigmas de la física moderna reside en la propia existencia de la materia. Según los modelos cosmológicos, el Big Bang debería haber producido cantidades idénticas de materia y antimateria en los primeros instantes del cosmos. Al entrar en contacto, ambas formas de masa se habrían aniquilado mutuamente de forma casi instantánea, dejando tras de sí un universo primordial desolado, compuesto únicamente por radiación y energía pura.\nSin embargo, la realidad de que hoy existan estrellas, planetas y seres vivos confirma que esa simetría perfecta llegó a romperse de algún modo.\nUn equipo de físicos teóricos de la Universidad de Southampton (Reino Unido) y del Instituto de Tecnología de Kanpur (India) ha presentado una nueva propuesta para resolver esta paradoja. Su investigación, publicada en la revista científica Physical Review Letters, señala que la clave del triunfo de la materia podría encontrarse en una partícula subatómica que la comunidad física ha ignorado durante décadas: un tipo específico de neutrino pesado denominado “desacoplado”.\nLos neutrinos se encuentran entre las partículas más ligeras y abundantes de todo el cosmos. No obstante, las explicaciones teóricas previas sobre la asimetría entre materia y antimateria solían descartar a la variante pesada desacoplada por considerar que su interacción con el resto de componentes del modelo estándar era demasiado débil como para dejar una huella apreciable en los procesos cosmológicos iniciales.\nEl nuevo análisis demuestra que este juicio previo era erróneo debido a la prolongada vida media de dicha partícula. Al desintegrarse a un ritmo extremadamente lento en comparación con la rapidez con la que se enfriaba el cosmos primitivo, esta partícula logró sobrevivir el tiempo suficiente como para asumir temporalmente el control de la densidad de energía total del universo, alterando de forma decisiva su ritmo de expansión.\n“Este neutrino pesado desacoplado se ha descartado durante mucho tiempo como un detalle de fondo irrelevante en la física de partículas”, explica Rishav Roshan, investigador de la Universidad de Southampton y coautor principal del trabajo. “Sin embargo, al vivir lo suficiente durante la etapa de enfriamiento tras el Big Bang, la partícula llegó a dominar la densidad energética y desencadenó un periodo transitorio dominado por la materia”.\nEsta dominación energética modificó la temperatura crítica a la que las partículas fundamentales —como los electrones y otros leptones— interactuaban con sus correspondientes antipartículas con la mediación del bosón de Higgs. Esa variación de temperatura actuó como una suerte de interruptor físico que moldeó cómo se fue acumulando paulatinamente el desequilibrio entre materia y antimateria a escala cósmica.\n“El mero hecho de que estemos aquí prueba que se produjo una asimetría entre materia y antimateria”, subraya Roshan. Al ajustar la ventana temporal y térmica de estas interacciones, el modelo demuestra que la partícula olvidada influyó de forma directa, lo que permitió que la balanza se decantara definitivamente a favor de la materia visible.\nMás allá de aportar un marco teórico convincente para explicar nuestra propia existencia, el hallazgo abre nuevas vías para la verificación experimental de los primeros instantes del cosmos. Las drásticas alteraciones en la expansión temprana del universo provocadas por estos neutrinos pesados debieron de dejar marcas características e inconfundibles en el fondo de radiación.\n“El cambio dramático en la expansión temprana del cosmos deja huellas distintas pero detectables, por ejemplo en las ondas gravitacionales primordiales”, señala Sudipta Show, investigador del Instituto Indio de Tecnología de Kanpur y coautor del estudio. “Estas firmas en las ondas gravitacionales nos abren nuevas vías para desentrañar la evolución del universo temprano justo después del Big Bang”.\nEl trabajo propone así un marco conceptual revisado que redefine cómo las masas de los neutrinos interactúan con el campo de Higgs para dar forma a la física que determinó la estructura del universo actual."
+  },
+  "sha256": {
+    "titular": "ff4f8cadf4da5f4b64a7a6c53441f595d29d98d4394a44b5d89edf7091b8f4e2",
+    "entradilla": "98f9340e72ea9b70110d6bd2b63dcf148afc18e10d19533265d62b565c853972",
+    "cuerpo": "ce035d5801bf96a9327fae28c7b3177a82a5cfcee7fa3194e20b5fa49a4b85f7"
+  }
+}

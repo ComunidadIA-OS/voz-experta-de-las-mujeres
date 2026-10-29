@@ -1,0 +1,24 @@
+{
+  "id": "5d93a2c23827",
+  "url": "https://www.agenciasinc.es/Noticias/Logran-reprogramar-celulas-inmunitarias-contra-el-cancer-dentro-del-organismo",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-03-18T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "CRISPR"
+  ],
+  "secciones": [],
+  "fecha_consulta": "2026-10-27T01:49:52+00:00",
+  "campos": {
+    "titular": "Logran reprogramar células inmunitarias contra el cáncer dentro del organismo",
+    "entradilla": "Un nuevo método de edición genética basado en el sistema CRISPR ha permitido tratar con éxito casos de leucemia, mieloma múltiple y sarcoma en ratones, eliminando la necesidad de fabricar las terapias en laboratorios externos.",
+    "cuerpo": "La terapia con células CAR-T es sin duda una de las armas más potentes contra ciertos cánceres como la leucemia, pero aún requiere de un proceso complejo: los médicos extraen células inmunitarias del paciente, las envían a instalaciones especializadas para su reprogramación genética y, semanas después, las introducen de nuevo en el torrente sanguíneo. Este procedimiento, aunque revolucionario, puede costar cientos de miles de euros a los sistemas sanitarios, lo que deja fuera a muchos pacientes cuyo cáncer progresa durante esta espera.\nAhora, un equipo de científicos de la Universidad de California en San Francisco (UCSF) ha desarrollado un método para reprogramar estas células directamente dentro del cuerpo. El avance, publicado esta semana en la revista Nature, supone la primera vez que se logra integrar una secuencia larga de ADN en un lugar específico de las células T humanas sin haberlas extraído nunca del organismo.\n“Creo que esto es solo el comienzo de una gran ola de nuevas terapias que serán verdaderamente transformadoras y salvarán muchas vidas”, afirma Justin Eyquem, profesor asociado de medicina en la UCSF y autor principal del estudio. Según los investigadores, este enfoque de precisión superó al método estándar de integración aleatoria de ADN mediante virus, lo que supone un hito para la terapia génica.\nPara conseguir que la edición ocurriera solo donde era necesario, los científicos diseñaron un sistema de doble partícula que transporta la maquinaria CRISPR Cas9. La primera partícula está recubierta con anticuerpos que solo se unen a la proteína CD3, presente exclusivamente en la superficie de las células T. La segunda transporta el ADN que codifica el receptor CAR y las instrucciones para insertarlo en un punto exacto del genoma.\nEste nivel de control es fundamental. “Cuando se fabrican estas células fuera del cuerpo, se puede realizar un control de calidad exhaustivo”, explica Eyquem. “Dentro del organismo no podemos hacer eso, así que tuvimos que optimizar el enfoque de antemano para evitar alterar cualquier otra célula”.\nLos experimentos se realizaron en ratones con sistemas inmunitarios humanizados a los que se les indujo una leucemia agresiva. Una sola inyección del sistema de doble partícula eliminó todo rastro detectable de cáncer en casi todos los ejemplares en solo dos semanas. Además, las células CAR-T generadas in vivo mostraron una capacidad de proliferación superior a las fabricadas en laboratorio.\n“Lo que fue especialmente notable es que las células que estamos generando en el cuerpo parecen mejores que las que fabricamos en el laboratorio”, señala el investigador. “Creemos que al sacarlas del organismo pierden parte de su capacidad de autorrenovación, algo que no ocurre aquí”.\nAdemás del éxito en cánceres hematológicos como el mieloma múltiple, el tratamiento funcionó contra un tumor sólido de sarcoma, un tipo de cáncer que históricamente ha resistido a la terapia CAR-T. Aunque la tecnología todavía debe escalarse para su uso en humanos, los autores confían en que este avance democratice el acceso a estas terapias al eliminar la necesidad de infraestructuras complejas y reducir drásticamente los tiempos de espera."
+  },
+  "sha256": {
+    "titular": "571ab148d82b80bb8180f17f47887ad1b5c0c4733a829bf93eb3ef4d1eaf8a3c",
+    "entradilla": "2feaca44cdce22fb5b9c73388d2bc4548b1f04a6da817f27d0b7b8b8b6dcd7c0",
+    "cuerpo": "27831e68f81b7493f2cdbbec1812ea939ffc5f0f9375a113e96522ff89bc1dc6"
+  }
+}

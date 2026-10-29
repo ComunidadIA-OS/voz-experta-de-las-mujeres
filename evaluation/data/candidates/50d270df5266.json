@@ -1,0 +1,26 @@
+{
+  "id": "50d270df5266",
+  "url": "https://www.agenciasinc.es/Noticias/Es-suficiente-una-cuarentena-de-42-dias-La-evidencia-cientifica-sobre-el-hantavirus-dice-que-si",
+  "autoria": "María G. Dionis",
+  "fecha_publicacion": "2026-05-12T13:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Epidemiología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:45:24+00:00",
+  "campos": {
+    "titular": "¿Es suficiente una cuarentena de 42 días? La evidencia científica sobre el hantavirus dice que sí",
+    "entradilla": "Los pasajeros españoles del crucero donde se ha producido el brote estarán en cuarentena durante seis semanas. Esta cifra coincide con las recomendaciones de la Organización Mundial de la Salud y la evidencia científica de brotes anteriores.",
+    "cuerpo": "Los pasajeros españoles que estuvieron a bordo del MV Hondius afectado por el brote de hantavirus ya se encuentran en el Hospital Gómez Ulla en Madrid. Por el momento, solo uno de los catorce ha dado positivo en la primera PCR que se les ha hecho a su llegada, y ya ha sido trasladado a la Unidad de Aislamiento y Tratamiento de Alto Nivel (Uatan).\nEl resto, seguirán en aislamiento y vigilancia un total de 42 días, según confirmó en una entrevista en RNE el Secretario de Estado de Sanidad, Javier Padilla. Aunque en un principio se iba a contar el 6 de mayo como primer día, el Ministerio de Sanidad ha puntualizado que será el 10 de mayo, por lo que el periodo se extenderá hasta el 21 de junio. (*)\n“La cuarentena va a ser de 42 días, es lo que hemos estado trabajando con la Organización Mundial de la Salud”, declaró Padilla. La duración no está abierta a flexibilidades, aunque sí lo están la intensidad y la localización de esta, que Padilla sostiene que “podrán reevaluarse” según cómo se desarrolle la situación.\nLa Organización Mundial de la Salud (OMS) recomienda esas seis semanas de cuarentena tras la revisión de brotes anteriores de hantavirus, debido a que la contagiosidad alcanza su punto máximo en la fase inicial de la enfermedad y que no se puede descartar por completo la transmisión presintomática.\nAsí lo ha confirmado el director general de la OMS, Tedros Adhanom, en la rueda de prensa tras su encuentro con el presidente del Gobierno, Pedro Sánchez. “La recomendación de la OMS es que se les realice un seguimiento activo en un centro de cuarentena designado o en su domicilio durante 42 días a partir de la última exposición. Cualquier persona que presente síntomas debe ser aislada y tratada de inmediato”, ha declarado.\nVíctor Jiménez, catedrático de Microbiología en la Universidad Complutense de Madrid, afirma a SINC que esta cifra encaja con la evidencia sobre este virus.\n“Un estudio de 2006 de la Universidad del Desarrollo, en Chile, observó que el periodo de incubación del hantavirus podía ser de máximo 39 días, aunque la mediana era de 18”, señala Jiménez.\nEn el trabajo, publicado en la revista Emerging Infectious Diseases, se analizó 20 pacientes en Chile. Su periodo de incubación varió entre 7 y 39 días, aunque los autores subrayan que solo en cuatro pacientes fue de los días máximos y mínimos.\n“Es decir, estadísticamente la incubación es de dos semanas y media, lo que encaja bastante bien con lo que estamos viendo por el momento en este brote”, dice Jiménez. La incubación se contaría desde el momento del contacto de riesgo: en el caso de la transmisión natural, desde el momento en el que se produce el contacto con los roedores o sus heces, o si es un contagio entre personas, desde que se produce el contacto estrecho con una persona sintomática.\n“No hay ninguna evidencia de que se produzca transmisión desde una persona asintomática”, subraya el catedrático. Así, Jiménez destaca que “se está trabajando con exceso de celo y esto es positivo”.\nTedros Adhanom ha apuntado en sus declaraciones que “por el momento, no hay indicios de que estemos ante el inicio de un brote de mayor envergadura, aunque la situación podría cambiar”.\nEn total se han confirmado diez casos (después de que se descartase un positivo de un pasajero estadounidense), tres de ellos mortales. Todos los casos se han registrado entre los pasajeros o la tripulación del barco. (*)\n“Dado el largo periodo de incubación del virus, es posible que veamos más casos en las próximas semanas” entre los pasajeros del barco, ha añadido. Además, ha subrayado que la OMS seguirá colaborando estrechamente con los expertos de todos los países afectados."
+  },
+  "sha256": {
+    "titular": "f9f9939d6ce2ee1625d53b402472cc21dbbc98cef0d65a67ff31141ee53f3633",
+    "entradilla": "724f3b626ae37c9cbb178f0910ace008551e27f338f58ad56a02d84435c6ed4d",
+    "cuerpo": "8c1238e460c7d867d8945761b22cef59956a4ac0387edda45556ebc272b73eb5"
+  }
+}

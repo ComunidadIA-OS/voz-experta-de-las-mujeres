@@ -1,0 +1,442 @@
+{
+  "article_id": "27e27381969e",
+  "url": "https://www.agenciasinc.es/Noticias/La-evidencia-mas-antigua-de-peste-revela-brotes-letales-entre-cazadores-recolectores-hace-5-500-anos",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Eva_Mar",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-27T04:15:21+00:00",
+  "article_sha256": {
+    "titular": "3acae8ae695321a9c0413014efab29e0e824d654838c6755b67010097a8a08f1",
+    "entradilla": "95bc44a59cfe49470aa70be3018375e76d0e1d810c709cfac877237871ac21c5",
+    "cuerpo": "6d54026b49c5b933899da246f9a333066b9e1576b2b6456de2163af09e40e6b4"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Ruairidh Macleod",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigador de la Universidad de Oxford y primer autor del estudio.",
+      "gender_representation": "man",
+      "gender_evidence": "investigador de la Universidad de Oxford y primer autor del estudio.",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Jared Diamond",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "científico y divulgador estadounidense",
+      "gender_representation": "man",
+      "gender_evidence": "científico y divulgador estadounidense",
+      "work_role": "mentioned",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Es un hallazgo muy emocionante porque cuestiona realmente la idea de que la agricultura, el pastoreo y los primeros asentamientos fueron imprescindibles para crear las condiciones necesarias para grandes brotes de enfermedades”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Macleod recuerda a SINC que esta interpretación fue popularizada por el científico y divulgador estadounidense Jared Diamond y otros autores.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Los nuevos resultados, añade, muestran que incluso comunidades dispersas de cazadores-recolectores podían sufrir brotes graves.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Según Macleod, a medida que se obtengan más genomas antiguos de poblaciones prehistóricas podrían aparecer más ejemplos similares.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "El investigador considera que el hallazgo pone de relieve el carácter universal de las enfermedades zoonóticas y su capacidad para resultar devastadoras incluso en pequeños grupos de cazadores-recolectores.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Está muy claro que existe un exceso considerable de niños fallecidos, especialmente cuando se compara con otros yacimientos donde no encontramos evidencias de infecciones por peste”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "El autor destaca que los dos principales cementerios afectados muestran un pico de mortalidad precisamente en esas edades.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Según explica Macleod, esta ausencia llevó durante años a cuestionar si las primeras formas de la enfermedad podían provocar brotes tan graves como los documentados en épocas posteriores.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Macleod plantea que, si esta variante aumentaba la letalidad del patógeno pudo desaparecer posteriormente porque reducía demasiado la supervivencia de los huéspedes y dificultaba su transmisión.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "En cualquier caso, subraya que la combinación de este factor con otros genes de virulencia indica que “estas cepas prehistóricas eran tan capaces de resultar mortales como las históricas, aunque de una manera diferente”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Para Macleod, los resultados respaldan la idea de un origen asiático de la enfermedad y sugieren una historia más profunda de la peste en humanos de la que se conocía hasta ahora.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Según el investigador, la capacidad de estas cepas para provocar brotes graves entre cazadores-recolectores apunta a que la enfermedad ya afectaba a poblaciones humanas fuera del contexto de las sociedades agrícolas del Neolítico europeo, donde se habían encontrado hasta ahora las evidencias más antiguas.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Macleod recuerda que la peste es una zoonosis cuyo principal reservorio son los roedores y que ha saltado repetidamente a los seres humanos con consecuencias devastadoras.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "A su juicio, poder estudiar directamente uno de los primeros episodios conocidos de salto de la enfermedad desde animales a humanos permite comprender mejor cómo evolucionan los patógenos y por qué algunos resultan tan mortales.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Hoy vivimos en ciudades densamente pobladas e interconectadas por el transporte internacional. Estos cazadores-recolectores representaban justo lo contrario”, concluye.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Por eso ofrecen una especie de modelo de referencia para entender qué ocurre cuando una zoonosis emerge en poblaciones humanas y para comprender riesgos que siguen siendo relevantes en la actualidad”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793073868472",
+        "nombre": "Ruairidh Macleod",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1784,
+            "fin16": 1800,
+            "texto": "Ruairidh Macleod",
+            "inicio": 1784,
+            "fin": 1800
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2101,
+            "fin16": 2108,
+            "texto": "Macleod",
+            "inicio": 2101,
+            "fin": 2108
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2377,
+            "fin16": 2384,
+            "texto": "Macleod",
+            "inicio": 2377,
+            "fin": 2384
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3199,
+            "fin16": 3206,
+            "texto": "Macleod",
+            "inicio": 3199,
+            "fin": 3206
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4191,
+            "fin16": 4198,
+            "texto": "Macleod",
+            "inicio": 4191,
+            "fin": 4198
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4920,
+            "fin16": 4927,
+            "texto": "Macleod",
+            "inicio": 4920,
+            "fin": 4927
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5715,
+            "fin16": 5722,
+            "texto": "Macleod",
+            "inicio": 5715,
+            "fin": 5722
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 6325,
+            "fin16": 6332,
+            "texto": "Macleod",
+            "inicio": 6325,
+            "fin": 6332
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1802,
+          "fin16": 1870,
+          "texto": "investigador de la Universidad de Oxford y primer autor del estudio.",
+          "inicio": 1802,
+          "fin": 1870
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1539,
+            "fin16": 1767,
+            "texto": "“Es un hallazgo muy emocionante porque cuestiona realmente la idea de que la agricultura, el pastoreo y los primeros asentamientos fueron imprescindibles para crear las condiciones necesarias para grandes brotes de enfermedades”",
+            "tipo": "directa",
+            "inicio": 1539,
+            "fin": 1767
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2101,
+            "fin16": 2242,
+            "texto": "Macleod recuerda a SINC que esta interpretación fue popularizada por el científico y divulgador estadounidense Jared Diamond y otros autores.",
+            "tipo": "indirecta",
+            "inicio": 2101,
+            "fin": 2242
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2243,
+            "fin16": 2370,
+            "texto": "Los nuevos resultados, añade, muestran que incluso comunidades dispersas de cazadores-recolectores podían sufrir brotes graves.",
+            "tipo": "indirecta",
+            "inicio": 2243,
+            "fin": 2370
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2371,
+            "fin16": 2501,
+            "texto": "Según Macleod, a medida que se obtengan más genomas antiguos de poblaciones prehistóricas podrían aparecer más ejemplos similares.",
+            "tipo": "indirecta",
+            "inicio": 2371,
+            "fin": 2501
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2502,
+            "fin16": 2708,
+            "texto": "El investigador considera que el hallazgo pone de relieve el carácter universal de las enfermedades zoonóticas y su capacidad para resultar devastadoras incluso en pequeños grupos de cazadores-recolectores.",
+            "tipo": "indirecta",
+            "inicio": 2502,
+            "fin": 2708
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3008,
+            "fin16": 3190,
+            "texto": "“Está muy claro que existe un exceso considerable de niños fallecidos, especialmente cuando se compara con otros yacimientos donde no encontramos evidencias de infecciones por peste”",
+            "tipo": "directa",
+            "inicio": 3008,
+            "fin": 3190
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3215,
+            "fin16": 3337,
+            "texto": "El autor destaca que los dos principales cementerios afectados muestran un pico de mortalidad precisamente en esas edades.",
+            "tipo": "indirecta",
+            "inicio": 3215,
+            "fin": 3337
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4177,
+            "fin16": 4364,
+            "texto": "Según explica Macleod, esta ausencia llevó durante años a cuestionar si las primeras formas de la enfermedad podían provocar brotes tan graves como los documentados en épocas posteriores.",
+            "tipo": "indirecta",
+            "inicio": 4177,
+            "fin": 4364
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4920,
+            "fin16": 5114,
+            "texto": "Macleod plantea que, si esta variante aumentaba la letalidad del patógeno pudo desaparecer posteriormente porque reducía demasiado la supervivencia de los huéspedes y dificultaba su transmisión.",
+            "tipo": "indirecta",
+            "inicio": 4920,
+            "fin": 5114
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5115,
+            "fin16": 5335,
+            "texto": "En cualquier caso, subraya que la combinación de este factor con otros genes de virulencia indica que “estas cepas prehistóricas eran tan capaces de resultar mortales como las históricas, aunque de una manera diferente”.",
+            "tipo": "directa",
+            "inicio": 5115,
+            "fin": 5335
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5710,
+            "fin16": 5889,
+            "texto": "Para Macleod, los resultados respaldan la idea de un origen asiático de la enfermedad y sugieren una historia más profunda de la peste en humanos de la que se conocía hasta ahora.",
+            "tipo": "indirecta",
+            "inicio": 5710,
+            "fin": 5889
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5890,
+            "fin16": 6196,
+            "texto": "Según el investigador, la capacidad de estas cepas para provocar brotes graves entre cazadores-recolectores apunta a que la enfermedad ya afectaba a poblaciones humanas fuera del contexto de las sociedades agrícolas del Neolítico europeo, donde se habían encontrado hasta ahora las evidencias más antiguas.",
+            "tipo": "indirecta",
+            "inicio": 5890,
+            "fin": 6196
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 6325,
+            "fin16": 6496,
+            "texto": "Macleod recuerda que la peste es una zoonosis cuyo principal reservorio son los roedores y que ha saltado repetidamente a los seres humanos con consecuencias devastadoras.",
+            "tipo": "indirecta",
+            "inicio": 6325,
+            "fin": 6496
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 6497,
+            "fin16": 6725,
+            "texto": "A su juicio, poder estudiar directamente uno de los primeros episodios conocidos de salto de la enfermedad desde animales a humanos permite comprender mejor cómo evolucionan los patógenos y por qué algunos resultan tan mortales.",
+            "tipo": "indirecta",
+            "inicio": 6497,
+            "fin": 6725
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 6726,
+            "fin16": 6895,
+            "texto": "“Hoy vivimos en ciudades densamente pobladas e interconectadas por el transporte internacional. Estos cazadores-recolectores representaban justo lo contrario”, concluye.",
+            "tipo": "directa",
+            "inicio": 6726,
+            "fin": 6895
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 6896,
+            "fin16": 7097,
+            "texto": "“Por eso ofrecen una especie de modelo de referencia para entender qué ocurre cuando una zoonosis emerge en poblaciones humanas y para comprender riesgos que siguen siendo relevantes en la actualidad”.",
+            "tipo": "directa",
+            "inicio": 6896,
+            "fin": 7097
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1802,
+          "fin16": 1870,
+          "texto": "investigador de la Universidad de Oxford y primer autor del estudio.",
+          "inicio": 1802,
+          "fin": 1870
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793073908943",
+        "nombre": "Jared Diamond",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2212,
+            "fin16": 2225,
+            "texto": "Jared Diamond",
+            "inicio": 2212,
+            "fin": 2225
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2173,
+          "fin16": 2211,
+          "texto": "científico y divulgador estadounidense",
+          "inicio": 2173,
+          "fin": 2211
+        },
+        "citas": [],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2173,
+          "fin16": 2211,
+          "texto": "científico y divulgador estadounidense",
+          "inicio": 2173,
+          "fin": 2211
+        },
+        "participacion": "aparece"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 399
+  }
+}

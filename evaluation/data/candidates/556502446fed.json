@@ -1,0 +1,26 @@
+{
+  "id": "556502446fed",
+  "url": "https://www.agenciasinc.es/Noticias/Un-sistema-basado-en-IA-mejora-la-estimacion-legal-de-la-edad-en-contextos-forenses-y-migratorios",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-14T11:10:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:55:32+00:00",
+  "campos": {
+    "titular": "Un sistema basado en IA mejora la estimación legal de la edad en contextos forenses y migratorios",
+    "entradilla": "El nuevo modelo de inteligencia artificial se entrenó con una muestra de 10 739 radiografías panorámicas dentales, correspondientes a personas de entre 14 y 26 años. La herramienta obtuvo un error medio absoluto de solo 1,12 años y una precisión del 88,38 % al determinar si una persona supera o no el umbral de los 18 años.",
+    "cuerpo": "Un equipo internacional, en el que participa el profesor e investigador de la Universidad de Oviedo Stefano De Luca, ha desarrollado un sistema basado en inteligencia artificial capaz de estimar la edad legal de una persona con un alto nivel de exactitud.\nLos resultados del proyecto de investigación resultan especialmente relevantes en contextos como la migración irregular, la trata de personas, los matrimonios forzados o la explotación infantil, donde determinar si una persona es menor de edad puede marcar la diferencia entre recibir protección o quedar expuesta a situaciones de riesgo. Los hallazgos de este trabajo han sido publicados en la revista Applied Soft Computing.\nEl modelo se entrenó con una muestra de 10 739 radiografías panorámicas dentales (ortopantomografías), correspondientes a personas de entre 14 y 26 años, bien equilibrada entre hombres y mujeres y procedentes de instituciones de doce países de cuatro continentes.\nSegún los autores, esta diversidad garantiza la robustez del sistema ante diferencias geográficas y biológicas. El método utiliza una red neuronal profunda denominada LAENet para estimar la edad de forma continua mediante un enfoque de regresión. Con este procedimiento, el sistema obtuvo un error medio absoluto de solo 1,12 años y una precisión del 88,38 % al determinar si una persona supera o no el umbral de los 18 años.\nUno de los principales retos en los procesos de estimación de edad es evitar que menores sean clasificados erróneamente como adultos, con las graves consecuencias que ello puede tener para su protección legal. Por este motivo, el nuevo sistema incorpora intervalos de predicción que aportan un rango de edad con niveles definidos de confianza estadística.\nEl modelo permite aplicar parámetros más conservadores que prioricen la defensa del menor. Por ejemplo, utilizando un nivel de seguridad del 95% en la estimación del límite inferior de la edad, el 98,2% de los menores es clasificado correctamente como tal.\nEste enfoque se alinea con las directrices europeas de inteligencia artificial confiable y cumple los principios de no discriminación, transparencia, bienestar social y supervisión humana. De este modo, la tecnología se presenta como una herramienta de apoyo a la toma de decisiones por parte de las autoridades judiciales y no como un sustituto del criterio de los profesionales de los ámbitos clínico y forense.\nEl sistema fue validado además con muestras de poblaciones que no formaban parte del entrenamiento inicial. Incluso en estos casos, mantuvo altos niveles de rendimiento, con márgenes de error de entre 1,21 y 1,47 años y precisiones que oscilaron entre el 83 % y el 92 % en la clasificación de la mayoría de edad. Los autores señalan que, a día de hoy, se trata del primer método basado en inteligencia artificial que demuestra de forma completa su aplicabilidad en contextos forenses reales, así como su compatibilidad con los protocolos europeos de estimación de edad."
+  },
+  "sha256": {
+    "titular": "ed196e94a918e561417aca3e8fdf14d9ab2d3b1db2bbe949ce374ffb57352f4b",
+    "entradilla": "13b23722aaaa1c2cb6b3c5130df96ce617c8d5d5f093e9cf7824facead0e1bcd",
+    "cuerpo": "6a28dff17dc42a0dec030b1727a0b24fdb337760703b3826422955357e0cada1"
+  }
+}

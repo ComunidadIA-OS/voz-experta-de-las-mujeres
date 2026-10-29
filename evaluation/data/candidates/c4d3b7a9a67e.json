@@ -1,0 +1,26 @@
+{
+  "id": "c4d3b7a9a67e",
+  "url": "https://www.agenciasinc.es/Noticias/La-IA-ya-puede-manipular-encuestas-sin-ser-detectada-segun-un-estudio",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2025-11-18T10:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Tecnología de los ordenadores"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:58:53+00:00",
+  "campos": {
+    "titular": "La IA ya puede manipular encuestas sin ser detectada, según un estudio",
+    "entradilla": "Un experimento demuestra que los bots basados en inteligencia artificial imitan a la perfección a los humanos, sortean todos los controles de calidad y pueden alterar resultados electorales y científicos.",
+    "cuerpo": "Las encuestas de opinión pública, un instrumento clave para comprender e intentar predecir el comportamiento humano, se enfrentan a una amenaza sin precedentes. Un nuevo estudio realizado por investigadores del Dartmouth College (Estados Unidos) revela que la inteligencia artificial es capaz de corromper sondeos a gran escala, ofreciendo respuestas indistinguibles de las humanas y superando todas las pruebas diseñadas para detectar automatismos.\nLos resultados, publicados en la revista Proceedings of the National Academy of Sciences, muestran hasta qué punto la infraestructura de los estudios de opinión es vulnerable. En siete encuestas nacionales previas a las elecciones de 2024 en EE UU, bastaron entre 10 y 52 respuestas falsas generadas por IA —a cinco céntimos cada una— para invertir el resultado previsto.\nLa amenaza no es meramente interna. Según el estudio, actores extranjeros podrían explotar este punto débil con facilidad: los bots funcionan incluso cuando se programan en ruso, mandarín o coreano, produciendo respuestas en un inglés o castellano impecable.\n“Ya no podemos confiar en que las respuestas de las encuestas provengan de personas reales” , alerta Sean Westwood, autor del estudio, profesor asociado de Gobierno en Dartmouth y director del Polarization Research Lab.\nPara evaluar la fragilidad de las encuestas en línea, Westwood desarrolló una herramienta simple de IA, una especie de “encuestado sintético autónomo” construido a partir de un texto de solo 500 palabras. En 43 000 pruebas, el bot superó el 99,8 % de los controles de atención, no cometió errores en los rompecabezas lógicos y ocultó por completo su naturaleza no humana. Además, ajustó sus respuestas en función de la demografía asignada, como emplear un lenguaje más sencillo cuando se le atribuía menor nivel educativo.\n“No son bots rudimentarios”, explica Westwood. “Razonan cada pregunta y se comportan como personas cuidadosas, haciendo que los datos parezcan totalmente legítimos” .\nCuando se instruyó al sistema para favorecer a demócratas o republicanos, la aprobación presidencial osciló desde el 34 % hasta el 98 % o el 0 %. El apoyo en el llamado generic ballot pasó del 38 % republicano a valores tan extremos como el 97 % o el 1 %.\nLas implicaciones van más allá de la política electoral. Miles de estudios revisados por pares en psicología, economía o salud pública se basan en encuestas para comprender conductas, medir riesgos o anticipar tendencias. “Si los datos están contaminados por bots, la IA puede envenenar todo el ecosistema del conocimiento”, advierte el investigador.\nEl incentivo económico es evidente. Mientras los participantes humanos suelen cobrar alrededor de 1,50 dólares por encuesta, los bots pueden completarlas gratis o por apenas cinco céntimos. Un estudio de 2024 ya detectó que un 34 % de los encuestados había utilizado IA para responder al menos una pregunta abierta.\nWestwood sometió su herramienta a todos los métodos de detección actualmente en uso, sin éxito: ninguno logró identificar que las respuestas procedían de un sistema automatizado. Ante esta situación, el autor reclama mayor transparencia a las empresas encuestadoras y sistemas que verifiquen que los participantes son personas reales.\n“Necesitamos nuevas formas de medir la opinión pública para un mundo con IA”, concluye. “La tecnología necesaria para verificar la participación humana ya existe; solo falta voluntad para implementarla. Si actuamos ahora, podremos preservar la integridad de las encuestas y la función democrática que cumplen”."
+  },
+  "sha256": {
+    "titular": "f015b6a5e0794b9adf924594ae4f48e307238c78648446590280282604af85a5",
+    "entradilla": "5924969c9adfefb1f097ce92ae7d838f0ef41f63fc1ddc2c122013f2b5205622",
+    "cuerpo": "9934c7e8f10472e1add72ef3ec6dfcefd1c81c10b26c096af67adf3607035a6d"
+  }
+}

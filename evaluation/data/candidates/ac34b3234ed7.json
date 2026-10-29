@@ -1,0 +1,26 @@
+{
+  "id": "ac34b3234ed7",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-una-esponja-marina-que-se-alimenta-de-sus-bacterias",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-09-11T12:24:00+02:00",
+  "fuente_y_derechos": "Fuente: MNCN | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:33:59+00:00",
+  "campos": {
+    "titular": "Descubren una esponja marina que se alimenta de sus bacterias",
+    "entradilla": "Han identificado un mecanismo hasta ahora desconocido en Halichondria panicea. Durante el desarrollo de sus embriones, algunas células capturan y digieren microorganismos simbiontes que viven en su organismo. El hallazgo revela una función inesperada de estas comunidades microbianas y apunta a que esta estrategia nutricional podría ser muy antigua en la evolución animal.",
+    "cuerpo": "Las esponjas marinas se comen a sus propios microbios para alimentar a los embriones, un mecanismo hasta ahora desconocido que aporta evidencias sobre la relación que existe entre los seres vivos complejos y los microorganismos. Este descubrimiento sugiere que los microbiomas tienen un papel mucho más activo de lo que se pensaba en el desarrollo vital de sus hospedadores.\nEn el trabajo, publicado en la revista Microbiome, han examinado las interacciones que se producen entre la esponja marina Halichondria panicea y su microbioma a lo largo de su ciclo reproductivo. Se trata de una investigación desarrollada por un equipo internacional que lidera la investigadora del Museo Nacional de Ciencias Naturales (MNCN-CSIC), Marta Turon.\n“El estudio exhaustivo del ciclo reproductivo de Halichondria panicea nos ha permitido comprobar que, para sostener el desarrollo de sus embriones, la esponja recurre a sus propias bacterias simbiontes como recurso nutricional, una evidencia de la compleja relación que existe entre animales y microorganismos”, explica Turon.\n“Confirmar que los microbiomas desempeñan un papel mucho más activo en la reproducción y el desarrollo animal de lo que se pensaba hasta ahora abre todo un campo de investigación de las interacciones entre los microorganismos y las esponjas, pero también de esas interacciones con organismos más complejos como nuestra propia especie”, puntualiza Ana Riesgo, investigadora del MNCN que también participa en el estudio.\nEsta investigación, basada las imágenes de microscopía electrónica, secuenciación genética, análisis transcriptómicos y cuantificación de comunidades microbianas, revela un mecanismo más complejo que la relación de mutuo beneficio que proporciona a diferentes organismos vivir de manera asociada, la simbiosis.\nComo ocurre con otras especies animales, las esponjas albergan comunidades de microorganismos que desempeñan funciones esenciales relacionadas con la nutrición, el metabolismo, la defensa y también durante la reproducción.\nCandidatus Halichondribacter symbioticus es una bacteria que vive en simbiosis con las esponjas pasando de una generación a otra. Los resultados muestran por primera vez que, cuando comienza el proceso de génesis de los embriones, algunas células de la esponja engullen y digieren esas bacterias simbiontes.\nCon el desarrollo embrionario hay una disminución significativa de la bacteria a la vez que se activaban genes relacionados con la respuesta inmune, el reconocimiento bacteriano y los mecanismos celulares implicados en la fagocitosis y digestión de microorganismos”, explica Turon. Las imágenes muestran cómo las células nodrizas capturan y digieren agregados bacterianos situados cerca de los embriones.\n“Las bacterias simbiontes no solo ayudan a la esponja mientras están vivas, sino que también pueden convertirse en una reserva nutricional clave para sostener el desarrollo embrionario, una etapa especialmente demandante para cualquier ser vivo”, explica Riesgo.\nHaber descubierto este proceso en esponjas, uno de los grupos animales más antiguos que existe, sugiere que la utilización de microorganismos simbiontes como fuente de nutrientes durante el desarrollo podría representar una estrategia evolutiva antigua, presente desde las primeras etapas de la evolución animal.\n“Comprender cómo interactúan animales y microorganismos amplía el conocimiento sobre el funcionamiento de los microbiomas, sistemas que también son fundamentales para la salud humana, la agricultura o el mantenimiento de los ecosistemas”, termina Turon."
+  },
+  "sha256": {
+    "titular": "ea3f9e171b69898adf97508376beb6c46e851471fba9df1a80c9f69fe051e261",
+    "entradilla": "4d6ec264583cbc839d2c4443f141b6862a7126d77efa10a406bd7e78df494e83",
+    "cuerpo": "17c705d384f7a415d0296a98c4d22621cc318c8702ea118f0c44b8f896bf7972"
+  }
+}

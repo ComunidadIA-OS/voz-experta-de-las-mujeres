@@ -1,0 +1,399 @@
+{
+  "article_id": "af44d6b6dbb2",
+  "url": "https://www.agenciasinc.es/Noticias/Pantallas-para-los-ninos-en-verano-la-importancia-de-mantener-las-rutinas",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:23+00:00",
+  "article_sha256": {
+    "titular": "6c9b522cb414af39aa5820255997d0d1f2df9a80383dcff01051595d72466587",
+    "entradilla": "17b742bef56798125dafaf985c1d207ddb26081a68e0895b55e0cbdf0e73d6af",
+    "cuerpo": "8adeed2eb5e3f6258481dcdf4d40aef9d86888e39c273e92561452daca1022cf"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Carlos Valls",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "profesor e investigador principal del Grupo ‘Psicología y Neuropsicología aplicada’ de la Universidad Católica San Antonio de Murcia (UCAM)",
+      "gender_representation": "man",
+      "gender_evidence": "profesor e investigador principal",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Ocurre igual que los fines de semana, pero amplificado, porque se juntan varios factores como la falta de rutina y de hábitos. Además, en ocasiones existe un menor control parental, algo que se puede ver agravado en familias con falta de recursos personales”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Cuando hablamos del verano, en muchas ocasiones bajamos la guardia en varios aspectos de nuestras vidas. Tampoco debemos culpabilizarnos demasiado cuando cometemos algún exceso, pero cuando hablamos de niños, lo más beneficioso es intentar mantener hábitos y rutinas durante todo el año. Esto evitará posibles desajustes en el uso del móvil, que luego habrá que reequilibrar”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La tecnología es una herramienta con muchos beneficios y forma parte de nuestro día a día. Sin embargo, muchas de las aplicaciones que se utilizan están diseñadas precisamente para proporcionar recompensas inmediatas y de tipo pasivo; es decir, gratificación rápida a cambio de muy poco esfuerzo”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "egún apunta Valls, el problema en sí no es solo el uso que el menor hace de las pantallas, sino cómo está creado el contenido que consume en ellas.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“El sistema de recompensa es muy sensible en estas edades y lleva al adolescente a buscar experiencias gratificantes e inmediatas. En cambio, el sistema de control, asociado principalmente a la corteza prefrontal, todavía no está desarrollado del todo y no es capaz de inhibir o, dicho de otro modo, de detener ese deseo casi irrefrenable. Este sería uno de los motivos generales que explicarían estas conductas”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Valls hace hincapié en que no existe una cifra mágica,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "algunos expertos señalan que nada antes de los 2 años; entre los 2 y los 5 máximo una hora, pero supervisada y, hasta los 12, unas dos horas. Otros son más restrictivos y desaconsejan su uso antes de los 6 años. Para los adolescentes, la clave sería más bien el impacto funcional que tiene en ellos, no solo a la hora de responder a tareas y obligaciones, sino en la repercusión que puede tener en su descanso y desarrollo”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Y asegura que la clave está entonces en el equilibrio.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Cuando desaparecen las rutinas, disminuye la supervisión y, en ocasiones, se reduce también el sostén social o familiar del menor; es fácil que ese disfrute pasivo e inmediato termine ocupando un espacio desproporcionado en su tiempo libre”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Frente a quienes califican esta respuesta como un síndrome de abstinencia, Valls pide cautela:",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“En la gran mayoría de los casos es aburrimiento o una mezcla de sentimientos negativos totalmente normales cuando se interrumpe una actividad placentera”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Hablar de abstinencia en adicciones conductuales es complejo y tendría que limitarse a casos clínicos muy graves. Lo que vemos en los menores es simplemente frustración por la pérdida de un reforzador muy potente e inmediato al que se han acostumbrado”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Cabe destacar, tal y como apunta el investigador de la UCAM, el valor del aburrimiento para el desarrollo infantil",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "para despertar la creatividad de los niños, ellos mismos encontrarán alternativas que les gusten, teniendo los padres un papel importante intentando promover la participación en otras actividades. E insisto: promover, no imponer”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "cuando el niño deja de responder a sus responsabilidades, por pequeñas que sean, o a las cosas que anteriormente le generaban interés, como los planes familiares o con amigos; es decir, cuando vemos que simplemente ya no disfruta con este tipo de actividades”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Negociar no es sencillo, y menos con niños, por lo que hay que afrontarlo con paciencia y flexibilidad”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "quien asegura que es importante involucrar al niño en la toma de decisiones. “",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "Si no lo disfruta o lo percibe como una imposición, será difícil conseguir el efecto esperado”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Para Valls, las claves son mantener unos horarios y rutinas, pactar el tiempo de uso evitando imposiciones, dejar las pantallas fuera del dormitorio y limitar su uso al menos una hora antes de dormir",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“sobre todo, dar ejemplo”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793122560124",
+        "nombre": "Carlos Valls",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 575,
+            "fin16": 587,
+            "texto": "Carlos Valls",
+            "inicio": 575,
+            "fin": 587
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 589,
+          "fin16": 622,
+          "texto": "profesor e investigador principal",
+          "inicio": 589,
+          "fin": 622
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 307,
+            "fin16": 567,
+            "texto": "“Ocurre igual que los fines de semana, pero amplificado, porque se juntan varios factores como la falta de rutina y de hábitos. Además, en ocasiones existe un menor control parental, algo que se puede ver agravado en familias con falta de recursos personales”,",
+            "tipo": "directa",
+            "inicio": 307,
+            "fin": 567
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 845,
+            "fin16": 1222,
+            "texto": "“Cuando hablamos del verano, en muchas ocasiones bajamos la guardia en varios aspectos de nuestras vidas. Tampoco debemos culpabilizarnos demasiado cuando cometemos algún exceso, pero cuando hablamos de niños, lo más beneficioso es intentar mantener hábitos y rutinas durante todo el año. Esto evitará posibles desajustes en el uso del móvil, que luego habrá que reequilibrar”,",
+            "tipo": "directa",
+            "inicio": 845,
+            "fin": 1222
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1545,
+            "fin16": 1843,
+            "texto": "“La tecnología es una herramienta con muchos beneficios y forma parte de nuestro día a día. Sin embargo, muchas de las aplicaciones que se utilizan están diseñadas precisamente para proporcionar recompensas inmediatas y de tipo pasivo; es decir, gratificación rápida a cambio de muy poco esfuerzo”,",
+            "tipo": "directa",
+            "inicio": 1545,
+            "fin": 1843
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1397,
+            "fin16": 1544,
+            "texto": "egún apunta Valls, el problema en sí no es solo el uso que el menor hace de las pantallas, sino cómo está creado el contenido que consume en ellas.",
+            "tipo": "indirecta",
+            "inicio": 1397,
+            "fin": 1544
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1991,
+            "fin16": 2404,
+            "texto": "“El sistema de recompensa es muy sensible en estas edades y lleva al adolescente a buscar experiencias gratificantes e inmediatas. En cambio, el sistema de control, asociado principalmente a la corteza prefrontal, todavía no está desarrollado del todo y no es capaz de inhibir o, dicho de otro modo, de detener ese deseo casi irrefrenable. Este sería uno de los motivos generales que explicarían estas conductas”,",
+            "tipo": "directa",
+            "inicio": 1991,
+            "fin": 2404
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2413,
+            "fin16": 2467,
+            "texto": "Valls hace hincapié en que no existe una cifra mágica,",
+            "tipo": "indirecta",
+            "inicio": 2413,
+            "fin": 2467
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2474,
+            "fin16": 2898,
+            "texto": "algunos expertos señalan que nada antes de los 2 años; entre los 2 y los 5 máximo una hora, pero supervisada y, hasta los 12, unas dos horas. Otros son más restrictivos y desaconsejan su uso antes de los 6 años. Para los adolescentes, la clave sería más bien el impacto funcional que tiene en ellos, no solo a la hora de responder a tareas y obligaciones, sino en la repercusión que puede tener en su descanso y desarrollo”.",
+            "tipo": "directa",
+            "inicio": 2474,
+            "fin": 2898
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2899,
+            "fin16": 2953,
+            "texto": "Y asegura que la clave está entonces en el equilibrio.",
+            "tipo": "indirecta",
+            "inicio": 2899,
+            "fin": 2953
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2954,
+            "fin16": 3196,
+            "texto": "“Cuando desaparecen las rutinas, disminuye la supervisión y, en ocasiones, se reduce también el sostén social o familiar del menor; es fácil que ese disfrute pasivo e inmediato termine ocupando un espacio desproporcionado en su tiempo libre”.",
+            "tipo": "directa",
+            "inicio": 2954,
+            "fin": 3196
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3387,
+            "fin16": 3481,
+            "texto": "Frente a quienes califican esta respuesta como un síndrome de abstinencia, Valls pide cautela:",
+            "tipo": "indirecta",
+            "inicio": 3387,
+            "fin": 3481
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3482,
+            "fin16": 3637,
+            "texto": "“En la gran mayoría de los casos es aburrimiento o una mezcla de sentimientos negativos totalmente normales cuando se interrumpe una actividad placentera”.",
+            "tipo": "directa",
+            "inicio": 3482,
+            "fin": 3637
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3638,
+            "fin16": 3892,
+            "texto": "“Hablar de abstinencia en adicciones conductuales es complejo y tendría que limitarse a casos clínicos muy graves. Lo que vemos en los menores es simplemente frustración por la pérdida de un reforzador muy potente e inmediato al que se han acostumbrado”,",
+            "tipo": "directa",
+            "inicio": 3638,
+            "fin": 3892
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3902,
+            "fin16": 4016,
+            "texto": "Cabe destacar, tal y como apunta el investigador de la UCAM, el valor del aburrimiento para el desarrollo infantil",
+            "tipo": "indirecta",
+            "inicio": 3902,
+            "fin": 4016
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4140,
+            "fin16": 4370,
+            "texto": "para despertar la creatividad de los niños, ellos mismos encontrarán alternativas que les gusten, teniendo los padres un papel importante intentando promover la participación en otras actividades. E insisto: promover, no imponer”,",
+            "tipo": "directa",
+            "inicio": 4140,
+            "fin": 4370
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4591,
+            "fin16": 4851,
+            "texto": "cuando el niño deja de responder a sus responsabilidades, por pequeñas que sean, o a las cosas que anteriormente le generaban interés, como los planes familiares o con amigos; es decir, cuando vemos que simplemente ya no disfruta con este tipo de actividades”.",
+            "tipo": "directa",
+            "inicio": 4591,
+            "fin": 4851
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5073,
+            "fin16": 5178,
+            "texto": "“Negociar no es sencillo, y menos con niños, por lo que hay que afrontarlo con paciencia y flexibilidad”,",
+            "tipo": "directa",
+            "inicio": 5073,
+            "fin": 5178
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5200,
+            "fin16": 5278,
+            "texto": "quien asegura que es importante involucrar al niño en la toma de decisiones. “",
+            "tipo": "indirecta",
+            "inicio": 5200,
+            "fin": 5278
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5278,
+            "fin16": 5373,
+            "texto": "Si no lo disfruta o lo percibe como una imposición, será difícil conseguir el efecto esperado”.",
+            "tipo": "directa",
+            "inicio": 5278,
+            "fin": 5373
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5374,
+            "fin16": 5573,
+            "texto": "Para Valls, las claves son mantener unos horarios y rutinas, pactar el tiempo de uso evitando imposiciones, dejar las pantallas fuera del dormitorio y limitar su uso al menos una hora antes de dormir",
+            "tipo": "indirecta",
+            "inicio": 5374,
+            "fin": 5573
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5576,
+            "fin16": 5602,
+            "texto": "“sobre todo, dar ejemplo”.",
+            "tipo": "directa",
+            "inicio": 5576,
+            "fin": 5602
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 589,
+          "fin16": 728,
+          "texto": "profesor e investigador principal del Grupo ‘Psicología y Neuropsicología aplicada’ de la Universidad Católica San Antonio de Murcia (UCAM)",
+          "inicio": 589,
+          "fin": 728
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 159
+  }
+}

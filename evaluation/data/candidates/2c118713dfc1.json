@@ -1,0 +1,26 @@
+{
+  "id": "2c118713dfc1",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-una-especie-del-Triasico-antepasada-del-cocodrilo-pero-bipeda-y-desdentada",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-27T12:10:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:59+00:00",
+  "campos": {
+    "titular": "Descubren una especie del Triásico antepasada del cocodrilo, pero bípeda y desdentada",
+    "entradilla": "Tras veinte años de excavaciones, un grupo de investigadores ha desenterrado en Nuevo México un reptil que vivió hace más de 200 millones de años y que han denominado ‘cocodrilo de la bruja’. Su apariencia era como la de un avestruz, con pequeños brazos y una boca sin dientes en forma de pico.",
+    "cuerpo": "Durante el Triásico (hace entre 251 y 201 millones de años), los animales empezaron a diversificarse en una gran variedad de formas. Un ejemplo de ello fue el Labrujasuchus expectatus, un antepasado de los cocodrilos que andaba a dos patas y cuya apariencia era como la de ave corpulenta.\nDescrito en Journal of Vertebrate Paleontology, este espécimen se parecía mucho a los ornitomimosaurios, un grupo de dinosaurios bípedos del Cretácico con formas corporales similares a los avestruces. El único problema es que no procedía de esta línea aviar, sino al grupo de los arcosaurios que dieron lugar a los cocodrilos actuales, famosos por sus cuatro patas y su larga dentadura.\nEste animal, hallado en la formación Ghost Ranch en Nuevo México (EE UU), se desplazaba por el mundo a dos patas, tenía brazos diminutos y una boca sin dientes en forma de pico. Los investigadores creen que fue el miembro más reciente de los Shuvosauridae, un grupo de antiguos parientes de los cocodrilos con una estructura corporal similar a la de los dinosaurios terópodos de brazos pequeños que también eran bípedos.\nEn concreto, el Labrujasuchus expectatus –también denominado ‘cocodrilo de la bruja’– fue una de las cinco especies identificadas en el yacimiento y su hallazgo permitió llenar el vacío de los Shuvosaurinae descubiertos en la región anteriormente.\nEste descubrimiento fue tan inesperado que la segunda parte de su nombre recibió el apelativo de ‘expectatus’. La primera –Labrujasuchus– hizo referencia al ‘Rancho de las brujas’ (antiguo nombre español para ‘Ghost Ranch’) y la palabra griega suchus que significa cocodrilo.\n“Cuenta la leyenda que los rancheros locales bautizaron así el lugar para mantener a la gente alejada de las operaciones de robo de ganado de los hermanos Archuleta”, narra el coautor del trabajo y conservador del Instituto de Dinosaurios del Museo de Historia Natural del Condado de los Ángeles, Nate Smith.\n“Queríamos hacer un guiño a esa historia tan pintoresca y rendir un homenaje al increíble papel que esta zona ha desempeñado en la ampliación de nuestra visión del Triásico”, advierte.\nLos paleontólogos expresan que, aunque este periodo de la historia parezca tan diferente, las estructuras corporales de aquellas criaturas desaparecidas resuenan en algunos animales modernos que ahora están en peligro de extinción. Por ello, comprender esta etapa permitiría entender y proteger mejor nuestro presente, concluyen."
+  },
+  "sha256": {
+    "titular": "7c787b37eedbd1b8d2410132abbf5bc815a8589bff8fbc30f5c11c14afa941e8",
+    "entradilla": "3dc6c2239e9f09256cc1c2e25dcc64dcca068cc69440f9a0850868fc4717b546",
+    "cuerpo": "676f0aa540fb2dd9357e5838453ec24300e41b5a4f6106a80705f16be8d5576b"
+  }
+}

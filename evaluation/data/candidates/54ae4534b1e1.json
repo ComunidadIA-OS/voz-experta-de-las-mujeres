@@ -1,0 +1,26 @@
+{
+  "id": "54ae4534b1e1",
+  "url": "https://www.agenciasinc.es/Noticias/Pueden-las-bacterias-sobrevivir-en-Marte",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-06T09:26:00+02:00",
+  "fuente_y_derechos": "Fuente: CAB (CSIC-INTA) | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:32:12+00:00",
+  "campos": {
+    "titular": "¿Pueden las bacterias sobrevivir en Marte?",
+    "entradilla": "Un estudio liderado por investigadores del Centro de Astrobiología describe la respuesta fisiológica y metabólica de las células vegetativas de la bacteria ‘Bacillus subtilis’ tras ser sometida a una atmósfera simulada de la superficie de Marte durante cinco días.",
+    "cuerpo": "Bacillus subtilis es una bacteria ampliamente conocida debido a su gran resistencia a condiciones limitantes para la vida, como las temperaturas y presiones extremas, la radiación ultravioleta o la desecación, entre otras, lo que le ha convertido en un microorganismo modelo en el campo de la astrobiología.\nTiene la capacidad de formar esporas, unas estructuras muy resistentes en las que encapsulan su material genético, que permanecen metabólicamente inactivas esperando a tener condiciones ambientales favorables para volver a su forma original o ‘vegetativa’.\nEstá demostrado que las esporas de este microorganismo son capaces de sobrevivir durante un día a condiciones similares a las que hay en la superficie de Marte, pero no se había estudiado hasta ahora la respuesta de las células vegetativas en dichas condiciones durante tiempos de exposición más largos.\nPor ello, un grupo de investigadores del Centro de Astrobiología (CAB), CSIC-INTA y del Instituto Nacional de Técnica Aeroespacial (INTA) han expuesto a Bacillus subtilis a condiciones ambientales semejantes a las encontradas en la superficie del Planeta Rojo durante cinco días utilizando la Cámara de simulación MARTE. Los resultados se publican en la revista Scientific Reports.\nLa Cámara MARTE, diseñada y construida también por investigadores del CAB, permite reproducir cualquier atmósfera, real o hipotética, aunque está especialmente preparada para la simulación de las condiciones ambientales del planeta Marte.\nLa cámara simula en un único sistema los principales fenómenos ambientales como la temperatura, presión, radiación y composición gaseosa, además de recrear los ciclos día-noche teniendo en cuenta la humedad del ambiente. En este caso, las condiciones de la atmósfera simulada fueron: 6 horas a 10ºC durante el periodo diurno y 18 horas a -15ºC durante la noche, a 20 mbar de presión y con una composición gaseosa de 100% CO2.\nÚnicamente el 12% de la población de Bacillus subtilis sobrevivió después de los cinco días de exposición a la atmósfera marciana, pero tras analizar los datos obtenidos de los experimentos, se encontraron varios puntos clave para la adaptación de estas bacterias a un ambiente tan hostil como lo es la superficie de Marte.\nEn primer lugar, se detectó un incremento en la temperatura del cultivo bacteriano de 4ºC más respecto a la temperatura establecida en la cámara MARTE, compatible con un proceso denominado ‘termogénesis microbiana’ mediante el cual las bacterias son capaces de generar calor residual por reacciones metabólicas, permitiéndoles sobrevivir en ambientes con temperaturas muy bajas.\nAsimismo, se detectó la sobreexpresión de varias proteínas relacionadas con la fermentación, un proceso de obtención de energía que algunas bacterias son capaces de llevar a cabo cuando hay ausencia de oxígeno. Todas estas proteínas contribuyen a la generación de calor como producto del flujo metabólico, sugiriendo que las bacterias han sobrevivido durante cinco días a la atmósfera simulada de Marte utilizando la fermentación y la termogénesis como estrategias de supervivencia.\nEn segundo lugar, se comprobó mediante microscopía electrónica de barrido (SEM) que la mayoría de la fracción superviviente de la población no había formado esporas, sino que se habían mantenido en su forma vegetativa y estaban metabólicamente activas, aunque sí que se detectaron cambios morfológicos en las células, como que se hicieron más pequeñas y parecían más rugosas.\nA pesar de ser un ambiente extremadamente hostil y limitante para la vida tal y como la conocemos, este estudio evidencia que las células de Bacillus subtilis son capaces de sobrevivir y mantenerse metabólicamente activas bajo las condiciones ambientales marcianas durante al menos cinco días gracias a estrategias de supervivencia como la termogénesis y la fermentación."
+  },
+  "sha256": {
+    "titular": "4dda01ce5af637dc5d2a547999f6752690f85ff05fd173998124cc0c08671980",
+    "entradilla": "79bd9e7c243167e89bd48370bbb70acad3eee4a323bca8f758686beb9571975d",
+    "cuerpo": "3118722085785f0d586a508cdc9712785464668f2ab8f67af40edbd5f080de62"
+  }
+}

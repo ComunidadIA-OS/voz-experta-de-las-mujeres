@@ -1,0 +1,26 @@
+{
+  "id": "ec18093d318e",
+  "url": "https://www.agenciasinc.es/Noticias/El-Gobierno-aprueba-crear-el-Observatorio-para-la-Prevencion-del-Suicidio",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-31T13:05:00+02:00",
+  "fuente_y_derechos": "Fuente: Ministerio de Sanidad | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:48:50+00:00",
+  "campos": {
+    "titular": "El Gobierno aprueba crear el Observatorio para la Prevención del Suicidio",
+    "entradilla": "El Consejo de Ministros da luz verde a este nuevo órgano que permitirá reforzar la coordinación, el análisis y el seguimiento de las políticas públicas de prevención del suicidio en España. Según los últimos datos consolidados del Instituto Nacional de Estadística, el suicidio se mantiene como la segunda causa de muerte externa, con un total de 3 953 fallecimientos en un año.",
+    "cuerpo": "El Consejo de Ministros ha aprobado la creación del Observatorio para la Prevención del Suicidio, un órgano colegiado de carácter interministerial adscrito al Ministerio de Sanidad, a través del Comisionado de Salud Mental.\nLa creación del Observatorio se enmarca en los compromisos recogidos en el Plan de acción para la prevención del suicidio 2025-2027, que por primera vez cuenta con financiación específica (17,83 millones de euros) y un conjunto estructurado de actuaciones. Este nuevo organismo permitirá consolidar y dar coherencia al conjunto de proyectos impulsados en este ámbito, así como optimizar el uso de los recursos disponibles.\nEn España, según los últimos datos del Instituto Nacional de Estadística (INE) de 2024, el suicidio se consolidó como la segunda causa de muerte externa, con un total de 3 953 fallecimientos (2 902 hombres y 1 051 mujeres). A nivel mundial, la OMS reporta que más de 700 000 personas fallecen anualmente por esta causa, y es la tercera causa de muerte entre jóvenes de 15 a 29 años.\nEl suicidio es un fenómeno complejo y multicausal que requiere intervenciones sostenidas y coordinadas desde múltiples ámbitos. En este contexto, el Observatorio nace con el objetivo de mejorar la información disponible, favorecer el análisis conjunto y facilitar la toma de decisiones en políticas públicas.\nEl plan contempla, entre otras medidas, la adaptación y refuerzo de los servicios de urgencias en salud mental, con la incorporación de planes de seguridad individualizados. Asimismo, se están impulsando los planes autonómicos de prevención, favoreciendo su desarrollo y alineación en todo el territorio.\nEntre las principales líneas de actuación destacan la formación de agentes clave para la intervención temprana, el impulso de programas comunitarios y el desarrollo de estrategias de posvención dirigidas a familiares y entornos afectados.\nEn conjunto, este esfuerzo permite avanzar hacia un modelo coordinado y centrado en las personas, capaz de ofrecer una respuesta más eficaz, integral y humana frente a este problema social y de salud pública."
+  },
+  "sha256": {
+    "titular": "0c42684510e16995c4a4b4bcfcfcf29ba829e3bc6dcb92f35bd8d224d484ee67",
+    "entradilla": "0087b40208eba0c985c56f5b3ba9b2e74b2d6891549c5f8a3f2b417c58902a1a",
+    "cuerpo": "03a7e884cfee957032e582fa689b09ae2ff083ec3c8d20cfeddc96064814b69f"
+  }
+}

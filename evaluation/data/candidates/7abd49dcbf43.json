@@ -1,0 +1,26 @@
+{
+  "id": "7abd49dcbf43",
+  "url": "https://www.agenciasinc.es/Noticias/Tus-ojos-bailan-con-la-musica-incluso-cuando-no-te-das-cuenta",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-11-19T10:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:58:47+00:00",
+  "campos": {
+    "titular": "Tus ojos bailan con la música (incluso cuando no te das cuenta)",
+    "entradilla": "Un estudio revela que los ojos parpadean al compás de la música de forma involuntaria, aunque solo si se escucha de forma atenta, sin distracciones. Esto ocurre incluso en personas sin formación musical. Se trataría de una propiedad universal del cerebro humano.",
+    "cuerpo": "Nuestro cuerpo responde a la música de más formas de las que pensamos. No solo marcamos el ritmo con el pie o movemos la cabeza en un concierto: también parpadeamos al compás sin darnos cuenta.\nUn estudio publicado en PLOS Biology y liderado por la investigadora Yi Du, de la Academia China de Ciencias, ha identificado una nueva forma de sincronización entre la música y el cuerpo humano. El fenómeno se asocia a la sincronización auditivo-motora, el mecanismo cerebral que nos permite acompasar nuestros movimientos al ritmo. Ahora, los investigadores han descubierto que los parpadeos —un comportamiento totalmente involuntario— también se alinean con la música.\nMás de 100 participantes escucharon piezas de música clásica occidental con un tempo constante mientras los científicos registraban sus parpadeos y su actividad cerebral. El patrón fue inequívoco: los parpadeos coincidían con el pulso musical y, al mismo tiempo, las ondas cerebrales se sincronizaban con él.\nPara descartar que se tratara de una reacción a melodías reconocibles, los investigadores reprodujeron las mismas piezas al revés, y el efecto persistió. Incluso ritmos aislados de un solo tono provocaron una sincronización similar.\nSin embargo, esa coordinación desapareció cuando los participantes tuvieron que concentrarse en otra tarea —detectar la aparición de un punto rojo en la pantalla—, lo que indica que este “bailar con los ojos” ocurre solo cuando prestamos atención al sonido, aunque no seamos conscientes de ello.\nNinguno de los voluntarios era músico, lo que sugiere que se trata de una propiedad universal del cerebro humano, no de un aprendizaje derivado de la formación musical. Los autores creen que este comportamiento puede ofrecer una nueva vía para estudiar cómo el cerebro procesa el ritmo y cómo se conectan la audición, el movimiento y la atención.\nLa investigación también posibilita aplicaciones clínicas: algunas enfermedades neurológicas asociadas a dificultades del movimiento se benefician de terapias musicales basadas en la sincronización auditivo-motora. Medir los parpadeos, un gesto fácil de registrar y libre de esfuerzo, podría convertirse en una herramienta diagnóstica o de seguimiento.\n“Un gesto diminuto, como un parpadeo, revela una coordinación profunda entre oír y actuar”, resume Yi Du. “A veces, los pequeños comportamientos cuentan grandes historias sobre cómo funciona el cerebro”."
+  },
+  "sha256": {
+    "titular": "727e94a239e09bc5d4c068350418605aa0f896febefb8a5bc4548d2880ef85b8",
+    "entradilla": "594b349970cb9c4a77331657deb604fa7434f735e72a936402e03ffcdc35cd79",
+    "cuerpo": "fe93ff7d013bc82dd3ff5b4309c84a067ef5b3eb977e7eaf53daf9f27fa1234d"
+  }
+}

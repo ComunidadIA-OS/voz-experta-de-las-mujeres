@@ -1,0 +1,26 @@
+{
+  "id": "80c1511a7058",
+  "url": "https://www.agenciasinc.es/Noticias/Esto-es-todo-lo-que-se-sabe-sobre-el-asteroide-2024-YR4",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-16T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: ESA | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:52:40+00:00",
+  "campos": {
+    "titular": "Esto es todo lo que se sabe sobre el asteroide 2024 YR4",
+    "entradilla": "Fue descubierto el 27 de diciembre de 2024 gracias al telescopio del Sistema de Alerta de Impactos Terrestres de Asteroides en Chile y mide entre 53 y 67 metros de diámetro. Las últimas observaciones, confirmadas por la ESA el 5 de marzo 2026, revelan que no impactará contra el satélite.",
+    "cuerpo": "El asteroide 2024 YR4 no impactará contra la Luna en diciembre de 2033, según nuevas observaciones realizadas por el telescopio James Webb.\nLa Agencia Espacial Europea –ESA por sus siglas en ingles– apuntaba a que había un 4 % de posibilidades de que colisionara contra el satélite natural e investigaciones previas descartaron un impacto contra la Tierra en marzo del año pasado.\nAhora, un equipo internacional de astrónomos ha confirmado que esa probabilidad se reduce a cero y que, en cambio, pasará de forma segura a más de 20 000 km de distancia del satélite.\nEl asteroide posee entre 53 y 67 metros de diámetro y fue descubierto el 27 de diciembre de 2024 gracias al telescopio del Sistema de Alerta de Último Impacto Terrestre de Asteroides –ATLAS en inglés– en Río Hurtado, Chile.\nPoco después de su hallazgo, los sistemas automáticos determinaron que dicho objeto contaba con un 3 % de probabilidades de impactar contra la Tierra en 2034, lo que causaría graves daños. Como resultado, 2024 YR4 se posicionó en la lista de asteroides peligrosos de la ESA y captó la atención de todo el mundo al convertirse en el primer objeto espacial en desencadenar una respuesta planetaria internacional.\nLas observaciones previas, realizadas con el Telescopio espacial James Webb, permitieron medir con precisión su trayectoria alrededor del sol y en marzo de 2025 descartaron un posible impacto terrestre. Ahora también descartan una posible colisión contra la Luna.\nEl asteroide fue descubierto dos días después de que atravesara su posición más cercana a la Tierra. No se detectó porque se acercó desde el lado diurno del planeta, es decir desde una región del cielo oculta por la luz del Sol.\nEsta parte del cielo está oculta a la mirada de telescopios ópticos terrestres y representa un ángulo muerto para los sistemas de alerta de asteroides.\nUn precedente de este punto ciego se vio el 15 de febrero de 2013, cuando el meteoro Chelyabinsk, un asteroide de 20 metros y 13 000 toneladas, atravesó la atmósfera sobre los Montes Urales (Rusia) a mediodía. La explosión dañó miles de edificios, y aproximadamente 1 500 personas resultaron heridas por fragmentos de vidrio."
+  },
+  "sha256": {
+    "titular": "a9eb7210ba511ca09f08beca46276d845a8b5e6d56453c498163a42297573053",
+    "entradilla": "edbedb7cfaf93a4c10233991280fccf9f4a587088062e35af6b8cd889bc84f96",
+    "cuerpo": "83dc5f4fb528c8e55b679d93ab7b861fe6691136e0cf38df1cc02870e795861c"
+  }
+}

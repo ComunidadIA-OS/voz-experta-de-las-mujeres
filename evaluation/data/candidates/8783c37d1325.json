@@ -1,0 +1,26 @@
+{
+  "id": "8783c37d1325",
+  "url": "https://www.agenciasinc.es/Noticias/El-origen-de-los-camarones-sugiere-una-nueva-hipotesis-de-la-evolucion-de-la-biodiversidad",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-03T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:23+00:00",
+  "campos": {
+    "titular": "El origen de los camarones sugiere una nueva hipótesis de la evolución de la biodiversidad",
+    "entradilla": "El trabajo, liderado por el CSIC, ofrece un modelo alternativo a las hipótesis biogeográficas clásicas y sugiere que dispersión a larga distancia y la plasticidad ecológica actuaron como motores de biodiversidad.",
+    "cuerpo": "Un estudio internacional liderado por el Consejo Superior de Investigaciones Científicas (CSIC), organismo adscrito al Ministerio de Ciencia, Innovación y Universidades, ha demostrado que, tras su origen en el Pacífico hace 125 millones de años, los camarones se expandieron a través de múltiples rutas.\nEl trabajo, publicado en Journal of Biogeography, ofrece un modelo alternativo a las hipótesis biogeográficas clásicas, basadas exclusivamente en barreras físicas y tectónicas, y demuestra que la dispersión a larga distancia y la plasticidad ecológica (la capacidad de cambiar) han sido motores fundamentales para generar la actual biodiversidad pantropical de estos crustáceos.\n“El hallazgo cambia drásticamente la comprensión de cómo estos organismos colonizaron el planeta, ya que tradicionalmente se pensaba que estos crustáceos habían surgido en el antiguo Mar de Tetis (un corredor marino que conectaba los océanos Índico y Atlántico durante el Mesozoico)”, señala Mónica Núñez-Flores, investigadora del CSIC en el Instituto de Ciencias Marinas de Andalucía. “Sin embargo, nuestra investigación revela que el ancestro común más reciente de estos camarones se originó en el Pacífico Oriental durante el Cretácico Inferior hace aproximadamente 125 millones de años”, añade.\nPara construir este viaje de millones de años, el equipo científico empleó una filogenia calibrada con fósiles utilizando marcadores moleculares y modelos estadísticos de espacio continuo. Esto significa que, a diferencia de los métodos tradicionales que dividen el mapa en regiones fijas, este enfoque estadístico de espacio continuo permitió rastrear las rutas de dispersión con una resolución espacial sin precedentes, analizando más de 34 000 registros de 155 especies actuales.\n“En nuestro viaje en el tiempo pudimos ver que, tras su origen en el Pacífico, los camarones se expandieron a través de diferentes rutas que incluyen cruces transatlánticos entre América y África y colonizaciones masivas hacia Oceanía y el sudeste asiático”, explica la investigadora.\n“Asimismo, identificamos una aceleración en las tasas de dispersión cerca del límite Cretácico-Paleógeno (la gran extinción que acabó con los dinosaurios), posiblemente debido a la reorganización de nichos ecológicos y la expansión de hábitats costeros”, añade.\n“Además, y relacionado con el hallazgo clave de la dispersión a larga distancia basada en la plasticidad ecológica, el estudio sugiere que el tipo de desarrollo de las larvas, que varía en duración según si se desarrollan en el océano o en agua dulce, no limitó su capacidad de dispersión a largo plazo. Lo que ha moldeado su distribución actual es su tolerancia ecológica y las oportunidades históricas de movimiento”, expone Enrique González Ortegón, investigador del CSIC en el ICMAN."
+  },
+  "sha256": {
+    "titular": "aa212280649b6d4f730bc52086c25478065215150b25969dc3139e9bebd51a71",
+    "entradilla": "f0a366e2322f0a87c50fb26a933be5c8b783bdc1f3a2d44cebd21eed8c3fdca6",
+    "cuerpo": "c4809a30c2e53deee8809a5fbf4c7b986a7915f0803e9f425f46811e34f4cc34"
+  }
+}

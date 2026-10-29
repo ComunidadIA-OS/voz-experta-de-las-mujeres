@@ -1,0 +1,26 @@
+{
+  "id": "e8c767f68079",
+  "url": "https://www.agenciasinc.es/Noticias/Un-antibiotico-de-los-anos-80-es-eficaz-en-infecciones-actuales-por-enterobacterias",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-13T12:40:00+02:00",
+  "fuente_y_derechos": "Fuente: Instituto de Biomedicina de Sevilla (IBiS) | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:39:38+00:00",
+  "campos": {
+    "titular": "Un antibiótico de los años 80 es eficaz en infecciones actuales por enterobacterias",
+    "entradilla": "La investigación, en la que participan 29 hospitales españoles, abre la vía al uso de este ‘antibiótico olvidado’ como alternativa al tratamiento actual para el que las bacterias han generado resistencia.",
+    "cuerpo": "Una investigación coordinada por el Hospital Universitario Virgen Macarena ha demostrado la eficacia de la temocilina para el tratamiento de las infecciones por enterobacterias multirresistentes, un grupo de bacterias que se encuentran de forma natural en el intestino pero que pueden generar graves enfermedades gastrointestinales al propagarse fuera del tracto digestivo.\nSe trata de un antibiótico creado en los años 80 y actualmente no comercializado en España. Los resultados han sido publicados en la revista The Lancet, y ha merecido incluso una editorial dedicada en la misma revista.\nLos fármacos de elección inicial para combatir estas infecciones por enterobacterias son las cefalosporinas (una familia de antibióticos de amplio espectro). En el caso de bacterias resistentes a estos antibióticos, el tratamiento se realiza con otro grupo de fármacos denominado carbapenemas. Si bien el aumento en la incidencia de las infecciones por enterobacterias ha supuesto que los carbapenémicos se utilicen frecuentemente de forma que las bacterias se han vuelto resistentes a estos fármacos de último recurso.\nEn este contexto, surge el ensayo clínico sobre la eficacia de la temocilina para tratar las actuales infecciones generadas por enterobacterias (proyecto Astarté) en el que han participado 29 hospitales españoles. Hasta el momento, ningún otro fármaco había demostrado ser eficaz en el tratamiento de las infecciones al mismo nivel que las carbapenemas.\nEl equipo de investigación plantea la necesidad de identificar alternativas terapéuticas que permitan reducir el consumo de carbapenémicos. Así, se han puesto en marcha varios estudios sobre ‘antibióticos olvidados’, fármacos producidos y utilizados hace algunas décadas y actualmente en desuso.\nEn el trabajo, se ha analizado la respuesta del tratamiento con antibióticos en 334 pacientes (167 fueron tratados con temocilina y 167 con carbapenémicos). En ambos grupos se han obtenido resultados similares, lo que demuestra la eficacia de la temocilina como alternativa eficaz y segura al mismo nivel que los carbapenémicos.\nEste ensayo clínico ha sido liderado por el Servicio de Enfermedades Infecciosas del Hospital Universitario Virgen Macarena y en el entorno de CIBERINFEC del Instituto de Salud Carlos III (que aglutina a diez hospitales de los 29 participantes) y con la participación además del grupo de Investigación Clínica de Enfermedades Infecciosas del IBIS."
+  },
+  "sha256": {
+    "titular": "31254920520fb53a114dd4c1233b829ce93ca686cf579551b257b4d008290e46",
+    "entradilla": "0f505fd9f6f57e8b389b85b9c88e484547cf8e6cdb4d8e5cd068bc0b5825425c",
+    "cuerpo": "2f0a64ec6950636e603ec8cb720eeed5ad556cf98242d8ba217f7d32e013a180"
+  }
+}

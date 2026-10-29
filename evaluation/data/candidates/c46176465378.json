@@ -1,0 +1,26 @@
+{
+  "id": "c46176465378",
+  "url": "https://www.agenciasinc.es/Noticias/Los-asistentes-de-IA-podrian-acelerar-el-descubrimiento-cientifico-segun-dos-estudios",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-19T20:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:44:50+00:00",
+  "campos": {
+    "titular": "Los asistentes de IA podrían acelerar el descubrimiento científico, según dos estudios",
+    "entradilla": "Equipos de Google DeepMind y de FutureHouse presentan en Nature dos sistemas de inteligencia artificial capaces de colaborar en distintas fases de la investigación científica, desde la generación de hipótesis hasta el análisis de resultados experimentales. Sus autores subrayan que están diseñados para trabajar junto a científicos humanos, no para sustituirlos.",
+    "cuerpo": "La creciente complejidad de la ciencia exige combinar conocimientos muy especializados con la capacidad de conectar hallazgos procedentes de disciplinas distintas. En ese contexto, dos nuevos sistemas de inteligencia artificial descritos esta semana en Nature exploran una posibilidad hasta ahora limitada: automatizar buena parte del ciclo de investigación científica mediante agentes de IA coordinados entre sí.\nAmbas herramientas funcionan como plataformas multiagente, es decir, conjuntos de elementos especializados capaces de asumir tareas concretas dentro del proceso científico. Entre ellas figuran la búsqueda bibliográfica, la formulación de hipótesis, la propuesta de experimentos, el análisis de datos y su reformulación a partir de los resultados obtenidos.\nEl primero de estos sistemas, denominado Co-Scientist, ha sido desarrollado por Google DeepMind sobre Gemini 2.0. Sus autores lo describen como un “motor de pensamiento científico estructurado” pensado para colaborar con investigadores en distintas disciplinas. Aunque el trabajo se centra en aplicaciones biomédicas, el sistema se plantea como una herramienta generalista.\nEn las pruebas realizadas, Co-Scientist generó hipótesis para reutilizar medicamentos ya aprobados contra la leucemia mieloide aguda, un cáncer agresivo de la sangre. Algunos de los compuestos sugeridos mostraron actividad en experimentos con líneas celulares. El sistema también propuso posibles combinaciones terapéuticas, identificó nuevas dianas epigenéticas para fibrosis hepática y reprodujo de forma independiente una hipótesis aún no publicada sobre mecanismos de resistencia antimicrobiana.\nSegún el artículo, el sistema organiza debates internos entre agentes de IA, clasifica hipótesis mediante torneos comparativos y las refina de forma iterativa. Sus autores sostienen que este enfoque mejora la calidad de las propuestas conforme aumenta el tiempo de razonamiento computacional.\nEl segundo sistema, Robin, ha sido desarrollado por la organización sin ánimo de lucro FutureHouse y utiliza modelos OpenAI o4-mini y Claude 3.7. Está orientado específicamente a la biología experimental y combina agentes dedicados a revisar literatura científica con otros centrados en el análisis automatizado de datos biológicos.\nComo demostración, Robin se aplicó a la búsqueda de tratamientos para la degeneración macular seca asociada a la edad, una de las principales causas de ceguera en países desarrollados. El sistema propuso aumentar la capacidad fagocítica de determinadas células de la retina y sugirió varios candidatos terapéuticos para poner a prueba en el laboratorio.\nEntre ellos figuraba ripasudil, un inhibidor ROCK (quinasa asociada a Rho, una proteína reguladora intracelular) aprobado en Japón para glaucoma que nunca se había propuesto para esta enfermedad ocular. Los experimentos mostraron un aumento de la fagocitosis en células retinianas tratadas con este compuesto. Robin también sugirió análisis posteriores mediante secuenciación de ARN que permitieron identificar posibles mecanismos moleculares implicados y nuevas dianas terapéuticas.\nLos autores destacan que todos los pasos del proceso —desde la generación de hipótesis hasta los análisis estadísticos y figuras incluidas en el artículo— fueron producidos por el sistema de IA dentro de un esquema “lab-in-the-loop”, en el que los científicos supervisan y validan experimentalmente los resultados.\nAmbos trabajos insisten en que estas herramientas no eliminan la necesidad de validación experimental ni sustituyen el juicio humano. Las propuestas terapéuticas descritas requieren todavía estudios preclínicos y ensayos clínicos antes de poder considerarse tratamientos viables.\nPese a esas limitaciones, los estudios muestran cómo los sistemas multiagente podrían acelerar tareas especialmente costosas en tiempo y síntesis bibliográfica. En el caso de Robin, los autores estiman que el sistema revisó más de 800 artículos en unos 30 minutos y redujo de forma drástica el tiempo humano necesario para completar un ciclo completo de investigación."
+  },
+  "sha256": {
+    "titular": "a494226089ffa4d720a88f3f16be6c2090a0d9ea601ac4bbd2f3fc3d1beb7242",
+    "entradilla": "8e57ee77b25a2f9cc0923ab00574cec67ed5d1b5954db03e2971493cda3cd4a7",
+    "cuerpo": "842f0b4a8e2c5cc72dc2971756631c74c359a56257d64405988d13bae5eecf77"
+  }
+}

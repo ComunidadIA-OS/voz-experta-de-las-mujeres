@@ -1,0 +1,26 @@
+{
+  "id": "343852ba8b35",
+  "url": "https://www.agenciasinc.es/Noticias/Desarrollan-un-sistema-de-IA-para-detectar-una-de-las-infecciones-sexuales-mas-frecuentes-del-mundo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-08T10:19:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:58+00:00",
+  "campos": {
+    "titular": "Desarrollan un sistema de IA para detectar una de las infecciones sexuales más frecuentes del mundo",
+    "entradilla": "La tricomoniasis es una patología infradiagnosticada que, si no se detecta a tiempo, puede provocar enfermedad inflamatoria pélvica, infertilidad o parto prematuro, además de que puede aumentar el riesgo de adquirir otras ITS. Esta nueva herramienta desarrollada por centros españolas podría facilitar su diagnóstico.",
+    "cuerpo": "Un equipo científico liderado por el Hospital Universitario Príncipe de Asturias (HUPA) ha desarrollado desarrollo de un sistema de inteligencia artificial (IA) capaz de detectar la presencia de Trichomonas vaginalis, uno de los microorganismos responsables de la infección de transmisión sexual (ITS) no viral más frecuente en el mundo, la tricomoniasis.\nEl trabajo, realizado junto al grupo de investigación Computación en Salud y Sistemas Inteligentes de la Universidad de Alcalá (UAH) y publicado en la revista Diagnostics, demuestra que la aplicación de inteligencia artificial sobre imágenes microscópicas obtenidas durante la práctica clínica habitual puede mejorar la capacidad diagnóstica de una técnica ampliamente implantada en los laboratorios (la tinción de Gram), sin necesidad de incorporar nuevas pruebas ni modificar los circuitos asistenciales.\nPara validar el sistema, el Servicio de Microbiología del Hospital Universitario Príncipe de Asturias llevó a cabo una prueba independiente con 380 imágenes que utilizó como el estándar de referencia para que el equipo de ingenieros de la UAH entrenara al algoritmo para detectar los casos positivos y validar este modelo de inteligencia artificial.\nLos resultados mostraron un elevado rendimiento diagnóstico del sistema, que identificó correctamente el 93 % de los casos positivos. Estos datos implican que el sistema podría integrarse en el futuro como una herramienta de apoyo a la decisión clínica o de cribado en los laboratorios de microbiología, ayudando a los profesionales a identificar casos dudosos y favoreciendo un diagnóstico más precoz, especialmente en entornos donde el acceso a técnicas moleculares es limitado.\nPara los investigadores, uno de los principales valores de esta tecnología es que la información extraída en la preparación microscópica rutinaria y que resulta difícil de reconocer visualmente para muchos microbiólogos, en una información diagnóstica de apoyo para el personal sanitario. De este modo, el sistema podría servir para seleccionar con mayor rapidez los casos sospechosos que necesitan una evaluación adicional o una prueba molecular de confirmación.\nAhora el siguiente paso será validar el sistema en estudios prospectivos y en diferentes entornos asistenciales, todo ello con el objetivo de facilitar una futura incorporación de este sistema a la práctica clínica habitual.\nAdemás, este estudio muestra el potencial de la inteligencia artificial para ayudar en el diagnóstico de enfermedades y, sobre todo, para aportar un valor añadido al análisis de muestras de laboratorio. Gracias a la IA, una misma muestra de laboratorio podrá en el futuro ofrecernos más información y, sobre todo, una información más precisa."
+  },
+  "sha256": {
+    "titular": "109e813de9e9fc25380c48893c1531a0815cfd1a2534f36e87ed109ece211e6b",
+    "entradilla": "fd33345588ff942337c5bfa5ece11bc1117071e1629200e0c096f4ac29f5e617",
+    "cuerpo": "4b4f7b3131256369fcd0564ba2a3d821bfb072a8da8f71c376c2cc42b67485a2"
+  }
+}

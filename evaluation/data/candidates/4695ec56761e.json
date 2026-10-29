@@ -1,0 +1,26 @@
+{
+  "id": "4695ec56761e",
+  "url": "https://www.agenciasinc.es/Noticias/El-microbioma-una-posible-clave-en-la-evolucion-de-los-peces-hacia-la-vida-terrestre",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-16T09:47:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:27+00:00",
+  "campos": {
+    "titular": "El microbioma, una posible clave en la evolución de los peces hacia la vida terrestre",
+    "entradilla": "Un estudio del Museo Nacional de Ciencias Naturales analiza cómo las comunidades de microorganismos asociadas a la piel varían entre especies con distintos grados de adaptación a los ambientes terrestres, aportando nuevas pistas sobre los procesos evolutivos que permitieron a algunos vertebrados colonizar nuevos hábitats fuera del agua.",
+    "cuerpo": "¿Cómo se produjo el paso de la vida desde los océanos a la colonización terrestre? ¿Jugaron los microorganimos un papel en ese proceso de terrestrialización? Estas son algunas de las preguntas a las que intenta responder el equipo de investigación del Museo Nacional de Ciencias Naturales (MNCN-CSIC) en su último trabajo que acaban de publicar en FEMS Microbiology Letters.\nEn él, sugieren que las comunidades microbianas que viven sobre los animales (microbioma) pudieron haber sido relevantes en el proceso de colonización del medio terrestre.\nEn concreto, analizaron los microbiomas de la piel de unos peces muy especiales que tienen modos de vida anfibios, revelando un patrón inesperado: las comunidades bacterianas cutáneas de los peces difieren de las comunidades de las rocas donde habitan y esta divergencia refleja muy bien la preferencia de las distintas especies de peces por hábitats cada vez más terrestres.\nPara llegar a esta hipótesis, el equipo ha utilizado métodos genéticos de secuenciación masiva de códigos de barras bacterianos, que, comparados con una base de datos de referencia, permiten estimar la composición de especies bacterianas de la piel de cada especie de pez, así como en las rocas sobre las que habitan o el agua marina circundante.\nSe han comparado tres especies evolutivamente cercanas pertenecientes a la familia de los blénidos que conviven en una misma playa de Guam, en el archipiélago de las islas Marianas en el Pacífico. El blénido de puntos azulados, Blenniella caudolineta, es totalmente acuático y vive siempre bajo el agua, el saltarín de las rocas de labios crenulados, Praealticus labrovitattus, es una especie anfibia con preferencia por las charcas intermareales (la franja intermedia entre la marea baja y alta) y en ocasiones se encuentra fuera del agua.\nPor último, la blenia saltarina del Pacífico, Alticus arnoldorum, se considera una especie de pez terrestre, puesto que vive sobre las rocas costeras, por encima del nivel del agua, durante casi toda su vida adulta.\n“Nuestros resultados indican que mientras las comunidades microbianas que hay sobre las rocas donde viven las tres especies son bastante parecidas entre sí, el microbioma de difiere entre las especies de pez. Para ser más exactos, el microbioma cutáneo del pez acuático es muy similar al de las rocas sobre las que vive; el microbioma del pez anfibio diverge notablemente del de las rocas; y la divergencia más pronunciada ocurre en el saltarín de las rocas del Pacífico, la especie de blénido terrestre”, explica el investigador del MNCN Iker Irisarri.\n“Uno de los resultados inesperados fue encontrar una mayor prevalencia de bacterias fotosintéticas (cianobacterias) en la piel del saltarín de las rocas terrestre. Creemos que las cianobacterias, que al igual que las plantas utilizan la luz solar para generar su propio alimento y de paso liberan oxígeno a la atmósfera, podrían estar beneficiando al saltarín. Es posible que el oxígeno liberado por las cianobacterias le ayude en la respiración cutánea o que éstas generen ciertos compuestos que protejan al pez del sol, aunque de momento son solo especulaciones que necesitan ser testadas”, continúa.\nEste nuevo estudio sugiere que las presiones selectivas específicas de cada hábitat a lo largo del gradiente intermareal definido por la alta y baja marea pueden estar determinando los microbiomas cutáneos de los peces que lo habitan. Estos datos apuntan a que el microbioma podría contribuir a las adaptaciones ecológicas y fisiológicas que permiten la vida anfibia y terrestre en estos peces tan especiales.\n“La hipótesis que manejamos es que las comunidades microbianas pudieron ser muy relevantes en el salto evolutivo que supone pasar del medio acuático al terrestre, pero es necesario continuar experimentando y recabando datos genómicos para determinar si realmente existe una relación simbiótica beneficiosa entre bacterias y peces que les haya permitido adaptarse mejor al medio terrestre”, termina Irisarri."
+  },
+  "sha256": {
+    "titular": "0c49a932cee7e9a660b00beb76bab2bdaeea782adeb11ecb30707de859939ab6",
+    "entradilla": "5bb15bbbfacb6dd80d1542fd5c5efe7bd4eb49d3cdac4aefccdfa9d0555d8322",
+    "cuerpo": "8dd13adfe8f0997b85a867b6c835bcd4f68c4c62cb684880cb102c00348eb040"
+  }
+}

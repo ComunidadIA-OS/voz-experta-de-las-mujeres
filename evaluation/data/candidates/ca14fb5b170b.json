@@ -1,0 +1,26 @@
+{
+  "id": "ca14fb5b170b",
+  "url": "https://www.agenciasinc.es/Noticias/Reconstruyen-con-datos-sismologicos-como-se-produjo-la-riada-mortal-en-Nepal-y-Tibet",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-14T10:46:00+02:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:41+00:00",
+  "campos": {
+    "titular": "Reconstruyen con datos sismológicos cómo se produjo la riada mortal en Nepal y Tíbet",
+    "entradilla": "Un estudio internacional, con participación española, ofrece nueva información sobre la secuencia completa de acontecimientos que condujo al desastre del 26 de agosto en la frontera entre Nepal y China. El trabajo revela que se produjeron varios eventos sísmicos en los días anteriores.",
+    "cuerpo": "El 26 de agosto de 2026, un colapso masivo de la ladera norte del Tsangbu Ri, en la cordillera de Langtang, situada en la frontera entre China y Nepal, desencadenó una devastadora inundación en el valle del Trishuli. El evento, ampliamente documentado mediante vídeos compartidos en redes sociales, causó miles de víctimas y daños materiales de gran magnitud.\nAhora, un estudio internacional publicado en la revista Seismica reconstruye la secuencia de este acontecimiento excepcional utilizando datos registrados por redes sísmicas regionales. Liderado por un equipo de Nepal, cuenta con la participación del Consejo Superior de Investigaciones Científicas (CSIC), organismo adscrito al Ministerio de Ciencia, Innovación y Universidades.\n“Para caracterizar la secuencia de los hechos, el equipo científico examinó observaciones sismológicas a partir de estaciones sísmicas. Dada la magnitud del desastre, los sismómetros de Nepal y de China detectaron claramente las vibraciones generadas por el desprendimiento de la ladera” señala Jordi Díaz, investigador del CSIC en Geociencias Barcelona (GEO3BCN).\nDe acuerdo con estos datos, el equipo investigador explica en la publicación que el colapso principal ocurrió a las 02:52:16 UTC del 26 de agosto de 2026 (08:37:16, hora de Nepal y 2083/05/10 del calendario nepalí) y que la energía liberada fue equivalente a la de un terremoto de magnitud 5,2. El volumen de material movilizado se estima en aproximadamente 100 millones de metros cúbicos, compuesto principalmente por roca y material glaciar.\nLos datos también permitieron seguir el avance de la gigantesca inundación posterior, que sorprendió tanto a las personas situadas en la frontera entre Tíbet y Nepal como a los habitantes del valle del Trishuli. Su velocidad superó los 165 km/h en el primer tramo analizado, y las vibraciones asociadas al flujo fueron registradas durante varias horas, incluso en estaciones situadas a más de 100 km del río.\nAsimismo, las vibraciones del terreno provocadas por el evento fueron observadas en todo el planeta, a distancias superiores a 19 000 km. En la Península Ibérica, Jordi Díaz analizó las ondas generadas por el colapso del glaciar registradas por las estaciones sísmicas de las redes del Instituto Geográfico Nacional (IGN) y del Institut Cartogràfic i Geològic de Catalunya (ICGC).\nLos datos sísmicos también han revelado varios eventos sísmicos durante las horas y los días previos al colapso. De los más de 60 eventos detectados en las dos semanas previas al evento, uno ocurrió apenas 17 minutos antes del colapso principal y presentó una energía equivalente a la de un terremoto local de magnitud 2,5.\nTodavía queda por determinar si estas señales estuvieron relacionadas con movimientos precursores de la ladera. En cualquier caso, el equipo investigador defiende que estas observaciones ponen de manifiesto el valor de una red regional de vigilancia sísmica para detectar futuros fenómenos de este tipo y contribuir a la emisión temprana de alertas para las poblaciones afectadas."
+  },
+  "sha256": {
+    "titular": "54c345e9da8275823d59d897b82afadc1378a0376e875ffd80b55d98da83cf1c",
+    "entradilla": "81cf60355fa4e2b4b78ab6d8a5fac9840dbe594b639ab7823e4d7fe7a24a77a2",
+    "cuerpo": "684b64f5417039d393c521690c4b578c260e13669e1a6687af98f315e5fb0705"
+  }
+}

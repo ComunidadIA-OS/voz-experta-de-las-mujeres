@@ -1,0 +1,263 @@
+{
+  "article_id": "f6808dec8f86",
+  "url": "https://www.agenciasinc.es/Noticias/Los-telescopios-LST-1-y-MAGIC-detectan-el-blazar-de-muy-alta-energia-mas-lejano-observado-hasta-ahora",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:33+00:00",
+  "article_sha256": {
+    "titular": "9563fbfa086bca21d26cd5a1f76d7a059f16308b2eb78d4c1c6049347ede2179",
+    "entradilla": "cb913492dc9ddfee96b0652e9170bed4666115dfe5ef0397665ff59b558df335",
+    "cuerpo": "014d82a7ff8439d65b0ad553d3357ffa0810d2a1a26ec73f8cc5d5f0fc2f112d"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Jorge Otero,",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigador en el IAA-CSIC.",
+      "gender_representation": "man",
+      "gender_evidence": "investigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Daniel Morcuende",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "colíder del trabajo durante su etapa en el IAA-CSIC.",
+      "gender_representation": "man",
+      "gender_evidence": "colíder",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p3",
+      "name": "Mireia Nievas Rosillo",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigadora del Instituto de Astrofísica de Canarias (IAC) y autora de correspondencia del estudio.",
+      "gender_representation": "woman",
+      "gender_evidence": "investigadora",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Hasta este descubrimiento, solo se habían detectado nueve fuentes de este tipo en el rango de muy altas energías”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“una oportunidad única para estudiar cómo se aceleran las partículas y se producen los rayos gamma en estos objetos extremos”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Medir esta atenuación nos permite inferir las propiedades de la EBL y, a partir de ellas, reconstruir parte de la historia del universo”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "direct",
+      "text": "“Cada nueva detección de objetos muy lejanos, cuya luz ha tardado miles de millones de años en llegar hasta nosotros, abre una nueva ventana para estudiar la luz de fondo extragaláctica y comprender cómo ha evolucionado el cosmos”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "direct",
+      "text": "“Estas observaciones nos acercan a la época de máxima formación estelar cósmica. Con el inicio de las operaciones del CTAO previsto para los próximos años, esto es solo el principio”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793123847319",
+        "nombre": "Jorge Otero,",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1152,
+            "fin16": 1164,
+            "texto": "Jorge Otero,",
+            "inicio": 1152,
+            "fin": 1164
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1213,
+          "fin16": 1225,
+          "texto": "investigador",
+          "inicio": 1213,
+          "fin": 1225
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1028,
+            "fin16": 1143,
+            "texto": "“Hasta este descubrimiento, solo se habían detectado nueve fuentes de este tipo en el rango de muy altas energías”,",
+            "tipo": "directa",
+            "inicio": 1028,
+            "fin": 1143
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1284,
+            "fin16": 1410,
+            "texto": "“una oportunidad única para estudiar cómo se aceleran las partículas y se producen los rayos gamma en estos objetos extremos”.",
+            "tipo": "directa",
+            "inicio": 1284,
+            "fin": 1410
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1213,
+          "fin16": 1241,
+          "texto": "investigador en el IAA-CSIC.",
+          "inicio": 1213,
+          "fin": 1241
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793123887168",
+        "nombre": "Daniel Morcuende",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2635,
+            "fin16": 2651,
+            "texto": "Daniel Morcuende",
+            "inicio": 2635,
+            "fin": 2651
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2661,
+          "fin16": 2668,
+          "texto": "colíder",
+          "inicio": 2661,
+          "fin": 2668
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2489,
+            "fin16": 2627,
+            "texto": "“Medir esta atenuación nos permite inferir las propiedades de la EBL y, a partir de ellas, reconstruir parte de la historia del universo”,",
+            "tipo": "directa",
+            "inicio": 2489,
+            "fin": 2627
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2661,
+          "fin16": 2713,
+          "texto": "colíder del trabajo durante su etapa en el IAA-CSIC.",
+          "inicio": 2661,
+          "fin": 2713
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793123935885",
+        "nombre": "Mireia Nievas Rosillo",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3972,
+            "fin16": 3993,
+            "texto": "Mireia Nievas Rosillo",
+            "inicio": 3972,
+            "fin": 3993
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 3995,
+          "fin16": 4008,
+          "texto": "investigadora",
+          "inicio": 3995,
+          "fin": 4008
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3732,
+            "fin16": 3963,
+            "texto": "“Cada nueva detección de objetos muy lejanos, cuya luz ha tardado miles de millones de años en llegar hasta nosotros, abre una nueva ventana para estudiar la luz de fondo extragaláctica y comprender cómo ha evolucionado el cosmos”,",
+            "tipo": "directa",
+            "inicio": 3732,
+            "fin": 3963
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4097,
+            "fin16": 4280,
+            "texto": "“Estas observaciones nos acercan a la época de máxima formación estelar cósmica. Con el inicio de las operaciones del CTAO previsto para los próximos años, esto es solo el principio”,",
+            "tipo": "directa",
+            "inicio": 4097,
+            "fin": 4280
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 3995,
+          "fin16": 4096,
+          "texto": "investigadora del Instituto de Astrofísica de Canarias (IAC) y autora de correspondencia del estudio.",
+          "inicio": 3995,
+          "fin": 4096
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 145
+  }
+}

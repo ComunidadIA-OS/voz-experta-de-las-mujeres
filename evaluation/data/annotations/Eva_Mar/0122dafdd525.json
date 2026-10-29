@@ -1,0 +1,299 @@
+{
+  "article_id": "0122dafdd525",
+  "url": "https://www.agenciasinc.es/Noticias/Una-red-comercial-milenaria-transportaba-loros-vivos-de-la-Amazonia-a-la-costa-andina",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Eva_Mar",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-27T03:51:36+00:00",
+  "article_sha256": {
+    "titular": "9742a594e5a9dbed0215e40839aa0a4edbf5a5639ecf1c234ef9c7511ad1e6d7",
+    "entradilla": "098e08cf31141569292486a0e351744aa34b8f4974f6afeb9f3794a6268b2370",
+    "cuerpo": "8dd0942e27db12d87683a469f02c9c6b6d6eb09574336573fbdf132ef86225b2"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "George Olah",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "autor principal de la investigación",
+      "gender_representation": "man",
+      "gender_evidence": "autor principal de la investigación",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Pedro Bover Arbos",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "coautor del estudio en la Universidad de Zaragoza (Unizar",
+      "gender_representation": "man",
+      "gender_evidence": "coautor del estudio",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "explica que la secuenciación de ADN permitió identificar un sistema de transporte de animales que conectaba la selva amazónica con comunidades áridas al oeste de los Andes.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "la combinación de los estudios de ADN, isótopos y modelización espacial permite tener una visión más completa de lo que cada estudio por separado habría podido aportar”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Cada uno de los estudios ha aportado una pieza del rompecabezas. El ADN permitió identificar las especies de aves a partir de las plumas y evaluar su diversidad genética, en el caso de los guacamayos escarlata. Los isótopos ofrecieron pistas sobre su tipo de alimentación. Finalmente, los modelos, usando estos resultados e información geográfica, han permitido establecer posibles rutas de comercio”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Las evidencias genéticas permiten ver que había la suficiente diversidad genética en los restos de Pachacamac compatible con un origen salvaje de los guacamayos, en contraposición con los datos genéticos de otros guacamayos antiguos que se han estudiado y que se ha sugerido que habían sido criados en cautividad. Estos animales criados en cautividad, al proceder todos de muy pocos individuos a partir del cual se establecieron las poblaciones cautivas, presentan una diversidad genética mucho menor”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Comparamos las antiguas plumas arqueológicas con plumas de loros modernos que recolectamos en la selva amazónica. Las aves modernas de la selva tropical tenían una firma química que reflejaba una dieta silvestre propia de ese entorno. Sin embargo, las plumas antiguas encontradas en la tumba del desierto costero tenían una firma completamente diferente. Esto indicaba una dieta rica en plantas como el maíz, que posiblemente fueron fertilizadas con guano de aves marinas, muy rico en nitrógeno”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Si bien no es posible establecer el tiempo concreto que los loros permanecieron vivos, el hecho de que mostraran una dieta costera demuestra que fueron llevadas vivas a algún lugar de la costa. Permanecieron en cautiverio el tiempo suficiente para mudar y desarrollar nuevas plumas con la firma isotópica que detectamos”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "indirect",
+      "text": "Según el científico de la Unizar: Transportar guacamayos y loros amazónicos vivos es un gran desafío logístico.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "inteligentes, ruidosas y agresivas, que no son aptas para climas fríos o secos. Sin embargo, fueron transportadas a lo largo de más de 500 kilómetros desde la húmeda selva tropical, cruzando fríos pasos montañosos andinos, hasta descender a un desierto hiperárido",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Las narrativas históricas de los Andes atribuyen al Imperio Inca el dominio de una logística compleja y de vastos sistemas de caminos. El estudio cuestiona la suposición de que las sociedades preincaicas durante el período Intermedio Tardío estuvieran aisladas o fragmentadas”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793072715838",
+        "nombre": "George Olah",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 644,
+            "fin16": 655,
+            "texto": "George Olah",
+            "inicio": 644,
+            "fin": 655
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 657,
+          "fin16": 692,
+          "texto": "autor principal de la investigación",
+          "inicio": 657,
+          "fin": 692
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 694,
+            "fin16": 866,
+            "texto": "explica que la secuenciación de ADN permitió identificar un sistema de transporte de animales que conectaba la selva amazónica con comunidades áridas al oeste de los Andes.",
+            "tipo": "indirecta",
+            "inicio": 694,
+            "fin": 866
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 657,
+          "fin16": 692,
+          "texto": "autor principal de la investigación",
+          "inicio": 657,
+          "fin": 692
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793072738943",
+        "nombre": "Pedro Bover Arbos",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 881,
+            "fin16": 898,
+            "texto": "Pedro Bover Arbos",
+            "inicio": 881,
+            "fin": 898
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2955,
+            "fin16": 2966,
+            "texto": "Bover Arbos",
+            "inicio": 2955,
+            "fin": 2966
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4393,
+            "fin16": 4404,
+            "texto": "Bover Arbos",
+            "inicio": 4393,
+            "fin": 4404
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5573,
+            "fin16": 5584,
+            "texto": "Bover Arbos",
+            "inicio": 5573,
+            "fin": 5584
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 900,
+          "fin16": 919,
+          "texto": "coautor del estudio",
+          "inicio": 900,
+          "fin": 919
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 980,
+            "fin16": 1149,
+            "texto": "la combinación de los estudios de ADN, isótopos y modelización espacial permite tener una visión más completa de lo que cada estudio por separado habría podido aportar”.",
+            "tipo": "directa",
+            "inicio": 980,
+            "fin": 1149
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1150,
+            "fin16": 1552,
+            "texto": "“Cada uno de los estudios ha aportado una pieza del rompecabezas. El ADN permitió identificar las especies de aves a partir de las plumas y evaluar su diversidad genética, en el caso de los guacamayos escarlata. Los isótopos ofrecieron pistas sobre su tipo de alimentación. Finalmente, los modelos, usando estos resultados e información geográfica, han permitido establecer posibles rutas de comercio”.",
+            "tipo": "directa",
+            "inicio": 1150,
+            "fin": 1552
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2444,
+            "fin16": 2946,
+            "texto": "“Las evidencias genéticas permiten ver que había la suficiente diversidad genética en los restos de Pachacamac compatible con un origen salvaje de los guacamayos, en contraposición con los datos genéticos de otros guacamayos antiguos que se han estudiado y que se ha sugerido que habían sido criados en cautividad. Estos animales criados en cautividad, al proceder todos de muy pocos individuos a partir del cual se establecieron las poblaciones cautivas, presentan una diversidad genética mucho menor”",
+            "tipo": "directa",
+            "inicio": 2444,
+            "fin": 2946
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3146,
+            "fin16": 3643,
+            "texto": "“Comparamos las antiguas plumas arqueológicas con plumas de loros modernos que recolectamos en la selva amazónica. Las aves modernas de la selva tropical tenían una firma química que reflejaba una dieta silvestre propia de ese entorno. Sin embargo, las plumas antiguas encontradas en la tumba del desierto costero tenían una firma completamente diferente. Esto indicaba una dieta rica en plantas como el maíz, que posiblemente fueron fertilizadas con guano de aves marinas, muy rico en nitrógeno”,",
+            "tipo": "directa",
+            "inicio": 3146,
+            "fin": 3643
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4062,
+            "fin16": 4383,
+            "texto": "“Si bien no es posible establecer el tiempo concreto que los loros permanecieron vivos, el hecho de que mostraran una dieta costera demuestra que fueron llevadas vivas a algún lugar de la costa. Permanecieron en cautiverio el tiempo suficiente para mudar y desarrollar nuevas plumas con la firma isotópica que detectamos”",
+            "tipo": "directa",
+            "inicio": 4062,
+            "fin": 4383
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4537,
+            "fin16": 4648,
+            "texto": "Según el científico de la Unizar: Transportar guacamayos y loros amazónicos vivos es un gran desafío logístico.",
+            "tipo": "indirecta",
+            "inicio": 4537,
+            "fin": 4648
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4682,
+            "fin16": 4945,
+            "texto": "inteligentes, ruidosas y agresivas, que no son aptas para climas fríos o secos. Sin embargo, fueron transportadas a lo largo de más de 500 kilómetros desde la húmeda selva tropical, cruzando fríos pasos montañosos andinos, hasta descender a un desierto hiperárido",
+            "tipo": "directa",
+            "inicio": 4682,
+            "fin": 4945
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5286,
+            "fin16": 5563,
+            "texto": "“Las narrativas históricas de los Andes atribuyen al Imperio Inca el dominio de una logística compleja y de vastos sistemas de caminos. El estudio cuestiona la suposición de que las sociedades preincaicas durante el período Intermedio Tardío estuvieran aisladas o fragmentadas”",
+            "tipo": "directa",
+            "inicio": 5286,
+            "fin": 5563
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 900,
+          "fin16": 957,
+          "texto": "coautor del estudio en la Universidad de Zaragoza (Unizar",
+          "inicio": 900,
+          "fin": 957
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 411
+  }
+}

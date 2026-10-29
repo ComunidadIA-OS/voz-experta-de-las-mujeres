@@ -1,0 +1,26 @@
+{
+  "id": "43aa13c62126",
+  "url": "https://www.agenciasinc.es/Noticias/La-lluvia-intensa-agrava-la-contaminacion-por-microplasticos-en-los-rios",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-09-10T20:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:34:02+00:00",
+  "campos": {
+    "titular": "La lluvia intensa agrava la contaminación por microplásticos en los ríos",
+    "entradilla": "Un nuevo estudio revela que los episodios de precipitaciones extremas pueden disparar el transporte de estas partículas hacia los cursos fluviales y, de ahí, al océano. En 2022, los ríos de todo el mundo movilizaron unas 263 000 toneladas de microplásticos, el 96 % procedente del Sur Global.",
+    "cuerpo": "Los ríos podrían estar llevando a los océanos muchos más microplásticos de lo que se había estimado hasta ahora. Un nuevo estudio, publicado en Science y basado en un análisis global, calcula que los países del Sur Global son responsables de la mayoría de este flujo. Asimismo, los episodios de precipitaciones intensas pueden provocar aumentos repentinos en la cantidad de estas partículas que llegan a los cauces.\nEl trabajo advierte de que este fenómeno podría agravarse debido al cambio climático, a medida que los episodios meteorológicos extremos se vuelvan más frecuentes e intensos.\nEn regiones donde el consumo de plástico es elevado y la gestión de residuos resulta deficiente, estas situaciones pueden provocar un aumento especialmente importante de la cantidad de microplásticos que llegan a los ríos.\nLos microplásticos constituyen una forma de contaminación persistente y ampliamente extendida, con efectos potenciales sobre los ecosistemas, la calidad del agua y la salud humana. Cada año, decenas de millones de toneladas de estas partículas llegan al medio ambiente, una parte de las cuales acaba en los océanos.\nLos ríos desempeñan un papel clave en este proceso, al actuar como vías de transporte desde las zonas continentales hasta las aguas costeras. Sin embargo, determinar la magnitud de este flujo a escala mundial es complejo.\nLas estimaciones disponibles varían debido, entre otros factores, a las diferencias en los métodos de muestreo y al conocimiento todavía limitado sobre cómo las precipitaciones y la escorrentía condicionan el transporte de estas partículas.\nPara Roberto Rosal, catedrático de Ingeniería Química de la Universidad de Alcalá, en declaraciones al SMC España, el estudio destaca por sus avances metodológicos. “Presenta una base empírica muy amplia respaldada por un gran número de observaciones directas”, señala.\nEn su opinión, el trabajo introduce además la dimensión temporal al tener en cuenta el transporte de microplásticos asociado a episodios de lluvia extrema, lo que aporta “un gran realismo físico” a las estimaciones.\nEl estudio, liderado por Hehao Qin, de la Universidad de Pekín (China), propone un nuevo método para estimar con mayor precisión cuánto microplástico transportan los ríos y cuánto acaba llegando al océano.\nLa metodología integra datos obtenidos con distintos métodos de muestreo y tiene en cuenta el tamaño de las partículas. Además, incorpora técnicas de aprendizaje automático para analizar la influencia de factores humanos y naturales y determinar cómo las precipitaciones pueden modificar la concentración de microplásticos en los cauces.\nCon este enfoque, el equipo calcula que los ríos de todo el mundo transportaron al océano unas 263 000 toneladas de microplásticos en 2022. El 96 % procedía del Sur Global, y el Sudeste Asiático y Asia Oriental concentraron por sí solos más de la mitad del total.\nEl consumo de plástico, la mala gestión de los residuos y el grado de desarrollo humano fueron los principales factores que explicaron las diferencias en las concentraciones de microplásticos entre unas regiones y otras.\nA corto plazo, las condiciones meteorológicas y los cambios estacionales también modificaron su presencia en los cauces.\nEl equipo señala que los episodios de precipitaciones intensas pueden favorecer especialmente el arrastre de estas partículas hacia los ríos en las regiones con un mayor uso de plástico y sistemas deficientes de gestión de residuos.\nLos autores advierten de que el cambio climático podría intensificar este fenómeno. Si estos episodios se vuelven más frecuentes y severos, podrían producirse aumentos puntuales y muy elevados de microplásticos tanto en los ríos como en las aguas marinas."
+  },
+  "sha256": {
+    "titular": "624cf11339b86804da40302b9731379139c3df2e82b6ca375afcb5b28e2a96c0",
+    "entradilla": "e8a3f67e8049c6f4161f5c08f74b0d037769e0e9dee7b0ab4ec44d22a95337c9",
+    "cuerpo": "c330222be768ff710a37bdf98f24f202e558ec9ce386bcd455a6a16384e4cea4"
+  }
+}

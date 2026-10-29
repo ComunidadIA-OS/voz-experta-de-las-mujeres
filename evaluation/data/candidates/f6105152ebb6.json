@@ -1,0 +1,26 @@
+{
+  "id": "f6105152ebb6",
+  "url": "https://www.agenciasinc.es/Noticias/El-estilo-de-apego-de-madres-y-padres-podria-influir-en-el-riesgo-de-agotamiento-parental",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2025-11-06T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Psiquiatría"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:59:30+00:00",
+  "campos": {
+    "titular": "El estilo de apego de madres y padres podría influir en el riesgo de agotamiento parental",
+    "entradilla": "Un estudio realizado en Polonia sugiere que las dificultades para identificar y expresar las emociones, producto de una infancia compleja, intervienen años más tarde en la relación entre el tipo de apego y el síndrome de burnout parental, con diferencias entre madres y padres.",
+    "cuerpo": "El modo en que los adultos se relacionan emocionalmente con sus figuras parentales puede influir en su bienestar como madres o padres. Así lo revela un estudio publicado esta semana en PLOS One, que muestra que el estilo de apego y la capacidad para reconocer las propias emociones se asocian con el riesgo de padecer un mayor agotamiento parental, un síndrome caracterizado por el cansancio emocional, la sensación de distanciamiento de los hijos y la pérdida de satisfacción en el rol de cuidador.\nLos investigadores Dawid Konrad Ścigała y su equipo, del Instituto de Psicología de la Universidad Maria Grzegorzewska de Varsovia, analizaron a 440 progenitores —229 mujeres y 211 hombres— utilizando modelos de ecuaciones estructurales para explorar los vínculos entre apego inseguro, alexitimia [dificultad para identificar, procesar y expresar las emociones propias y ajenas] y agotamiento parental.\n“Las dificultades para identificar y describir las propias emociones”, algo que los investigadores achacan a una relación complicada con los propios progenitores, “parecen desempeñar un papel central en la conexión entre el estilo de apego y el agotamiento parental”, explica Ścigała. “Este patrón se observa tanto en hombres como en mujeres, aunque los mecanismos parecen diferir según el sexo”.\nEn el caso de los hombres, el apego evitativo hacia el padre o la madre, algo que se desarrolla cuando el niño percibe que su madre es emocionalmente distante o rechaza sus necesidades de consuelo y cercanía, se relacionó directamente con un mayor nivel de agotamiento.\nPor otro lado, la ansiedad de apego (un tipo de inseguridad marcada por la preocupación constante por la cercanía y el miedo al abandono) mostró una relación indirecta, mediada por la incapacidad de los padres para identificar y expresar sus emociones. En las madres, el apego evitativo a sus madres y la ansiedad de apego son ambos factores directos de agotamiento.\nSegún los autores, estos resultados subrayan la importancia de abordar las dificultades emocionales y los patrones de apego en la prevención del burnout parental. “Las intervenciones centradas en la regulación emocional y la comprensión del vínculo de apego podrían ser útiles para reducir el riesgo de agotamiento, especialmente si se adaptan de forma diferenciada para mujeres y hombres”, señala el equipo investigador.\nEl trabajo propone que programas de apoyo psicológico basados en el apego, la terapia focalizada en las emociones o el mindfulness parental podrían resultar eficaces para ayudar a madres y padres con dificultades emocionales persistentes."
+  },
+  "sha256": {
+    "titular": "661015b64c239e85443474e085f4e73fad5b7f2452d7de99ba757ff3536db56b",
+    "entradilla": "c9afed6d13cf7ac8aac158f5b0299303fa9a861776d430259777f4f9af6362a6",
+    "cuerpo": "906b15c5bc27434b4c06cf28ec5eae241ca93ba99b22dea9549f683fe31513ab"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "article_id": "cdad306eaf66",
+  "url": "https://www.agenciasinc.es/Noticias/Los-espanoles-tendran-mas-vinculos-sociales-para-2050-pero-la-tecnologia-podria-acentuar-la-soledad",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:26+00:00",
+  "article_sha256": {
+    "titular": "64e188e4a34977986a55dee69fd4cf1c5d577d8ec3c7969b6e055c5011a49f89",
+    "entradilla": "877bc8082bd18097936aac284f5b85579388df074dfb3306ef67a5b8a8b8a7ce",
+    "cuerpo": "96ef7d06c532e424c0eaa5f380086c192971477e7c76e91fc35ba0583ef3f22a"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Pedro Sánchez",
+      "professional_role": "cargo_politico",
+      "technical_expert": "no",
+      "source_role": "politician",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "Presidente del Gobierno",
+      "gender_representation": "man",
+      "gender_evidence": "Presidente",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“De eso va este informe, no es una profecía ni pretende afirmar que el futuro está escrito\".",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Apunta que un gobierno responsable no debe limitarse a gestionar el presente",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“tiene la obligación de anticiparse y de acomodar la legislación para evitar que las leyes sean una foto fija de un mundo en el que ya no nos reconocemos\"",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“El futuro no es un destino limitado y estará condicionado por las decisiones que hoy se tomen\",",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793123074471",
+        "nombre": "Pedro Sánchez",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 200,
+            "fin16": 213,
+            "texto": "Pedro Sánchez",
+            "inicio": 200,
+            "fin": 213
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 175,
+          "fin16": 185,
+          "texto": "Presidente",
+          "inicio": 175,
+          "fin": 185
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1100,
+            "fin16": 1192,
+            "texto": "“De eso va este informe, no es una profecía ni pretende afirmar que el futuro está escrito\".",
+            "tipo": "directa",
+            "inicio": 1100,
+            "fin": 1192
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1193,
+            "fin16": 1269,
+            "texto": "Apunta que un gobierno responsable no debe limitarse a gestionar el presente",
+            "tipo": "indirecta",
+            "inicio": 1193,
+            "fin": 1269
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1271,
+            "fin16": 1425,
+            "texto": "“tiene la obligación de anticiparse y de acomodar la legislación para evitar que las leyes sean una foto fija de un mundo en el que ya no nos reconocemos\"",
+            "tipo": "directa",
+            "inicio": 1271,
+            "fin": 1425
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1438,
+            "fin16": 1534,
+            "texto": "“El futuro no es un destino limitado y estará condicionado por las decisiones que hoy se tomen\",",
+            "tipo": "directa",
+            "inicio": 1438,
+            "fin": 1534
+          }
+        ],
+        "rol": "cargo_politico",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 175,
+          "fin16": 198,
+          "texto": "Presidente del Gobierno",
+          "inicio": 175,
+          "fin": 198
+        },
+        "participacion": "comenta"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 115
+  }
+}

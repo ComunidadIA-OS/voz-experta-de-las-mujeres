@@ -1,0 +1,26 @@
+{
+  "id": "9e18b0b98b54",
+  "url": "https://www.agenciasinc.es/Noticias/Entrenan-a-una-IA-para-evaluar-la-edad-y-estimar-el-riesgo-de-personas-con-cancer",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-20T12:30:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:12+00:00",
+  "campos": {
+    "titular": "Entrenan a una IA para evaluar la edad y estimar el riesgo de personas con cáncer",
+    "entradilla": "Investigadores del Mass General Brigham en Estados unidos entrenaron un nuevo modelo de inteligencia artificial para valorar la edad biológica y predecir la mortalidad de pacientes oncológicos. Los expertos adiestraron las herramientas con más de 40 millones de imágenes de rostros humanos.",
+    "cuerpo": "Un equipo de científicos del Mass General Brigham Cancer Institute (EE UU) entrenaron a un modelo base de IA con más de 40 millones de imágenes faciales y lo utilizaron para estimar la edad biológica y predecir la supervivencia de personas con cáncer. Los hallazgos se han publicado esta semana en The Lancet Digital Health.\nEste modelo, llamado FAHR-Face (Foundation Artificial Intelligence for Health Recognition en inglés) se entrenó para desarrollar dos herramientas complementarias. La primera, FAHR-FaceAge, con la capacidad de estimar la edad biológica de un paciente oncológico. Y la segunda, FAHR-FaceSurvival, que predice la supervivencia mediante una fotografía del rostro.\nLos resultados del estudio mostraron que la desviación entre la edad calculada y la edad cronológica estaba relacionada con la supervivencia.\n“A medida que la población envejece, los médicos necesitamos métodos para evaluar la reserva física y la fragilidad antes de recomendar tratamientos como la radioterapia, la cirugía o la terapia sistémica”, afirma el autor del trabajo y oncólogo del Mass General Brigham, Raymond Mak. “Nuestro objetivo es que la evaluación de la salud basada en fotografías faciales sea más coherente y escalable, de modo que pueda servir de apoyo a las decisiones terapéuticas personalizadas, en lugar de sustituir el criterio del profesional”.\nEn concreto, el avance técnico es que FAHR-Face aprende lo que es el rostro humano a partir de 40 millones de imágenes; un fenómeno que puede adaptarse para estimar la salud, la edad biológica e incluso la supervivencia de los pacientes. “Este enfoque ofrece una forma escalable de desarrollar múltiples biomarcadores de salud facial, en lugar de entrenar cada modelo desde cero”, añade el coautor del trabajo e investigador en el mismo centro, Hugo Aerts.\nFAHR-FaceAge y FAHR-FaceSurvival captaron información diferente y complementaria sobre la salud de las personas. Sus predicciones presentaron una correlación débil, y ambas se asociaban de forma independiente con la supervivencia cuando se analizaban de manera conjunta.\nFAHR-FaceAge se centró en los pliegues nasolabiales, la zona de la frente por encima de las órbitas y las sienes, mientras que FAHR-FaceSurvival evalúo la región situada debajo de los ojos y alrededor del puente nasal. “Esta es la primera demostración de que un modelo de IA puede predecir la supervivencia al cáncer a partir de una simple fotografía”, enfatizó Aerts.\nPor otro lado, los investigadores descubrieron que los factores relacionados con el estilo de vida también influyeron en el envejecimiento facial. Por ejemplo, el consumo excesivo de alcohol, el consumo de drogas y el tabaquismo se asociaron con un aspecto biológicamente más envejecido.\nEn este sentido, el tabaquismo mostró el patrón más marcado. Los fumadores parecían más mayores que los exfumadores, y estos, a su vez, más mayores que las personas que nunca habían fumado.\n“Otro hallazgo sorprendente fue la consistencia que mostró FAHR-FaceAge ante las variaciones habituales de las fotografías del mundo real, como la postura, la iluminación, la expresión facial y el maquillaje”, señaló Mak. “También se mostró estable en la mayoría de las intervenciones de cirugía plástica analizadas, y solo se observó un ligero cambio tras una rinoplastia”.\nAhora, el equipo está ampliando esta investigación a través del FaceAge Research Study, un estudio en línea aprobado por un comité de ética institucional y abierto al público. Aquí los participantes pueden subir una fotografía facial y recibir su propio informe de investigación de FaceAge."
+  },
+  "sha256": {
+    "titular": "1c3ba896a87663b91e6b5793560d39f4a0534470ed2e429058c600beac0a8696",
+    "entradilla": "82ec55d1b06570f93e0463fff82171448256bd85a6bc658aa14798428160376c",
+    "cuerpo": "e7102746e1599d736c67422fcf16c9b97ad8c7ebe5938ca2d02244997d8a32c8"
+  }
+}

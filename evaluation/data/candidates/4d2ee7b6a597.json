@@ -1,0 +1,26 @@
+{
+  "id": "4d2ee7b6a597",
+  "url": "https://www.agenciasinc.es/Noticias/El-fosil-de-pulpo-mas-famoso-del-mundo-nunca-fue-un-pulpo",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-04-08T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:48:25+00:00",
+  "campos": {
+    "titular": "El fósil de pulpo más famoso del mundo nunca fue un pulpo",
+    "entradilla": "Un estudio con radiación de sincrotrón descubre dientes ocultos en la roca que demuestran que el espécimen de 300 millones de años fue identificado erróneamente debido a su estado de descomposición antes de fosilizar. Era, en realidad, un pariente del nautilo.",
+    "cuerpo": "Durante un cuarto de siglo, un fósil hallado en los yacimientos de Mazon Creek (Illinois, EE UU) ostentó el título de ser el pulpo más antiguo jamás descubierto. Su importancia era tal que figuraba en el Libro Guinness de los Récords como el ancestro que adelantaba la aparición de estos cefalópodos en 150 millones de años. Sin embargo, una nueva investigación liderada por la Universidad de Reading ha revelado que Pohlsepia mazonensis no era un pulpo, sino un pariente del moderno nautilo que engañó a los paleontólogos tras descomponerse hace 300 millones de años.\nEl estudio, publicado este miércoles en la revista Proceedings of the Royal Society B, ha utilizado técnicas avanzadas de imagen por sincrotrón —una fuente de luz miles de veces más brillante que el Sol— para escudriñar bajo la superficie de la roca. Lo que los científicos han hallado son estructuras invisibles al ojo humano: una serie de dientes diminutos que descartan por completo su origen como octópodo y lo vinculan con los nautiloideos, animales con múltiples tentáculos y conchas externas.\nLa clave del misterio reside en la rádula, una estructura similar a una lengua dentada utilizada por los moluscos para alimentarse. Al analizar las imágenes de alta resolución, el equipo detectó filas con al menos once elementos dentales cada una. Esta cifra es incompatible con los pulpos, que poseen siete o nueve dientes por fila, pero encaja perfectamente con los nautiloideos, que presentan trece.\n“Resulta que el fósil de pulpo más famoso del mundo nunca fue un pulpo”, afirma Thomas Clements, profesor de Zoología de Invertebrados en la Universidad de Reading y autor principal del trabajo. Según el investigador, el animal pasó semanas descomponiéndose antes de ser enterrado y preservado, un proceso que alteró su morfología original hasta conferirle esa apariencia engañosa de ocho brazos y aletas que confundió a los expertos en el año 2000.\nEste descubrimiento no solo obliga a retirar al espécimen de los libros de récords, sino que resuelve un rompecabezas evolutivo que ha mantenido en vilo a la comunidad científica durante décadas. Al eliminar a Pohlsepia del linaje de los pulpos, la cronología de su aparición en la Tierra cambia drásticamente. Los datos actuales sugieren ahora que estos animales surgieron mucho más tarde, durante el periodo Jurásico.\n“A veces, reexaminar fósiles controvertidos con nuevas técnicas revela pequeñas pistas que conducen a descubrimientos realmente emocionantes”, explica Clements. La evidencia apunta a que la separación entre los pulpos y sus parientes de diez brazos, como los calamares, ocurrió durante la era Mesozoica y no cientos de millones de años antes, como se había teorizado a raíz de este fósil mal identificado.\nMás allá de la corrección taxonómica, el estudio aporta un valor científico excepcional al identificar el tejido blando de nautiloideo más antiguo conocido en el registro fósil. El espécimen coincide con los dientes de otro nautiloideo ya documentado en el mismo yacimiento, el Paleocadmus pohli, superando el récord anterior de preservación de tejidos blandos en este grupo por unos 220 millones de años.\nEl uso de tecnología forense aplicada a la paleontología ha permitido cerrar un ‘caso abierto’ de tres siglos de antigüedad. Para los investigadores, es asombroso que una hilera de dientes ocultos haya podido cambiar fundamentalmente nuestra comprensión sobre cuándo y cómo evolucionaron los pulpos, situando sus orígenes en un contexto biológico mucho más coherente con el resto de las evidencias genéticas y geológicas disponibles."
+  },
+  "sha256": {
+    "titular": "b924e17bb0999422f5830db6f7d5d191e8aadc11595b2e39b2f64b661084ffe5",
+    "entradilla": "8bd7352d7382ba3749630805612a574b39d7899045adec1d947d980c9a9606a6",
+    "cuerpo": "fb82d7d0ce6d79130450b4d94c4c09811d508bc393cc86e1d81eeeb9e4afe39c"
+  }
+}

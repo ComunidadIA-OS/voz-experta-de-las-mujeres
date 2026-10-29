@@ -1,0 +1,26 @@
+{
+  "id": "57137acdce68",
+  "url": "https://www.agenciasinc.es/Noticias/Espana-autoriza-el-primer-ensayo-de-un-farmaco-oncologico-innovador-de-forma-acelerada",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-18T10:43:00+01:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Farmacología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:56:46+00:00",
+  "campos": {
+    "titular": "España autoriza el primer ensayo de un fármaco oncológico innovador de forma acelerada",
+    "entradilla": "La Agencia Española de Medicamentos y Productos Sanitarios consolida el nuevo procedimiento fast track, que agiliza la puesta en marcha de terapias en fases tempranas.",
+    "cuerpo": "La Agencia Española de Medicamentos y Productos Sanitarios (Aemps) ha autorizado el primer ensayo clínico en fase I de un fármaco innovador para el cáncer y enfermedades raras mediante el nuevo procedimiento acelerado o fast track, gracias al cual se ha reducido el proceso regulatorio de 100 a 60 días.\nSe trata del estudio Embold, promovido por GSK, en el que se evaluará un fármaco oncológico en investigación en pacientes con tumores sólidos avanzados, según ha informado Farmaindustria en una nota de prensa.\nLa autorización llega un año después del primer ensayo piloto fast track autorizado por la agencia dependiente del Ministerio de Sanidad, una vacuna también desarrollada por GSK.\nCon este paso se consolida el nuevo marco regulatorio que busca agilizar el desarrollo de terapias innovadoras en fases tempranas, lo que ha permitido completar el procedimiento regulatorio de este ensayo clínico en solo 60 días frente a los 100 habituales.\nDesde la presentación en CTIS (Clinical Trial Information System), realizada el 22 de septiembre pasado, hasta la autorización final, el proceso ha avanzado de forma ágil gracias a la colaboración entre la Aemps, investigadores, instituciones, Farmaindustria y GSK.\nEl estudio Embold fase I/II evaluará la seguridad, tolerabilidad, farmacocinética y actividad clínica de un nuevo compuesto en combinación con el tratamiento de referencia u otros agentes en pacientes con tumores sólidos avanzados.\nLos primeros pacientes participan ya en el ensayo, que se desarrolla en cinco centros de referencia en oncología en tres comunidades autónomas: el Hospital Universitario Vall d’Hebron (UITM-CaixaResearch), de Barcelona; la Fundación Jiménez Díaz, el Hospital Universitario HM Sanchinarro y el Ramón y Cajal, en Madrid; y el Virgen de la Victoria, en Málaga.\nFarmaindustria ha acogido “con gran satisfacción” la ampliación del procedimiento a todos los ensayos nacionales en oncología o enfermedades raras de fase I, una demanda histórica tanto de investigadores, industria y pacientes, porque este tipo de medidas “son bienvenidas para afianzar el liderazgo español en ensayos clínicos”.\nEn 2024 la Aemps autorizó 930 ensayos clínicos, lo que colocó a España en cabeza en Europa, por delante de países como Francia o Alemania."
+  },
+  "sha256": {
+    "titular": "0f23c561624779acaa5b72072a9f609097a5ad53ba28dc6ce7cfd231dc79bc6a",
+    "entradilla": "c5d2312e4cdd07d08bb4761c77d535d2ff147f5f2436bae9987a07a85987783f",
+    "cuerpo": "7fde1327772cf29a89831d7c9266cfc5708d1025090c3582ff38b4eaaa536a59"
+  }
+}

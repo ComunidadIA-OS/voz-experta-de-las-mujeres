@@ -1,0 +1,26 @@
+{
+  "id": "a18ad68cde0f",
+  "url": "https://www.agenciasinc.es/Noticias/Cuestionan-el-beneficio-de-los-suplementos-de-calcio-en-el-embarazo-para-prevenir-la-preeclampsia",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-03T10:23:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:49+00:00",
+  "campos": {
+    "titular": "Cuestionan el beneficio de los suplementos de calcio en el embarazo para prevenir la preeclampsia",
+    "entradilla": "Un nuevo análisis pone en duda la base científica que durante años respaldó el uso de estos suplementos para prevenir la hipertensión gestacional. Los resultados indican que muchos de los estudios antiguos eran de mala calidad y distorsionaban las conclusiones globales.",
+    "cuerpo": "Una revisión actualizada de Cochrane concluye que los suplementos de calcio no reducen el riesgo de preeclampsia, lo que cuestiona una práctica recomendada durante décadas para prevenir trastornos hipertensivos en el embarazo.\nEl análisis, realizado por investigadores de la Stellenbosch University (Sudáfrica), se basa en pruebas sólidas procedentes de ensayos clínicos de gran tamaño. Los resultados muestran que la administración de calcio durante la gestación no disminuye la probabilidad de desarrollar preeclampsia.\nEsta complicación grave aparece en la segunda mitad del embarazo y puede poner en riesgo la vida de la madre y del bebé. Se caracteriza por hipertensión acompañada de daño en órganos específicos. La única forma de resolverla es el parto, que en casos severos debe adelantarse para evitar consecuencias mortales.\nDurante años se consideró el calcio como una medida preventiva, sobre todo en poblaciones con baja ingesta. Las guías de la Organización Mundial de la Salud (OMS) aún recomiendan suplementos diarios en estos contextos, aunque la evidencia siempre ha sido contradictoria. Esta revisión refuerza las dudas.\nEl análisis incluyó 10 ensayos controlados aleatorizados con 37 504 participantes, comparando suplementos frente a placebo y diferentes dosis (500 mg y 1.500 mg). Los datos de alta certeza procedentes de estudios grandes indican que el calcio no previene la preeclampsia. Tampoco se observaron diferencias relevantes en muerte materna, parto prematuro o mortalidad neonatal, aunque la evidencia sobre estos desenlaces sigue siendo incierta.\n“Al aplicar métodos rigurosos y transparentes, no encontramos diferencias significativas en los desenlaces clave”, explica Anke Rohwer, autora principal. “Muchos estudios antiguos eran de baja calidad, y su reevaluación era esencial para actualizar las recomendaciones”.\nRevisiones anteriores incluían numerosos estudios pequeños y poco fiables, lo que generó una impresión exagerada del beneficio del calcio. Tras excluir esos trabajos y corregir sesgos de publicación, el efecto protector desapareció. “Nuestro análisis muestra que las pruebas que respaldaban esta práctica simplemente no se sostienen”, señala Catherine Cluver, coautora de esta revisión. “Es crucial que médicos y responsables de políticas comprendan cuánto ha cambiado la base de la evidencia”.\nLos autores subrayan la importancia de evaluar la fiabilidad de los estudios primarios. Para ello aplicaron la lista de verificación TRACT y mencionan herramientas similares como INSPECT-SR, diseñadas para detectar investigaciones problemáticas."
+  },
+  "sha256": {
+    "titular": "17283a2259a3390f0d66f180af19ced295904c00f7ba17603dec4641324ee62e",
+    "entradilla": "afd5cf480a5d06670c8b4f63f8411f1d7864d993c520a53e3a0c1c86f6e982bf",
+    "cuerpo": "4ee038f991c327747d2cfbd376c713fa7d0c5a19bb70916bd0f0d9251f5d2d87"
+  }
+}

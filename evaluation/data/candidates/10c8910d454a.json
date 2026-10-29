@@ -1,0 +1,26 @@
+{
+  "id": "10c8910d454a",
+  "url": "https://www.agenciasinc.es/Noticias/Dispositivos-electronicos-imitan-funciones-neuronales-para-avanzar-hacia-nuevos-sistemas-de-computacion",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-24T10:36:00+02:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Tecnología de los ordenadores"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:38:09+00:00",
+  "campos": {
+    "titular": "Dispositivos electrónicos imitan funciones neuronales para avanzar hacia nuevos sistemas de computación",
+    "entradilla": "Una revisión publicada en Chemical Reviews reúne el conocimiento sobre los dispositivos autooscilatorios, capaces de generar impulsos eléctricos, responder a estímulos y sincronizarse. El trabajo analiza su potencial para desarrollar hardware más eficiente y con un funcionamiento similar al del cerebro.",
+    "cuerpo": "Un equipo de investigación del Instituto de Tecnología Química (ITQ), centro mixto del CSIC y de la Universitat Politècnica de València (UPV), ha publicado una revisión científica sobre los llamados dispositivos autooscilatorios, unos componentes electrónicos que generan señales de forma autónoma y pueden reproducir algunos mecanismos propios de las neuronas.\nEl trabajo reúne conocimientos de física, química, ciencia de materiales, electroquímica e ingeniería electrónica para avanzar hacia nuevas formas de computación inspiradas en el cerebro. Sus posibles aplicaciones los convierten en una alternativa para desarrollar una nueva generación de hardware inteligente.\nEl estudio propone una visión común para comprender cómo funcionan estos dispositivos. Aunque utilizan materiales y tecnologías muy diferentes, muchos pueden comportarse de forma similar a las neuronas, ya que generan impulsos eléctricos, responden a estímulos o se sincronizan entre sí.\nPara explicar estos comportamientos, el trabajo recurre a la dinámica no lineal, que estudia sistemas capaces de responder de forma compleja y cambiante ante distintos estímulos. Según sus autores, esta perspectiva puede ayudar a diseñar dispositivos más eficientes para futuros sistemas de computación inspirados en el cerebro.\nLa investigación ofrece una explicación común para comprender el funcionamiento de las distintas familias de dispositivos autooscilatorios. Para ello, utiliza herramientas matemáticas que permiten estudiar cómo un sistema puede cambiar de comportamiento, por ejemplo, al pasar de un estado estable a generar impulsos eléctricos u oscilaciones.\nEsta visión proporciona una guía para diseñar nuevos dispositivos capaces de procesar información mediante las propiedades físicas de los propios materiales, de una forma más parecida al funcionamiento del cerebro que al de los ordenadores tradicionales.\nLas posibles aplicaciones de esta tecnología abarcan desde la inteligencia artificial y la robótica hasta el reconocimiento de patrones, el procesamiento de señales y los sistemas capaces de aprender y adaptarse en tiempo real.Además, estos dispositivos podrían reducir el consumo energético y simplificar el diseño de los circuitos, ya que integran en un mismo elemento el almacenamiento, el procesamiento y la adaptación de la información.\n“La principal ventaja de estos sistemas es que la computación emerge directamente de las propiedades físicas y dinámicas del dispositivo. En lugar de separar memoria y procesamiento, como ocurre en los ordenadores tradicionales, los osciladores integran almacenamiento, procesamiento y adaptación en un mismo elemento físico”, explica Juan Bisquert, investigador distinguido de la UPV y líder del grupo PROFUND en el ITQ.\nEsta característica puede traducirse en un menor consumo energético, una reducción de la complejidad de los circuitos y una mayor eficiencia en tareas cognitivas.\nEl trabajo está asociado al proyecto ERC Advanced Grant PeroSpiker, cuyo objetivo es establecer los principios físicos y dinámicos que permiten a los materiales y dispositivos iónico-electrónicos presentar funciones inspiradas en las neuronas, como la excitabilidad, la generación de impulsos, las oscilaciones, la adaptación y la memoria.\nLa revisión ha sido realizada por Gonzalo Rivera-Sierra, Roberto Fenollosa y Juan Bisquert, del Instituto de Tecnología Química."
+  },
+  "sha256": {
+    "titular": "1996e8154745b00755d2c4d0435f2ec8309adfe99708e676b1476d525d50aac4",
+    "entradilla": "5c5ec3e221b3b8bb2b224d2147f688939e3233843a25903627a3bb00dec9732c",
+    "cuerpo": "b884d8b3e0d120ea5f866e22a496fac9dbe87a14144303046e590093652ab85f"
+  }
+}

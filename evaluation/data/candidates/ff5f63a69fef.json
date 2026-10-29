@@ -1,0 +1,26 @@
+{
+  "id": "ff5f63a69fef",
+  "url": "https://www.agenciasinc.es/Noticias/Asi-temblo-la-Tierra-cuando-Ferran-Torres-marco-el-gol-de-la-victoria-del-Mundial",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-20T14:05:00+02:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:38:50+00:00",
+  "campos": {
+    "titular": "Así tembló la Tierra cuando Ferran Torres marcó el gol de la victoria del Mundial",
+    "entradilla": "Los sismómetros del CSIC registraron las vibraciones de las celebraciones tras el tanto con el que España se hizo con la Copa del Mundo y el pitido final. La particularidad de estos registros es que la señal no procede de los estadios, sino de los barrios y hogares donde la gente siguió el partido.",
+    "cuerpo": "Los sismómetros repartidos por toda España registraron el momento exacto en que Ferran Torres marcó el 1-0 en la prórroga de la final del Mundial masculino de fútbol 2026. Las vibraciones del suelo, provocadas por la celebración simultánea de miles de personas, fueron captadas tanto por las redes del Instituto Geográfico Nacional (IGN) y del Institut Geològic i Cartogràfic de Catalunya (ICCG), como por los aparatos de la Red Sísmica Educativa de Geociencias Barcelona del Consejo Superior de Investigaciones Científicas.\nLos registros del IGN y del ICGC, procesados por el investigador de GEO3BCN-CSIC, Jordi Díaz, muestran señales en estaciones repartidas por toda la geografía española. El gráfico recoge la huella de la celebración en puntos tan distantes como Algeciras, Alcoy, Cádiz, Granada, Elda, Huelva, Granollers, Barcelona y Lleida.\nLos registros muestran tres picos bien diferenciados durante el partido, visibles de forma simultánea en los sensores de la red: el gol de Torres, un tanto que el VAR acabó anulando y la sacudida más intensa de la noche, la del pitido final.\nEn Cataluña, los datos de la Red Sísmica Educativa también analizados por Díaz ofrecen una radiografía más detallada. Las señales se registraron claramente en sensores situados en Sabadell, Mollet del Vallès, Santa Coloma de Gramenet, Barcelona, Banyoles, Olot y Torroella de Montgrí.\nLas vibraciones también se registraron en Sabadell durante el encuentro de semifinales contra Francia, gracias a un sismómetro de la Red Sísmica Educativa de GEO3BCN-CSIC. Los picos de movimiento en el subsuelo coincidieron con el primer gol de Mikel Oyarzabal (1-0), el posterior tanto de Pedro Porro (2-0) e, incluso, una vibración menor durante un gol que finalmente fue anulado. La mayor alteración del terreno se registró también tras el pitido final, momento en el que se certificó el pase de España a la final del Mundial 2026.\nAsimismo, en el partido de octavos contra Portugal, un acelerómetro del IGN en Algeciras ya había captado las vibraciones generadas por la celebración del gol de Mikel Merino.\nNo es la primera vez que los sismómetros documentan una gran noche del fútbol español. En la final de la Eurocopa 2024 contra Inglaterra, los registros de Madrid y Barcelona mostraron el mismo patrón. La multitud congregada en la plaza de Colón y en la plaza Catalunya hizo vibrar ambas ciudades con los goles de Nico Williams en el minuto 47 y Mikel Oyarzabal en el 86.\nEn Barcelona, los temblores se midieron con el sismómetro del ICGC situado en el Portal de l’Àngel, a menos de cien metros de la concentración de público. En Madrid, con el del IGN en el Real Observatorio, a menos de dos kilómetros de Colón.\nEsta sismicidad inducida por actividad humana e imperceptible en nuestro día a día ha sido documentada en varias ciudades del mundo con motivo de eventos deportivos y musicales multitudinarios. La particularidad de estos registros es que la señal no procede de los estadios, sino de los barrios y hogares donde la gente siguió el partido."
+  },
+  "sha256": {
+    "titular": "04b4e9494b9f12520e71f2295d4ff7c1a9348047f113ac2ee11eceb4fd8890fc",
+    "entradilla": "787251b90bfbcf352e93a6822e278eccc89c97abc5c448dc65aea72abd16adc9",
+    "cuerpo": "f40b80842ef314145966286523eab490984b71cae71420fcd8b297d4a156a0c9"
+  }
+}

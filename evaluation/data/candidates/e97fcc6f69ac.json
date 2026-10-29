@@ -1,0 +1,26 @@
+{
+  "id": "e97fcc6f69ac",
+  "url": "https://www.agenciasinc.es/Noticias/Un-tejido-que-se-desinfecta-solo-para-combatir-bacterias-hongos-y-virus-en-hospitales",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-09T09:33:00+02:00",
+  "fuente_y_derechos": "Fuente: UPV | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:51+00:00",
+  "campos": {
+    "titular": "Un tejido que se desinfecta solo para combatir bacterias, hongos y virus en hospitales",
+    "entradilla": "Una nueva investigación presenta una solución innovadora para mejorar las condiciones de higiene en los centros sanitarios y contribuir a reducir la presencia de microorganismos en superficies textiles de uso hospitalario.",
+    "cuerpo": "Un equipo del campus de Alcoy de la Universitat Politècnica de València (UPV), el Instituto de Tecnología Química (ITQ, CSIC-UPV), el Instituto Agroforestal del Mediterráneo (IAM UPV) y la Unidad Mixta de Investigación entre la UPV y el Instituto de Investigación Sanitaria del Hospital la Fe de Valencia (UPV-IISLaFe), ha desarrollado un nuevo tejido de algodón autodesinfectante que es capaz de eliminar bacterias, hongos y virus en entornos hospitalarios mediante luz visible.\n“El material incorpora dos compuestos fotoactivos que, al iluminarse, generan una especie muy reactiva de oxígeno que daña a los microorganismos adheridos a la tela para acabar con ellos”, explica Alberto Blázquez-Moraleja (ITQ CSIC-UPV).\n“Nuestro objetivo es desarrollar tejidos capaces de reducir la presencia de microorganismos tales como bacterias, hongos y virus en hospitales y otros entornos sanitarios, mitigando así algunos de los problemas que presentan los antimicrobianos convencionales, como la pérdida de eficacia con el uso o al lavarlos o favorecer la aparición de microorganismos resistentes. Y es lo que hemos conseguido en este trabajo”, señala Marilés Bonet del departamento de Ingeniería Textil y Papelera del campus de Alcoy de la UPV.\nEn los ensayos de laboratorio, el tejido inactivó por completo Escherichia coli en 60 minutos y Enterococcus faecalis en 20 minutos bajo iluminación. También logró reducir la presencia de Candida albicans en tres horas.\n“El material mantiene, además, una parte importante de su actividad tras sucesivos lavados. Incluso después de 20 ciclos, conservó una eficacia bactericida superior a los niveles de referencia utilizados para tejidos antimicrobianos”, señala Pilar Moya, del Instituto Agroforestal Mediterráneo de la UPV.\nLa validación hospitalaria se realizó en las habitaciones de 12 pacientes del Hospital Universitari i Politècnic La Fe de València. Los tejidos se colocaron durante 48 horas en dos zonas de las habitaciones: las barandillas de las camas, expuestas a la luz, y los colchones, con menor iluminación. Además, el equipo de investigadores utilizó tejidos de algodón sin tratar como control.\n“En las habitaciones del hospital, el tejido expuesto a la luz acumuló un 75 % menos de microorganismos que uno de algodón convencional colocado en las mismas condiciones. Cuando el material permaneció en una zona sin luz directa, la reducción fue mucho menor, tan solo del 25 %, confirmándose que su efecto antimicrobiano depende en gran medida de la iluminación. La eficacia fue especialmente alta frente a las bacterias Gram positivas, cuya presencia se redujo un 77,5 %”, señala Inmaculada Andreu, de la Unidad Mixta de Investigación UPV-IIS La Fe.\nSegún destaca el equipo de investigadores e investigadoras, el proceso utilizado para fabricar este tejido podría integrarse fácilmente en las técnicas habituales de acabado textil, lo que facilitaría el desarrollo a gran escala de nuevas prendas textiles autodesinfectantes para hospitales. El trabajo ha sido publicado en ACS Applied Materials & Interfaces."
+  },
+  "sha256": {
+    "titular": "d69e02cef525f3952d42dda5918dcd2917a0c9d92412148d1152cec9af5b2653",
+    "entradilla": "65d0ed444e4698aa7d0356b40ef73a263a51d4f536e7ae6b06eb37e417633102",
+    "cuerpo": "5995b5f991f1e84e64c4a4af3f4a3f84f836ad01e75b55f5b8068745723e8db8"
+  }
+}

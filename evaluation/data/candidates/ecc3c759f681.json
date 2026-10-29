@@ -1,0 +1,26 @@
+{
+  "id": "ecc3c759f681",
+  "url": "https://www.agenciasinc.es/Noticias/Asi-es-la-planta-que-Darwin-predijo-que-era-carnivora-hace-150-anos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-04T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:06+00:00",
+  "campos": {
+    "titular": "Así es la planta que Darwin predijo que era carnívora hace 150 años",
+    "entradilla": "La especie alpina Saxifraga candelabrum atrae, captura y digiere insectos, y obtiene nitrógeno de ellos. El hallazgo confirma una hipótesis formulada por Charles Darwin en 1875 y sitúa a esta planta en un linaje carnívoro hasta ahora desconocido.",
+    "cuerpo": "Si bien muchas plantas presentan rasgos carnívoros, como la captura de presas, para ser clasificadas formalmente como tales, deben mostrar adaptaciones para atraer, capturar, digerir y absorber nutrientes de sus presas.\nEn 1875, Charles Darwin postuló que algunas especies del género Saxifraga -un grupo de plantas con flores que se encuentran en ambientes alpinos- podrían ser carnívoras debido a la presencia de tricomas glandulares pegajosos que pueden atrapar insectos. Sin embargo, no se había encontrado evidencia concluyente que respalde esta hipótesis.\nAhora, un nuevo estudio, publicado en Nature Communications, demuestra que la Saxifraga candelabrum, una planta con flores, pertenece a un nuevo linaje carnívoro. Puede atraer, atrapar y digerir insectos, además de absorber nitrógeno de ellos, lo que respalda la predicción realizada por Charles Darwin hace más de 150 años.\nEl equipo de investigación, de China y Estados Unidos, estudió S. candelabrum, que crece en las zonas alpinas de la meseta Qinghai-Tíbet-Montañas Hengduan, China. Las observaciones de campo y los estudios de muestras de plantas existentes mostraron que había insectos presa en los tricomas glandulares de 43 de los 45 especímenes estudiados. Las plantas maduras presentaban un promedio de 71 insectos atrapados en total (encontrados predominantemente en estos tricomas).\nLos autores buscaron evidencia de digestión y absorción de nutrientes para consolidar su hipótesis. Utilizaron el marcaje por fluorescencia para identificar la actividad de la fosfatasa (una enzima digestiva que se encuentra comúnmente en plantas carnívoras), lo que sugiere que la planta puede digerir presas.\nDespués, alimentaron a la planta con Drosophila marcada con una forma estable de nitrógeno para analizar si era capaz de absorber nutrientes de las presas.\nLos autores observaron un aumento notable en los niveles de nitrógeno marcado entre S. candelabrum y plantas de control de otra especie carnívora, en contraste con los controles no carnívoros. Esto apoya la hipótesis del comportamiento carnívoro en esta especie.\nEl análisis genético reveló similitudes genómicas con otras plantas carnívoras que evolucionaron de forma independiente, incluyendo genes relacionados con la atracción de presas, la digestión y la absorción de nutrientes.\nEstos hallazgos proporcionan una sólida evidencia que respalda la hipótesis de Charles Darwin de que algunas especies de Saxifraga podrían ser carnívoras."
+  },
+  "sha256": {
+    "titular": "2e443c329edf61724a564d15e6b717f64e087a706fe0b815571814fd127039ae",
+    "entradilla": "abb85755dbfe1a5d717dc60c3d0d98441e901cad1cb850e90cad7638c4c0e845",
+    "cuerpo": "7df8a476eada1f13fd8ef4efdcd71def36212471e645879fd125343231f19299"
+  }
+}

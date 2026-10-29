@@ -1,0 +1,26 @@
+{
+  "id": "ca948105c842",
+  "url": "https://www.agenciasinc.es/Noticias/Logran-una-recuperacion-inesperada-de-la-vision-en-una-persona-ciega-mediante-microestimulacion-cerebral",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-03T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: UMH | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:53:57+00:00",
+  "campos": {
+    "titular": "Logran una recuperación inesperada de la visión en una persona ciega mediante microestimulación cerebral",
+    "entradilla": "Un paciente con ceguera total ha recuperado parte de su visión natural tras participar en un ensayo de estimulación eléctrica de la corteza visual. El caso plantea nuevas hipótesis sobre la capacidad del cerebro para reactivar circuitos visuales inactivos.",
+    "cuerpo": "Un paciente con ceguera total causada por un daño irreversible en el nervio óptico ha recuperado parcialmente la visión natural tras participar en un ensayo clínico de estimulación eléctrica de la corteza visual realizado por investigadores de la Universidad Miguel Hernández de Elche (UMH) y del Consorcio CIBER‑BBN. El caso, descrito en la revista Brain Communications, se observó en el marco de un estudio destinado a evaluar la seguridad y la viabilidad de una prótesis visual cortical y ha sorprendido al equipo al mostrar una recuperación espontánea, sostenida en el tiempo y no relacionada con el funcionamiento del implante.\nEl laboratorio de Neuroingeniería Biomédica de la UMH ha desarrollado cuatro ensayos clínicos con personas ciegas. En este contexto, el paciente —que había permanecido más de tres años en completa oscuridad— comenzó a percibir luces y movimientos tras la implantación de una matriz de 100 microelectrodos en la corteza visual primaria y la aplicación inicial de patrones eléctricos controlados.\n“Como en todos los ensayos, el objetivo era generar percepciones visuales artificiales”, explica Eduardo Fernández Jover, director del Instituto de Bioingeniería de la UMH. “No esperábamos una recuperación natural de la visión”.\nLa neuróloga Arantxa Alfaro Sáez, del Hospital de la Vega Baja de Orihuela y miembro del grupo NBio, destaca lo excepcional del caso: “Aunque se han descrito recuperaciones tras daños severos del nervio óptico, siempre ocurren en los primeros meses. Resulta extraordinario que aparezcan después de tanto tiempo”.\nDos días después de la cirugía, y mientras seguía hospitalizado, el participante comenzó a comunicar que veía luces y movimientos frente a él. Alfaro recuerda que “cuando movíamos los brazos, era capaz de describir dónde estábamos. Hablaba de sombras en movimiento”.\nDurante los meses siguientes, el voluntario realizó a diario ejercicios estandarizados para evaluar la percepción de luz, la localización espacial, el movimiento, la identificación de objetos y la lectura de letras y números. La recuperación se mantuvo incluso tras la retirada del implante, lo que refuerza la hipótesis de que el cerebro reactivó circuitos visuales que permanecían inactivos.\nSegún Leili Soo, investigadora de la UMH y coautora del estudio “los potenciales visuales evocados estaban prácticamente ausentes antes del estudio”. Con el paso de las semanas, estas señales reaparecieron y aumentaron en intensidad. El participante logró identificar formas y letras de manera consistente, mejorar la precisión al coger objetos y ganar autonomía en sus desplazamientos cotidianos.\nEl equipo considera que este caso puede contribuir al desarrollo de nuevas vías terapéuticas para personas con lesiones severas de las vías visuales, incluida la posibilidad de usar técnicas no invasivas como la estimulación eléctrica transcraneal. Aun así, Fernández Jover advierte que “estos resultados solo se han observado en uno de nuestros participantes”, por lo que aún no es posible determinar si el fenómeno puede reproducirse en otros pacientes.\nPersisten preguntas sobre cómo responde el cerebro a la estimulación prolongada, qué parámetros son más eficaces para inducir percepciones visuales y cómo influyen factores individuales como la duración de la ceguera o la patología concreta.\nEl grupo de la UMH ya había conseguido en estudios anteriores que personas ciegas percibieran formas y letras mediante implantes intracorticales, y había desarrollado un sistema de visión artificial capaz de establecer un diálogo bidireccional con la corteza visual. Estos avances permitieron que algunos participantes reconocieran objetos e incluso se orientaran en entornos complejos.\nEn este trabajo también participan Dorota Waclawczyk, Roberto Morollón y Fabrizio Grani, del Instituto de Bioingeniería de la UMH y de la Cátedra Bidons Egara. El estudio ha recibido financiación del Ministerio de Ciencia, Innovación y Universidades; la Unión Europea a través del programa Horizonte 2020; y el programa PROMETEO de la Generalitat Valenciana."
+  },
+  "sha256": {
+    "titular": "7cbd2118ce9d375aaa3ad13521591315446aeb5c9edb9d780053f728d918309f",
+    "entradilla": "afe7f43ead079b88192a65dadae3a9ecbdd0c5f90880ab4e573c1e88604a5713",
+    "cuerpo": "2d9560adeea85c50b9d0545b6c5b7fe07a99fa6df90d5f55bc4856bf5f7b540c"
+  }
+}

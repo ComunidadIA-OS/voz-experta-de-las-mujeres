@@ -1,0 +1,26 @@
+{
+  "id": "862ca1938de5",
+  "url": "https://www.agenciasinc.es/Noticias/Un-farmaco-reduce-a-la-mitad-los-dias-de-migrana-en-pacientes-sin-respuesta-a-otros-tratamientos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-09T11:36:00+02:00",
+  "fuente_y_derechos": "Fuente: IDIBELL | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Farmacología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:39:45+00:00",
+  "campos": {
+    "titular": "Un fármaco reduce a la mitad los días de migraña en pacientes sin respuesta a otros tratamientos",
+    "entradilla": "Un estudio multicéntrico realizado en 17 hospitales españoles muestra que el atogepant puede beneficiar a personas con migraña que no habían respondido a los tratamientos preventivos más avanzados, incluidos los anticuerpos monoclonales anti-CGRP. Los resultados se publican en The Journal of Headache and Pain.",
+    "cuerpo": "La migraña afecta a alrededor del 12 % de la población española. Aunque en los últimos años han aparecido nuevos tratamientos preventivos, algunas personas continúan sufriendo crisis frecuentes pese a haber agotado las opciones disponibles.\nUn estudio liderado por el Hospital Universitario de Bellvitge y el Instituto de Investigación Biomédica de Bellvitge (IDIBELL) señala que el atogepant, un fármaco oral que bloquea la proteína CGRP implicada en las crisis de migraña, puede convertirse en una alternativa para parte de estos pacientes.\nLa investigación, cuyos resultados se publican en la revista The Journal of Headache and Pain, se realizó en práctica clínica habitual y con la participación de 17 hospitales españoles. Incluyó a 252 personas con migraña de alta complejidad clínica. Todas habían probado sin éxito varios tratamientos preventivos, incluidos los anticuerpos monoclonales dirigidos frente al péptido relacionado con el gen de la calcitonina (CGRP).\nTras tres meses de tratamiento con atogepant, cerca del 30 % de los pacientes redujo al menos un 50 % los días de migraña. Además, un 44 % experimentó una mejoría clínica significativa y también disminuyeron la intensidad del dolor y la necesidad de medicación para tratar las crisis.\n“Cuando apareció este tratamiento, todos nos hacíamos la misma pregunta: ¿funcionaría también cuando los demás fármacos ya habían fracasado? Este estudio es el primero que nos permite responderla con datos obtenidos en la práctica clínica”, explica Albert Muñoz-Vendrell, neurólogo del Hospital Universitario de Bellvitge y primer firmante del estudio.\nA diferencia de los ensayos clínicos, este trabajo refleja la respuesta al tratamiento en pacientes atendidos en la práctica asistencial habitual, muchos de ellos con años de evolución de la enfermedad y múltiples fracasos terapéuticos. El análisis también muestra que cuanto mayor es el número de tratamientos preventivos que han fallado previamente, menor es la probabilidad de respuesta al atogepant, un dato que podría ayudar a orientar las decisiones terapéuticas y avanzar hacia un abordaje más personalizado.\nLos autores destacan que estos resultados aportan evidencia para el tratamiento de uno de los grupos de pacientes con mayores necesidades terapéuticas, aunque solo una parte de ellos obtiene una respuesta clínica relevante."
+  },
+  "sha256": {
+    "titular": "57ed3701048cc900efd922802c4c4380c50c400a1f78cf386a8f16db55e7bfe5",
+    "entradilla": "7f41725423e7b761a70509e51f0e5bcf3b2a18850b8876ec4326654470a7375a",
+    "cuerpo": "44ee5421f98c627cf19cd001da649ffab7a7c772dbea810e4a574124e875ad31"
+  }
+}

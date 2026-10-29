@@ -1,0 +1,26 @@
+{
+  "id": "18e36547ae02",
+  "url": "https://www.agenciasinc.es/Noticias/Un-nuevo-sistema-transforma-el-agua-en-un-arma-contra-las-bacterias-resistentes-a-los-antibioticos",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-09-30T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:32:32+00:00",
+  "campos": {
+    "titular": "Un nuevo sistema transforma el agua en un arma contra las bacterias resistentes a los antibióticos",
+    "entradilla": "Un nuevo sistema utiliza oxígeno natural para purificar el agua y eliminar tanto los microorganismos como su material genético residual, lo que evita la propagación de resistencias antimicrobianas.",
+    "cuerpo": "El rápido avance de la resistencia a los antibióticos en bacterias y otros patógenos durante el último medio siglo se ha convertido en una de las mayores amenazas sanitarias a escala global. Es cierto que la ciencia ha desarrollado estrategias para erradicar estos microbios del agua, pero la mayoría de los métodos tradicionales (como la desinfección con luz ultravioleta) presentan un grave inconveniente: eliminan las bacterias pero dejan intacto su ADN libre en el medio.\nLa persistencia de este material genético representa un riesgo ambiental, ya que puede ser absorbido por otros microorganismos y acelerar la diseminación de resistencias. Para superar este desafío, un equipo internacional de investigadores ha desarrollado un sistema innovador basado en el uso de agua y cristales de dióxido de titanio.\nEl estudio, publicado esta semana en la revista Chem Catalysis, detalla una técnica capaz de transformar el oxígeno presente de forma natural en el agua en una potente herramienta de oxidación.\nA diferencia de los procesos convencionales de desinfección que requieren la adición constante de oxidantes químicos, este sistema aprovecha los recursos del propio entorno mediante una catálisis avanzada que destruye tanto los patógenos como su información genética flotante.\nLa clave tecnológica de este avance radica en la ingeniería de la superficie de los cristales de dióxido de titanio, los cuales han sido diseñados con diminutos defectos estructurales conocidos como vacantes de oxígeno.\nAl incidir radiación lumínica sobre estos nanomateriales, las moléculas de oxígeno ordinario —el que respiramos— interactúan con dichos puntos de defecto y experimentan una transformación catalítica acelerada para convertirse en oxígeno singlete.\nAunque este último estado existe de forma natural, es sumamente inestable y reactivo, lo que le otorga una alta afinidad por buscar y atacar compuestos ricos en electrones, como los pares de bases del ADN.\n“Los defectos en los catalizadores no deben considerarse simplemente como imperfecciones en la estructura de un material”, indica el coautor Zhi Song, investigador de la Universidad Nacional de Minzu en China. “Cuando se diseñan adecuadamente, los defectos pueden regular activamente cómo interactúan las moléculas con las superficies catalíticas y determinar las vías a través de las cuales proceden las reacciones químicas”, añade el experto.\nCuando el oxígeno generado por los cristales entra en contacto con el material genético disperso en el agua, arranca electrones de sus bases mediante un proceso de oxidación. Como resultado de esta reacción, las cadenas de ADN se fragmentan, neutralizando de manera irreversible la información genética y previniendo que otros microorganismos puedan asimilarla.\nEn las pruebas experimentales realizadas por el equipo, los cristales demostraron una capacidad total para degradar moléculas relacionadas con el ADN disueltas en el medio acuoso.\nLos autores del trabajo subrayan que el desarrollo se encuentra en una fase preliminar y que todavía queda un largo camino por recorrer antes de que esta tecnología pueda implementarse a escala comercial en las plantas de tratamiento de agua potable. Entre los próximos pasos figura la evaluación exhaustiva de la seguridad ambiental y humana a largo plazo de estos catalizadores.\nNo obstante, al activar el oxígeno de una manera controlada y sin la necesidad de verter continuamente oxidantes químicos sintéticos, el método se perfila como una alternativa prometedora y sostenible para frenar la propagación de bacterias hiperresistentes en las redes de suministro.\n“A diferencia de los enfoques de desinfección convencionales que pueden requerir la adición continua de oxidantes químicos, este sistema utiliza oxígeno disponible de manera natural en el entorno para desinfectar el agua”, señala el coautor Xinjian Shi, de la Universidad de Henan.\nPor su parte, la coautora Boxia Liu recalca que “la persistencia de este material genético es una preocupación porque el ADN ambiental puede ser tomado por otros microorganismos, lo que potencialmente conduce a la propagación de la resistencia a los antibióticos”."
+  },
+  "sha256": {
+    "titular": "3a22e094af4aa2c71ac772af10885a66bb4d84a36193264abb9611dd8418efa1",
+    "entradilla": "b757809ae7b7d7cf884d0054091379248537b6cb02fc02725265cf2b2af79e46",
+    "cuerpo": "e2c63eac3ac21b289951af14686a95ade113f3e984359dfff6dd3d50543c9d5f"
+  }
+}

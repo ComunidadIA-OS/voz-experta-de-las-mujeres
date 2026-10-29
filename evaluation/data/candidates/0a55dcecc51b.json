@@ -1,0 +1,26 @@
+{
+  "id": "0a55dcecc51b",
+  "url": "https://www.agenciasinc.es/Noticias/Revelan-la-sorprendente-resistencia-del-genoma-humano-a-la-ausencia-de-gravedad",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-09-24T09:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:33:04+00:00",
+  "campos": {
+    "titular": "Revelan la sorprendente resistencia del genoma humano a la ausencia de gravedad",
+    "entradilla": "Investigadores de la Universidad de Nueva York desarrollan una tecnología innovadora para aislar el impacto de la gravedad en las células, demostrando que la organización del ADN se mantiene robusta y funcional tras 24 horas en condiciones de ingravidez simulada.",
+    "cuerpo": "Desde que se completara el Proyecto Genoma Humano, la comunidad científica ha desentrañado la secuencia detallada de nuestro código genético. Sin embargo, las reglas físicas que rigen su organización tridimensional siguen siendo objeto de intenso debate. Entre las incógnitas pendientes destaca el papel de una fuerza omnipresente en la Tierra: la gravedad.\nUn nuevo estudio publicado en la revista Science Advances aborda esta cuestión mediante el diseño de un entorno de microgravedad artificial, una estrategia que cumple un doble propósito. Por un lado, permite aislar el impacto gravitatorio sobre el genoma al eliminarlo como variable experimental; por otro, anticipa cómo se comporta el material genético en el espacio exterior, donde la gravedad es prácticamente inexistente.\n“En la Tierra, el papel de la gravedad es intrigante: ejerce una tensión mecánica constante sobre todo lo que nos rodea”, explica Alexandra Zidovska, profesora asociada del departamento de Física de la Universidad de Nueva York y directora del estudio. “Queríamos saber qué función cumple la gravedad en la organización y el funcionamiento del genoma aquí en la Tierra. Para descubrirlo, es necesario eliminarla como fuerza, por lo que simulamos la gravedad cero en nuestros experimentos”.\nPara resolver este desafío técnico, los investigadores diseñaron un complejísimo dispositivo de laboratorio: una máquina de posicionamiento aleatorio que permite obtener imágenes del genoma humano en células vivas. Asimismo, prepararon muestras celulares libres de burbujas de aire para evitar interferencias en las mediciones y programaron rotaciones tridimensionales complejas que emulan la ingravidez, de manera similar a los equipos de entrenamiento espacial de los astronautas.\nAdemás, el equipo desarrolló algoritmos de rotación en tres dimensiones capaces de minimizar los flujos de fluidos inherentes a estos movimientos, los cuales suelen distorsionar los resultados en estudios previos. Esta innovación tecnológica redujo tanto la formación de flujos indeseados como los agregados celulares que obstaculizaban la observación microscópica.\nPara evaluar los efectos, los científicos compararon células expuestas a microgravedad simulada con flujos minimizados frente a células sometidas a flujos intensos y grupos de control sin exposición. Tras veinticuatro horas de análisis mediante técnicas avanzadas de imagen, examinaron cambios en la morfología celular y también en la envoltura del núcleo o la organización del genoma.\nLos resultados demostraron que la forma celular se alarga notablemente cuando se somete a flujos de fluidos, pero permanece inalterada bajo la microgravedad simulada. No obstante, el volumen del núcleo celular experimentó un incremento tras la exposición a la gravedad cero, lo que sugiere que la fuerza gravitatoria terrestre actúa comprimiéndolo de manera natural.\nPese a las variaciones en el volumen nuclear, el grosor y la estructura de la envoltura del núcleo no sufrieron alteraciones significativas, lo que indica que la gravedad ejerce un impacto mínimo sobre estos componentes. Del mismo modo, el genoma conservó intacta su organización fisiológica y su dinámica habitual tras veinticuatro horas de simulación espacial.\nEl análisis también confirmó que la microgravedad simulada no induce daños en el ADN por sí misma, a diferencia de los flujos intensos, que sí provocan alteraciones genéticas. Por su parte, el nucléolo adoptó una apariencia más lisa tanto en condiciones de microgravedad como bajo la influencia de flujos.\n“Nuestros datos muestran que el genoma, su organización y su dinámica son increíblemente robustos y parecen no verse afectados por la gravedad, o por su ausencia, tras veinticuatro horas”, concluye Zidovska. Estos hallazgos sugieren que la estructura física del genoma humano podría experimentar modificaciones mínimas durante estancias prolongadas en el espacio, aunque los científicos advierten que variaciones adicionales podrían materializarse con exposiciones más extensas debido al daño acumulativo en el ADN."
+  },
+  "sha256": {
+    "titular": "3805ccf271b71efec8cd6c79882ab28d1092f2f06d86fac4f52297b63c090270",
+    "entradilla": "ec358cbfab83704ca755ce7557df6ddd6b011495e8e78c60ecd336af8a45a64c",
+    "cuerpo": "a585a5147f8d9b802c8ca517ff1244e15ffd5d45688098875097a92a66fe666a"
+  }
+}

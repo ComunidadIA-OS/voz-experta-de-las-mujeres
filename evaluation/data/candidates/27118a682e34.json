@@ -1,0 +1,26 @@
+{
+  "id": "27118a682e34",
+  "url": "https://www.agenciasinc.es/Noticias/Por-que-la-mayoria-de-las-personas-utiliza-la-mano-derecha-en-vez-de-la-izquierda",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-20T12:00:00+02:00",
+  "fuente_y_derechos": "Fuente: Universidad de Oxford | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:44:45+00:00",
+  "campos": {
+    "titular": "¿Por qué la mayoría de las personas utiliza la mano derecha en vez de la izquierda?",
+    "entradilla": "Los seres humanos son los únicos primates que tienen preferencia por una de las dos manos, y alrededor del 90 % tiene predilección por la derecha. Un estudio reciente de la Universidad de Oxford expone que se debe al bipedismo y al crecimiento del cerebro.",
+    "cuerpo": "Uno de los enigmas más extraños de la evolución humana es la elección de nuestra mano dominante durante la infancia. La mayoría de la gente suele ser diestra y una nueva investigación, publicada en Plos Biology, revela que esta decisión podría deberse a caminar a dos piernas y a la expansión del cerebro.\nEn concreto, un 90 % de las personas de todas las culturas humanas emplean la mano derecha, una elección única en el reino de los primates porque ninguna otra especie parece mostrar una preferencia poblacional de tal magnitud.\nA pesar de décadas de investigación sobre el cerebro, los genes y el desarrollo, investigadores de la Universidad de Oxford claudican en que la respuesta se reduce a la forma en la que evolucionaron los humanos.\nEl estudio recopiló datos de individuos de 41 especies de monos y simios y se utilizaron modelos bayesianos que tuvieron en cuenta las relaciones evolutivas entre familias para poner a prueba las hipótesis sobre el desarrollo de la lateralidad. Entre ellas, se valoraron el uso de herramientas, la dieta, el hábitat, la masa corporal, la organización social, el tamaño del cerebro y la locomoción.\nLos seres humanos se situaron al margen de los patrones vistos en el resto de los primates. Pero cuando los expertos analizaron el tamaño del cerebro y la relación entre la longitud de los brazos y las piernas –un indicador anatómico de la locomoción bípeda–, esa excepcionalidad desapareció. En otras palabras, una vez que se tuvieron en cuenta la marcha erguida y el tamaño del cerebro, los seres humanos dejaron de parecer una anomalía evolutiva.\nAl utilizar estos modelos, el equipo pudo estimar la probable lateralidad en los antepasados humanos extintos. Los primeros homínidos como el Ardipithecus y el Australopithecus tenían una leve preferencia por la mano derecha, un factor similar a los grandes simios modernos. Con la aparición de la variante Homo, este sesgo se reforzó de forma notable en el Homo ergaster, el Homo erectus y los neandertales hasta alcanzar al Homo sapiens.\nNo obstante, hay una excepción: el Homo floresiensis –una especie procedente de Indonesia– que muestra una preferencia mucho más débil de lo previsto. Los investigadores creen que esto encaja en el patrón general, ya que esta familia evolutiva tenía un cerebro más pequeño y un cuerpo adaptado a caminar de forma bípeda y a trepar.\nLos hallazgos apuntan a un proceso en dos etapas. Primero apareció la marcha bípeda, lo que liberó a las manos de la tarea de la locomoción y generó una nueva presión selectiva para el desarrollo de un comportamiento manual y preciso. El aumento de la capacidad cerebral surgió más tarde, y a medida que creció, la tendencia hacia el lado derecho se consolidó hasta convertirse en el patrón casi universal que observamos en la actualidad.\nSegún indica el investigador de la institución inglesa, Thomas Püschel, este trabajo es de los primeros que ponen a prueba varias de las principales hipótesis sobre la lateralidad humana en exclusiva.\n“Nuestros resultados sugieren que la preferencia por la mano derecha esté ligada a algunas características que nos hacen humanos porque, al analizar muchas especies de primates, empezamos a comprender qué aspectos son antiguos y compartidos, y cuáles son exclusivamente humanos”, concluye."
+  },
+  "sha256": {
+    "titular": "586ab1404847a2c70dbf020ecf4bc3241ec1a42b48d998060b68b0ea17f89298",
+    "entradilla": "baee96fe68cc7c6cfb7361bd1d3838b9d6a6a1ebf935de406e14151be9ea0ea2",
+    "cuerpo": "42c1f6ddcb99b922df7a856b8d21ed4b2ce21526ef3bbfc45b6342d3fe553720"
+  }
+}

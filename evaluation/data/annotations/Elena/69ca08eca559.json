@@ -1,0 +1,195 @@
+{
+  "article_id": "69ca08eca559",
+  "url": "https://www.agenciasinc.es/Noticias/El-dolor-cronico-puede-aumentar-el-riesgo-de-hipertension-en-adultos",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:14+00:00",
+  "article_sha256": {
+    "titular": "a67f608b6e48c36284460829869e6bd9e795d80d919c86c2144fc02c0d2dcb77",
+    "entradilla": "b5f10e1344dab2261db1e2ba0783ab08872cee2caf75f0a60a3a7d45cc5aa4df",
+    "cuerpo": "885cb7fae5c8fddeb492e26a8311caf4e6d54160d57be506720d4ea23b52db9a"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Jill Pell,",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "profesora de Salud Pública en la Universidad de Glasgow",
+      "gender_representation": "woman",
+      "gender_evidence": "autora principal",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Daniel W. Jones",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "presidente de las guías de hipertensión de 2025,",
+      "gender_representation": "man",
+      "gender_evidence": "presidente",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Cuanto más extendido es el dolor, mayor es el riesgo de hipertensión”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Al atender a personas con dolor, los profesionales deben saber que tienen más riesgo de hipertensión, directa o indirectamente a través de la depresión”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Sabíamos que el dolor eleva la presión a corto plazo, pero este estudio muestra cómo el dolor crónico influye a largo plazo y cómo la inflamación y la depresión median en esa relación",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "indirect",
+      "text": "Jones propone ensayos clínicos para evaluar estrategias de manejo del dolor y su impacto en la presión arterial, especialmente por el uso de antiinflamatorios como el ibuprofeno, que también puede aumentar la presión.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793121440229",
+        "nombre": "Jill Pell,",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 658,
+            "fin16": 668,
+            "texto": "Jill Pell,",
+            "inicio": 658,
+            "fin": 668
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 669,
+          "fin16": 685,
+          "texto": "autora principal",
+          "inicio": 669,
+          "fin": 685
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 578,
+            "fin16": 648,
+            "texto": "“Cuanto más extendido es el dolor, mayor es el riesgo de hipertensión”",
+            "tipo": "directa",
+            "inicio": 578,
+            "fin": 648
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2577,
+            "fin16": 2731,
+            "texto": "“Al atender a personas con dolor, los profesionales deben saber que tienen más riesgo de hipertensión, directa o indirectamente a través de la depresión”,",
+            "tipo": "directa",
+            "inicio": 2577,
+            "fin": 2731
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 688,
+          "fin16": 743,
+          "texto": "profesora de Salud Pública en la Universidad de Glasgow",
+          "inicio": 688,
+          "fin": 743
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793121484879",
+        "nombre": "Daniel W. Jones",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2745,
+            "fin16": 2760,
+            "texto": "Daniel W. Jones",
+            "inicio": 2745,
+            "fin": 2760
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2762,
+          "fin16": 2772,
+          "texto": "presidente",
+          "inicio": 2762,
+          "fin": 2772
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2818,
+            "fin16": 3002,
+            "texto": "“Sabíamos que el dolor eleva la presión a corto plazo, pero este estudio muestra cómo el dolor crónico influye a largo plazo y cómo la inflamación y la depresión median en esa relación",
+            "tipo": "directa",
+            "inicio": 2818,
+            "fin": 3002
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3003,
+            "fin16": 3220,
+            "texto": "Jones propone ensayos clínicos para evaluar estrategias de manejo del dolor y su impacto en la presión arterial, especialmente por el uso de antiinflamatorios como el ibuprofeno, que también puede aumentar la presión.",
+            "tipo": "indirecta",
+            "inicio": 3003,
+            "fin": 3220
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2762,
+          "fin16": 2810,
+          "texto": "presidente de las guías de hipertensión de 2025,",
+          "inicio": 2762,
+          "fin": 2810
+        },
+        "participacion": "comenta"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 104
+  }
+}

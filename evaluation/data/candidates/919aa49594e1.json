@@ -1,0 +1,26 @@
+{
+  "id": "919aa49594e1",
+  "url": "https://www.agenciasinc.es/Noticias/Fragmentos-de-ADN-podrian-sobrevivir-en-rocas-de-Marte-durante-mas-de-100-millones-de-anos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-11-14T11:35:00+01:00",
+  "fuente_y_derechos": "Fuente: CAB | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:58:57+00:00",
+  "campos": {
+    "titular": "Fragmentos de ADN podrían sobrevivir en rocas de Marte durante más de 100 millones de años",
+    "entradilla": "Una investigación liderada por el Centro de Astrobiología revela que el material genético puede conservar información biológica incluso bajo la intensa radiación marciana. Basado en experimentos con rocas terrestres análogas, el estudio sugiere que estas moléculas podrían actuar como biomarcadores en la búsqueda de vida pasada en el planeta rojo.",
+    "cuerpo": "El Centro de Astrobiología (CAB, CSIC-INTA), ha liderado un estudio que muestra que fragmentos de ADN podrían conservarse en rocas de Marte durante más de 100 millones de años si la vida hubiera surgido allí. El trabajo, publicado en Communications Earth & Environment, plantea que estas moléculas esenciales habrían podido actuar como biomarcadores de vida pasada.\nLa investigación se inspira en un descubrimiento clave del rover Curiosity en el cráter Gale, donde detectó carbono orgánico y moléculas simples en rocas sedimentarias de 3 500 millones de años.\nEstas rocas permanecieron enterradas casi toda su historia y solo se expusieron a la radiación cósmica en los últimos 78 millones de años. Este dato llevó al equipo a plantear una pregunta central: ¿podría el ADN resistir esas condiciones extremas y conservar información biológica?\nPara responderla, los investigadores trabajaron con rocas sedimentarias terrestres análogas a las marcianas, con contenidos de carbono similares a los detectados por Curiosity. Las muestras, procedentes de distintos entornos geológicos, contienen microbiomas adaptados a utilizar el carbono orgánico de la roca y a realizar reacciones basadas en la química de los minerales.\nCon apenas medio gramo de cada roca, el equipo logró extraer y secuenciar cientos de miles de nucleobases mediante tecnología de secuenciación por nanoporo en una sala ultra-limpia, con el fin de evitar contaminación. Además, las rocas se sometieron a dosis extremas de radiación gamma equivalentes a más de 100 millones de años de exposición en la superficie marciana.\nLos resultados fueron claros: mientras moléculas orgánicas pequeñas, como aminoácidos o lípidos, se degradan rápidamente bajo radiación, el ADN puede conservar fragmentos reconocibles a pesar de los daños irreversibles. Entre el 1,5 % y el 8 % del material genético resultó secuenciable, lo que permitió realizar asignaciones filogenéticas.\nCada tipo de roca albergaba, además, un microbioma característico: desde microorganismos adaptados a la aridez extrema hasta comunidades que utilizan el hierro.\nLa investigación ha contado con la participación de equipos internacionales, entre ellos el Servicio de Secuenciación y Bioinformática de la Fundación Fisabio, que ha contribuido al análisis de los fragmentos mediante tecnología de secuenciación por nanoporo.\nEste hallazgo llega en un momento crucial para la exploración de Marte. El rover Perseverance ya ha identificado rocas con posibles biomarcadores en el cráter Jezero, pero para confirmar si hubo vida será necesario traer muestras a la Tierra. Este objetivo forma parte de las misiones Mars Sample Return de la NASA y la ESA, así como de la misión Tianwen-3 del programa espacial chino.\n“Nuestros resultados refuerzan la idea de que el ADN es uno de los mejores candidatos para detectar señales de vida en ambientes extremos y planetarios”, señala la investigadora principal, María-Paz Zorzano, del CAB.\nSegún los autores, este trabajo demuestra que con las tecnologías actuales bastaría medio gramo de roca marciana para acercarnos un paso más a responder una de las preguntas más trascendentes de la ciencia: ¿Estamos solos en el universo?"
+  },
+  "sha256": {
+    "titular": "5c18ae49651615de0be27cb2333e9de893569957c58a49484114482e4c2e2912",
+    "entradilla": "72c1c458d0fab34c9ce3da5fdb28df80e3288683560a79e82e6e053c089a0de0",
+    "cuerpo": "1d6e71f401ca7545629a7b3cce4fe89bf321c5f72e34467ec4211aa459e2e532"
+  }
+}

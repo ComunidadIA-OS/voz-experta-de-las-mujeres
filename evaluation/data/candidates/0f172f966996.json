@@ -1,0 +1,26 @@
+{
+  "id": "0f172f966996",
+  "url": "https://www.agenciasinc.es/Noticias/Un-GPS-celular-permite-dirigir-mitocondrias-sanas-a-celulas-danadas-y-frenar-su-degeneracion",
+  "autoria": "Ana Hernando",
+  "fecha_publicacion": "2026-04-16T12:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:47:30+00:00",
+  "campos": {
+    "titular": "Un ‘GPS celular’ permite dirigir mitocondrias sanas a células dañadas y frenar su degeneración",
+    "entradilla": "MitoCatch resuelve uno de los grandes retos del trasplante mitocondrial: dirigir estas estructuras energéticas a tipos celulares concretos. El estudio, liderado por la española Verónica Moreno, muestra resultados prometedores en células humanas, tejidos y modelos animales, y abre vías para tratar enfermedades relacionadas con alteraciones en el funcionamiento celular.",
+    "cuerpo": "Un equipo internacional ha desarrollado MitoCatch, una tecnología que permite trasladar mitocondrias —las estructuras celulares encargadas de producir energía— a tipos celulares concretos. El trabajo, validado en células humanas, tejidos y modelos animales, abre nuevas posibilidades para abordar enfermedades en las que la disfunción mitocondrial desempeña un papel clave.\nLos resultados del trabajo, cuya primer autora es Verónica Moreno Juan, investigadora en el Instituto de Oftalmología Molecular y Clínica de Basilea (Suiza) se publican esta semana en Nature.\nLas mitocondrias son esenciales para el funcionamiento de las células. Cuando fallan, pueden desencadenar patologías graves, desde enfermedades neurodegenerativas hasta problemas cardíacos. En los últimos años, el trasplante de mitocondrias sanas se ha explorado como posible estrategia terapéutica, pero con una limitación importante: la falta de control sobre a qué células llegaban.\n“MitoCatch es una tecnología que hemos desarrollado para trasplantar mitocondrias sanas a células concretas”, explica a SINC Moreno. “Hasta ahora no había una forma eficaz de asegurarse de que llegaran exactamente a las células diana”.\nLa tecnología se basa en un sistema de reconocimiento molecular diseñado a medida. MitoCatch emplea proteínas de unión que actúan como un sistema de acoplamiento entre las mitocondrias donantes y las células objetivo.\nDe forma simplificada, este sistema funciona como una especie de ‘GPS celular’ capaz de guiar las mitocondrias hasta los tipos de células adecuados.\n“Reconocen el tipo de célula y facilitan que las mitocondrias entren en ella de forma selectiva”, resume Moreno.\nEl sistema incluye distintas aproximaciones —proteínas ancladas a la superficie celular, a la propia mitocondria o moléculas que conectan ambas— que permiten ajustar tanto la eficiencia como la precisión del proceso. En los experimentos, los investigadores lograron dirigir mitocondrias a neuronas, células de la retina, del corazón, endoteliales e inmunes.\nUna vez en el interior de la célula, las mitocondrias trasplantadas no solo sobreviven, sino que se integran funcionalmente: se mueven, se fusionan con las mitocondrias propias de la célula y contribuyen a su metabolismo energético.\nEl potencial de MitoCatch es amplio. Según la investigadora, podría aplicarse en enfermedades en las que el daño mitocondrial posee un papel central.\n“El mayor potencial está en enfermedades neurodegenerativas, patologías del nervio óptico y enfermedades cardíacas”, señala Moreno. A más largo plazo, la tecnología también podría explorarse en el trasplante de órganos para reducir el daño asociado a la falta temporal de riego sanguíneo, o en terapias celulares para mejorar su eficacia metabólica, aunque estas aplicaciones aún tendrían que validarse de forma específica.\nPese a los buenos resultados obtenidos, los investigadores subrayan que el trabajo se encuentra todavía en una fase inicial.\n“Todavía es pronto para hablar de plazos concretos”, explica Moreno a SINC. “Lo que tenemos ahora es una validación inicial muy sólida, con resultados prometedores en células humanas y en modelos animales”.\nEn su grupo, la enfermedad que más interés despierta de cara al futuro es la neuropatía óptica hereditaria de Leber, una enfermedad rara que destruye el nervio óptico y provoca ceguera. “En este caso, el objetivo es dirigir mitocondrias sanas a las células más vulnerables de la retina”, indica.\nAntes de llegar a ensayos clínicos, añade, queda trabajo por delante: “Hay que evaluar la eficacia a largo plazo, la seguridad, la dosis adecuada y qué enfermedades concretas se beneficiarían más”. El horizonte, concluye, es “de años, no algo inmediato”.\nEl trabajo aporta una nueva forma de abordar la disfunción mitocondrial, ya que permite dirigir estas estructuras energéticas a células específicas. MitoCatch se perfila como una herramienta para investigar cómo reparar tejidos dañados desde dentro y explorar nuevas terapias de precisión, según los autores."
+  },
+  "sha256": {
+    "titular": "713a427eb97c8ff7ace1f4525e0206cc5f6928cbd4cf4e083fe03127eff09e21",
+    "entradilla": "249d7ad149ea67908634a9436a290cba645fc5b33270b91bf718b03125f6c140",
+    "cuerpo": "96f537c9dc5331db2e79a0a7bfd44f9b3a136e976de6fa87a7c1e71bdcd3b088"
+  }
+}

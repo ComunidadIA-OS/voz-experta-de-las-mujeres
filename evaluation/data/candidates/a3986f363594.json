@@ -1,0 +1,26 @@
+{
+  "id": "a3986f363594",
+  "url": "https://www.agenciasinc.es/Noticias/Las-relaciones-homosexuales-entre-primates-se-asocian-a-factores-sociales-y-ecologicos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-13T12:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:55:41+00:00",
+  "campos": {
+    "titular": "Las relaciones homosexuales entre primates se asocian a factores sociales y ecológicos",
+    "entradilla": "Investigadores del Imperial College de Londres han analizado datos de 491 especies y encontrado evidencia de coito y otras prácticas sexuales entre individuos del mismo sexo en 59 de ellas. El hallazgo ofrece información sobre la evolución de estos animales, su estructura social y comportamiento.",
+    "cuerpo": "Las prácticas sexuales como el coito o la monta en primates no humanos del mismo tipo biológico se asocia a aspectos evolutivos, ambientales y a la estructura social de estos animales. Un estudio, publicado en Nature Ecology & Evolution, sugiere que dichas relaciones no son nada simples ni directamente adaptativas, sino que proceden de interacciones complejas que dependen del contexto y factores internos y externos.\nEn concreto, su ritmo de vida viene determinado por características ambientales que condicionan la complejidad social y conducen a que prevalezcan determinados fenómenos como el coito entre individuos del mismo sexo.\nPara saberlo, un grupo de investigadores del Imperial College de Londres analizó datos de 491 especies de primates no humanos y encontraron evidencias de contacto sexual en 59 de ellas. Asimismo, hallaron recurrencia en 23 de estas especies, lo que les permitió analizar la prevalencia de la actividad en diferentes contextos.\nLos autores encontraron que estas interacciones eran más comunes en primates que vivían en entornos duros o secos con alimentos limitados como los macacos de Berbería o de alto riesgo de depredación como en el caso de los cercopitecos verdes.\nTambién era más frecuente en especies pequeñas, en las que existen diferencias de tamaño o apariencia entre los sexos –el gorila de montaña–, longevas como los chimpancé, y en aquellas que vivían dentro de sistemas sociales y jerarquías complejos como por ejemplo, los babuinos.\nEste tipo de comportamiento ya se ha observado en otras especies. Algunas teorías indicaban que podía ser hereditario y conferir ventajas físicas, aunque no explicaban otros aspectos evolutivos y ecológicos.\nOtros estudios también proponían que las relaciones sexuales entre estos individuos ayudaban a gestionar las relaciones sociales y a potenciar las dinámicas de grupo. En concreto, se registraban a la hora de formalizar alianzas o reducir tensiones.\nDada la similitud de estos factores en todas las especies de primates estudiadas, los autores especulan qué factores similares podrían estar implicados en la explicación del comportamiento sexual entre personas del mismo sexo tanto en los homínidos ancestrales como en los humanos actuales.\nSin embargo, advierten que hay que tener cuidado con la interpretación de sus hallazgos y subrayan que su investigación no aborda la orientación sexual, la identidad o la experiencia vital de los seres humanos."
+  },
+  "sha256": {
+    "titular": "777209d771d76528b80d38b140aa44ffb30e91172fb76f2945d186ada22447c3",
+    "entradilla": "af592c8dc504f7b0fe00e4366b355684a46957c620c10cbf64748b088177e90b",
+    "cuerpo": "514e847ec63a5cc34381539432721708321ef369c4c06343b57ee9d4891eee1a"
+  }
+}

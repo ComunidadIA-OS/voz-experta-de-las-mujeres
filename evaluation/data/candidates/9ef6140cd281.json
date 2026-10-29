@@ -1,0 +1,26 @@
+{
+  "id": "9ef6140cd281",
+  "url": "https://www.agenciasinc.es/Noticias/Microbios-terrestres-podrian-sobrevivir-en-zonas-protegidas-del-polo-sur-de-la-Luna",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-08-20T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:35:46+00:00",
+  "campos": {
+    "titular": "Microbios terrestres podrían sobrevivir en zonas protegidas del polo sur de la Luna",
+    "entradilla": "Un análisis de la topografía y las condiciones de radiación en las regiones polares lunares revela que existen nichos microclimáticos donde bacterias y hongos extremófilos traídos por misiones humanas podrían mantenerse viables en estado latente.",
+    "cuerpo": "Si hubieran preguntado a un astrobiólogo hace unos años si alguna forma de vida terrestre sería capaz de sobrevivir en la superficie de la Luna, probablemente su respuesta habría sido que las condiciones —caracterizadas por una radiación ultravioleta implacable, el vacío de espacio y oscilaciones térmicas extremas— constituían una barrera insuperable. Sin embargo, un nuevo estudio detallado de las condiciones ambientales en el polo sur de la Luna sugiere que este entorno podría ser considerablemente menos estéril de lo proyectado para ciertos microorganismos acompañantes de la exploración humana.\nEl trabajo, publicado este miércoles en la revista Science Advances, ha sido liderado por un equipo de investigadores del Centro de Vuelo Espacial Goddard de la NASA. Utilizando modelos topográficos de alta resolución obtenidos mediante altimetría láser y mediciones térmicas del instrumento Diviner a bordo de la sonda Lunar Reconnaissance Orbiter (LRO), los científicos simularon los niveles de radiación ultravioleta (UV) y temperatura a escala local.\nAl cruzar estos mapas con los límites conocidos de tolerancia para cinco especies microbianas asociadas habitualmente a hábitats espaciales y salas limpias (entre ellas las bacterias Bacillus subtilis, Deinococcus radiodurans y Staphylococcus aureus, así como los hongos Aspergillus niger y Fusarium), el equipo identificó áreas con sombra persistente y temperaturas moderadas donde estas especies podrían resistir.\nLa clave radica en la geometría solar de los polos lunares. Al incidir el Sol con ángulos muy bajos respecto al horizonte, la topografía de los cráteres crea microentornos donde la dosis acumulada de luz ultravioleta es drásticamente menor. En estos nichos protegidos, microorganismos resistentes como el hongo Aspergillus niger podrían sobrevivir durante varios días e incluso semanas en un estado de latencia.\nEl estudio subraya una distinción fundamental: supervivencia no equivale a crecimiento. En ausencia de agua líquida estable y una atmósfera densa, las células no pueden multiplicarse ni desarrollar metabolismo activo. Sin embargo, la persistencia de células viables o esporas en el terreno implica que la vida microbiana introducida inadvertidamente durante las misiones podría conservar su capacidad reproductiva si fuera reubicada posteriormente en condiciones habitables.\n“Comprender la existencia de estos nichos potencialmente aptos para la supervivencia microbiana es crucial para diseñar estrategias de exploración que protejan la integridad científica de la Luna”, señala Prabal Saxena, investigador del Centro Goddard de la NASA y autor principal del estudio. “A medida que nos preparamos para una presencia humana continuada en el polo sur mediante el programa Artemis, el riesgo de contaminación orgánica cruzada cobra una relevancia sin precedentes”.\nLas áreas evaluadas en la investigación incluyen sitios de aterrizaje candidatos para la misión Artemis III de la NASA, como las regiones de Nobile Rim y Connecting Ridge. En estas zonas, incluso las pequeñas depresiones creadas por huellas de botas, ruedas de rover o excavaciones de regolito podrían generar sombras a escala submétrica capaces de albergar microorganismos a salvo de la radiación directa.\nEste hallazgo cuestiona los modelos tradicionales de contaminación hacia adelante en la Luna y sugiere la necesidad de revisar los protocolos de protección planetaria en las denominadas Regiones Sombra Permanente (PSR).\nLa presencia de material biológico latente o biomoléculas asociadas a la actividad humana podría dificultar la búsqueda de volátiles primordiales y compuestos orgánicos prebióticos preservados en el hielo lunar. Al mismo tiempo, los autores destacan que estos nichos ofrecen una oportunidad única para estudiar la resistencia del material biológico en entornos extraterrestres como paso previo a la exploración de Marte."
+  },
+  "sha256": {
+    "titular": "5fcc9931c4dc29ea75c2946fec271c3fa4c54f0ec90897347130a1bc6e2c5add",
+    "entradilla": "1c775dcc5f488f40d2f82671c73cf2f13303045be57eb2788512a371f1b095bd",
+    "cuerpo": "762dbafc0a00d800faf0662d34f871db01b834491a09a82e18532e5035c3ba0e"
+  }
+}

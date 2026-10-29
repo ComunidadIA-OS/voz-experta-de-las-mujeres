@@ -1,0 +1,26 @@
+{
+  "id": "44b952dbda18",
+  "url": "https://www.agenciasinc.es/Noticias/La-edad-altera-la-respuesta-inmunitaria-en-las-infecciones-de-roedores",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-14T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:55:31+00:00",
+  "campos": {
+    "titular": "La edad altera la respuesta inmunitaria en las infecciones de roedores",
+    "entradilla": "Una investigación norteamericana revela que los mismos procesos defensivos que protegen a los ratones durante su juventud los dañan cuando son viejos. Todavía queda por confirmar si estos mecanismos se aplican también en seres humanos.",
+    "cuerpo": "El sistema inmunitario es la primera línea de defensa frente a las infecciones y debe regular su actividad para combatirlas con un coste mínimo para el organismo. No obstante, esas mismas respuestas protectoras en la juventud pueden provocar inflamación crónica, autoinmunidad o daño tisular a edades avanzadas.\nEste concepto en el que una misma respuesta biológica resulta beneficiosa en etapas tempranas de la vida pero perjudicial cuando se es más adulto se denomina pleiotropía antagónica.\nEn un estudio en ratones publicado en la revista Nature, investigadoras del Instituto Salk de Estudios Biológicos (EE UU) aportan evidencias de esta teoría y revelan la forma en que la edad remodela los mecanismos que antes garantizaban la supervivencia.\nEn concreto, la tolerancia a las enfermedades es una estrategia defensiva del organismo para superar infecciones víricas o bacterianas, ya que es capaz de limitar el daño fisiológico sin matar a los patógenos.\nSin embargo, la forma en la que el cuerpo responde a esta enfermedad o patología puede cambiar a lo largo de la vida del huésped debido a modificaciones fisiológicas estructurales y funcionales que se acumulan con la edad.\nDado que las respuestas exitosas requieren que el huésped active mecanismos que sean compatibles con el curso de la patología causada por una infección, las investigadoras predijeron que esta estrategia de defensa cambiaría con la edad.\nPara saberlo, las autoras estudiaron un modelo animal de sepsis polimicrobiana al infectar ratones jóvenes y viejos con dos bacterias que suelen ser responsables de la septicemia en seres humanos.\nUtilizaron una mezcla de la bacteria Escherichia coli y Staphylococcus aureus en ratones de 12 semanas –entre 20 y 30 años en años humanos– y de 75 semanas (entre 56-69 años humanos). Durante el proceso se dieron cuenta de que, a pesar de recibir la misma dosis infecciosa, los roedores tuvieron trayectorias de la enfermedad muy distintas.\nMientras que los roedores jóvenes sufrieron de agrandamiento de corazón y congestión multiorgánica, los sujetos de edad avanzada mostraron todo lo contrario: su músculo miocárdico se hizo más pequeño.\nAsimismo, el análisis molecular demostró que las proteínas Fox01 y MuRF1 que protegían a los corazones jóvenes del daño séptico empeoraba el pronóstico en ratones mucho más mayores. El bloqueo de dichas proteínas mejoró la supervivencia en los segundos, pero perjudicó a los primeros; lo que demuestra la complejidad de las respuestas específicas en especímenes que tienen diferente edad.\nActualmente, los tratamientos contra la sepsis suelen suprimir la actividad inmunitaria, y aunque su empleo pueda beneficiar a los pacientes adultos, esta investigación advierte que podría perjudicar a los que poseen una edad temprana.\nTodavía son necesarias más investigaciones que determinen con precisión los procesos que provocan la mortalidad en distintos grupos de edad. Estos hallazgos podrían ayudar a desarrollar nuevos tratamientos adaptados a los pacientes."
+  },
+  "sha256": {
+    "titular": "d09a471798a64fc157c75ebc3ab4e5a3812ea475500da2e7b308d9a55bcc72ad",
+    "entradilla": "40e84a7ccb0130f73aa653478877a4697e11d41cd317933ca78960b747e33632",
+    "cuerpo": "dec3c49c640f1cc6d7f385b4cd1fc758439738323e1dbe2b60a8dca05fbdf3d9"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b2df074b4d32",
+  "url": "https://www.agenciasinc.es/Noticias/Degradar-la-proteina-KRAS-produce-una-marcada-regresion-del-cancer-de-pulmon-en-ratones",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-27T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: IRB | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:56+00:00",
+  "campos": {
+    "titular": "Degradar la proteína KRAS produce una marcada regresión del cáncer de pulmón en ratones",
+    "entradilla": "Un equipo del IRB Barcelona y del Centro de Investigación del Cáncer demuestra que eliminar esta proteína clave en muchos tumores de pulmón hace que estos se reduzcan de forma más intensa que con los tratamientos actuales. El trabajo también identifica nuevas formas de resistencia, un aspecto relevante ante la llegada de este tipo de terapias.",
+    "cuerpo": "KRAS es uno de los grandes motores del cáncer y está alterado en cerca de un tercio de los tumores de pulmón más frecuentes. Aunque en los últimos años han surgido fármacos capaces de bloquearlo, su efecto suele durar poco por la aparición de resistencias. Ahora, un estudio propone ir un paso más allá: hacer que la propia célula destruya esta proteína clave.\nEl trabajo, liderado por el IRB Barcelona y el Centro de Investigación del Cáncer (CSIC, USAL, FICUS), demuestra que destruir KRAS mutada, en lugar de bloquearla, induce una regresión más intensa del tumor en modelos de ratón con adenocarcinoma de pulmón. Publicado en Cancer Research, el estudio aporta además una de las primeras descripciones en vivo de cómo surgen resistencias frente a terapias basadas en degradación dirigida.\n“Los inhibidores de KRAS han supuesto un cambio enorme en el tratamiento de algunos cánceres, pero las resistencias siguen siendo un gran problema. Ahora estamos entrando en una nueva etapa, en la que no solo podemos inhibir KRAS, sino también hacer que la propia célula tumoral lo degrade. El uso secuencial o incluso en combinación de ambas estrategias farmacológicas podría marcar la diferencia”, explica Cristina Mayor-Ruiz, investigadora del IRB Barcelona.\nas terapias de degradación dirigida emplean moléculas conocidas como PROTACs que inducen la destrucción de proteínas concretas. A diferencia de los inhibidores clásicos, no bloquean la actividad de la diana, sino que la eliminan.\nComo aún no existen PROTACs capaces de degradar directamente la mutación KRASG12V, el equipo diseñó un modelo experimental: introdujo en las células tumorales una etiqueta molecular en la proteína que permite su reconocimiento y utilizó PROTACs desarrollados en el IRB Barcelona, en colaboración con el grupo del químico Antoni Riera, que se unen a esa etiqueta y desencadenan su degradación.\nAsí lograron eliminar KRASG12V en ratones y observar una marcada regresión tumoral. Además, el modelo puede adaptarse para estudiar otros oncogenes y tipos de cáncer.\n“Las células tumorales son extremadamente dependientes de KRAS. Cuando eliminamos la proteína mutada, dejan de proliferar y entran en apoptosis, incluso sin la intervención del sistema inmunitario”, señala David Santamaría, investigador del Centro de Investigación del Cáncer.\nAunque los tumores tratados mostraron mayor infiltración de células inmunitarias, los experimentos en ratones inmunodeficientes indican que la regresión inicial depende sobre todo de cambios intrínsecos del tumor y no de la respuesta inmune.\nEn conjunto, los resultados apuntan a que la degradación dirigida puede generar respuestas más profundas y duraderas que los inhibidores actuales.\nEl estudio también analiza cómo aparecen resistencias a estos nuevos fármacos en tumores vivos. Los mecanismos detectados difieren de los descritos con inhibidores de KRAS.\nEn lugar de mutaciones adicionales en KRAS o reactivación de rutas de señalización, las células tumorales alteran la maquinaria encargada de degradar proteínas. Con el tiempo, esto impide que KRAS siga eliminándose de manera eficaz.\n“Es una forma completamente distinta de resistencia. El tumor sigue dependiendo de KRAS, pero aprende a sabotear el sistema que lo destruye”, afirma Inés M. García-Pérez, investigadora del IRB Barcelona.\nEl trabajo es fruto de la colaboración entre los equipos de Cristina Mayor-Ruiz en el IRB Barcelona y David Santamaría en el Centro de Investigación del Cáncer (CSIC, USAL, FICUS), con participación de investigadores de varias instituciones nacionales e internacionales.\nLa investigación ha contado con financiación del Ministerio de Ciencia e Innovación, el Consejo Europeo de Investigación, la Asociación Española Contra el Cáncer, la Generalitat de Catalunya, el programa Next Generation de la Unión Europea, la Fundación “la Caixa” y FarmaIndustria."
+  },
+  "sha256": {
+    "titular": "935d0757926c0b796a13ce1f54ee74a73c91157f098a830cfcb7d15d301bbffd",
+    "entradilla": "251ba0a30190588f90f4ca78f5c5b201c60e9434346c3302c77824b0e717571c",
+    "cuerpo": "bfc8dcf4b8b692d37a043363ee19d1bcbd796270d71c4ea1b1cdc941af002e47"
+  }
+}

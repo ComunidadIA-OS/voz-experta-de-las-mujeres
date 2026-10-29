@@ -1,0 +1,37 @@
+{
+  "id": "cd47500abe7b",
+  "url": "https://www.agenciasinc.es/Noticias/Europa-abre-una-investigacion-a-Google-por-usar-contenidos-digitales-sin-permiso-para-alimentar-su-IA",
+  "autoria": "EFE",
+  "fecha_publicacion": "2025-12-09T10:28:00+01:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:25+00:00",
+  "campos": {
+    "titular": "Europa abre una investigación a Google por usar contenidos digitales sin permiso para alimentar su IA",
+    "entradilla": "Bruselas intensifica la presión sobre Google con un examen que apunta al uso que hace de contenidos ajenos en sus servicios de inteligencia artificial. El objetivo es aclarar si esa práctica vulnera la competencia y perjudica a quienes dependen del buscador para llegar a su audiencia.",
+    "cuerpo": "La Comisión Europea ha anunciado este martes la apertura de una investigación formal a Google por un posible incumplimiento de la normativa comunitaria al usar contenidos en línea de sus plataformas para alimentar a sistemas de inteligencia artificial (IA) sin compensar debidamente a los creadores ni ofrecerles la posibilidad de rechazar.\nLa investigación examinará si el gigante tecnológico estadounidense distorsiona la libre competencia al imponer términos y condiciones injustos a los creadores de contenido en línea o al otorgarse a sí mismo un acceso privilegiado a dicho al mismo, prácticas que pondrían en desventaja a los desarrolladores de modelos de IA rivales, según informó la CE en un comunicado.\nAI Overviews muestra resúmenes generados por IA en respuesta a la consulta de un usuario por encima de los resultados tradicionales, mientras que AI Mode es una pestaña de búsqueda similar a un chatbot que responde a las consultas de los usuarios de forma conversacional.\nLa Comisión investigará hasta qué punto la generación de AI Overviews y AI Mode por parte de Google se basa en el contenido de los editores web sin una compensación adecuada y sin la posibilidad de que estos se nieguen sin perder acceso a Google Search, teniendo en cuenta que muchos de los creadores en línea dependen de ese sistema de búsqueda para obtener tráfico de usuarios.\nAsimismo, la CE considera que Google podría haber usado también videos y otros contenidos subidos a su plataforma YouTube para entrenar a sus modelos de IA generativa sin compensación adecuada para los creadores y sin ofrecerles la posibilidad de rechazar dicho uso, dentro de los \"términos y condiciones\" que deben aceptar para emplear sus servicios.\nLas políticas de Youtube, además, prohíben a los desarrolladores rivales de modelos de IA emplear contenidos de su plataforma de vídeo para entrenar sus propios sistemas de inteligencia artificial.\nAunque la apertura de una investigación formal no prejuzga su resultados, las prácticas que son objeto del análisis de la CE podrían infringir las normas de competencia de la UE que prohíben el abuso de una posición dominante."
+  },
+  "sha256": {
+    "titular": "39e75f1ae3cdb95ae825e89d1bf797d5c8fe5321bf637a887e874f06da30ab0e",
+    "entradilla": "1eef4554772a566324d091b9bd1c40b5e8d88dd1c071565ac265bde463a8c67f",
+    "cuerpo": "726e936740d24469cf8ff7e79097df4a20a3257fba6bda347f1e9e00b1e3fea7"
+  },
+  "article": {
+    "headline": "Europa abre una investigación a Google por usar contenidos digitales sin permiso para alimentar su IA",
+    "introduction": "Bruselas intensifica la presión sobre Google con un examen que apunta al uso que hace de contenidos ajenos en sus servicios de inteligencia artificial. El objetivo es aclarar si esa práctica vulnera la competencia y perjudica a quienes dependen del buscador para llegar a su audiencia.",
+    "body": "La Comisión Europea ha anunciado este martes la apertura de una investigación formal a Google por un posible incumplimiento de la normativa comunitaria al usar contenidos en línea de sus plataformas para alimentar a sistemas de inteligencia artificial (IA) sin compensar debidamente a los creadores ni ofrecerles la posibilidad de rechazar.\nLa investigación examinará si el gigante tecnológico estadounidense distorsiona la libre competencia al imponer términos y condiciones injustos a los creadores de contenido en línea o al otorgarse a sí mismo un acceso privilegiado a dicho al mismo, prácticas que pondrían en desventaja a los desarrolladores de modelos de IA rivales, según informó la CE en un comunicado.\nAI Overviews muestra resúmenes generados por IA en respuesta a la consulta de un usuario por encima de los resultados tradicionales, mientras que AI Mode es una pestaña de búsqueda similar a un chatbot que responde a las consultas de los usuarios de forma conversacional.\nLa Comisión investigará hasta qué punto la generación de AI Overviews y AI Mode por parte de Google se basa en el contenido de los editores web sin una compensación adecuada y sin la posibilidad de que estos se nieguen sin perder acceso a Google Search, teniendo en cuenta que muchos de los creadores en línea dependen de ese sistema de búsqueda para obtener tráfico de usuarios.\nAsimismo, la CE considera que Google podría haber usado también videos y otros contenidos subidos a su plataforma YouTube para entrenar a sus modelos de IA generativa sin compensación adecuada para los creadores y sin ofrecerles la posibilidad de rechazar dicho uso, dentro de los \"términos y condiciones\" que deben aceptar para emplear sus servicios.\nLas políticas de Youtube, además, prohíben a los desarrolladores rivales de modelos de IA emplear contenidos de su plataforma de vídeo para entrenar sus propios sistemas de inteligencia artificial.\nAunque la apertura de una investigación formal no prejuzga su resultados, las prácticas que son objeto del análisis de la CE podrían infringir las normas de competencia de la UE que prohíben el abuso de una posición dominante."
+  },
+  "published": "2025-12-09T10:28:00+01:00",
+  "cc_licence": true,
+  "source_type": "institution",
+  "sections": [
+    "Innova"
+  ]
+}

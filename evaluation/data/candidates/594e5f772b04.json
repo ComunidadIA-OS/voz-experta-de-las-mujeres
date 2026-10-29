@@ -1,0 +1,26 @@
+{
+  "id": "594e5f772b04",
+  "url": "https://www.agenciasinc.es/Noticias/La-NASA-realizara-experimentos-desde-aviones-y-globos-en-Espana-e-Islandia-durante-el-eclipse",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-08-04T09:56:00+02:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:11+00:00",
+  "campos": {
+    "titular": "La NASA realizará experimentos desde aviones y globos en España e Islandia durante el eclipse",
+    "entradilla": "La agencia espacial estadounidense aprovechará el eclipse solar total del 12 de agosto para estudiar la corona del Sol y analizar cómo el oscurecimiento temporal del cielo afecta a la atmósfera terrestre. Además, retransmitirá en directo la fase de totalidad desde Islandia y España.",
+    "cuerpo": "La NASA llevará a cabo experimentos desde aviones y globos en España e Islandia durante el eclipse solar total del miércoles 12 de agosto para recopilar datos sobre el Sol y la Tierra.\nUn equipo científico financiado por la agencia seguirá la sombra de la Luna a bordo de un avión de investigación de gran altitud WB-57 para estudiar la dinámica de la corona solar.\n“El Proyecto Nacional de Globos para el Eclipse (Nationwide Eclipse Ballooning Project), respaldado por la NASA, enviará a estudiantes de varias universidades estadounidenses a Islandia y España para lanzar globos científicos antes, durante y después del eclipse, con el fin de investigar cómo el oscurecimiento temporal de nuestros cielos durante el fenómeno afecta a la atmósfera terrestre”, explica la NASA en un comunicado.\nAdemás, la agencia ofrecerá una cobertura oficial del eclipse a través de sus plataformas digitales, con una retransmisión de la fase de totalidad primero desde Islandia y, posteriormente, desde España.\nEl eclipse solar total del miércoles 12 de agosto será visible desde partes de Groenlandia, Islandia, el norte de Rusia, el océano Atlántico, España y un pequeño rincón de Portugal.\nEn otras zonas del hemisferio norte, incluidas algunas regiones de Estados Unidos, Canadá, Europa y el noroeste de África, podrá observarse como un eclipse parcial."
+  },
+  "sha256": {
+    "titular": "542014e3f9b5a28f6d3a540cd0b23e8bc82dbcdcf238e54a137b6f20128dc20c",
+    "entradilla": "292aea041471e5fbf5466a77dadf4054919b518b45e136b1d900bb187678172c",
+    "cuerpo": "9b586f3cc759e85ca00a43c172c4b3dd524c906bf3ab896151a382c45b1aa6a1"
+  }
+}

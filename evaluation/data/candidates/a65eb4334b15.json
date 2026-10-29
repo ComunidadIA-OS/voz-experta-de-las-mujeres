@@ -1,0 +1,26 @@
+{
+  "id": "a65eb4334b15",
+  "url": "https://www.agenciasinc.es/Noticias/El-cerebro-sintoniza-los-signos-igual-que-las-palabras-pero-en-una-frecuencia-distinta",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-16T11:30:00+01:00",
+  "fuente_y_derechos": "Fuente: BCBL | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:56:57+00:00",
+  "campos": {
+    "titular": "El cerebro ‘sintoniza’ los signos igual que las palabras, pero en una frecuencia distinta",
+    "entradilla": "Nuestro cerebro utiliza un mecanismo común para procesar el lenguaje, ya sea a través del oído o de la vista, y ajusta su precisión con la experiencia. Un estudio del BCBL de San Sebastián amplía además la red lingüística a nuevas áreas cerebrales gracias al análisis de las lenguas de signos.",
+    "cuerpo": "Un estudio del Basque Center on Cognition, Brain and Language (BCBL), en San Sebastián, revela que existe un mecanismo universal para procesar el lenguaje, independientemente de si la información llega por el oído o por la vista. La investigación amplía además la red lingüística a nuevas áreas cerebrales y muestra que la capacidad de sintonización se vuelve más precisa con la experiencia.\nEl trabajo ha contado con financiación de la Fundación “La Caixa”, el programa Horizonte 2020 de la Unión Europea y el Gobierno Vasco.\nCuando escuchamos a alguien hablar, el cerebro se sincroniza con el ritmo de la voz del interlocutor para comprender el mensaje. El estudio demuestra que este mecanismo, conocido como cortical tracking, no es exclusivo del oído: el cerebro también se “sintoniza” con los movimientos de la lengua de signos, aunque lo hace a una frecuencia distinta.\nEl estudio, publicado en la revista científica Proceedings of the National Academy of Sciences (PNAS), aporta evidencia sólida de que el cerebro humano utiliza mecanismos universales para procesar el lenguaje, más allá de si la información llega a través del canal auditivo, como el habla, o del canal visual, como los signos.\n“Nuestros resultados confirman que la sincronización entre cerebro y lenguaje es una característica fundamental del procesamiento lingüístico y que va más allá del dominio auditivo”, explica Chiara Rivolta, investigadora de BCBL y autora principal del artículo.\nPara desarrollar este trabajo, el equipo se enfrentó al reto de medir la complejidad de la señal visual. A diferencia del habla, en la que el ritmo lo marcan las sílabas, la lengua de signos transmite información mediante el movimiento simultáneo de las manos, el torso y la cabeza.\nEl equipo utilizó sistemas de captura de movimiento, similares a los empleados en videojuegos y cine, junto con magnetoencefalografía (MEG) para registrar la actividad cerebral. Con esta metodología se comparó a dos grupos de oyentes: personas expertas en Lengua de Signos Española (LSE) y participantes sin conocimiento previo de este idioma.\nLos resultados muestran una diferencia clara respecto al lenguaje oral. Mientras que en el habla el cerebro se sincroniza con ritmos rápidos, en la lengua de signos la actividad neuronal se ajusta a una frecuencia más lenta, conocida como banda delta (0,5–2,5 Hz).\nPara ilustrar este hallazgo, Rivolta propone imaginar el cerebro como una radio. “Para el lenguaje hablado, el sintonizador busca ritmos rápidos. En cambio, para la lengua de signos, el cerebro utiliza un sintonizador más lento que se fija en los ritmos amplios de los movimientos corporales”, detalla.\nLa investigación también indica que esta capacidad de sintonización no es automática, sino que depende del conocimiento y la experiencia con el idioma.\n“Expusimos a los participantes a vídeos en LSE, conocida por el grupo de expertos, y en Lengua de Signos Rusa, desconocida para todas las personas. En quienes sabían signar, la sincronización resultó mucho más fuerte y precisa en los movimientos que transmiten información lingüística”, señala la investigadora.\nAdemás, las personas con conocimiento de LSE mostraron una sincronización más intensa en la corteza temporal derecha. Según Rivolta, este resultado sugiere que, al aprender lengua de signos, el cerebro recurre a áreas del hemisferio derecho especializadas en el procesamiento de la información espacial para descifrar el mensaje lingüístico.\nEste hallazgo resulta especialmente relevante, ya que el lenguaje se ha asociado tradicionalmente casi de forma exclusiva al hemisferio izquierdo. El estudio indica que la naturaleza visual y espacial de la lengua de signos modifica la forma en que el cerebro procesa la información y amplía la red lingüística a nuevas áreas.\n“Nuestro trabajo devuelve un valor científico y social a estas lenguas minoritarias, al demostrar que comparten procesos neuronales complejos al mismo nivel que las lenguas habladas”, concluye Rivolta."
+  },
+  "sha256": {
+    "titular": "233dcdd382e4450232f5fa3cd8333996c15f2c2a0b72d0166c5226830ef94616",
+    "entradilla": "9a5934527fc053b8c6451c80239642fefd4e94c0811549dcdf264d2c8ec98b3b",
+    "cuerpo": "efa1009aee729c6fb812679f28da3e4f2e193bba305174aecf0d456610ea2cff"
+  }
+}

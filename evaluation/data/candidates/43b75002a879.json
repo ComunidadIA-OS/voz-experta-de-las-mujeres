@@ -1,0 +1,26 @@
+{
+  "id": "43b75002a879",
+  "url": "https://www.agenciasinc.es/Noticias/Un-estudio-en-ratones-revela-como-la-soledad-influye-sobre-el-consumo-de-alcohol",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-26T10:36:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:35:18+00:00",
+  "campos": {
+    "titular": "Un estudio en ratones revela cómo la soledad influye sobre el consumo de alcohol",
+    "entradilla": "El aislamiento puede potenciar el consumo de esta sustancia en hombres y reducirla en mujeres. Un nuevo estudio ha monitorizado el cerebro de roedores mientras decidían si beber alcohol o no, con el objetivo de ofrecer una explicación biológica de por qué la soledad podría influir en el riesgo de adicción.",
+    "cuerpo": "La soledad puede influir sobre el cerebro y fomentar el consumo de alcohol, según advierte un nuevo estudio dirigido por la Universidad Northwestern y el Instituto Salk de Estudios Biológico (ambos en Estados Unidos).\nLos investigadores de este trabajo, publicado en Nature Neuroscience, han identificado por primera vez el mecanismo cerebral que potencia el consumo de esta sustancia en ratones macho, y que, a la vez, lo reduce en las hembras. En la actualidad, la soledad ha aumentado en todo el mundo, un hecho que se reconoce como un riesgo importante para la salud pública con fuertes vínculos con el abuso de sustancias.\nAnteriormente, los expertos ya advirtieron que el aislamiento social se había convertido en una ‘epidemia’, pero hasta ahora los científicos no comprendían del todo cómo 'reconfiguraba' el cerebro para que aumentara la vulnerabilidad al alcoholismo.\n“Este es el primer trabajo que identifica un circuito cerebral específico que explica cómo el aislamiento social puede provocar un aumento del consumo de alcohol en los hombres, lo que supone un gran avance para este campo”, afirmó la autora principal del estudio e investigadora de la Universidad Northwestern, Reesha Patel. “Estos hallazgos proporcionan una diana biológica mucho más clara para comprender y, en última instancia, tratar el abuso de esta sustancia derivado de la soledad, un problema que es cada vez más común”.\nDurante la investigación, algunos de los ratones adultos, sin importar su género, se dividieron en grupos para ser trasladados a jaulas individuales y simular la soledad en la edad adulta. El resto permanecieron en grupos como especímenes de control.\nA todos ellos se les ofreció la oportunidad, durante una hora al día, de beber de una botella de agua o de una botella llena de una solución alcohólica al 15 %.\nLos investigadores realizaron un seguimiento de su consumo y sus elecciones durante dos semanas, periodo en el que los machos aumentaron progresivamente su consumo de alcohol, mientras que las hembras lo redujeron.\nCon microscopios en miniatura, los científicos registraron la actividad de células cerebrales específicas mientras los animales se movían libremente y decidían si beber alcohol o no. Las células analizadas formaban una vía cerebral que conectaba la amígdala basolateral —que procesa las señales emocionales y de estrés— con la corteza prefrontal medial, que regula la toma de decisiones.\n“Nuestro trabajo demuestra que una vía concreta se vuelve hiperactiva durante la soledad y aumenta directamente el consumo de alcohol, afirma Patel. No obstante, “los machos y las hembras recurren a estrategias neuronales diferentes cuando se sienten solos, un fenómeno que podría ayudarnos a explicar las diferencias de género que desde hace tiempo se observan en los trastornos neuropsiquiátricos”.\nLos investigadores señalan que no pueden saber con certeza por qué el aislamiento aumentaba el consumo en unos y lo reducía en otras, aunque Patel señaló que las diferencias de género observadas en el estudio reflejan patrones descritos en algunas investigaciones con seres humanos.\nPor otro lado, el equipo comprobó si esta vía cerebral se limitaba a reflejar el consumo de alcohol o si lo provocaba. Mediante la optogenética —breves pulsos de luz—, activaron de forma artificial el circuito en ratones macho no aislados. Esto provocó que sus cerebros respondieran al alcohol como si hubieran estado separados.\nAl contrario, cuando se silenciaba estos mismos circuito en ratones macho que se hallaban solos, el consumo de alcohol disminuía.\nTras su investigación, los expertos buscan comprender qué mantiene este sistema hiperactivo durante durante el aislamiento social y cómo las regiones cerebrales situadas más abajo en la cadena, incluida la corteza prefrontal medial, contribuyen a este efecto.\nAdemás, tienen previsto investigar por qué los machos y las hembras responden de forma tan diferente al aislamiento y si las hormonas u otras diferencias más profundas desempeñan alguna función. Otro paso importante será identificar cómo se pueden extrapolar estos hallazgos a los seres humanos."
+  },
+  "sha256": {
+    "titular": "67ae3b1414635d6b6ef48724b5b9f25d5d19932cdb42766a1a5fad35f19e1614",
+    "entradilla": "aefb1255a48f81b063116f5265c6c1d4c6c850fbfd1446949b1f92fab5f37065",
+    "cuerpo": "d6b7f7ce9fa51a5d95fa0e3c04ba17a7c61909574302e8a5e708a3254274b28e"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "579be9f55a6f",
+  "url": "https://www.agenciasinc.es/Noticias/Una-nebulosa-con-forma-de-murcielago-revela-una-activa-region-de-formacion-estelar",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-10-31T10:01:00+01:00",
+  "fuente_y_derechos": "Fuente: ESO | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:59:45+00:00",
+  "campos": {
+    "titular": "Una nebulosa con forma de murciélago revela una activa región de formación estelar",
+    "entradilla": "Una imagen obtenida desde el Observatorio Paranal en Chile muestra una extensa y fantasmagórica nube de gas y polvo interestelar, ubicada a unos 10 000 años luz de la Tierra. Su contorno recuerda a un murciélago desplegando las alas, con un resplandor rojo intenso y filamentos oscuros que revelan una activa zona de formación estelar",
+    "cuerpo": "Una nube cósmica de gran tamaño ha sido captada por el telescopio VLT Survey Telescope (VST) del Observatorio Europeo Austral (ESO), ubicado en el desierto de Atacama, Chile. La imagen muestra una nebulosa cuya silueta recuerda a la de un murciélago con las alas extendidas, enmarcada por un cielo estrellado. Esta formación se encuentra entre las constelaciones australes de Circinus y Norma, y ocupa una región del cielo equivalente a cuatro lunas llenas.\nLa nebulosa, situada a unos 10 000 años luz de distancia, es una región de formación estelar activa. En su interior, las estrellas jóvenes emiten suficiente energía para excitar los átomos de hidrógeno circundantes, lo que genera el característico resplandor rojo visible en la imagen. Las zonas oscuras que atraviesan la nube corresponden a filamentos de gas más frío y denso, con partículas de polvo que bloquean la luz de las estrellas situadas detrás.\nLos componentes más destacados de esta estructura son RCW 94, que forma el ala derecha, y RCW 95, que constituye el cuerpo. Ambos pertenecen a un catálogo de regiones brillantes de formación estelar en el cielo austral. El resto de la figura no cuenta con una designación oficial.\nLa imagen fue obtenida gracias a OmegaCAM, una cámara de 268 megapíxeles instalada en el VST, operado por el Instituto Nacional de Astrofísica de Italia (INAF).\nEsta cámara permite capturar amplias zonas del cielo con gran detalle. Para construir la imagen, se combinaron observaciones en diferentes longitudes de onda. La mayor parte del contorno y el brillo rojo fueron registrados en luz visible como parte del proyecto VPHAS+, mientras que los datos infrarrojos, obtenidos con el telescopio VISTA, aportan información adicional sobre las zonas más densas de la nebulosa. Ambos estudios están disponibles para el público interesado en explorar el universo a través de imágenes astronómicas."
+  },
+  "sha256": {
+    "titular": "a2e6c433410a7be7d15550ee116df90604397a8e3ee09ab4f3119fa93a7190d8",
+    "entradilla": "50077ed0debd5663638a4bcf443ae6777945ef339ffef4a70e035a4cbff178aa",
+    "cuerpo": "f25aaf766ec3e5f873f95380d65c327da89c9f842d14340bb00baf5a016d1cb3"
+  }
+}

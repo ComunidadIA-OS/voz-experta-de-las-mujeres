@@ -1,0 +1,26 @@
+{
+  "id": "964361339454",
+  "url": "https://www.agenciasinc.es/Noticias/Un-nanomaterial-logra-reducir-hasta-12-9-C-la-temperatura-sin-consumir-electricidad",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-12T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Tecnología de materiales"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:36:28+00:00",
+  "campos": {
+    "titular": "Un nanomaterial logra reducir hasta 12,9°C la temperatura sin consumir electricidad",
+    "entradilla": "La tecnología todavía está en fase de desarrollo, pero los resultados obtenidos muestran su potencial como alternativa sostenible a los sistemas convencionales de refrigeración que requieren consumo energético.",
+    "cuerpo": "El consumo energético total asociado a la refrigeración se encuentra actualmente cerca del 20 % del consumo mundial de electricidad y se espera que esta demanda continúe aumentando en las próximas décadas. Ante este desafío, investigadores grupo de investigación Functional Nanoscale Devices for Energy (FINDER) en el Instituto de Micro y Nanotecnología (IMN-CNM, CSIC) han desarrollado un nuevo nanomaterial capaz de enfriar superficies bajo la radiación solar sin necesidad de consumir electricidad.\nAunque la tecnología se encuentra todavía en una fase de desarrollo, los resultados obtenidos muestran su potencial como alternativa sostenible a los sistemas convencionales de refrigeración que requieren consumo energético.\nEl estudio, publicado en la revista Nanophotonics, presenta una nueva estrategia para fabricar nanoestructuras tridimensionales de fluoruro de polivinilideno (PVDF) —un polímero con una elevada capacidad para emitir calor en el infrarrojo— utilizando moldes nanoporosos de óxido de aluminio anodizado (3D-AAO). Este método permite controlar con precisión la geometría interna del material, un aspecto fundamental ya que las propiedades ópticas de los refrigeradores radiativos dependen directamente de su diseño a escala nanométrica.\nEl trabajo se basa en la refrigeración radiativa pasiva diurna (PDRC), un fenómeno físico mediante el cual determinados materiales son capaces de disipar calor hacia el exterior en forma de radiación infrarroja sin necesidad de aporte energético. Para que este mecanismo funcione, el material debe combinar dos propiedades: reflejar la mayor parte de la radiación solar para evitar calentarse y emitir con gran eficacia el calor acumulado en la denominada ventana de transparencia atmosférica (entre 8 y 13 micrómetros), una región del espectro por la que la atmósfera deja escapar la radiación térmica hacia el espacio.\nEn condiciones favorables, este equilibrio permite que el material alcance temperaturas inferiores a la del ambiente de forma completamente pasiva.\n“Estos polímeros PVDF reúnen una combinación de propiedades que resultan especialmente adecuados debido a que emiten muy bien el calor en el infrarrojo, su resistencia a la radiación ultravioleta, su carácter hidrófobo que favorece el efecto autolimpiante y se mantiene estable frente a la humedad, así como su durabilidad en exteriores” explica Cristina Vicente, investigadora en el Instituto de Micro y Nanotecnología.\nPara optimizar el comportamiento del material, los investigadores del IMN-CNM, CSIC fabricaron una red tridimensional de nanoestructuras de PVDF mediante infiltración del polímero en plantillas nanoporosas de alúmina. Posteriormente sometieron al material a distintos procesos de enfriamiento y un tratamiento con radiación ultravioleta que aumenta la reflectancia solar al blanquear el material.\nLos ensayos realizados al aire libre durante el verano de 2025 en la azotea del IMN-CNM, CSIC en Tres Cantos (Madrid), confirmaron las predicciones teóricas. En las condiciones más favorables - días cálidos, secos y con elevada radiación solar- el material consiguió reducir la temperatura hasta 12,9 °C respecto a una muestra de referencia sin recubrimiento.\nLos investigadores destacan que el principal avance del trabajo es haber desarrollado una estrategia escalable para fabricar nanoestructuras poliméricas tridimensionales destinadas a la refrigeración radiativa de alto rendimiento.\n“Este método de fabricación es relativamente económico ya que se puede adaptar a procesos industriales y abre nuevas vías para diseñar materiales que podrían incorporarse en cubiertas y fachadas de edificios, dispositivos electrónicos, vehículos o sistemas de gestión térmica personal, contribuyendo a disminuir la necesidad de refrigeración activa y, con ello, el consumo energético y las emisiones asociadas al uso del aire acondicionado”, concluye Cristina Vicente, líder del proyecto ‘COOLed’."
+  },
+  "sha256": {
+    "titular": "112423c6b3e7e000c313e4ac6c887991cc1d903f59f7657286029315dd315193",
+    "entradilla": "d83f7f5748961bd183844dcf0c6c058a739d4298f865b4fc7d4b53df083bb050",
+    "cuerpo": "7dd58cb0102fbc9f8e123efd2af3b371edfc21154ca2261d93b7da619c7f6bcd"
+  }
+}

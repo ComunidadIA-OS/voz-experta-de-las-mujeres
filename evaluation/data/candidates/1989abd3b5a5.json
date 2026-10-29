@@ -1,0 +1,26 @@
+{
+  "id": "1989abd3b5a5",
+  "url": "https://www.agenciasinc.es/Noticias/Este-raton-andino-desafia-los-limites-de-la-vida-su-genoma-revela-como-sobrevive-a-mas-de-6-700-metros",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-07-09T20:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:39:44+00:00",
+  "campos": {
+    "titular": "Este ratón andino desafía los límites de la vida: su genoma revela cómo sobrevive a más de 6 700 metros",
+    "entradilla": "El mamífero que vive a mayor altitud del planeta no depende de las adaptaciones típicas de la hemoglobina, sino de una sorprendente reprogramación metabólica y una capacidad única para desintoxicar plantas venenosas.",
+    "cuerpo": "El ambiente en las cumbres de los volcanes de la Puna de Atacama, en los Andes centrales, es de una hostilidad casi inimaginable para cualquier animal de sangre caliente. A más de 6 700 metros sobre el nivel del mar, las temperaturas permanecen casi constantemente bajo cero y cada bocanada de aire contiene apenas el 44 % del oxígeno disponible en el llano.\nLo que para un montañero experimentado representa un límite extremo que solo se puede tolerar unas pocas horas, para el ratón de orejas de hoja andino (Phyllotis vaccarum) es su hogar.\nUn consorcio internacional de científicos ha logrado descifrar los mecanismos genéticos y fisiológicos que convierten a este roedor en el mamífero que vive a mayor altitud del planeta. El estudio, publicado este jueves en la revista Science, desvela un hallazgo inesperado: a diferencia de otros animales de alta montaña, este ratón no ha modificado su hemoglobina para transportar mejor el oxígeno, sino que ha transformado su musculatura y su capacidad para digerir toxinas vegetales.\nPara entender cómo esta especie logra habitar un rango tan extraordinario —ya que se distribuye desde la costa desértica del Pacífico en Chile hasta las cimas andinas— los investigadores analizaron los genomas de 167 ejemplares recolectados en 33 localidades a lo largo de cinco expediciones de alta montaña.\n“Nuestros experimentos integran pruebas fisiológicas y análisis genómicos para arrojar luz sobre las características que componen un fenotipo metabólico adaptativo a altitudes extremadamente elevadas”, indican los autores principales del estudio. Al someter a los ratones de tierras altas y bajas a condiciones que simulaban la vida a 7 000 metros de altitud, descubrieron que los nativos de las cumbres mitigaban la pérdida de calor de manera mucho más eficiente.\nEsta resistencia al frío extremo bajo hipoxia se debe a que los ratones andinos generan significativamente más calor corporal gracias a una mayor actividad en sus músculos esqueléticos y en su grasa marrón. Al analizar el tejido muscular de los ejemplares de las cumbres, se observó una capacidad respiratoria mitocondrial muy superior, respaldada genéticamente por una fuerte selección en las vías de oxidación de lípidos y fosforilación oxidativa mitocondrial.\nBásicamente, sus músculos queman grasas de forma mucho más eficiente para mantenerse calientes cuando apenas hay aire.\nEl hallazgo más sorprendente de la investigación surgió al analizar la estructura poblacional de la especie. A pesar de la enorme diferencia de altitud, existe un flujo genético constante (migración) y una falta de estructura genética (manual de instrucciones de nuestro cuerpo) entre los ratones de la costa y los de las cumbres. Esto significa que, para mantener estas adaptaciones locales frente al efecto homogeneizador de la migración, la selección natural debe estar operando con una fuerza tremenda.\nSin embargo, los mapas genómicos no solo mostraron cambios en los genes relacionados con el transporte de oxígeno o la energía celular. Los científicos identificaron una fortísima señal de selección en los genes de biotransformación, aquellos encargados de la defensa antioxidante y del metabolismo de toxinas de las plantas.\nEste giro imprevisto sugiere que la ecología alimentaria posee un papel crucial en la conquista de las alturas. Al cambiar de altitud, la vegetación disponible varía drásticamente, lo que obliga al roedor a consumir plantas defendidas por compuestos secundarios altamente tóxicos. El ratón ha evolucionado para contrarrestar activamente estos venenos químicos mediante la selección de variantes genéticas.\nDenise Dearing, ecóloga evolutiva en la Universidad de Utah, apunta en un análisis que acompaña al estudio el dilema que esto supone: las respuestas metabólicas ante la falta de oxígeno y el procesamiento de toxinas compiten directamente por recursos en un mismo regulador molecular. El hallazgo reconfigura lo que la biología evolutiva entendía sobre la adaptación a la vida en los márgenes de la biosfera.\nEl roedor más extremo de la Tierra no solo ha aprendido a respirar donde no hay aire, sino a comer lo que para otros sería mortal."
+  },
+  "sha256": {
+    "titular": "3fa26cb3851cee8f90eac6f39e4febb38730f8698281459ad3651b0f6fed9c02",
+    "entradilla": "cd0660c6cce605d1eb383e0e467b5a763047daa602566175bbf164e0d75e8707",
+    "cuerpo": "af6fec1b0cd578d18427a8b556754f4504b16d0427a446eb7039d14ae4b16b66"
+  }
+}

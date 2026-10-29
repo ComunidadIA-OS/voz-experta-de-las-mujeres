@@ -1,0 +1,26 @@
+{
+  "id": "e0a24e350112",
+  "url": "https://www.agenciasinc.es/Noticias/Tu-televisor-8K-no-mejora-lo-que-ves-el-ojo-humano-tiene-un-limite-de-resolucion",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-10-27T11:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T02:00:04+00:00",
+  "campos": {
+    "titular": "Tu televisor 8K no mejora lo que ves: el ojo humano tiene un límite de resolución",
+    "entradilla": "Una investigación de la Universidad de Cambridge mide por primera vez la cantidad máxima de resolución que puede captar el ojo humano y revela, más allá de cierto punto, una televisión con resolución superior no aporta una mejor experiencia visual.",
+    "cuerpo": "¿Vale la pena comprar un televisor 8K? Un estudio de la Universidad de Cambridge y Meta Reality Labs sugiere que, más allá de cierto punto, nuestros ojos no pueden notar la diferencia.\nLos investigadores han medido por primera vez el límite real de resolución del ojo humano, es decir, la cantidad máxima de detalles que podemos percibir en una pantalla. El trabajo, publicado en Nature Communications, muestra que una televisión con resolución superior a ese límite no aporta una mejor experiencia visual: simplemente ofrece más píxeles de los que el ojo puede distinguir.\nEl equipo, liderado por Maliha Ashraf y Rafał Mantiuk, pidió a voluntarios que observaran patrones en color y en blanco y negro a distintas distancias. Descubrieron que el ojo humano puede distinguir hasta 94 píxeles por grado en imágenes en escala de grises, pero solo entre 53 y 89 píxeles por grado en imágenes a color, dependiendo del tono. En otras palabras, el ojo percibe menos detalle cromático que de luminosidad.\nCon estos datos, calcularon que en un salón promedio del Reino Unido, con una distancia de 2,5 metros entre el sofá y la televisión, una pantalla de 44 pulgadas con resolución 4K u 8K no ofrece ventajas visibles sobre una con calidad Quad HD (QHD).\nEl grupo también ha creado un calculador online gratuito que permite introducir el tamaño de la habitación y las características del televisor para saber cuál es la resolución más adecuada.\nSegún Mantiuk, seguir aumentando la resolución “no solo resulta inútil, sino también ineficiente: encarece los dispositivos y exige más potencia de procesamiento”. Para Ashraf, “nuestros ojos son sensores limitados, y es el cerebro el que completa la imagen. Saber dónde está ese límite ayuda a diseñar pantallas más eficientes y realistas”.\nEl hallazgo marca una referencia para el futuro del desarrollo de pantallas en móviles, realidad virtual o automóviles. En resumen: más píxeles no siempre significan una mejor imagen."
+  },
+  "sha256": {
+    "titular": "210c9e8670f1a5d1b62af06d9b3b661f1e68a04f4b035999dea28937af9076f2",
+    "entradilla": "93a5c3bb279ad175fa9e113f2028cb6fa358d7c7e653f6f2271b0c64ebcef545",
+    "cuerpo": "c0fab8ee4c28ab9872347faf2289dd0d984a115e70bd1ce624b13a4fdc19ea26"
+  }
+}

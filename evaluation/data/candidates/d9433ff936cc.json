@@ -1,0 +1,26 @@
+{
+  "id": "d9433ff936cc",
+  "url": "https://www.agenciasinc.es/Noticias/Espana-participa-en-la-mision-que-traera-las-primeras-muestras-de-una-luna-de-Marte",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-19T12:42:00+02:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:18+00:00",
+  "campos": {
+    "titular": "España participa en la misión que traerá las primeras muestras de una luna de Marte",
+    "entradilla": "El Centro de Astrobiología participa en la expedición liderada por la Agencia Japonesa de Exploración Aeroespacial que parte hacia las lunas del planeta rojo, con la contribución de una tecnología láser para identificar minerales y compuestos químicos.",
+    "cuerpo": "La misión Martian Moon eXploration (MMX), liderada por la Agencia Japonesa de Exploración Aeroespacial, inicia hoy lunes 19 de octubre, a las 21:41 hora peninsular, un viaje de varios años a Marte con un objetivo sin precedentes: estudiar sus dos pequeñas lunas, Fobos y Deimos, y traer a la Tierra muestras recogidas directamente de la superficie de Fobos.\nSerá la primera vez que se recuperen y analicen en laboratorios terrestres materiales procedentes de una luna marciana. España, a través de la Subdirección General de Sistemas Espaciales de INTA y el Centro de Astrobiología (CAB), del Consejo Superior de Investigaciones Científicas (CSIC) —adscrito al Ministerio de Ciencia, Innovación y Universidades— y el Instituto Nacional de Técnica Aeroespacial (INTA) —adscrito al Ministerio de Defensa—, participa con el desarrollo de distintas piezas especializadas para el rover que recorrerá la superficie de Fobos.\nA pesar de acompañar a Marte desde hace miles de millones de años, el origen de Fobos y Deimos sigue siendo uno de los grandes enigmas del Sistema Solar. Los científicos debaten desde hace décadas si son antiguos asteroides capturados por la gravedad de Marte o si se formaron a partir de los restos expulsados tras un enorme impacto sobre el planeta rojo. Las muestras obtenidas por MMX podrían resolver definitivamente esta cuestión.\nPero la relevancia de la misión va mucho más allá de las lunas marcianas ya que proporcionará información sobre los procesos que dieron forma al Sistema Solar primitivo y del propio Marte. En ese caso, MMX podría proporcionar una valiosa ventana al pasado geológico del planeta rojo sin necesidad de aterrizar sobre su superficie.\nLa nave entrará en órbita alrededor de Marte, estudiará detalladamente Fobos y Deimos y realizará varios descensos controlados sobre la superficie de Fobos para dejar un rover de exploración in situ y un módulo para recoger muestras que serán transportadas de regreso a la Tierra. El retorno está previsto para comienzos de la próxima década, cuando los laboratorios más avanzados del mundo podrán analizar unos materiales que han permanecido inalterados durante miles de millones de años.\nEspaña, a través de un equipo de Sistemas Espaciales de INTA y el CAB-CSIC-INTA, participa activamente en esta misión internacional con ciencia y tecnología en el instrumento RAX (Raman Spec-trometer for MMX), instalado a bordo del rover IDEFIX, desarrollado por las agencias espaciales francesa y alemana (CNES y DLR).\nLa aportación tecnológica principal es la unidad láser del instrumento RAX, un diseño redundante (con dos canales), miniaturizado (menos de 100 g, como una caja de cerillas) y de altas prestaciones para la realización de espectroscopía Raman (excitación muy estrecha y de muy alta estabilidad).\nRAX tiene la capacidad de identificar minerales y compuestos químicos in situ sobre la superficie de Fobos. “Estas medidas permitirán comprender mejor la naturaleza de los materiales presentes en la luna marciana y aportar pistas fundamentales sobre su origen y evolución”, explica Olga Prieto-Ballesteros, investigadora del CAB y colíder de la ciencia del instrumento.\nLa participación del CAB-CSIC-INTA en MMX se suma a una larga trayectoria de contribuciones españolas a la exploración planetaria internacional, reforzando el papel de España en algunos de los programas científicos más relevantes dedicados al estudio de Marte (Curiosity, Perseverance, Rosalind Franklin) y otros cuerpos del Sistema Solar."
+  },
+  "sha256": {
+    "titular": "b0955f3811d1eba2f2ce36d6be00c1f96356966dc8f1b92276fb7e44991a4258",
+    "entradilla": "1158d81f2f65cc01ff58a06e6a9ade25e78abe5f5ea4d305901098d17b40bb75",
+    "cuerpo": "f22d433242f3b20fdffa4a6b3d936d4bb05d27ba533b31078dbf9c277db0ceb6"
+  }
+}

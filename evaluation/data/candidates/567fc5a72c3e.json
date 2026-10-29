@@ -1,0 +1,26 @@
+{
+  "id": "567fc5a72c3e",
+  "url": "https://www.agenciasinc.es/Noticias/Hallan-el-mecanismo-cerebral-que-explica-por-que-dormimos-peor-la-primera-noche-en-sitios-nuevos",
+  "autoria": "María G. Dionis",
+  "fecha_publicacion": "2026-02-03T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias clínicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:53:59+00:00",
+  "campos": {
+    "titular": "Hallan el mecanismo cerebral que explica por qué dormimos peor la primera noche en sitios nuevos",
+    "entradilla": "Un estudio revela el circuito neuronal en ratones que mantiene el estado de vigilia cuando se encuentran en entornos desconocidos. El proceso, en el que interviene la molécula neurotensina, podría ser una respuesta evolutiva para sobrevivir en lugares donde no se conocen las posibles amenazas.",
+    "cuerpo": "La primera noche que se duerme en un sitio nuevo, ya sea después de mudarnos o el primer día de un viaje, es frecuente que se descanse peor. Ahora, un grupo investigador liderado por la Universidad de Nagoya, en Japón, ha revelado el mecanismo neuronal por el que ocurre, al menos en ratones.\nSegún los resultados del estudio, que se publica en la revista PNAS, existe un grupo de neuronas que se activan cuando un ratón entra en un entorno nuevo. Así, liberan una molécula llamada neurotensina, que mantiene el estado de vigilia ante posibles peligros cuando se está en un lugar hasta ahora desconocido.\nEste fenómeno, conocido como ‘efecto de la primera noche’, hace que el cerebro permanezca más alerta y actúa como un guardia nocturno. Lo que se cree es que esta respuesta fue parte de la evolución para sobrevivir pero, aunque se conoce desde hace décadas, el mecanismo cerebral aún no se había esclarecido.\nEn el nuevo trabajo, los investigadores de la universidad japonesa estudiaron ratones que dormían en jaulas nuevas y registraron su actividad cerebral, específicamente en la amígdala.\n“La amígdala extendida es una región del cerebro que procesa las emociones y el estrés en los mamíferos. Dentro de esta región, unas neuronas específicas llamadas neuronas IPACL CRF producen neurotensina y se activan cuando detectan un nuevo entorno”, explica a SINC Daisuke Ono, autor principal y profesor del Instituto de Investigación de Medicina Ambiental de la Universidad de Nagoya.\nEl equipo investigador vio que las neuronas IPACL CRF de los roedores se activaban cuando dormían en sus nuevos entornos. Cuando estas neuronas se suprimieron artificialmente, los ratones se durmieron rápidamente, incluso en lugares desconocidos para ellos.\n“La deficiencia de neurotensina en las neuronas CRF de la región IPACL del cerebro, poco estudiada hasta ahora, afecta a la capacidad de mantener el estado de vigilia incluso en entornos nuevos”, añade Ono.\nSegún explica el investigador, las neuronas IPACL CRF utilizan la neurotensina que segregan para comunicarse con la sustancia negra, “una zona del cerebro que controla el movimiento y el estado de alerta”.\nDado que la amígdala extendida y la sustancia negra existen en todos los mamíferos, los investigadores creen que es probable que en los seres humanos funcionen circuitos similares.\nSegún los autores, estos hallazgos podrían conducir a nuevos tratamientos para el insomnio y los trastornos de ansiedad, con fármacos que actúen sobre esta vía de la neurotensina, ya que se suelen caracterizar por un estado de alerta nocturno excesivo."
+  },
+  "sha256": {
+    "titular": "8d030fd9121e9652906ca276f33b540af7daa5de062d2422ebd9f30085fca4ea",
+    "entradilla": "e3998e86751d6cdc916a1f2988b776a4862f442787398bb0052d202da682c94b",
+    "cuerpo": "90d8642c4af3e17f0ae7aaac0507c9e9b34dbadce0dfb65419dd9925df3527ca"
+  }
+}

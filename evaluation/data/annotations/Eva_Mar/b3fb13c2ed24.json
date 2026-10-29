@@ -1,0 +1,401 @@
+{
+  "article_id": "b3fb13c2ed24",
+  "url": "https://www.agenciasinc.es/Noticias/El-cancer-de-mama-alcanzara-los-3-5-millones-de-casos-anuales-en-2050",
+  "group": "calibration",
+  "source_type": "institution",
+  "annotator": "Eva_Mar",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-27T03:33:28+00:00",
+  "article_sha256": {
+    "titular": "a95f29db31648506f36c0cff062bad0a438bafd46a61a6fa1c593b282f5471d6",
+    "entradilla": "a99bee71573588293613de7c9c5f56f95c60dba5ebfff3fe870270e39bbd9bd1",
+    "cuerpo": "e93af0f328b4429d45526d9902950ccbb85da774ff86d9c679a8433aa56f0f79"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Kayleigh Bhangdia",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "la autora principal",
+      "gender_representation": "woman",
+      "gender_evidence": "la autora principal",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Olayinka Ilesanmi",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "médico y epidemiólogo del Africa CDC",
+      "gender_representation": "man",
+      "gender_evidence": "el coautor",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p3",
+      "name": "Marie Ng",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "coautora senior del trabajo y profesora asociada del IHME",
+      "gender_representation": "woman",
+      "gender_evidence": "coautora senior",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p4",
+      "name": "Lisa Force",
+      "professional_role": "portavoz_institucional",
+      "technical_expert": "no",
+      "source_role": "spokesperson",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "también del IHME.",
+      "gender_representation": "unknown",
+      "gender_evidence": "",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p5",
+      "name": "Yeon Hee Park",
+      "professional_role": "portavoz_institucional",
+      "technical_expert": "no",
+      "source_role": "spokesperson",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "de la Sungkyunkwan University School of Medicine (Corea del Sur)",
+      "gender_representation": "unknown",
+      "gender_evidence": "",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“El cáncer de mama sigue teniendo un profundo impacto en la vida de las mujeres y en sus comunidades”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Mientras que en los países de ingresos altos las mujeres suelen beneficiarse de programas de cribado, diagnósticos más tempranos y estrategias de tratamiento integrales, la creciente carga del cáncer de mama se está desplazando hacia países de ingresos bajos y medio-bajos, donde las pacientes afrontan diagnósticos en fases más avanzadas, un acceso más limitado a atención de calidad y tasas de mortalidad más elevadas que amenazan con eclipsar los avances logrados en la salud de las mujeres”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Los países de ingresos bajos y medios son los más golpeados por el aumento de la carga del cáncer de mama, ya que muchos afrontan cambios demográficos y en los estilos de vida junto a sistemas sanitarios menos preparados de lo deseable, con escasez de equipos de radioterapia, fármacos de quimioterapia y laboratorios de anatomía patológica, y con tratamientos estándar que pueden resultar muy costosos”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Aunque la supervivencia continúa mejorando en los países de ingresos altos, lo que refleja el éxito del cribado, el diagnóstico y el tratamiento, incluso dentro de estos países los resultados pueden depender del lugar donde viva una mujer”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "direct",
+      "text": "“Dado que más de una cuarta parte de la carga mundial del cáncer de mama está vinculada a cambios modificables en el estilo de vida, existen enormes oportunidades para cambiar la trayectoria del riesgo en la próxima generación”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "direct",
+      "text": "“Actuar sobre los factores conocidos mediante políticas públicas y facilitar elecciones más saludables es crucial para frenar el aumento de los casos”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p4",
+      "type": "direct",
+      "text": "“Se necesitan esfuerzos colaborativos para asegurar sistemas sanitarios capaces de ofrecer diagnóstico temprano y tratamiento integral en todos los países”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p5",
+      "type": "indirect",
+      "text": "señala que sin información sobre origen étnico o genético no es posible determinar si las diferencias regionales responden a predisposición biológica, factores ambientales o desigualdades en la atención sanitaria, aunque considera que el trabajo aporta una base sólida para la planificación en salud global.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793071613241",
+        "nombre": "Kayleigh Bhangdia",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1065,
+            "fin16": 1082,
+            "texto": "Kayleigh Bhangdia",
+            "inicio": 1065,
+            "fin": 1082
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1045,
+          "fin16": 1064,
+          "texto": "la autora principal",
+          "inicio": 1045,
+          "fin": 1064
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 935,
+            "fin16": 1036,
+            "texto": "“El cáncer de mama sigue teniendo un profundo impacto en la vida de las mujeres y en sus comunidades”",
+            "tipo": "directa",
+            "inicio": 935,
+            "fin": 1036
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1094,
+            "fin16": 1590,
+            "texto": "“Mientras que en los países de ingresos altos las mujeres suelen beneficiarse de programas de cribado, diagnósticos más tempranos y estrategias de tratamiento integrales, la creciente carga del cáncer de mama se está desplazando hacia países de ingresos bajos y medio-bajos, donde las pacientes afrontan diagnósticos en fases más avanzadas, un acceso más limitado a atención de calidad y tasas de mortalidad más elevadas que amenazan con eclipsar los avances logrados en la salud de las mujeres”.",
+            "tipo": "directa",
+            "inicio": 1094,
+            "fin": 1590
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1045,
+          "fin16": 1064,
+          "texto": "la autora principal",
+          "inicio": 1045,
+          "fin": 1064
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793071679808",
+        "nombre": "Olayinka Ilesanmi",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3746,
+            "fin16": 3763,
+            "texto": "Olayinka Ilesanmi",
+            "inicio": 3746,
+            "fin": 3763
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 3735,
+          "fin16": 3745,
+          "texto": "el coautor",
+          "inicio": 3735,
+          "fin": 3745
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3322,
+            "fin16": 3726,
+            "texto": "“Los países de ingresos bajos y medios son los más golpeados por el aumento de la carga del cáncer de mama, ya que muchos afrontan cambios demográficos y en los estilos de vida junto a sistemas sanitarios menos preparados de lo deseable, con escasez de equipos de radioterapia, fármacos de quimioterapia y laboratorios de anatomía patológica, y con tratamientos estándar que pueden resultar muy costosos”",
+            "tipo": "directa",
+            "inicio": 3322,
+            "fin": 3726
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3803,
+            "fin16": 4044,
+            "texto": "“Aunque la supervivencia continúa mejorando en los países de ingresos altos, lo que refleja el éxito del cribado, el diagnóstico y el tratamiento, incluso dentro de estos países los resultados pueden depender del lugar donde viva una mujer”.",
+            "tipo": "directa",
+            "inicio": 3803,
+            "fin": 4044
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 3765,
+          "fin16": 3801,
+          "texto": "médico y epidemiólogo del Africa CDC",
+          "inicio": 3765,
+          "fin": 3801
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793071768486",
+        "nombre": "Marie Ng",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 5715,
+            "fin16": 5723,
+            "texto": "Marie Ng",
+            "inicio": 5715,
+            "fin": 5723
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 5725,
+          "fin16": 5740,
+          "texto": "coautora senior",
+          "inicio": 5725,
+          "fin": 5740
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 5478,
+            "fin16": 5706,
+            "texto": "“Dado que más de una cuarta parte de la carga mundial del cáncer de mama está vinculada a cambios modificables en el estilo de vida, existen enormes oportunidades para cambiar la trayectoria del riesgo en la próxima generación”,",
+            "tipo": "directa",
+            "inicio": 5478,
+            "fin": 5706
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5784,
+            "fin16": 5935,
+            "texto": "“Actuar sobre los factores conocidos mediante políticas públicas y facilitar elecciones más saludables es crucial para frenar el aumento de los casos”.",
+            "tipo": "directa",
+            "inicio": 5784,
+            "fin": 5935
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 5725,
+          "fin16": 5782,
+          "texto": "coautora senior del trabajo y profesora asociada del IHME",
+          "inicio": 5725,
+          "fin": 5782
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793071836886",
+        "nombre": "Lisa Force",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 6452,
+            "fin16": 6462,
+            "texto": "Lisa Force",
+            "inicio": 6452,
+            "fin": 6462
+          }
+        ],
+        "genero": "desconocido",
+        "indicio_genero": null,
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 6288,
+            "fin16": 6443,
+            "texto": "“Se necesitan esfuerzos colaborativos para asegurar sistemas sanitarios capaces de ofrecer diagnóstico temprano y tratamiento integral en todos los países”",
+            "tipo": "directa",
+            "inicio": 6288,
+            "fin": 6443
+          }
+        ],
+        "rol": "portavoz_institucional",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 6464,
+          "fin16": 6481,
+          "texto": "también del IHME.",
+          "inicio": 6464,
+          "fin": 6481
+        },
+        "participacion": "comenta"
+      },
+      {
+        "_id": "p1793071929714",
+        "nombre": "Yeon Hee Park",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 6723,
+            "fin16": 6736,
+            "texto": "Yeon Hee Park",
+            "inicio": 6723,
+            "fin": 6736
+          }
+        ],
+        "genero": "desconocido",
+        "indicio_genero": null,
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 6804,
+            "fin16": 7111,
+            "texto": "señala que sin información sobre origen étnico o genético no es posible determinar si las diferencias regionales responden a predisposición biológica, factores ambientales o desigualdades en la atención sanitaria, aunque considera que el trabajo aporta una base sólida para la planificación en salud global.",
+            "tipo": "indirecta",
+            "inicio": 6804,
+            "fin": 7111
+          }
+        ],
+        "rol": "portavoz_institucional",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 6738,
+          "fin16": 6802,
+          "texto": "de la Sungkyunkwan University School of Medicine (Corea del Sur)",
+          "inicio": 6738,
+          "fin": 6802
+        },
+        "participacion": "comenta"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 451
+  }
+}

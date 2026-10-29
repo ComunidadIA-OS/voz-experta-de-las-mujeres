@@ -1,0 +1,26 @@
+{
+  "id": "d047c8caca05",
+  "url": "https://www.agenciasinc.es/Noticias/La-imagen-mas-nitida-hasta-ahora-revela-una-posible-companera-de-Betelgeuse",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-28T14:00:00+02:00",
+  "fuente_y_derechos": "Fuente: ESO | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:55+00:00",
+  "campos": {
+    "titular": "La imagen más nítida hasta ahora revela una posible compañera de Betelgeuse",
+    "entradilla": "Un equipo de astrónomos ha captado con el Very Large Telescope, en Chile, la luz de una estrella que parece orbitar alrededor de la supergigante roja. Las observaciones constituyen la evidencia más sólida hasta la fecha de que Betelgeuse no está sola, aunque será necesario volver a localizar el objeto cuando se encuentre al otro lado de ella para confirmarlo.",
+    "cuerpo": "Betelgeuse, una de las estrellas más conocidas del cielo nocturno, podría tener una compañera. Un equipo liderado por el astrónomo Miguel Montargès, del Observatorio de París–PSL (Francia), ha obtenido la imagen más nítida hasta ahora de la posible Betelgeuse B, una estrella que orbitaría alrededor de la supergigante roja.\nLa observación se realizó con el instrumento SPHERE, instalado en el Very Large Telescope (VLT) del Observatorio Europeo Austral (ESO), en el desierto de Atacama (Chile). Los resultados se publican en la revista Astronomy & Astrophysics.\n“Hemos llegado al final de una búsqueda centenaria”, afirma Montargès, autor principal del estudio. La comunidad astronómica llevaba alrededor de un siglo intentando detectar una posible compañera, cuya existencia se propuso inicialmente para explicar las variaciones de brillo de Betelgeuse.\nDos trabajos publicados en 2024 predijeron que, en diciembre de ese año, la compañera alcanzaría su mayor separación aparente respecto a Betelgeuse y, por tanto, sería más fácil de observar. El equipo utilizó el VLT durante ese periodo y dedicó varios meses al procesamiento de los datos.\n“Salté de mi silla cuando vi las imágenes procesadas”, recuerda Montargès. El astrónomo dudaba de que el instrumento tuviera sensibilidad suficiente para captar el objeto, pero las nuevas observaciones indican que sería más masivo y brillante de lo previsto.\nLas estimaciones anteriores apuntaban a que Betelgeuse B tendría una masa similar a la del Sol. Sin embargo, los nuevos datos sugieren que podría ser entre dos y tres veces más masiva.\n“El hecho de que aún podamos descubrir una compañera cercana, más masiva y brillante que el Sol, alrededor de una estrella tan estudiada resulta destacable”, señala Montargès.\nLa estrella fue captada mediante imagen directa, es decir, a partir de la detección de su propia luz. Aunque ya existían indicios de su presencia, incluida una posible observación con el telescopio Gemini North, en Hawái (EE UU), el nuevo trabajo aporta la evidencia más firme y la imagen más clara obtenida hasta ahora.\nSPHERE y las técnicas utilizadas para procesar los datos se desarrollaron originalmente para localizar exoplanetas. Según Anthony Boccaletti, coautor del estudio e investigador del Observatorio de París, los resultados muestran que estos métodos también pueden detectar objetos próximos a estrellas masivas y evolucionadas.\nLa identificación aún no es definitiva. Para comprobar que el objeto observado es realmente una compañera en órbita, el equipo deberá volver a detectarlo aproximadamente un año después, cuando se encuentre al otro lado de Betelgeuse. “Queda muy poco espacio para la duda”, sostiene Montargès.\nBetelgeuse es una supergigante roja de la constelación de Orión, visible a simple vista y conocida por sus variaciones de brillo. Hace unos años atrajo una gran atención cuando experimentó un acusado oscurecimiento, que llevó a especular con la posibilidad de que estuviera próxima a explotar como supernova.\nObservaciones posteriores dirigidas también por Montargès mostraron que la pérdida de brillo se debía a una nube de polvo que ocultaba parcialmente la estrella.\nLa posible confirmación de Betelgeuse B permitirá estudiar si la interacción entre ambas estrellas puede influir en la evolución de la supergigante roja y en su futura explosión. “La verdadera pregunta que queda abierta es si esta compañera tendrá un impacto en la evolución de Betelgeuse”, concluye Montargès."
+  },
+  "sha256": {
+    "titular": "a8d0d96b73b55323fa8e0668d335090be8e4623944fde4f5c11c22690d2b7b71",
+    "entradilla": "6f7a7ac45de10309693021121761bb6e3364950e71bbee6582dd8bd4a1da38ba",
+    "cuerpo": "b121589b7814f60e68a181ec660c847ea02f875165ea41d563062bdd696e0200"
+  }
+}

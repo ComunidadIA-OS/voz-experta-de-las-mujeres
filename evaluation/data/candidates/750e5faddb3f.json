@@ -1,0 +1,26 @@
+{
+  "id": "750e5faddb3f",
+  "url": "https://www.agenciasinc.es/Noticias/Desarrollan-una-tecnologia-para-almacenar-CO2-de-la-atmosfera-en-regiones-aridas",
+  "autoria": "María G. Dionis",
+  "fecha_publicacion": "2026-03-25T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:49:13+00:00",
+  "campos": {
+    "titular": "Desarrollan una tecnología para almacenar CO2 de la atmósfera en regiones áridas",
+    "entradilla": "Los procesos de almacenamiento de dióxido de carbono en rocas suelen requerir grandes cantidades de agua externa. Un equipo islandés ha creado un prototipo para poder llevar la tecnología a zonas áridas, aunque los investigadores señalan que es una solución para mitigar el cambio climático que no sustituye a la reducción de emisiones.",
+    "cuerpo": "Los niveles de emisiones actuales de dióxido de carbono (CO2) a la atmósfera son tan grandes que, para cumplir con los objetivos climáticos, muchos países están considerando más opciones además de una reducción del uso de combustibles fósiles.\nEntre ellas está el almacenamiento de carbono, que consiste en capturar eldi de la atmósfera y depositarlo en formaciones geológicas permanentemente utilizando tecnologías de captura. Aunque ya existen algunos prototipos, estos dispositivos necesitan grandes cantidades de agua.\nAhora, un equipo científico de la Universidad de Islandia ha desarrollado un programa piloto para almacenar dióxido de carbono sin necesidad de fuentes de agua externas. Los detalles se publican en la revista Nature.\n“Existen numerosas estrategias para limitar el cambio climático, incluida, por supuesto, una enorme reducción en el uso de hidrocarburos. Pero la escala de emisiones humanas de CO2 es tan grande que es probable que necesitemos más de un plan”, dice a SINC Eric Oelkers, investigador de la universidad islandesa y líder del estudio.\nEn general, la captura y almacenamiento de carbono se logra inyectando CO2 a alta presión en el suelo, debajo de rocas impermeables. En regiones que carecen de estas rocas, el dióxido de carbono puede disolverse en agua e incorporarse a la piedra mediante reacciones geoquímicas denominadas mineralización.\n“La razón para almacenar CO₂ bajo tierra es el volumen. Una gigatonelada de este gas ocupa aproximadamente 1 km³ de volumen, ya sea en estado supercrítico o almacenado dentro de calcita. Anualmente se emiten 40 gigatoneladas de CO₂ a la atmósfera; el subsuelo es el único lugar donde caben estos enormes volúmenes”, afirma Oelkers.\nEl investigador afirma que este proceso es “la forma más segura de almacenar dióxido de carbono”. “De media, el CO₂ permanecerá en forma de calcita durante más de 200 millones de años”, añade.\nSin embargo, aplicar este proceso a gran escala requiere grandes cantidades de agua, aproximadamente 25 veces más agua que dióxido de carbono.\nEl nuevo prototipo se ha instalado en el oeste de Arabia Saudí, una región con refinerías de petróleo que emiten grandes cantidades de CO₂. La zona se asienta sobre roca volcánica permeable de entre 21 y 30 millones de años de antigüedad, que no puede absorber carbono sin mineralización, pero es una zona demasiado árida para aplicar el proceso tradicional.\nPor eso, el equipo desarrolló un sistema de recirculación con dos pozos separados por una distancia, en el que se extrae agua de una formación seleccionada, se añade CO₂ a esta agua y, a continuación, se reinyecta en la misma formación a través de un pozo independiente.\n“Esto hace posible el almacenamiento de minerales en gran parte del mundo, ya que los recursos hídricos son limitados en la mayoría de los lugares”, apunta Oelkers.\nSegún los autores, aproximadamente el 70 % del CO₂ se incorporó a la roca en un plazo de 10 meses, lo que demuestra la viabilidad de esta técnica como método futuro de almacenamiento de carbono.\nAun así, Oelkers insiste en que el desarrollo de esta tecnología no sustituye la reducción de emisiones de dióxido de carbono para mitigar el cambio climático. “Si nos preocupa el aumento de temperaturas, la acidificación de los océanos, el aumento del nivel del mar y todas las consecuencias asociadas, tendremos que seguir reduciendo las emisiones de gases de efecto invernadero”, destaca."
+  },
+  "sha256": {
+    "titular": "280a1aa1c4070be57edd6bb558757857698cbc306486c651db445de7adeebd3e",
+    "entradilla": "af57db0c99114959d9d4add57ab61b87bdbf680e1c6af62154ebae5ddb709cc5",
+    "cuerpo": "222abf6cd57a05b73af00456b3daf8d9f2af9fbb15fae0429a1cec251df21082"
+  }
+}

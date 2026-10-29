@@ -1,0 +1,26 @@
+{
+  "id": "7bbebe50b982",
+  "url": "https://www.agenciasinc.es/Noticias/Que-se-esconde-bajo-el-hielo-de-la-Antartida-Un-nuevo-mapa-revela-su-relieve-oculto-con-un-detalle-sin-precedentes",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-01-16T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:55:21+00:00",
+  "campos": {
+    "titular": "¿Qué se esconde bajo el hielo de la Antártida? Un nuevo mapa revela su relieve oculto con un detalle sin precedentes",
+    "entradilla": "El hallazgo, logrado mediante datos satelitales y física de flujo de hielo, identifica valles, colinas y cañones que ayudarán a predecir con mayor precisión la pérdida de masa helada y el aumento del nivel del mar.",
+    "cuerpo": "Bajo la colosal capa de hielo de la Antártida se esconde un paisaje complejo de montañas, valles y lagos que ha permanecido, hasta ahora, como una de las superficies menos exploradas del Sistema Solar. Un equipo de investigadores liderado por Helen Ockenden, de la Escuela de Geociencias de la Universidad de Edimburgo (Reino Unido), ha desarrollado un mapa a escala continental que desvela estas estructuras geológicas invisibles, fundamentales para entender cómo se desplaza el hielo y cómo responderá al calentamiento global.\nPara lograrlo, el estudio publicado esta semana en la revista Science no ha dependido exclusivamente de las costosas y limitadas mediciones directas sobre el terreno (vuelos de radar o sensores en tierra). En su lugar, el equipo utilizó una técnica denominada Análisis de Perturbación del Flujo de Hielo (IFPA, por sus siglas en inglés). Este método aplica la física del movimiento del hielo a las observaciones satelitales de alta resolución de la superficie, deduciendo qué formas debe tener el lecho rocoso para generar las sutiles ondulaciones que se ven desde el espacio.\nEl mapa resultante revela accidentes topográficos de escala media (entre 2 y 30 kilómetros) que antes eran desconocidos o aparecían desdibujados. Entre los hallazgos destacan profundos valles alpinos, llanuras erosionadas y extensos canales fluviales enterrados que se extienden durante cientos de kilómetros. Según los autores, algunas de estas formas podrían ser reliquias de paisajes que existieron incluso antes de que la Antártida estuviera cubierta de hielo.\n\"Es sorprendente que tanto detalle de la topografía del lecho —valles, colinas y cañones— quede capturado en la forma de la superficie del hielo, situada a tanta distancia por encima\", explica Robert Bingham, catedrático de Glaciología en la Universidad de Edimburgo y coautor del estudio.\nBingham señala que los cambios en la superficie son extremadamente sutiles: cuando un bloque de hielo de 3 kilómetros de espesor pasa sobre un cañón de 100 metros de profundidad, la elevación de la superficie apenas cae unos pocos metros, algo casi imperceptible al ojo humano pero detectable mediante satélites.\nLa importancia de este nuevo mapa no es solo geográfica, sino climática. La textura del terreno determina la velocidad y la dirección en la que el hielo fluye hacia el océano. Al reducir la incertidumbre sobre la topografía subglacial, los científicos pueden mejorar drásticamente los modelos de pérdida de masa helada y las proyecciones sobre el aumento del nivel del mar a escala global.\nNo obstante, expertos independientes como Duncan Young, del Instituto de Geofísica de la Universidad de Texas en Austin, advierten en un comentario adjunto que este mapa no es la \"última palabra\", ya que se basa en supuestos sobre la deformación del hielo y el deslizamiento basal que aún deben seguir ajustándose.\nAun así, el estudio ofrece un marco mucho más claro para reconstruir la dinámica del continente blanco y comprender su interacción con el lecho rocoso."
+  },
+  "sha256": {
+    "titular": "26422ce94af8dabe771c5768a8477b64b188bbb36a612085d44be95876a005b6",
+    "entradilla": "47354f3e1690d355816d4ccc4d234521a06e0625378c442f446195664b74d773",
+    "cuerpo": "3d042ef67bba731a7f75efcfa65ee51228e6874c15936128fff42a8634206665"
+  }
+}

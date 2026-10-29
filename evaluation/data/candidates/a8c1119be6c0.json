@@ -1,0 +1,26 @@
+{
+  "id": "a8c1119be6c0",
+  "url": "https://www.agenciasinc.es/Noticias/La-identificacion-de-nuevas-claves-moleculares-del-mieloma-multiple-permite-terapias-mas-precisas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-02T10:41:00+02:00",
+  "fuente_y_derechos": "Fuente: Universidad de Navarra | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Patología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:40:38+00:00",
+  "campos": {
+    "titular": "La identificación de nuevas claves moleculares del mieloma múltiple permite terapias más precisas",
+    "entradilla": "Investigadores del Cima Universidad de Navarra revelan el papel esencial del factor de transcripción IRF2 en el desarrollo de este tipo de cáncer hematológico. Sus niveles de expresión permiten estratificar mejor a los pacientes, diferenciando aquellos con mejor o peor pronóstico.",
+    "cuerpo": "Un equipo de investigación del Cima y de la Clínica Universidad de Navarra han identificado nuevas claves moleculares del mieloma múltiple. Este tipo de cáncer hematológico que afecta a la médula ósea se caracteriza por su resistencia a los tratamientos, lo que provoca recaídas en los pacientes.\nEl estudio se ha centrado en analizar qué factores de transcripción (proteínas clave que regulan la activación de genes) son esenciales en el desarrollo del mieloma múltiple. Esta investigación, integrada en el Cancer Center Clínica Universidad de Navarra, se basa en trabajos anteriores que estudiaron el epigenoma completo del mieloma.\n“En ellos, desciframos que los factores de transcripción podrían desempeñar un papel clave en las alteraciones epigenómicas del mieloma múltiple. En el trabajo que acabamos de publicar demostramos el papel de IRF2, un factor de transcripción cuyo papel en esta enfermedad no se conocía hasta ahora y que puede convertirse en una buena diana terapéutica”, explica Nahia Gómez-Echarte, investigadora postdoctoral del Cima y primera autora del trabajo, cuyos resultados se acaban de publicar en el último número de la revista científica Blood.\n“Asimismo, hemos confirmado que su expresión es un buen biomarcador, porque nos permite estratificar a los pacientes con mejor o peor pronóstico”, señala Xabier Agirre, investigador principal del Grupo de Epigenética del Cima y codirector del trabajo, junto con los doctores Felipe Prósper y Edurne San José-Enériz.\nLa investigación ha analizado 230 factores de transcripción detectados mediante herramientas computacionales. Posteriormente, se seleccionaron 54 factores que sí estaban expresados en células de mieloma.\nPara cada uno de esos factores de transcripción se diseñaron 10 guías CRISPR diferentes, con el objetivo de ver si la inhibición de esos factores era clave para la viabilidad de las células de mieloma. En este análisis se identificaron 22 factores potencialmente esenciales para el desarrollo de este tipo de cáncer.\nEntre estos factores de transcripción, los científicos del Cima han demostrado que IRF2 desempeña funciones biológicas claves, como es la regulación de la necroptosis (un tipo de muerte celular), la migración y el control del ciclo celular en el mieloma múltiple.\nAdemás, el estudio revela que los niveles de expresión de IRF2 permiten estratificar mejor a los pacientes, diferenciando aquellos con mejor o peor pronóstico.\n“Incorporar este biomarcador a los sistemas actuales de clasificación del mieloma múltiple podría mejorar la capacidad para predecir la respuesta de los pacientes a los tratamientos”, apunta Agirre.\nEl trabajo, realizado en el marco del CIBER de Cáncer (CIBERONC), ha contado con financiación pública del Instituto de Salud Carlos III y del Gobierno de Navarra, así como con el apoyo de instituciones privadas como la Fundación Paula and Rodger Riney."
+  },
+  "sha256": {
+    "titular": "5488c5989013098d104959c6a21c36bee38082b01616d71afcf322cc574fcd10",
+    "entradilla": "7324cf80a8b280546a92f4cc91dfe48cd2b6d2d901556c3ccf9713982142b0a6",
+    "cuerpo": "c781cd357daf3e7dc28d1a15036ef8a9e2fedf62bf8cfdf8f60b61485395315f"
+  }
+}

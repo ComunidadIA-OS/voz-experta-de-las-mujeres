@@ -1,0 +1,143 @@
+{
+  "article_id": "0ce4d9e7fa74",
+  "url": "https://www.agenciasinc.es/Noticias/El-proyecto-Psyche-situa-las-mariposas-a-la-vanguardia-de-la-genomica-de-la-biodiversidad",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:07+00:00",
+  "article_sha256": {
+    "titular": "06ddc14596840d8167d1a0af1a78e0529b84cbc0db5fa38ffc1707fb0fd1aa78",
+    "entradilla": "520cfffd9c0d58b0403371bead839ea200f0eeaa432ba0bbc97c76ee087cfe49",
+    "cuerpo": "750f7863126a8791546bb67035eabeb4343de2dda9e13694d172c815beaab992"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Roger Vila",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigador principal del Instituto de Biología Evolutiva (IBE)",
+      "gender_representation": "man",
+      "gender_evidence": "investigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“El objetivo para los próximos años es doble: por un lado, avanzar para completar los 11 mil genomas para todas las especies y, por otro lado, demostrar qué podemos hacer con estos genomas en cuanto a investigación y conservación”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La genómica nos permite estimar la disminución del tamaño de las poblaciones, la conectividad entre ellas o los niveles de endogamia. Comprender la evolución de las especies resilientes podría contribuir a proteger a otras especies”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“El proyecto Psyche representa un esfuerzo colaborativo ejemplar entre cientos de científicos de toda Europa. En España, colaboramos en este proyecto el Instituto de Biología Evolutiva, las Universidades de A Coruña, Murcia, Valencia, Oviedo, Vigo y Barcelona, el Instituto de Productos Naturales y Agrobiología (IPNA), el Instituto Botánico de Barcelona, el Museo de Ciencias Naturales de Granollers, la Asociación Zerynthia y múltiples naturalistas. Todos compartimos un objetivo común: entender y proteger la enorme diversidad de mariposas y polillas”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Comprender la historia de adaptación de los lepidópteros puede ser clave para su conservación ante la crisis climática”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793119985265",
+        "nombre": "Roger Vila",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 219,
+            "fin16": 230,
+            "texto": "Roger Vila,",
+            "inicio": 219,
+            "fin": 230
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 231,
+          "fin16": 243,
+          "texto": "investigador",
+          "inicio": 231,
+          "fin": 243
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1191,
+            "fin16": 1421,
+            "texto": "“El objetivo para los próximos años es doble: por un lado, avanzar para completar los 11 mil genomas para todas las especies y, por otro lado, demostrar qué podemos hacer con estos genomas en cuanto a investigación y conservación”",
+            "tipo": "directa",
+            "inicio": 1191,
+            "fin": 1421
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2104,
+            "fin16": 2337,
+            "texto": "“La genómica nos permite estimar la disminución del tamaño de las poblaciones, la conectividad entre ellas o los niveles de endogamia. Comprender la evolución de las especies resilientes podría contribuir a proteger a otras especies”",
+            "tipo": "directa",
+            "inicio": 2104,
+            "fin": 2337
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2830,
+            "fin16": 3385,
+            "texto": "“El proyecto Psyche representa un esfuerzo colaborativo ejemplar entre cientos de científicos de toda Europa. En España, colaboramos en este proyecto el Instituto de Biología Evolutiva, las Universidades de A Coruña, Murcia, Valencia, Oviedo, Vigo y Barcelona, el Instituto de Productos Naturales y Agrobiología (IPNA), el Instituto Botánico de Barcelona, el Museo de Ciencias Naturales de Granollers, la Asociación Zerynthia y múltiples naturalistas. Todos compartimos un objetivo común: entender y proteger la enorme diversidad de mariposas y polillas”,",
+            "tipo": "directa",
+            "inicio": 2830,
+            "fin": 3385
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4304,
+            "fin16": 4424,
+            "texto": "“Comprender la historia de adaptación de los lepidópteros puede ser clave para su conservación ante la crisis climática”",
+            "tipo": "directa",
+            "inicio": 4304,
+            "fin": 4424
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 231,
+          "fin16": 295,
+          "texto": "investigador principal del Instituto de Biología Evolutiva (IBE)",
+          "inicio": 231,
+          "fin": 295
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 115
+  }
+}

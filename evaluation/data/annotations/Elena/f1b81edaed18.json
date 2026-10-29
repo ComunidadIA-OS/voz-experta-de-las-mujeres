@@ -1,0 +1,24 @@
+{
+  "article_id": "f1b81edaed18",
+  "url": "https://www.agenciasinc.es/Noticias/El-28-de-agosto-tendra-lugar-un-eclipse-parcial-de-Luna-visible-en-toda-Espana",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:32+00:00",
+  "article_sha256": {
+    "titular": "2300191dd08960a580f334964359a0181bee74008ef98973270f9d4eacb68a28",
+    "entradilla": "47ebfdf168e58c2a4935e950fd342975b034c39293708bbb69efb0a35bf7e0ef",
+    "cuerpo": "63ff18e854c281f3494e8ba4b57c67a8fa63fc02a3819ad738e9b38ff9c446d6"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [],
+  "reviewed_quotes": [],
+  "page_annotation": {
+    "personas": [],
+    "sin_personas": true,
+    "terminada": true,
+    "notas": "",
+    "segundos": 9
+  }
+}

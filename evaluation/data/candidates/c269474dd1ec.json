@@ -1,0 +1,26 @@
+{
+  "id": "c269474dd1ec",
+  "url": "https://www.agenciasinc.es/Noticias/El-primer-reloj-nuclear-autorregulado-abre-la-puerta-a-cazar-la-materia-oscura",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-10-07T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Física"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:32:05+00:00",
+  "campos": {
+    "titular": "El primer reloj nuclear autorregulado abre la puerta a cazar la materia oscura",
+    "entradilla": "Una colaboración entre la Universidad Técnica de Viena y el instituto alemán PTB logra mantener en funcionamiento continuo durante más de 24 horas un prototipo basado en torio-229. El hallazgo avanza en la detección de variaciones en las constantes fundamentales de la física.",
+    "cuerpo": "Para medir el tiempo con exactitud, la humanidad ha pasado de los péndulos mecánicos a las oscilaciones de los electrones en los relojes atómicos modernos. Sin embargo, los científicos perseguían desde hace décadas un salto cualitativo: utilizar las transiciones dentro del propio núcleo atómico. Este hito se ha materializado con la presentación del primer reloj nuclear autorregulado y autónomo, capaz de funcionar de manera estable sin intervención humana y de corregir sus propias desviaciones de frecuencia.\nEl estudio, liderado por investigadores de la Universidad Técnica de Viena (TU Wien) y el Physikalisch-Technische Bundesanstalt (PTB) de Braunschweig (Alemania), demuestra que este dispositivo puede operar como un sistema cerrado y mantener su ritmo durante más de un día consecutivo, alcanzando una estabilidad provisional equivalente a un desvío de solo un segundo cada 30 millones de años.\nA diferencia de los relojes atómicos convencionales, que emplean láseres para alterar el estado de los electrones que orbitan el núcleo, los relojes nucleares actúan directamente sobre los protones y neutrones del centro del átomo. Dado que el núcleo es más de diez mil veces más pequeño que el átomo completo, resulta enormemente resistente a perturbaciones ambientales externas como los campos electromagnéticos.\nEl elemento clave de este avance es el isótopo torio-229. A diferencia de casi cualquier otro núcleo atómico conocido, que requiere energías descomunales para modificar su estado, el torio-229 posee dos estados energéticos tan próximos entre sí que se pueden conmutar mediante la luz de un láser óptico de precisión, una posibilidad teórica propuesta por Ekkehard Peik en 2003.\nPara construir este metrónomo atómico, el equipo de la TU Wien fabricó cristales especiales de fluoruro cálcico dopados con millones de núcleos de torio-229. Paralelamente, los físicos del PTB y del Instituto Max Born de Berlín diseñaron un láser continuo de estado sólido de alta resolución. Al irradiar el cristal, los núcleos absorben la luz únicamente cuando la frecuencia del láser es exacta.\nSi la frecuencia del láser se desvía levemente por fluctuaciones térmicas, la absorción disminuye, lo que activa un bucle de retroalimentación (feedback loop) que reajusta de forma automática el pulso. Esta capacidad de autorregulación transforma el dispositivo en un reloj funcional independiente, cuya señal fue comparada con un reloj atómico óptico de iterbio en el instituto de metrología austriaco (BEV–PTP).\nCoincidiendo con este trabajo, un equipo independiente de la Universidad de Tsinghua (China) ha publicado simultáneamente en Nature un desarrollo paralelo basado en la misma tecnología, lo que confirma la rápida efervescencia internacional de esta disciplina.\nAunque la precisión de este primer prototipo no supera todavía a los mejores relojes atómicos ópticos basados en iones atrapados en vacío, su diseño compacto en estado sólido ofrece oportunidades inéditas en la física fundamental. Al estar determinado por el delicado equilibrio entre la fuerza nuclear fuerte y la interacción electromagnética, cualquier variación física no detectada alteraría la frecuencia del reloj.\nDe hecho, los autores ya han utilizado la plataforma para buscar posibles acoplamientos del núcleo de torio-229 con bosones escalares hipotéticos, un candidato a constituir la materia oscura. Los análisis iniciales han permitido acotar estas interacciones hipotéticas en casi tres órdenes de magnitud respecto a los límites previos.\nA medida que se perfeccione la transparencia de los cristales y la potencia de los sistemas láser, la comunidad científica prevé que estos dispositivos incrementen su precisión en varios órdenes de magnitud, convirtiéndose en herramientas clave para responder a las preguntas más profundas del universo."
+  },
+  "sha256": {
+    "titular": "b9508c519cf62b8be72a833ee07cf4cf4a1880a0d9e76c6f1ddf4ee9a8b822d5",
+    "entradilla": "77c2dfb4330d0d186bcb86ee96dd8350c6416d732bc89473bcbe3f3a8dc444de",
+    "cuerpo": "bac4f9684ece762ed3ba2f837cca2bf38288bf80c892815d38d855eb46e9b34a"
+  }
+}

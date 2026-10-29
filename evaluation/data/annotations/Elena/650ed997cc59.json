@@ -1,0 +1,263 @@
+{
+  "article_id": "650ed997cc59",
+  "url": "https://www.agenciasinc.es/Noticias/El-gran-mapa-del-genoma-cerebral-revela-que-la-maduracion-humana-se-extiende-hasta-los-24-anos",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:12+00:00",
+  "article_sha256": {
+    "titular": "29d53f081b0f1ae2f7ec2a0e2424ddd544997b45dfea4de7490d79465ae305ff",
+    "entradilla": "76334d112728fc2f4ea0c653a31c78bc38def188eef028b2d9e07fe2b1aa5b9e",
+    "cuerpo": "a826cc74a711fda5cf4d12b02c10f2cad083c0e88faf1eb1312862cf8a4d4af1"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Juan Lerma",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "profesor de investigación del CSIC en el Instituto de Neurociencias CSIC-UMH y académico de la Real Academia de Ciencias",
+      "gender_representation": "man",
+      "gender_evidence": "profesor",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Marta Nieto",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigadora principal del grupo de Desarrollo de la Corteza Cerebral en el Centro Nacional de Biotecnología (CNB-CSIC)",
+      "gender_representation": "woman",
+      "gender_evidence": "investigadora principal",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p3",
+      "name": "Rafael Yuste",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "catedrático de la Universidad de Columbia y promotor de la iniciativa BRAIN",
+      "gender_representation": "man",
+      "gender_evidence": "catedrático",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“confirmar fehacientemente que a los 24 años de edad existe un punto de inflexión a partir del cual la composición de la mayoría de las subclases neuronales y gliales permanece estable”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "ponen de manifiesto hasta cuándo un individuo se puede considerar inmaduro y delinean las repercusiones que sistemas educativos deficientes, el acceso a redes sociales u otros sistemas alienantes como las drogas o el alcohol pueden tener en el desarrollo del cerebro”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“El trabajo cambia el foco desde el que contemplamos el envejecimiento cerebral”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“quizá para entender por qué las neuronas se vuelven vulnerables con la edad no debamos mirar únicamente a las propias neuronas, sino también a cómo envejecen las células que las alimentan, protegen y acompañan durante toda la vida”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "direct",
+      "text": "Mapear todos los tipos celulares del cerebro era el sueño de Cajal, y hacerlo en la corteza prefrontal humana es particularmente importante, ya que es la parte de nuestro cerebro donde se concentra el procesamiento de información cognitiva y mental”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793121276147",
+        "nombre": "Juan Lerma",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1389,
+            "fin16": 1399,
+            "texto": "Juan Lerma",
+            "inicio": 1389,
+            "fin": 1399
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1401,
+          "fin16": 1409,
+          "texto": "profesor",
+          "inicio": 1401,
+          "fin": 1409
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1562,
+            "fin16": 1748,
+            "texto": "“confirmar fehacientemente que a los 24 años de edad existe un punto de inflexión a partir del cual la composición de la mayoría de las subclases neuronales y gliales permanece estable”.",
+            "tipo": "directa",
+            "inicio": 1562,
+            "fin": 1748
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1808,
+            "fin16": 2075,
+            "texto": "ponen de manifiesto hasta cuándo un individuo se puede considerar inmaduro y delinean las repercusiones que sistemas educativos deficientes, el acceso a redes sociales u otros sistemas alienantes como las drogas o el alcohol pueden tener en el desarrollo del cerebro”",
+            "tipo": "directa",
+            "inicio": 1808,
+            "fin": 2075
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1401,
+          "fin16": 1521,
+          "texto": "profesor de investigación del CSIC en el Instituto de Neurociencias CSIC-UMH y académico de la Real Academia de Ciencias",
+          "inicio": 1401,
+          "fin": 1521
+        },
+        "participacion": "comenta"
+      },
+      {
+        "_id": "p1793121335697",
+        "nombre": "Marta Nieto",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3049,
+            "fin16": 3060,
+            "texto": "Marta Nieto",
+            "inicio": 3049,
+            "fin": 3060
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 3062,
+          "fin16": 3085,
+          "texto": "investigadora principal",
+          "inicio": 3062,
+          "fin": 3085
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2959,
+            "fin16": 3039,
+            "texto": "“El trabajo cambia el foco desde el que contemplamos el envejecimiento cerebral”",
+            "tipo": "directa",
+            "inicio": 2959,
+            "fin": 3039
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3220,
+            "fin16": 3452,
+            "texto": "“quizá para entender por qué las neuronas se vuelven vulnerables con la edad no debamos mirar únicamente a las propias neuronas, sino también a cómo envejecen las células que las alimentan, protegen y acompañan durante toda la vida”",
+            "tipo": "directa",
+            "inicio": 3220,
+            "fin": 3452
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 3062,
+          "fin16": 3182,
+          "texto": "investigadora principal del grupo de Desarrollo de la Corteza Cerebral en el Centro Nacional de Biotecnología (CNB-CSIC)",
+          "inicio": 3062,
+          "fin": 3182
+        },
+        "participacion": "comenta"
+      },
+      {
+        "_id": "p1793121384980",
+        "nombre": "Rafael Yuste",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4027,
+            "fin16": 4039,
+            "texto": "Rafael Yuste",
+            "inicio": 4027,
+            "fin": 4039
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 4041,
+          "fin16": 4052,
+          "texto": "catedrático",
+          "inicio": 4041,
+          "fin": 4052
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4172,
+            "fin16": 4422,
+            "texto": "Mapear todos los tipos celulares del cerebro era el sueño de Cajal, y hacerlo en la corteza prefrontal humana es particularmente importante, ya que es la parte de nuestro cerebro donde se concentra el procesamiento de información cognitiva y mental”.",
+            "tipo": "directa",
+            "inicio": 4172,
+            "fin": 4422
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 4041,
+          "fin16": 4116,
+          "texto": "catedrático de la Universidad de Columbia y promotor de la iniciativa BRAIN",
+          "inicio": 4041,
+          "fin": 4116
+        },
+        "participacion": "comenta"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 174
+  }
+}

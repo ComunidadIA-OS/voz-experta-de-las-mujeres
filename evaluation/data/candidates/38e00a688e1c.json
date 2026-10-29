@@ -1,0 +1,26 @@
+{
+  "id": "38e00a688e1c",
+  "url": "https://www.agenciasinc.es/Noticias/Hallan-vida-microbiana-en-la-fosa-de-Atacama-alimentada-por-gases-de-azufre",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-27T10:47:00+02:00",
+  "fuente_y_derechos": "Fuente: CAB (CSIC-INTA) | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:46:39+00:00",
+  "campos": {
+    "titular": "Hallan vida microbiana en la fosa de Atacama alimentada por gases de azufre",
+    "entradilla": "Un estudio del Centro de Astrobiología, INTA-CSIC, describe una emanación a 2,5 km de profundidad frente a Antofagasta (Chile), con gran diversidad de microorganismos implicados en ciclos biogeoquímicos. A diferencia de otros sistemas similares, no presenta metano, lo que la convierte en un entorno de especial interés científico.",
+    "cuerpo": "La Fosa Perú–Chile es uno de los entornos marinos más profundos y estables de la Tierra, alcanzando profundidades superiores a los 8 000 metros a lo largo de sus 6 000 kilómetros de longitud. Esta región ha permanecido estable durante millones de años, lo que podría haber permitido la persistencia de 'fósiles vivientes' en ella.\nLa expedición Living Fossils of the Atacama Trench, parte del programa de año 2024 del Schmidt Ocean Institute (SOI) y liderada por el investigador del Centro de Astrobiología, Armando Azúa Bustos, se propuso explorar estos ecosistemas remotos.\nComo parte esencial de los objetivos de la expedición se estableció la búsqueda de nuevas emanaciones de gases o “cold seeps”, ambientes donde gases y líquidos (principalmente metano y otros hidrocarburos) salen lentamente del subsuelo marino hacia el agua. Estos ambientes mantienen ecosistemas altamente especializados y forman “oasis marinos” en algunas zonas fondo oceánico.\nDurante una de las inmersiones de larga duración de la expedición, los investigadores identificaron una zona de sedimentos inusualmente oscuros. Este entorno albergaba formas de vida características de las emanaciones de gases, incluyendo moluscos simbióticos que dependen de bacterias para aprovechar la energía de los gases presentes y extensas biopelículas blancas de microorganismos capaces de oxidar azufre.\nMediante la extracción de ácido ribonucleico (ARN) de estas muestras, los investigadores caracterizaron las comunidades microbianas de los sedimentos de esta región.\nLos sedimentos situados fuera de la influencia directa de la emanación presentaban características similares a las de otros ambientes de aguas profundas, donde las comunidades microbianas se sustentan principalmente de la 'nieve marina', es decir, de materia orgánica que desciende desde la superficie oceánica.\nEn estos entornos predominan los ciclos del carbono y del nitrógeno, con microorganismos especializados en la degradación de materia orgánica y amoniaco en presencia de oxígeno.\nEn contraste, en el entorno de la emanación son abundantes los procesos basados en el azufre. “La superficie de la emanación está cubierta por biopelículas de organismos oxidadores de azufre, mientras que el subsuelo alberga abundantes bacterias reductoras de sulfato. En conjunto, estos procesos apuntan a un ciclo del azufre muy activo”, explica Miguel Arribas Tiemblo, autor principal del estudio e investigador del CAB.\nLos análisis mineralógicos refuerzan estas observaciones. “La identificación de diversas formas cristalinas de pirita —incluyendo cristales de gran tamaño y framboides— proporciona evidencia indirecta de una reducción de sulfato activa que condiciona la geoquímica de los sedimentos”, añade Javier Sánchez España, científico del CAB.\nDe forma destacada, análisis adicionales revelaron una ausencia casi total de metano en el sitio. “Aunque el ciclo del azufre es relevante en las emanaciones de gases a nivel global, sus fluidos asociados suelen contener también hidrocarburos como el metano. Este no parece ser el caso aquí, lo que convierte a este lugar en un ecosistema único y especialmente interesante”, señala Arribas Tiemblo.\nEn concordancia con esta observación, algunos microorganismos consumidores de metano —como las arqueas ANME, típicos habitantes de emanaciones de gases— no están presentes en las inmediaciones del sitio.\nLas emanaciones de gases, junto con las chimeneas hidrotermales, se consideran similares a potenciales entornos habitables en los océanos presentes debajo de la superficie de algunas lunas del Sistema Solar, como Encélado y Europa. El descubrimiento de un ecosistema sostenido mayormente por procesos basados en el azufre amplía el rango de condiciones en las que podría existir vida fuera de la Tierra.\nEstos resultados expanden nuestro conocimiento actual sobre la capacidad de adaptación de la vida en ambientes extremos. Además, inciden en la importancia de seguir explorando el océano profundo como una ventana tanto al pasado de la vida en la Tierra, como a su existencia fuera de ella."
+  },
+  "sha256": {
+    "titular": "00cf30b8d910c9f1b16e6f7c3a79d29cd3d943d92178a68fe5ba40524a4bcac5",
+    "entradilla": "12c3ad72ec293c74d894998501617024c77719ea6f84f75360b33908db244be9",
+    "cuerpo": "175387d7a7dff2c700eb39fbeb9dd594517b648ab3c814a007af6d5604ae2aa1"
+  }
+}

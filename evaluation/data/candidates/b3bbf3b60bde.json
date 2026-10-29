@@ -1,0 +1,26 @@
+{
+  "id": "b3bbf3b60bde",
+  "url": "https://www.agenciasinc.es/Noticias/Un-sistema-solar-naciente-Observan-dos-planetas-en-formacion-en-torno-a-una-estrella-joven",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-24T14:00:00+01:00",
+  "fuente_y_derechos": "Fuente: ESO | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:49:21+00:00",
+  "campos": {
+    "titular": "¿Un sistema solar naciente? Observan dos planetas en formación en torno a una estrella joven",
+    "entradilla": "La estrella WISPIT 2 muestra un entorno dinámico y complejo que revela cómo nacen los sistemas planetarios. Nuevas observaciones de ESO han confirmado la presencia de dos mundos en formación en su disco, un hallazgo excepcional para comprender nuestro propio origen cósmico.",
+    "cuerpo": "Un equipo de astrónomos ha observado la formación de dos planetas en el disco que rodea a la joven estrella WISPIT 2. Anteriormente ya se había detectado un primer planeta y ahora los investigadores han empleado telescopios del Observatorio Europeo Austral (ESO) para confirmar la presencia de otro.\nEstas observaciones, junto a la estructura única del disco, indican que WISPIT 2 podría asemejarse a un sistema solar en su juventud.\n“WISPIT 2 es la mejor mirada a nuestro propio pasado que tenemos hasta la fecha”, afirma Chloe Lawlor, investigadora de la Universidad de Galway (Irlanda) y autora principal del estudio publicado hoy en The Astrophysical Journal Letters.\nEl sistema es solo el segundo conocido, después de PDS 70, en el que se han observado directamente dos planetas alrededor de su estrella durante el proceso de formación. A diferencia de PDS 70, WISPIT 2 posee un disco muy extendido con distintivos huecos y anillos. “Estas estructuras sugieren que actualmente se están formando más planetas, que finalmente detectaremos”, señala Lawlor.\n“WISPIT 2 nos ofrece un laboratorio fundamental, no solo para observar la formación de un solo planeta, sino de todo un sistema planetario”, añade Christian Ginski, coautor del estudio e investigador en la Universidad de Galway. Con estas observaciones, la comunidad científica busca comprender mejor cómo evolucionan los sistemas planetarios desde sus etapas iniciales hasta configuraciones maduras como la nuestra.\nEl primer planeta recién nacido del sistema, WISPIT 2b, fue detectado el año pasado. Tiene una masa casi cinco veces superior a la de Júpiter y orbita la estrella a unas 60 veces la distancia entre la Tierra y el Sol.\n“Esta detección de un nuevo mundo en formación mostró realmente el asombroso potencial de nuestra instrumentación actual”, recuerda Richelle van Capelleveen, investigador del Observatorio de Leiden (Países Bajos) y líder del estudio anterior. Tras identificarse un objeto adicional cerca de la estrella, mediciones con el VLT (Very Large Telescope) de ESO y el Interferómetro VLT (VLTI) confirmaron su naturaleza planetaria. El nuevo planeta, WISPIT 2c, está cuatro veces más cerca de la estrella central y posee el doble de masa que WISPIT 2b. Ambos son gigantes gaseosos, comparables a los planetas exteriores de nuestro Sistema Solar.\nPara confirmar la existencia de WISPIT 2c, el equipo utilizó el instrumento SPHERE, instalado en el VLT, que captó una imagen del objeto. Posteriormente, empleó el instrumento GRAVITY+, del VLTI, para validar que se trataba efectivamente de un planeta. “Afortunadamente, nuestro estudio pudo aprovechar la reciente actualización de GRAVITY+, sin la cual no habríamos logrado una detección tan clara de un planeta tan cercano a su estrella”, explica Guillaume Bourdarot, coautor del estudio e investigador en el Instituto Max Planck de Física Extraterrestre, en Garching (Alemania).\nAmbos planetas aparecen inmersos en huecos muy definidos dentro del disco de polvo y gas que rodea a WISPIT 2. Estas brechas se originan cuando las partículas del disco se acumulan y la gravedad del embrión planetario atrae más material, hasta formar un planeta. El material restante alrededor de cada hueco crea los característicos anillos de polvo visibles en el disco.\nAdemás de los huecos donde se detectaron los dos planetas, el disco presenta al menos otro más pequeño y alejado. “Sospechamos que podría haber un tercer planeta abriendo esta brecha”, apunta Lawlor, “potencialmente de la masa de Saturno, ya que la brecha es mucho más estrecha y superficial”. El equipo espera realizar nuevas observaciones, y Ginski destaca que “con el próximo Telescopio Extremadamente Grande de ESO, podríamos ser capaces de obtener imágenes directas de un planeta así”."
+  },
+  "sha256": {
+    "titular": "fa9d5a39aa4ca3e7c7817ac4f7de53735360b02d81c939def2986f8f937f2768",
+    "entradilla": "8ad8d3076f673987451aa30b88ea3b8db83fba34c37ffded40010149ac29b11e",
+    "cuerpo": "04804c3ea30333f1eecc78ab4133a759afb2b89393fb2935b168ea4b4dfd7c05"
+  }
+}

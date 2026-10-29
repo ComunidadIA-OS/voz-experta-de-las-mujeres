@@ -1,0 +1,26 @@
+{
+  "id": "0f95e74e0404",
+  "url": "https://www.agenciasinc.es/Noticias/Identifican-con-IA-genes-del-envejecimiento-desigual-de-organos-reproductivos-en-la-menopausia",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-29T11:00:00+02:00",
+  "fuente_y_derechos": "Fuente: BSC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:46:19+00:00",
+  "campos": {
+    "titular": "Identifican con IA genes del envejecimiento desigual de órganos reproductivos en la menopausia",
+    "entradilla": "Un estudio liderado por investigadoras del BSC traza el primer atlas del sistema reproductor femenino y redefine la menopausia como un proceso que reorganiza órganos y tejidos. El trabajo ha utilizado IA y supercomputación para identificar los mecanismos genéticos implicados y posibles biomarcadores en sangre.",
+    "cuerpo": "A pesar de afectar a la mitad de la población mundial, la menopausia ha sido históricamente poco estudiada y comprendida, tanto en la investigación biomédica como en la práctica clínica. Sin embargo, con el aumento de la esperanza de vida, el número de mujeres en etapa postmenopáusica sigue creciendo y, en 2021, las mayores de 50 años ya representaban el 26% de la población mundial, según la OMS.\nSus efectos van mucho más allá del sistema reproductivo y se asocian a un mayor riesgo de enfermedades cardiovasculares, metabólicas, neurodegenerativas y óseas. Aun así, pocos estudios han analizado en profundidad cómo este proceso afecta al conjunto del sistema reproductor femenino más allá del ovario.\nEn este contexto, un nuevo estudio del Barcelona Supercomputing Center – Centro Nacional de Supercomputación (BSC-CNS), publicado en Nature Aging, presenta el primer atlas a gran escala del envejecimiento del sistema reproductor femenino y aporta una nueva visión sobre su impacto en la salud.\nGracias a la integración de 1 112 imágenes de tejidos de 656 muestras procedentes de 304 mujeres de entre 20 y 70 años, junto con el análisis de la expresión de miles de genes, el trabajo reconstruye la trayectoria del envejecimiento en siete órganos reproductivos: útero, ovario, vagina, cérvix, mama y trompas de Falopio.\nAprovechando la capacidad de clasificación de imágenes de la inteligencia artificial y los recursos de supercomputación del MareNostrum 5, las investigadoras emplearon técnicas como el aprendizaje profundo (deep learning) para identificar tanto los cambios visibles en los tejidos como los procesos moleculares asociados al envejecimiento en cada órgano.\nLos resultados muestran que el envejecimiento no es uniforme ni lineal: mientras el ovario y la vagina presentan un deterioro progresivo que comienza años antes de la menopausia, el útero experimenta cambios mucho más abruptos en torno a este momento.\nEl análisis también revela que no solo los órganos envejecen de manera distinta, sino que dentro de un mismo órgano los tejidos —como la mucosa o el músculo uterino— responden de forma diferente, siendo especialmente sensibles a los cambios asociados a la menopausia.\n“Hasta ahora, tendíamos a considerar la menopausia principalmente como el final de la función reproductiva del ovario. Sin embargo, nuestros resultados muestran que actúa como un punto de inflexión que reorganiza profundamente otros órganos y tejidos del sistema reproductor, y nos permiten identificar los genes y procesos moleculares que podrían estar detrás de estos cambios”, explica Marta Melé, líder del grupo de Transcriptómica y Genómica Funcional del BSC y directora del estudio.\nEl trabajo también ha identificado señales moleculares asociadas al envejecimiento que pueden detectarse en sangre, tras analizar muestras de plasma de 21441 mujeres. Estos biomarcadores permitirían monitorizar de forma no invasiva el estado de los órganos reproductivos y anticipar riesgos asociados a la menopausia, como el prolapso del suelo pélvico u otras complicaciones. Además, podrían detectarse sin necesidad de biopsias, lo que facilitaría un seguimiento más accesible y menos invasivo.\n“No solo hemos identificado los cambios moleculares que subyacen al envejecimiento de estos órganos, sino que también hemos comprobado que pueden detectarse en sangre, lo que abre la puerta a nuevas herramientas clínicas”, añade Oleksandra Soldatkina, primera coautora del estudio e investigadora del BSC.\nEn un contexto de aumento de la esperanza de vida, comprender cómo envejece el sistema reproductor resulta clave para mejorar la prevención, el diagnóstico y el tratamiento de múltiples enfermedades asociadas. Este estudio representa un paso importante hacia una comprensión más completa del envejecimiento femenino y sienta las bases para una medicina más precisa y equitativa en la salud de las mujeres."
+  },
+  "sha256": {
+    "titular": "c94487d95b3f0d234b8c3dac6fded567a80bcdc0e6e6f787573dfadf36688629",
+    "entradilla": "0a9d553d91c36229a40dbb36e16cf6b0dedd239c75fe5390375671ef5de21312",
+    "cuerpo": "9bdd674f788f3f921974f3d8ac4a72506c2d69398e2b62ad9a8a43010c87ba62"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "article_id": "b027b3399398",
+  "url": "https://www.agenciasinc.es/Noticias/LA-NASA-confirma-que-restos-de-un-cohete-de-SpaceX-impactaron-en-la-Luna",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:24+00:00",
+  "article_sha256": {
+    "titular": "582e70e8957bf4549caed3eb9af5eb589e013369ab544e2d57787222ea400306",
+    "entradilla": "7bc28e99e06e5ff9371cacbf6df8dc0faa95fd0b3160d86e5a4aef3009567975",
+    "cuerpo": "eeeb2e0739f9691cf04985ba8d92f60842e20ac258ea0dfcf325acfce3e09ff3"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [],
+  "reviewed_quotes": [],
+  "page_annotation": {
+    "personas": [],
+    "sin_personas": true,
+    "terminada": true,
+    "notas": "",
+    "segundos": 22
+  }
+}

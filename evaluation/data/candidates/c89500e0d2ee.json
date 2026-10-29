@@ -1,0 +1,26 @@
+{
+  "id": "c89500e0d2ee",
+  "url": "https://www.agenciasinc.es/Noticias/Descifran-como-las-neuronas-estabilizan-la-memoria-durante-el-aprendizaje",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-10-30T19:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:59:47+00:00",
+  "campos": {
+    "titular": "Descifran cómo las neuronas estabilizan la memoria durante el aprendizaje",
+    "entradilla": "Un equipo investigador ha identificado los mecanismos que permiten al cerebro consolidar recuerdos. El estudio describe cómo ciertas conexiones de largo alcance entre células nerviosas contribuyen a formar mapas mentales duraderos.",
+    "cuerpo": "Un nuevo estudio en ratones, liderado por investigadores de NYU Langone Health (Nueva York, EE UU), ha revelado que ciertos circuitos cerebrales recién descifrados estabilizan los recuerdos como parte del proceso de aprendizaje.\nEl trabajo, publicado en Science, demuestra que la comunicación entre dos regiones del cerebro —la corteza entorrinal y la zona CA3 del hipocampo— permite a los ratones formar representaciones espaciales estables, esenciales para consolidar recuerdos duraderos.\nEste circuito entorrinal-hipocampal ya se había relacionado con la formación y recuperación de recuerdos, especialmente cuando el cerebro reconstruye patrones a partir de señales parciales. Para que la evocación de recuerdos sea fiable, los mapas espaciales del hipocampo deben mantenerse inalterables, incluso ante cambios en el entorno.\nSegún los autores, alteraciones en los cálculos neuronales de la región CA3 del hipocampo pueden provocar síntomas similares a los de la esquizofrenia o el trastorno de estrés postraumático, donde la precisión y estabilidad de los recuerdos se deteriora. En estos casos, un ruido como el estallido de un globo podría desencadenar una respuesta de miedo extremo al evocar erróneamente una explosión.\n“Nuestro estudio, al centrarse en la estabilidad de las representaciones hipocampales, llena un vacío importante en la comprensión de cómo las entradas de largo alcance controlan los circuitos neuronales esenciales para la recuperación de la memoria”, afirma Jayeeta Basu, autora principal y profesora asistente en los departamentos de Psiquiatría y Neurociencia de NYU Langone Health.\n“Comprender mejor los circuitos que sustentan los mapas espaciales podría orientar el desarrollo de tratamientos más precisos para trastornos que afectan la memoria”, añade Basu, también investigadora en el Instituto de Neurociencia Traslacional de NYU Langone y reciente ganadora del Premio Presidencial para Jóvenes Científicos e Ingenieros.\nEl estudio se centra en las neuronas, las células cerebrales que transmiten señales eléctricas mediante cambios rápidos en su carga. Cuando esta señal alcanza el extremo de la neurona, se liberan neurotransmisores que cruzan el espacio entre células y se acoplan a receptores que pueden activar o inhibir la siguiente neurona.\nEste equilibrio entre excitación e inhibición permite transformar el ‘ruido’ neuronal en pensamientos coherentes. En reposo, se mantiene estable, pero durante el aprendizaje aumenta la excitación para codificar nuevos recuerdos.\nLos patrones de actividad neuronal determinan la especificidad de cada memoria, y al reactivarse permiten evocarla y generar comportamientos asociados, como que un ratón recuerde dónde encontrar agua azucarada en un laberinto.\nLos autores se han enfocado en neuronas con extensiones largas que conectan regiones cerebrales distantes. Hasta ahora se sabía poco sobre cómo estas conexiones de largo alcance influyen en los circuitos locales, que deben integrar lo ya aprendido con nueva información para formar recuerdos.\n“Este trabajo desentraña el mecanismo por el cual el cerebro aumenta la excitación neuronal para prestar más atención a ciertos estímulos sensoriales, reduciendo la inhibición en microcircuitos clave”, explica Vincent Robert, primer autor del estudio y becario postdoctoral en el laboratorio de Basu. “El equipo ha detallado cómo se ajusta el diálogo entre excitación, inhibición y desinhibición para formar recuerdos dependientes del contexto y estabilizar los mapas espaciales”."
+  },
+  "sha256": {
+    "titular": "bb966b9b2017b9e3372daf2dfc66556cc481b6df93628ff8186e378b865746b3",
+    "entradilla": "ef9559d4a24429cadca4127c505bbfdb35dbcf8257a55ca9802f28b2e0826667",
+    "cuerpo": "1e89178f66e92b5deb0acf19c8f075dada3cac961e746e353299579339f279c1"
+  }
+}

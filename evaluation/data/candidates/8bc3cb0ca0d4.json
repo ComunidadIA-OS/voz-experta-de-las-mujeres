@@ -1,0 +1,26 @@
+{
+  "id": "8bc3cb0ca0d4",
+  "url": "https://www.agenciasinc.es/Noticias/La-mision-china-Chang-e-6-ofrece-nuevas-pistas-sobre-el-origen-de-la-dicotomia-lunar",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-01-13T11:25:00+01:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:55:43+00:00",
+  "campos": {
+    "titular": "La misión china Chang'e-6 ofrece nuevas pistas sobre el origen de la dicotomía lunar",
+    "entradilla": "El análisis isotópico de muestras recogidas en la cuenca Aitken revela diferencias químicas entre las dos caras del satélite. El hallazgo apunta a un impacto colosal como origen de su evolución interna.",
+    "cuerpo": "La misión china Chang'e-6 ha aportado nuevas evidencias sobre el origen de la marcada dicotomía entre las dos caras de la Luna, al revelar que un impacto gigantesco ocurrido hace más de 4 200 millones de años alteró la composición del manto lunar y pudo frenar la actividad volcánica en su hemisferio oculto, según un estudio publicado en la revista PNAS\nLa investigación, liderada por científicos del Instituto de Geología y Geofísica de la Academia China de Ciencias, se basa en el análisis isotópico de alta precisión de basaltos recogidos por Chang’e-6 en la cuenca Aitken del Polo Sur, el mayor y más antiguo cráter de impacto del satélite, y fue difundida en la revista científica Proceedings of the National Academy of Sciences (PNAS).\nLos investigadores detectaron que las muestras procedentes de la cara oculta presentan proporciones significativamente más elevadas del isótopo pesado del potasio en comparación con rocas lunares obtenidas en misiones Apolo en la cara visible.\nTras descartar otros factores como la irradiación por rayos cósmicos o procesos magmáticos posteriores, el equipo concluyó que un gran impacto primigenio provocó la pérdida de elementos moderadamente volátiles en el manto lunar.\nSegún el estudio, las condiciones extremas de temperatura y presión generadas durante ese evento favorecieron la evaporación de los isótopos más ligeros, alterando de forma duradera la química interna del satélite.\nEsa pérdida de volátiles habría dificultado la generación de magma en la cara oculta, lo que contribuiría a explicar su menor actividad volcánica y su relieve más accidentado frente a las extensas llanuras basálticas del hemisferio visible desde la Tierra.\nLos científicos subrayan que el hallazgo aporta nuevas claves para comprender cómo los grandes impactos influyeron no solo en la superficie, sino también en la evolución interna de la Luna durante sus primeras etapas.\nLa misión Chang'e-6, lanzada en mayo de 2024, fue la primera en recoger muestras de la cara oculta de nuestro satélite.\nEl país asiático prepara nuevas misiones lunares no tripuladas como la Chang'e-7, programada para 2026 con destino al polo sur del satélite, y la Chang'e-8, prevista para 2029 con la participación de once países, que sentará las bases para futuras misiones humanas.\nChina ha invertido fuertemente en su programa espacial, con logros como el primer alunizaje en la cara oculta de la Luna, a cargo de la Chang'e-4, y el envío de la misión Tianwen-1 a Marte, que la convirtió en la tercera nación en alcanzar el planeta rojo, tras Estados Unidos y la extinta Unión Soviética."
+  },
+  "sha256": {
+    "titular": "0b09d4ff7af355d64f4c10cd074114fe1458d623b250b01b2ca541579a7b1ea8",
+    "entradilla": "f9da554b1565d4c0d3bc4d3a9944684ce25caa799cdbb0ed19cd963c03012858",
+    "cuerpo": "4ff1010829e8ded2f3e3f21ce25938fb533105434b10d987e8d9d698d87f552d"
+  }
+}

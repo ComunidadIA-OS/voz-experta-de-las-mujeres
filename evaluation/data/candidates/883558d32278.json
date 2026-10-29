@@ -1,0 +1,26 @@
+{
+  "id": "883558d32278",
+  "url": "https://www.agenciasinc.es/Noticias/Un-robot-asistencial-aprende-a-mover-sus-brazos-para-poner-y-quitar-la-mesa-observando-a-los-humanos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-12T10:30:00+01:00",
+  "fuente_y_derechos": "Fuente: UC3M | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:52:50+00:00",
+  "campos": {
+    "titular": "Un robot asistencial aprende a mover sus brazos para poner y quitar la mesa observando a los humanos",
+    "entradilla": "Una nueva técnica de aprendizaje por imitación permite que un autómata desarrollado por la Universidad Carlos III de Madrid adquiera movimientos más precisos y adaptativos. El avance mejora su capacidad para realizar tareas domésticas de manera fluida y segura.",
+    "cuerpo": "Investigadores de la Universidad Carlos III de Madrid (UC3M) han desarrollado una nueva metodología para que un robot aprenda por sí solo a mover sus brazos mediante la combinación de un tipo de aprendizaje por observación y la intercomunicación de sus extremidades.\nEste avance, presentado recientemente en el congreso de robótica más importante del mundo, el IROS2025, supone un paso más para conseguir robots de servicio más naturales y fáciles de enseñar que puedan realizar tareas asistenciales en entornos domésticos, como poner y quitar la mesa, planchar u ordenar la cocina.\nLa investigación aborda uno de los problemas más complejos de la robótica actual: la coordinación de dos brazos que trabajan juntos. En la UC3M lo están haciendo utilizando el robot ADAM (Autonomous Domestic Ambidextrous Manipulator), que ya es capaz de realizar tareas asistenciales en entornos domésticos. “Puede, por ejemplo, poner la mesa y recogerla después, ordenar la cocina o acercar al usuario un vaso de agua o las medicinas a la hora indicada. También puede ayudarle cuando va a salir, acercándole un abrigo o una prenda de ropa”, explica Alicia Mora, una de las investigadoras del Mobile Robots Group del Robotics Lab de la UC3M que trabaja en el proyecto.\nADAM ha sido construido para ayudar a las personas mayores en sus tareas cotidianas dentro de sus casas o en residencias, explica el director del Mobile Robots Group, Ramón Barber, catedrático de Ingeniería de Sistemas y Automática de la UC3M: “Todos conocemos personas para las que gestos tan simples como que alguien les acerque un vaso de agua con una pastilla o les ponga la mesa suponen una ayuda muy importante. Ese es el objetivo principal de nuestro robot”.\nAprendizaje de imitación\nLos investigadores presentaron en el IROS 2025 un método que enseña a cada brazo del robot a aprender su tarea por separado mediante aprendizaje por imitación y a coordinarse después mediante Propagación de Creencias Gaussianas, “un diálogo invisible” que evita choques y genera movimientos más naturales. Esta técnica supera las limitaciones de la simple copia de gestos humanos y permite adaptar trayectorias “como una goma elástica” cuando cambia la posición del objetivo.\nADAM funciona en tres fases —percepción, razonamiento y acción— y combina sensores láser, cámaras RGB‑D y modelos tridimensionales del entorno para interpretar objetos y anticipar necesidades del usuario. El equipo trabaja ahora en integrar modelos generativos que faciliten que el robot entienda mejor el contexto.\nAunque todavía es experimental, los investigadores creen que tecnologías así podrían llegar a los hogares en una década. Su desarrollo se enmarca en un reto social creciente: “Cada día hay más personas mayores y menos personas que puedan atenderlas, por lo que este tipo de soluciones van a ser cada vez más necesarias”, señala Barber."
+  },
+  "sha256": {
+    "titular": "cbd2a81e5f071250960de39bd272a99abe0cc3ee63bf2c46e253632cb721a137",
+    "entradilla": "21897051ba8f0dfc47331d2dddf92ac71d0e6e0b15be56f8211e3b5600733a30",
+    "cuerpo": "c1941f7719a36c0cdf30666bf1dc7be1f51abbd44cce5e7d6818088778f0e82a"
+  }
+}

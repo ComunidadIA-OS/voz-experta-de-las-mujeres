@@ -1,0 +1,285 @@
+{
+  "article_id": "df644fd14fa2",
+  "url": "https://www.agenciasinc.es/Noticias/Nacen-las-primeras-crias-de-cabra-montes-obtenidas-por-fecundacion-in-vitro",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:30+00:00",
+  "article_sha256": {
+    "titular": "7c38fdc4b38dd04eb963547e61bca1ba87d15095025ef79703a8d1b27906bb9f",
+    "entradilla": "2d18bd8786a39954e732e2fa5e6d346d07ca2c8369b088220a8513feb39bab56",
+    "cuerpo": "4adeb822785fce86ed2aaaddc40e4a4903cb658f5d4eaf199dae426321e35717"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Julián Santiago Moreno",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigador del INIA-CSIC",
+      "gender_representation": "man",
+      "gender_evidence": "investigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Nuria Martínez de Los Reyes.",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigadores",
+      "gender_representation": "unknown",
+      "gender_evidence": "",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p3",
+      "name": "Pablo Bermejo Álvarez",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigador",
+      "gender_representation": "man",
+      "gender_evidence": "investigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p4",
+      "name": "Priscila Ramos-Ibeas",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigadores",
+      "gender_representation": "unknown",
+      "gender_evidence": "",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Es importante que los espermatozoides se recojan en las primeras ocho horas tras la muerte del animal para que mantengan su capacidad fecundante”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Para conseguirlo, optimizamos técnicas de fecundación in vitro de un estudio previo en el que se emplearon espermatozoides de macho montés (Capra pyrenaica) para fecundar ovocitos de cabras domésticas (Capra hircus)”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "direct",
+      "text": "“Estos bancos podrían emplearse para recuperar ecotipos en caso de catástrofes naturales o de brotes infecciosos. Además, podríamos aplicar la técnica para conservar otros ungulados de montaña en peligro de extinción”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p4",
+      "type": "direct",
+      "text": "“Dos de las tres crías, ambos machos, se encuentran en perfecto estado de salud y continúan su desarrollo con normalidad. La tercera falleció tras el parto por falta de calostro -primera secreción de la glándula mamaria- de la hembra receptora”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793123354039",
+        "nombre": "Julián Santiago Moreno",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1588,
+            "fin16": 1610,
+            "texto": "Julián Santiago Moreno",
+            "inicio": 1588,
+            "fin": 1610
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1561,
+          "fin16": 1573,
+          "texto": "investigador",
+          "inicio": 1561,
+          "fin": 1573
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1403,
+            "fin16": 1550,
+            "texto": "“Es importante que los espermatozoides se recojan en las primeras ocho horas tras la muerte del animal para que mantengan su capacidad fecundante”,",
+            "tipo": "directa",
+            "inicio": 1403,
+            "fin": 1550
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1561,
+          "fin16": 1587,
+          "texto": "investigador del INIA-CSIC",
+          "inicio": 1561,
+          "fin": 1587
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793123397438",
+        "nombre": "Nuria Martínez de Los Reyes.",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2372,
+            "fin16": 2400,
+            "texto": "Nuria Martínez de Los Reyes.",
+            "inicio": 2372,
+            "fin": 2400
+          }
+        ],
+        "genero": "desconocido",
+        "indicio_genero": null,
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2145,
+            "fin16": 2363,
+            "texto": "“Para conseguirlo, optimizamos técnicas de fecundación in vitro de un estudio previo en el que se emplearon espermatozoides de macho montés (Capra pyrenaica) para fecundar ovocitos de cabras domésticas (Capra hircus)”,",
+            "tipo": "directa",
+            "inicio": 2145,
+            "fin": 2363
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 5721,
+          "fin16": 5735,
+          "texto": "investigadores",
+          "inicio": 5721,
+          "fin": 5735
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793123440088",
+        "nombre": "Pablo Bermejo Álvarez",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3549,
+            "fin16": 3571,
+            "texto": "Pablo Bermejo Álvarez.",
+            "inicio": 3549,
+            "fin": 3571
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 3536,
+          "fin16": 3548,
+          "texto": "investigador",
+          "inicio": 3536,
+          "fin": 3548
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3306,
+            "fin16": 3524,
+            "texto": "“Estos bancos podrían emplearse para recuperar ecotipos en caso de catástrofes naturales o de brotes infecciosos. Además, podríamos aplicar la técnica para conservar otros ungulados de montaña en peligro de extinción”,",
+            "tipo": "directa",
+            "inicio": 3306,
+            "fin": 3524
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 3536,
+          "fin16": 3548,
+          "texto": "investigador",
+          "inicio": 3536,
+          "fin": 3548
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793123472622",
+        "nombre": "Priscila Ramos-Ibeas",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4452,
+            "fin16": 4473,
+            "texto": "Priscila Ramos-Ibeas.",
+            "inicio": 4452,
+            "fin": 4473
+          }
+        ],
+        "genero": "desconocido",
+        "indicio_genero": null,
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4198,
+            "fin16": 4442,
+            "texto": "“Dos de las tres crías, ambos machos, se encuentran en perfecto estado de salud y continúan su desarrollo con normalidad. La tercera falleció tras el parto por falta de calostro -primera secreción de la glándula mamaria- de la hembra receptora”",
+            "tipo": "directa",
+            "inicio": 4198,
+            "fin": 4442
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 5721,
+          "fin16": 5735,
+          "texto": "investigadores",
+          "inicio": 5721,
+          "fin": 5735
+        },
+        "participacion": "comenta"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 269
+  }
+}

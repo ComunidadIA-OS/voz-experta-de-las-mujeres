@@ -1,0 +1,26 @@
+{
+  "id": "b5f76ad7201c",
+  "url": "https://www.agenciasinc.es/Noticias/Un-TAC-de-alta-resolucion-desvela-los-secretos-de-un-diminuto-escarabajo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-23T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: UGR | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:49:31+00:00",
+  "campos": {
+    "titular": "Un TAC de alta resolución desvela los secretos de un diminuto escarabajo",
+    "entradilla": "La Universidad de Granada utiliza la microtomografía computarizada para crear un atlas 3D de Euwallacea fornicatus, una plaga que ataca a los árboles de la Costa Tropical.",
+    "cuerpo": "Científicos de la UGR han logrado un avance significativo en el estudio del Euwallacea fornicatus, un minúsculo escarabajo de apenas dos milímetros que supone una seria amenaza para los cultivos de aguacate de las costas granadina y malagueña.\nAl ser unos insectos polífagos amenazan a otros ecosistemas. Mediante el uso de técnicas de microtomógrafía computarizada (micro-CT), han obtenido imágenes tridimensionales en detalle de su anatomía interna.\nEl objetivo de este trabajo es comprender mejor su anatomía para mejorar las herramientas de identificación y seguimiento de esta plaga, cuyos primeros ejemplares en España se detectaron en árboles ornamentales de Motril.\nA simple vista, el Euwallacea fornicatus podría pasar desapercibido, pero su biología esconde una complejidad que lo convierte en una plaga de especial relevancia. Originario del sudeste asiático y presente hoy en regiones tropicales y subtropicales, este coleóptero no causa su principal daño al excavar galerías en la madera, sino al transportar en su interior unos hongos simbiontes que degradan la madera y de los que se alimenta.\nEl insecto alberga esporas de unas especies concretas en unas cavidades internas especializadas llamadas mycangia. En esta especie se localizan por encima del punto de inserción de las mandíbulas.\nAl perforar el árbol con las mandíbulas, inocula el hongo, que coloniza los tejidos vasculares de la planta, provocando su marchitamiento y, en casos graves, su muerte. Este mecanismo lo convierte en una amenaza fitosanitaria emergente para cultivos como el aguacate, así como para otras especies leñosas.\nPara desentrañar los secretos de este pequeño invasor, el profesor emérito del departamento de Zoología de la UGR Javier Alba-Tercedor, referente internacional en microtomografía aplicada a la zoología, ha empleado el equipo SkyScan 1272. Este instrumento funciona como un TAC médico, pero con una resolución muy superior, capaz de alcanzar detalles inferiores a una micra.\nEl resultado es un auténtico atlas anatómico tridimensional en el que se pueden observar con una nitidez sin precedentes sus órganos, musculatura y los mycangia donde transporta los hongos patógenos.\nLas imágenes no solo tienen un alto valor científico, sino también una sorprendente belleza estética. Todo ello queda recogido en un video que permite un 'viaje visual' al interior de un mundo oculto de extraordinaria complejidad.\nLa investigación surgió a raíz de la colaboración con el biólogo Ignacio Henares Civantos, que estudia la evolución de las poblaciones de este escarabajo en la costa granadina mediante trampas específicas.\nHenares contactó con el departamento de Zoología de la Universidad de Granada para obtener imágenes de alta resolución de los ejemplares capturados, una propuesta que el profesor Alba-Tercedor amplió para realizar un estudio microtomográfico completo.\nEl objetivo final, en palabras del investigador, es \"conocer al enemigo por dentro\", un conocimiento que resultará de gran utilidad para mejorar las campañas de formación y divulgación dirigidas a técnicos, agricultores y la población en general, tal y como contempla el Plan de Contingencia para esta plaga cuarentenaria en la Unión Europea."
+  },
+  "sha256": {
+    "titular": "ea4a4dce66a782e36b10d74da30d3e7937aeb67a1d41dcd1a72680cfc0601fe5",
+    "entradilla": "8f1582b791c19810a09a1717dafeba62e754d7799d53a24240bc3a77b692b88b",
+    "cuerpo": "649fac51fb50561958b6a6f55341576457edf351443e36c7b867f08974ac5a8c"
+  }
+}

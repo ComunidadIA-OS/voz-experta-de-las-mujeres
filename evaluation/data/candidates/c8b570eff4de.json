@@ -1,0 +1,26 @@
+{
+  "id": "c8b570eff4de",
+  "url": "https://www.agenciasinc.es/Noticias/La-IA-descubre-un-agujero-negro-huerfano-que-devoraba-una-estrella",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-28T12:40:00+02:00",
+  "fuente_y_derechos": "Fuente: NASA | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:56+00:00",
+  "campos": {
+    "titular": "La IA descubre un agujero negro ‘huérfano’ que devoraba una estrella",
+    "entradilla": "Antes solo se observaban eventos de disrupción de marea en los centros de las galaxias, donde el agujero negro es supermasivo y tiene la capacidad para absorber los astros de su alrededor. Ahora, nuevas observaciones localizan uno de estos fenómenos en la periferia de los núcleos galácticos.",
+    "cuerpo": "El Observatorio Neil Gehrels Swift ha captado un agujero negro tras consumir una estrella en las afueras de una galaxia lejana. Estos fenómenos son poco frecuentes y nunca se había observado tan lejos del centro de un sistema estelar.\nLos resultados del trabajo, publicados en The Astrophysical Journal Letters, describen una llamarada ultrabrillante provocada por un astro al verse “destrozado” por las fuerzas gravitatorias de un agujero negro, un fenómeno que se denomina evento de disrupción por mareas. La singularidad poseía una masa un millón de veces superior a la del Sol y se detectó, por primera vez, en noviembre de 2025 a 750 millones de años luz.\n“Buscábamos estos sucesos en los que se consumen estrellas como un método para hallar agujeros negros supermasivos que, de otra forma, serían invisibles a la vista”, explica el investigador de la Universidad de Maryland, Robert Stein. “Con este hallazgo –de los pocos que se han confirmado hasta ahora – hemos validado una nueva técnica y ahora podemos replicarla para buscar más casos parecidos”, cuenta.\nGracias a su nuevo algoritmo de IA, la Instalación de Transitorios Zwicky (ZTF por sus siglas en inglés) detectó un destello parecido al de un evento de disrupción de marea, a pesar de encontrarse en la periferia de un sistema galáctico. Durante unos meses, el fenómeno eclipsó a toda su galaxia anfitriona al irradiar el brillo de unos 10 000 millones de soles.\nPara confirmarlo, otros dispositivos como el Telescopio de Investigación Astrofísica del Sur de Chile realizaron observaciones de la fuente luminosa para analizar el espectro del fenómeno, lo que confirmó que se trataba de un evento de disrupción de marea.\nMás adelante, los astrónomos de la NASA utilizaron el satélite Swift para observar longitudes de onda que no se pueden detectar con telescopios terrestres y midieron la temperatura del destello y descubrieron que era bastante alta, de unos 30 000 grados.\nLa mayoría de las galaxias poseen un agujero supermasivo en su centro, y de forma aproximada, una vez cada 100 000 años alguna estrella se acerca demasiado a este gigante invisible y acaba por ser consumida.\nEstos fenómenos son muy raros, pero los astrónomos rastrean millones de galaxias para encontrarlos, por lo que se suelen detectar 30 eventos de disrupción de marea cada año en algún lugar del universo.\nHasta hace dos años, solo se veían en el núcleo de las galaxias debido a que, al principio, los expertos solo los buscaban allí porque es donde se solían hallar todos los agujeros negros supermasivos registrados.\nSin embargo, los astrónomos observaron indicios de que una estrella estaba siendo consumida a 2 600 años luz del centro de su galaxia, lo que animó a sus equipos a buscar fenómenos similares en el universo. Ahora, un estudio ha identificado uno a más de 30 000 años luz del centro de una galaxia.\nSegún explican los investigadores, esta singularidad pudo originarse en el centro del cúmulo estelar, pero no donde se encuentra ahora mismo. “Creemos que el agujero negro supermasivo de la galaxia anfitriona sigue estando en su núcleo y que el que devoró a la estrella podría haber surgido en una galaxia pequeña que se fusionó con la grande que vemos hoy en día”, explica Stein.\nEn este sentido, los investigadores esbozan dos posibles orígenes. El primero habla de una fusión entre tres o más galaxias en la que el tira y afloja gravitatorio de los agujeros negros expulsó al más ligero hacia la periferia.\nY la segunda expone que podría tratarse de una galaxia enana en pleno proceso de fusión y que, a medida, que las estrellas cayeron hacia la galaxia más grande, una de ellas podría haber pasado demasiado cerca de este agujero negro supermasivo.\n“Nuevos descubrimientos podrían revelar el origen de este aparente agujero negro huérfano”, afirmó Stein. “La pregunta científica clave que queremos responder es: ¿son comunes en el Universo?”"
+  },
+  "sha256": {
+    "titular": "38242f3b2b925a96bb75dd312eba1541f02e8f4b86835c26002adc11b384b8dc",
+    "entradilla": "e7ef1921c6dd64e530e1b61e2db7b2b1e1189d1a6f63e3c79f91da9d9338a4e7",
+    "cuerpo": "daa86bde4044bdf2905bf58eaf2f63cb178ff444fc45714bde3f9016942691d1"
+  }
+}

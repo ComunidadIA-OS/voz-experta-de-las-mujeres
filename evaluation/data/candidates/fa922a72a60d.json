@@ -1,0 +1,26 @@
+{
+  "id": "fa922a72a60d",
+  "url": "https://www.agenciasinc.es/Noticias/Asi-nos-prepara-el-hipocampo-para-las-sorpresas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-24T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: UPM | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:38:12+00:00",
+  "campos": {
+    "titular": "Así nos prepara el hipocampo para las sorpresas",
+    "entradilla": "Un estudio con registros intracraneales muestra que, cuando aumenta la incertidumbre, esta región cerebral emite ondas de alta frecuencia que modifican la actividad de la corteza visual antes de que aparezca el siguiente estímulo. El mecanismo podría ayudar a procesar con mayor rapidez la información inesperada.",
+    "cuerpo": "El cerebro no espera a que ocurra algo inesperado para reaccionar. Cuando se encuentra en un entorno impredecible, el hipocampo genera breves ráfagas de actividad eléctrica que preparan la corteza visual para procesar la nueva información.\nAsí lo indica un estudio internacional con participación de la Universidad Politécnica de Madrid (UPM), publicado en Nature Neuroscience. El trabajo se basa en registros intracraneales realizados a 17 pacientes con epilepsia que tenían electrodos implantados por motivos clínicos.\nEstas mediciones permitieron registrar simultáneamente la actividad del hipocampo —una región conocida sobre todo por su papel en la memoria— y de distintas áreas de la corteza visual mientras los participantes observaban secuencias de formas de colores.\nAlgunas secuencias seguían patrones relativamente predecibles, mientras que en otras resultaba difícil anticipar qué imagen aparecería a continuación. Los participantes debían identificar cada estímulo entre cuatro opciones y pulsar el botón correspondiente.\nLos resultados muestran que, a medida que aumentaba la incertidumbre, el hipocampo producía con mayor frecuencia y duración unas ondas de alta frecuencia denominadas ripples. Estas ráfagas aparecían principalmente antes de la presentación del siguiente estímulo, no como consecuencia de la sorpresa provocada por este.\n“Cuando el entorno se vuelve impredecible, el hipocampo lo detecta y empieza a emitir ripples con mayor frecuencia y duración, antes de que aparezca el siguiente estímulo”, explica Bryan Strange, director del Laboratorio de Neurociencia Clínica del Centro de Tecnología Biomédica de la UPM y uno de los autores del estudio.\nLos investigadores detectaron 2 728 de estas ondas durante el experimento. Su aparición se relacionó con cambios en la actividad gamma de la corteza occipital y del giro fusiforme, dos zonas implicadas en el procesamiento visual.\nEn concreto, los ripples previos al estímulo reducían los cambios en la actividad gamma de la corteza visual asociados con la incertidumbre. Después, cuando aparecía una imagen sorprendente, modulaban la respuesta de error de predicción en áreas visuales de nivel superior.\nSegún los autores, esta coordinación permite que la información inesperada se propague con mayor rapidez y eficacia. El hipocampo actuaría así no solo como un sistema relacionado con el recuerdo, sino también como una región capaz de estimar hasta qué punto será informativo lo que está a punto de ocurrir.\n“El cerebro no se limita a esperar pasivamente a ver qué pasa. Invierte recursos de forma anticipada para cartografiar la incertidumbre”, señala Strange.\nEl trabajo amplía el conocimiento sobre los ripples hipocampales, estudiados principalmente en animales y en relación con la consolidación y recuperación de recuerdos. Los nuevos resultados apuntan a que, en humanos, también intervienen en la preparación de otras regiones cerebrales ante información difícil de predecir.\nLos autores subrayan que la incertidumbre y la sorpresa son fenómenos distintos. La primera describe el grado de imprevisibilidad antes de que ocurra un acontecimiento, mientras que la segunda depende de lo inesperado que resulte una vez sucedido. Los análisis mostraron que el aumento de los ripples estaba relacionado con la incertidumbre previa y no con la sorpresa posterior.\nLos investigadores consideran que comprender esta comunicación entre el hipocampo y la corteza puede resultar relevante para estudiar trastornos neurológicos y psiquiátricos en los que esta coordinación está alterada, como la epilepsia, la esquizofrenia o la enfermedad de Alzheimer.\nSin embargo, el estudio no ha evaluado su utilidad para diagnosticar estas patologías. La posible aplicación de las ondas hipocampales como biomarcadores deberá investigarse en trabajos específicos y con muestras más amplias.\nEn la investigación también han participado la Universidad Complutense de Madrid, el Hospital Ruber Internacional, la Universidad y el Hospital Universitario de Zúrich, la Klinik Lengg, el University College de Londres y la Charité–Universitätsmedizin Berlin, entre otras instituciones."
+  },
+  "sha256": {
+    "titular": "c269c17fc0154c708f01e75f4ba9506ddd720921988b80ddfb01c271636566f2",
+    "entradilla": "fb57893f715d58085e7f215320a372416540101c8b596a06a9905070d91902c9",
+    "cuerpo": "abeb2a94a6d86d09716d387e6b796565c74b5c9bbd35d15803e1a03b93b051e1"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dd24821f9bff",
+  "url": "https://www.agenciasinc.es/Noticias/Una-nueva-estrategia-usa-la-edicion-genica-contra-tumores-con-demasiados-oncogenes",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-06T10:20:00+01:00",
+  "fuente_y_derechos": "Fuente: CNIO | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:53:35+00:00",
+  "campos": {
+    "titular": "Una nueva estrategia usa la edición génica contra tumores con demasiados oncogenes",
+    "entradilla": "Un equipo liderado por centros españoles diseña un procedimiento que elimina células cancerígenas con un exceso de copias de oncogenes con la técnica de edición genética CRISPR en modelos celulares y animales. Esta nueva técnica prolonga la supervivencia y activa una respuesta inmune antitumoral.",
+    "cuerpo": "La aparición y agresividad del cáncer está relacionada con el comportamiento anómalo de ciertos genes, que se conocen como oncogenes. La alteración más conocida es la mutación, pero no es la única. A veces, dentro de una célula aparece un número muy elevado de copias del oncogén–decenas e incluso centenares–. Esta amplificación de oncogenes ocurre en una proporción relevante de tumores sólidos y puede hacer que el tumor sea más agresivo y difícil de detectar para las defensas del organismo, y contribuya a la aparición de resistencias a los tratamientos.\nUn estudio dirigido por Sandra Rodríguez-Perales, líder de la Unidad de Citogenética Molecular y Edición Genómica del Cáncer del Centro Nacional de Investigaciones Oncológicas (CNIO), y por Raúl Torres, de la Unidad de Terapias Innovadoras del CIEMAT, usa la amplificación de los oncogenes como vulnerabilidad para combatir el tumor.\nPublicado en Molecular Cancer, el estudio constituye una prueba de concepto en modelos animales para destruir mediante edición génica las células tumorales que contienen oncogenes amplificados. De esta manera, el exceso de copias del oncogén pasa a ser un talón de Aquiles del tumor.\n“Utilizamos la herramienta de edición génica CRISPR-Cas9 para hacer un corte en el oncogén amplificado. Normalmente, cuando una célula detecta un daño en su ADN, lo repara; pero si el gen está amplificado y existe en múltiples copias, el corte se produce en todas ellas y se acumula un nivel elevado de daño genético. Al no tener capacidad para repararlo por completo, la célula activa la maquinaria de muerte celular”, explica Rodríguez.\nEl mecanismo de edición génica también afectar a las células sanas, pero, como estas no tienen el gen amplificado, pueden reparar los cortes inducidos.\n“Abordamos así un de los grandes cuellos de botella de las terapias de edición génica: lograr que el corte sea selectivo, de modo que ataque a las células tumorales, en este caso, las que tienen el oncogén amplificado, sin dañar a las células sanas”, declaran los autores.\nLa nueva estrategia se ha probado en modelos celulares y animales de neuroblastoma, cáncer de pulmón de células pequeñas y cáncer colorrectal. En estos experimentos, se observó una reducción del crecimiento tumoral, un aumento de la supervivencia de los animales y cambios que pueden indicar una respuesta inmune antitumoral.\nLa muerte celular se induciría por el elevado daño en el ADN. La hipótesis del equipo es que este tipo de muerte podría alertar a las células inmunitarias y favorecer que se active una respuesta antitumoral. En sus experimentos ya han detectado reacciones iniciales de dicha activación, por lo que profundizarán en esta línea de investigación en futuros trabajos.\n“La edición génica de la amplificación en tumores puede ser una base para desarrollar terapias génicas de precisión para cánceres resistentes”, dicen los autores.\nTambién han empezado a explorar la combinación con terapias ya existentes, siempre en modelos animales. Al combinar la edición génica y uno de los fármacos habituales en quimioterapia para neuroblastoma, observaron que moría un número de células superior a la suma de las provocadas por los dos tratamientos por separado.\nAlejandro Nieto y Marta Martínez-Lage, co-primeros autores del trabajo, afirman que “el estudio demuestra una estrategia novedosa basada en CRISPR que convierte la amplificación de oncogenes en una vulnerabilidad, desencadenando la muerte únicamente de las células tumorales, lo que podría abrir una vía hacia terapias de precisión para tumores difíciles de tratar”."
+  },
+  "sha256": {
+    "titular": "0e71244635bc6e2ae6039766652de453ad897c7a96c84c9576c9c22b7ac019ef",
+    "entradilla": "22eac4688811f4ee39c373275a2493a8eb12815c934b3637acfced7c30fed4ac",
+    "cuerpo": "f97cb2af34c6c74fbab524cea7e8e9a4b81d20120b222051fc409d8c232d3a67"
+  }
+}

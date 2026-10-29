@@ -1,0 +1,26 @@
+{
+  "id": "e81ea4c70f4f",
+  "url": "https://www.agenciasinc.es/Noticias/Un-conejo-robotico-identifica-a-quien-lo-abraza-por-la-voz",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-15T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: UC3M | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:42:18+00:00",
+  "campos": {
+    "titular": "Un conejo robótico identifica a quien lo abraza por la voz",
+    "entradilla": "El prototipo se prueba en centros de día de Madrid para personalizar la interacción con personas mayores que padecen deterioro cognitivo. El sistema prescinde de cámaras y aprende la voz de cada usuario desde el primer contacto",
+    "cuerpo": "El grupo de robótica social del Robotics Lab de la Universidad Carlos III de Madrid (UC3M) ha desarrollado una metodología basada en inteligencia artificial que permite a un robot de compañía tipo mascota reconocer a las personas con las que interactúa. El prototipo, llamado Mía, se evalúa en centros de día del Ayuntamiento de Madrid para la estimulación afectiva personalizada de personas mayores con deterioro cognitivo.\nUno de los grandes retos de la robótica social es lograr interacciones naturales y adaptadas a cada usuario. Para ello, resulta clave que el robot identifique a su interlocutor. El nuevo sistema de reconocimiento por voz desarrollado por el equipo de la UC3M, publicado en la revista Applied Sciences, funciona ‘a bordo’ de Mía, un conejo robótico diseñado para simular una mascota.\n“Este robot lo utilizamos en estimulación afectiva para mayores con deterioro cognitivo y el reconocimiento de los usuarios es un paso importante para que el robot tenga un comportamiento personalizado adaptado a las necesidades de cada individuo”, explica José Carlos Castillo Montoya, del grupo de robótica social del Robotics Lab de la UC3M.\nA diferencia de los sistemas tradicionales, que dependen de cámaras y procesamiento de imagen —con altos requisitos de cómputo y posibles implicaciones para la privacidad—, esta propuesta utiliza solo el micrófono del robot. Además, opera de forma local e incremental, lo que aporta dos ventajas. Por un lado, protege la privacidad, ya que las huellas de voz no salen del dispositivo. Por otro, incorpora aprendizaje inmediato.\n“El robot no necesita una fase de configuración para aprender tu voz; te escucha hablar por primera vez y genera un perfil automáticamente”, señala Arecia Segura Bencomo, del Departamento de Ingeniería de Sistemas y Automática de la UC3M.\nEste avance se encuadra en la robótica animal, un enfoque terapéutico que traslada los beneficios de la terapia con animales reales —como la reducción del estrés o la ansiedad— a entornos controlados en los que el cuidado del animal o el bienestar del paciente pueden limitar su uso.\n“En el caso concreto de mayores con deterioro cognitivo, el robot activa la necesidad de cuidar a algo”, indica el profesor Castillo. “Hemos comprobado en pruebas piloto en centros de día del Ayuntamiento de Madrid que, además de mejorar el estado anímico del mayor, el robot actúa como un catalizador social: rompe el aislamiento, mitiga la soledad no deseada y fomenta que los usuarios empiecen a interactuar más entre ellos”.\nEl sistema reproduce, en cierto modo, la capacidad de aprendizaje humano. Cada vez que una persona habla con el robot, el algoritmo analiza patrones de la señal acústica para crear una ‘firma de voz’ única. “Nuestra propuesta es sencilla porque las capacidades de cómputo del robot son muy reducidas”, explica Castillo Montoya. “El algoritmo genera una especie de mapa y, con código abierto que hemos mejorado en nuestro laboratorio, agrupa las firmas que se parecen entre sí. Al final, cada grupo se corresponde con un usuario específico”.\nEl robot también responde a situaciones imprevistas en tiempo real. Si detecta una voz desconocida, la IA identifica que no encaja en ningún grupo previo y, si la interacción continúa, crea un perfil nuevo. En las pruebas experimentales, el software alcanzó un alto porcentaje de acierto al identificar a usuarios ya registrados.\nEste desarrollo abre vías a una nueva generación de robots asistenciales y de compañía más accesibles, capaces de integrarse en el hogar y aprender de forma autónoma quiénes son sus usuarios tras escuchar unas primeras palabras. El equipo destaca el potencial de personalización. “Queremos que el robot sea capaz de adaptarse, reaccionando de manera distinta según quién tenga delante. Si detecta a un usuario determinado que tiende a estar más intranquilo, se activarán automáticamente mecanismos y comportamientos específicos orientados a calmar a esa persona”.\nEn la actualidad, el equipo cuenta con varios prototipos de Mía en funcionamiento y continúa el desarrollo en entornos clínicos reales, mientras busca alianzas con empresas interesadas en llevar esta tecnología al mercado."
+  },
+  "sha256": {
+    "titular": "d994866471504f7a28a6e6eab9c982c9d694e2a012ed0d1c91b218270a4f69b7",
+    "entradilla": "4337f692163015bfecfddc3593fc34846b13e1ee4e1a1352a9870a9796757421",
+    "cuerpo": "abc347cb5adcabf9be9ffde01ddd40c906698fae98b1364fc96332d211021936"
+  }
+}

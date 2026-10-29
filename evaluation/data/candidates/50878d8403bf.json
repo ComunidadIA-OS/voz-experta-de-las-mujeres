@@ -1,0 +1,26 @@
+{
+  "id": "50878d8403bf",
+  "url": "https://www.agenciasinc.es/Noticias/La-mano-humana-ya-no-es-tan-habil-un-apendice-robotico-gatea-y-recoge-varios-objetos-a-la-vez",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-20T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Tecnología e ingeniería mecánicas"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:55:03+00:00",
+  "campos": {
+    "titular": "La mano humana ya no es tan hábil: un apéndice robótico ‘gatea’ y recoge varios objetos a la vez",
+    "entradilla": "Tiene seis dedos, una palma de dieciséis centímetros de diámetro y un diseño de doble pulgar. Esta extremidad sintética supera las capacidades humanas al ser capaz de desacoplarse de su brazo artificial para moverse y coger múltiples elementos.",
+    "cuerpo": "Con un pulgar oponible, piel y múltiples articulaciones, la mano humana se ha convertido en un referente para el diseño de muchas extremidades sintéticas. No obstante, con su escasa operatividad y asimetría –moldeada por el proceso lento de la evolución– se encuentra lejos de ser óptima.\nAhora, un estudio publicado en Nature Communications muestra el desarrollo de una mano mecánica desmontable que tiene la capacidad de arrastrarse por el suelo, sujetar varios objetos y acceder a espacios angostos.\nSegún explica la líder del proyecto e investigadora en la Escuela Politécnica Federal de Lausana en Suiza, Aude Billard, su dispositivo lleva a cabo de forma fiable y fluida las capacidades locomotoras previstas y creen que tiene un gran potencial para disciplinas como la robótica exploratoria, industrial y de servicios.\nTradicionalmente, las manos robóticas han imitado a las humanas porque se consideraban muy habilidosas, pero su estructura asimétrica, su unión con el brazo y la forma del pulgar no permitían una movilidad plena.\n“Podemos ver limitaciones en la mano humana cuando intentamos alcanzar objetos debajo de un mueble, detrás de las estanterías o cuando realizamos tareas simultáneas, como sostener una botella mientras recogemos una bolsa de patatas fritas”, expone Billard.\n“Esto hace que acceder a objetos situados detrás de la mano mientras se mantiene estable el agarre sea extremadamente difícil al requerir contorsiones incómodas de la muñeca o cambios de posición del cuerpo”, añade.\nPara superar estas complicaciones, un equipo de ingenieros presentó el diseño de una mano robótica de cinco dedos y otra de seis dedos –16 centímetros de diámetro de palma– con estructuras simétricas para poder sostener elementos desde ambos lados.\nLos autores demostraron que ambas podían recuperar hasta tres objetos cotidianos, como un tubo de cartón o una goma, y volver a colocarlos mientras mantenían un agarre seguro. Asimismo, eran capaces de replicar 33 tipos de agarre humano y sostener objetos de hasta 2 kilogramos de peso.\nEn su proyecto, los investigadores se inspiraron en organismos con extremidades más versátiles como los insectos o moluscos.\n“El pulpo utiliza sus brazos flexibles tanto para gatear por el fondo marino como para abrir conchas, mientras que en el mundo de los insectos, la mantis religiosa usa extremidades especializadas para la locomoción y la captura de presas”, explica Billard.\nEstas manos robóticas tienen la capacidad para gatear al mismo tiempo que mantienen el agarre sobre múltiples objetos y sostienen bajo su ‘palma’, en su ‘dorso’, o en ambos.\nCon cinco dedos, el dispositivo puede replicar la mayoría de los agarres humanos tradicionales, pero cuando tiene más puede abordar por sí solo tareas que normalmente requieren de dos manos humanas, como desenroscar el tapón de una botella grande o introducir un tornillo en un bloque de madera con un destornillador.\n“No hay una limitación real en el número de objetos que puede sostener; si necesitamos sostener más objetos, simplemente añadimos más dedos”, enfatiza la experta.\nAsimismo, prevén que su diseño innovador se aplique en entornos del mundo real que exijan adaptabilidad e interacción multimodal.\nEsta tecnología podría utilizarse para recuperar objetos en entornos reducidos o ampliar el alcance de los brazos industriales tradicionales. Y aunque la mano robótica propuesta no es en sí misma antropomórfica, también creen que podría adaptarse para aplicaciones protésicas.\n“La funcionalidad simétrica y reversible es particularmente valiosa en escenarios donde los usuarios pueden beneficiarse de capacidades más allá de la función humana normal”, dice Billard.\n“Por ejemplo, estudios previos con usuarios de dedos robóticos demuestran la notable adaptabilidad del cerebro para integrar apéndices adicionales, lo que sugiere que podría servir en entornos especializados que requieran capacidades de manipulación aumentadas”, concluye."
+  },
+  "sha256": {
+    "titular": "aae9ccd1859fb8a404ff567b85c660f632643fd686ac6a138b72c03d330ed330",
+    "entradilla": "92d3b43dd98252b2d9ba1c452a64419e9e94fcd4f1a15895e1c5c562c28e1e1b",
+    "cuerpo": "ecbe21c2f4a7394b3a3652a6d3c318c5408283c2abe867f6c62072d07abae208"
+  }
+}

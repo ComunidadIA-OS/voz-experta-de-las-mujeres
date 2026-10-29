@@ -1,0 +1,26 @@
+{
+  "id": "2cfd27a71db6",
+  "url": "https://www.agenciasinc.es/Noticias/Un-gusano-revela-que-la-metamorfosis-puede-alterar-las-funciones-de-las-celulas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-09-09T10:54:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:34:12+00:00",
+  "campos": {
+    "titular": "Un gusano revela que la metamorfosis puede alterar las funciones de las células",
+    "entradilla": "Los expertos pensaban que, durante este proceso de cambios biológicos, las células originales morían, eran sustituidas o desempeñaban siempre la misma función. Una nueva investigación revela que se reprograman para cumplir distintos propósitos.",
+    "cuerpo": "Un tipo de gusano blando que comienza su vida como una cabeza flotante en el océano Pacífico está transformando lo que saben los científicos sobre la metamorfosis a nivel celular.\nA diferencia de los humanos, el 80 % de las especies experimentan algún tipo de metamorfosis, un proceso que divide su crecimiento por etapas desde el huevo a la larva hasta el espécimen adulto. Antes, este conjunto de cambios no se comprendía bien y algunas teorías sugerían que las células originales de las larvas morían, eran sustituidas por otras, o que siempre desempeñaban la misma función.\nAhora, un estudio de la Universidad de Standford (EE. UU) ha encontrado pruebas sólidas de que la mayoría de las células de una especie de gusano, denominado Schizocardium californium, se reprogramaban y que, incluso, algunos tipos como las neuronas podían asumir nuevas funciones durante la edad adulta.\n“La reprogramación es una especie de fruta exótica en la biología del desarrollo”, explica el autor principal del trabajo y catedrático de biología en la universidad estadounidense, Christopher Lowe, “Pensábamos que, a medida que las células se desarrollaban, su función se iba restringiendo, pero, al estudiar a fondo la metamorfosis, descubrimos que la reprogramación era mucho más común”.\nLos expertos, creen que la reprogramación celular ocurre después de una lesión o que se da en algunas especies que regeneran sus órganos o extremidades, pero no como una característica del desarrollo normal.\nInvestigaciones anteriores detectaron algunos casos de reprogramación durante el desarrollo en esponjas y medusas, dos organismos que se encuentran muy alejados de los seres humanos en el árbol evolutivo. Este trabajo, publicado en Nature Communications, es el primer estudio conocido que sugiere una reprogramación celular durante el desarrollo normal de un animal con un cuerpo simétrico.\nPara saberlo, los expertos llevaron a cabo análisis genéticos en más de 87 000 células de estos gusanos.\nRealizaron una secuenciación de ARN unicelular en cinco etapas de desarrollo; y a partir de esta información, clasificaron las células en 12 categorías, como células cartilaginosas, inmunitarias y cutáneas.\nEl análisis reveló que las células larvarias eran más similares entre sí que con las células adultas que desempeñaban la misma función. Por ejemplo, las neuronas de las larvas se parecían más a las células intestinales de las crías que a las neuronas adultas.\nNo obstante, hubo algunas excepciones y las funciones de las células musculares y mesodérmicas que conforman algunos órganos se mantuvieron iguales desde la fase larvaria hasta la juvenil.\nAdemás, el equipo pudo marcar algunas células larvarias con un tipo de tinte persistente antes de la metamorfosis y seguirlas a lo largo del proceso para comprobar que persistían en el organismo adulto.\n“Esto sugería que las células no estaban muriendo a gran escala, sino que, de hecho, se conservaban”, afirma Lowe. “A partir de los datos de secuenciación de ARN, observamos que se habían convertido en tipos celulares muy diferentes, lo que respaldaba la idea de que las células larvarias se estaban reprogramando hacia nuevas funcionalidades”.\nTrabajar con este gusano supuso todo un reto porque no es una especie común en las investigaciones. Esto obligó a que los expertos adaptaran las técnicas y las herramientas que se emplean con otros animales.\nPero, el factor de que no se haya empleado de forma frecuente es precisamente lo que les interesó. La mayoría de los organismos ‘modelo’ —los animales que se suelen utilizar en la investigación, como los ratones y los peces cebra— presentan un desarrollo directo. Es decir, crecen desde un óvulo o un embrión hasta convertirse en adultos.\nEstos animales se estudian con mayor frecuencia porque son genéticamente más cercanos a los seres humanos y el desarrollo directo es más fácil de gestionar en un laboratorio.\nSin embargo, el enfoque en el desarrollo directo deja un enorme vacío en el conocimiento sobre el mundo animal, señala Lowe, ya que muchos especímenes presentan un desarrollo indirecto, con una fase larvaria y una metamorfosis antes de convertirse en adultos."
+  },
+  "sha256": {
+    "titular": "d08d775818e2f9d604236b98cd60efd18bd477597703718f523c5e4f339ba593",
+    "entradilla": "7916439c1d909793a03f7c71fd1feac2700de8b2aa9ed87bdf9f4cb6a9d52b47",
+    "cuerpo": "67f967d86905bfe4ce1e382df7c478d89a70533751aebcdbdd3f4c616be2f08e"
+  }
+}

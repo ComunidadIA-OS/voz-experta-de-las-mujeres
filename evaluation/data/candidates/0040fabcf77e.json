@@ -1,0 +1,26 @@
+{
+  "id": "0040fabcf77e",
+  "url": "https://www.agenciasinc.es/Noticias/Encuentran-por-primera-vez-la-atmosfera-de-un-planeta-rocoso-en-una-zona-habitable",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-17T11:10:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:38:57+00:00",
+  "campos": {
+    "titular": "Encuentran por primera vez la atmósfera de un planeta rocoso en una zona habitable",
+    "entradilla": "Hasta ahora no se había visto una atmósfera en mundos de estas características dentro de la franja de habitabilidad. Este hallazgo supone un hito importante en la búsqueda de vida más allá de nuestro sistema solar.",
+    "cuerpo": "Astrónomos de la Universidad de Harvard (EE UU) han detectado por primera vez una atmósfera en un planeta rocoso similar a la Tierra que orbita dentro de una zona habitable. Este hallazgo aporta la prueba más sólida hasta la fecha de que podrían existir mundos similares más allá de nuestro sistema solar.\nEl estudio, publicado en la revista Science, presenta los resultados de observaciones que detectaron una fuga de helio de la atmósfera de LHS 1140, un exoplaneta rocoso que se sitúa a 48 años luz de nuestro mundo.\n“Una atmósfera es esencial para que un planeta pueda albergar vida tal y como la conocemos”, explica el autor principal e investigador de Ciencias de la Tierra y Planetarias en la institución americana, Collin Cherubim. “Esta es la primera vez que se ha encontrado una atmósfera en un planeta rocoso situado en la zona habitable de otra estrella”.\nLHS 1140 orbita alrededor de una enana roja dentro de la zona habitable de su estrella, es decir, la región en la que las temperaturas y las condiciones ambientales se encuentran en un rango que permitiría la existencia de agua líquida en la superficie.\nHasta ahora, los astrónomos habían descubierto miles de exoplanetas, entre ellos algunos mundos rocosos situados en zonas habitables, pero determinar si esos planetas tienen atmósfera era un reto.\n“Hace veinte años nos preguntábamos si existían otros planetas parecidos a la Tierra”, afirmó el catedrático de la misma institución americana, Robin Wordsworth. “Descubrimos que algunos son comunes y encontramos algunos en la zona habitable. La siguiente pregunta era si alguno de ellos habría logrado conservar una atmósfera. Ahora sabemos que al menos uno lo ha hecho”, indica.\nEl modelo teórico de los investigadores predijo que LHS 1140 b tiene una atmósfera superior rica en helio que se está escapando lentamente al espacio. Para comprenderlo, el equipo utilizó el espectrógrafo Warm Infrared Echelle (WINERED) del telescopio Magellan situado en el Observatorio de Las Campanas, en Chile.\nEn un principio, observaron una alineación poco habitual entre este planeta y otro que transitaron por delante de su estrella la misma noche. Aunque uno de ellos no mostraba indicios de tener atmósfera, el otro, LHS 1140 b, presentaba fugas de helio a su alrededor, lo que confirmó que conserva una atmósfera.\nCollin analizó los planetas que se conocían y predijo que este tendría una atmósfera de helio, explicaron los autores. A continuación, organizó el tiempo de observación con el telescopio, obtuvo los datos y la detección resultó ser estadísticamente sólida.\nSegún los astrónomos, es probable que la atmósfera del planeta haya sobrevivido durante más de tres mil millones de años, lo que la convierte en un objetivo valioso para futuras observaciones.\nLos expertos afirmaron que les gustaría determinar la composición completa de la atmósfera e investigar en el futuro si el planeta tiene océanos en su superficie u otras características asociadas a la habitabilidad. Él y sus colegas también utilizarán su modelo para buscar otros mundos similares.\n“Esto ha supuesto una validación del modelo y, con suerte, será solo la primera de muchas más observaciones por venir”, afirmó Cherubim. Los hallazgos sugieren que las observaciones terrestres en busca de gases 'escapistas' podrían convertirse en una herramienta importante para estudiar las atmósferas de los exoplanetas rocosos."
+  },
+  "sha256": {
+    "titular": "f0632d475febc627c70f6487151e4f1560b0774018dc97d88e8c1efe83e55a49",
+    "entradilla": "4f116c8459a31b94455123c8e05cb9945cc57bbaac3266eb9d209c15c692a078",
+    "cuerpo": "fb3d56a7cdf3f9d47433695edde1f0b80f51933725e36a12026c29923bad6c54"
+  }
+}

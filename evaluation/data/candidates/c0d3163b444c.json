@@ -1,0 +1,26 @@
+{
+  "id": "c0d3163b444c",
+  "url": "https://www.agenciasinc.es/Noticias/La-falta-de-nutrientes-aumenta-la-agresividad-del-cancer-de-pulmon",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-02T12:32:00+01:00",
+  "fuente_y_derechos": "Fuente: IDIBELL | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias clínicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:54:05+00:00",
+  "campos": {
+    "titular": "La falta de nutrientes aumenta la agresividad del cáncer de pulmón",
+    "entradilla": "Un estudio identifica que las células cancerosas responden ante la falta de nutrientes y segregan una proteína llamada LIF capaz de volver al cáncer más agresivo. Su bloqueo podría convertirse en una diana terapéutica al ser clave para detener la respuesta adaptativa del tumor.",
+    "cuerpo": "Un estudio del Instituto de Investigación Biomédica de Bellvitge (IDIBELL) identifica una proteína como la responsable de la adaptabilidad del cáncer de pulmón: ante la falta de oxígeno y nutrientes como la glucosa, el tumor responde secretando una proteína llamada LIF y se vuelve más agresivo.\nEsta investigación en roedores, publicada en Nature Metabolism, sugiere que el bloqueo de la proteína podría convertirse en una buena diana contra este tipo de cáncer. Si el tumor la libera en situaciones de estrés como mecanismo de supervivencia, sin ella puede que tenga menor capacidad de adaptación, según explican los autores del trabajo.\nEn concreto, la suplementación con manosa –un tipo de azúcar– podría prevenir su liberación al suplir la falta de glucosa. Se trata de una hipótesis inicial, y se suma a otras propuestas para bloquearla (como, por ejemplo, la inhibición directa de las quinasas de estrés).\nSegún explican los autores, el cuerpo trabaja todo el tiempo para asegurar una aportación regular de glucosa a todas las células del cuerpo.\nNo obstante, cuando existe una escasez de esta sustancia, los tejidos y las células individuales reaccionan y ponen en marcha varios mecanismos para compensarlo (por ejemplo, aumentan el riego sanguíneo para tener mayor aportación de nutrientes).\nLas células tumorales funcionan igual. Cuando están bajo estrés metabólico, se defienden y el tejido cambia a un estado más agresivo para sobrevivir.\nEl equipo investigador identificó LIF como una de las proteínas más secretadas en los modelos de cáncer de pulmón que habían sometido a deficiencia de glucosa.\n“El tumor aprovecha las funciones fisiológicas de esta proteína para su propio beneficio, utilizándola para crecer más rápido, colonizar y esquivar el sistema inmunitario”, informa la colíder del proyecto Cristina Muñoz.\nAdemás, los autores han descubierto que el estímulo para producir LIF, y toda la respuesta adaptativa que le sigue, es la carencia de glucosa y oxígeno. “Estos son los estímulos críticos para la secreción de la proteína y, por lo tanto, para superar una situación de riesgo para el tumor e impulsar la progresión cancerosa”, aclara el primer autor de la investigación Joaquim Moreno.\nLIF estimula la creación de nuevos vasos sanguíneos para intentar restablecer la llegada de sangre y nutrientes a las células tumorales y posee un efecto inmunosupresor que frena el sistema de defensa del sistema inmunitario.\nDe este modo, haber identificado LIF como la directora de la respuesta tumoral a la falta de glucosa abre una puerta esperanzadora para el tratamiento del cáncer de pulmón, según explican los investigadores.\n“Bloquear LIF podría ser la clave para impedir la respuesta adaptativa del cáncer. Sin esta molécula, se podría desarmar la capacidad de adaptación del tumor, haciéndolo más vulnerable a los tratamientos actuales y a la propia respuesta inmunitaria del paciente “, concluye el colíder del proyecto Ernest Nada."
+  },
+  "sha256": {
+    "titular": "8eb36e3b5fa5b6d9e3e3db736ef31ce95c48e4c280dd22188819c1c276797990",
+    "entradilla": "4de62a0627f19084cb8a8e8028938bad7986134e618f74e84b927e091051fa16",
+    "cuerpo": "8ec7cb0bfdf8b76fc675f91d9ad09b235f4cdd6ebd8fe87c32f7142cbbead5da"
+  }
+}

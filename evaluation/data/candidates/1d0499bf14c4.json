@@ -1,0 +1,26 @@
+{
+  "id": "1d0499bf14c4",
+  "url": "https://www.agenciasinc.es/Noticias/Encuentran-un-marcador-que-identifica-las-lesiones-precancerosas-de-mama-que-se-convertiran-en-tumores",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-17T11:00:00+02:00",
+  "fuente_y_derechos": "Fuente: CNIO | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:47:19+00:00",
+  "campos": {
+    "titular": "Encuentran un marcador que identifica las lesiones precancerosas de mama que se convertirán en tumores",
+    "entradilla": "Un equipo del CNIO ha descubierto que la pérdida de identidad celular en la mama da lugar a células híbridas, denominadas ‘infieles’, capaces de iniciar todos los tipos de cáncer de mama. Este hallazgo ayudará a distinguir qué alteraciones tempranas tienen capacidad de progresar y cuáles no.",
+    "cuerpo": "El Grupo de Transformación y Metástasis del Centro Nacional de Investigaciones Oncológicas (CNIO), liderado por Eva González Suárez, ha descubierto una vía hacia la identificación de las lesiones precancerosas de mama que se convertirán en tumores. En el centro del estudio está la proteína RANK. Los resutados del trabajo se han publicado en la revista Nature Communications.\nExisten dos tipos de células en el tejido mamario: las luminales, que producen la leche, y las basales, que permiten la expulsión de esa leche. Previamente, varios estudios sugerían que los tumores de mama se originan exclusivamente en una subpoblación de células luminales, las llamadas progenitoras luminales.\nEn el nuevo trabajo, cuyo primer autor es Jaime Redondo-Pedraza, se revela que los tumores pueden empezar en otro tipo de células. El equipo de investigación las denomina ‘células infieles’ y derivan de las células basales.\nYa en 2010, González Suárez descubrió la intervención de la proteína RANK en la génesis de los tumores de mama durante su trabajo en el Instituto de Investigación Biomédica Bellvitge, donde mantiene una línea de investigación clínica. En el nuevo trabajo se demuestra que la expresión de esta proteína en las células basales hace que pierdan su identidad.\nAsí, se convierten en nuevas células que no son claramente ni basales ni luminales, sino híbridas, con características de ambas. Son las así llamadas ‘células infieles’. El estudio concluye que en este tipo de células comenzarían todos los tipos de tumores de mama, tanto los luminales, que expresan receptores hormonales, como los “triples negativos”, que no los expresan.\n“Lo que sabemos ahora es que las células basales de la mama pueden dar lugar a todos los tipos de tumores”, explica Eva González. “Podríamos decir que la identidad definida de las células protege de la aparición tumoral. Sin embargo, cuando las células pierden su identidad inicial y se convierten en esas células híbridas o infieles, provengan de donde provengan, es cuando dan lugar a la aparición del cáncer”.\nA raíz de estas conclusiones, el grupo ha desarrollado una firma genética, que detecta esas células infieles en el origen de las lesiones precancerosas. Esto permite identificar cuáles de ellas van a evolucionar hacia tumores invasivos. Tras llevar a cabo unas primeras pruebas en ratones, el equipo ha probado este nuevo marcador con una cohorte de lesiones precancerosas mamarias humanas. La firma ha sido capaz de identificar aquellas lesiones que sí se convertirán en cáncer.\nGracias a los programas de cribado y la mejora de las técnicas de imagen, los diagnósticos de lesiones precancerosas han aumentado. Actualmente, el 20 % de todos los diagnósticos de cáncer son esas lesiones precancerosas que, en realidad, no son cáncer. De ellas, solo un 30 % se convertirán en tumores, pero la imposibilidad de saber cuáles ha hecho que la inmensa mayoría se traten como cánceres.\n“Un diagnóstico frecuente en mama es el del carcinoma ductal in situ, una lesión considerada precancerosa de la que hasta ahora no podía saberse si iba o no a evolucionar hacia un cáncer”, señala González Suárez. “Como eso hasta el momento no podía saberse, se trata a todas las mujeres a las que se les diagnostica esas lesiones como si ya fuera un cáncer. Es decir, se está sobretratando a un número muy alto de mujeres”.\nLa nueva firma genética permite detectar las lesiones precancerosas que van a evolucionar hacia tumores invasivos. “Ahora hay que confirmar la firma con una cohorte independiente y refinarla para poder utilizarse en la clínica para identificar las lesiones que sí se convertirán en cáncer invasivo”, afirma González."
+  },
+  "sha256": {
+    "titular": "1767fa758e7ae9a7b06a855adb6283bd8ffba7030efe7d06f8cbc8a3dc89977b",
+    "entradilla": "ea49215895942bbabf8974c05e953e2e8da3d5065694ff01a3ece99f07cd305e",
+    "cuerpo": "483d03c22710ed88254057f5b4b54022cf633a748af1ffe824f6cccf4dcf7d5a"
+  }
+}

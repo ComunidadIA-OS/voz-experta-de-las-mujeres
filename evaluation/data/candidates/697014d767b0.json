@@ -1,0 +1,26 @@
+{
+  "id": "697014d767b0",
+  "url": "https://www.agenciasinc.es/Noticias/Logran-eliminar-tumores-de-pancreas-en-ratones-por-completo-y-sin-que-aparezcan-resistencias",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-28T10:49:00+01:00",
+  "fuente_y_derechos": "Fuente: CNIO | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias clínicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:54:26+00:00",
+  "campos": {
+    "titular": "Logran eliminar tumores de páncreas en ratones por completo y sin que aparezcan resistencias",
+    "entradilla": "Los fármacos actuales contra el cáncer de páncreas pierden efectividad en meses porque el tumor se vuelve resistente. El grupo del Centro Nacional de Investigaciones Oncológicas (CNIO) logra evitar estas resistencias en modelos animales con una triple terapia combinada.",
+    "cuerpo": "En España se diagnostican cada año más de 10.300 casos de cáncer de páncreas, uno de los tumores más agresivos. Su detección en fases avanzadas, y la falta de terapias eficaces, hace que la supervivencia cinco años tras el diagnóstico sea inferior al 10%. Pero la investigación está despegando, y empezando a cambiar el paradigma tras décadas de muy escasos avances.\nMariano Barbacid, jefe del Grupo de Oncología Experimental del Centro Nacional de Investigaciones Oncológicas (CNIO), ha diseñado una terapia que consigue eliminar tumores de páncreas en ratones de manera completa y duradera, y sin efectos secundarios notables. El estudio se publica en la revista PNAS (Proceedings of the National Academy of Sciences), con Carmen Guerra como co-autora principal y Vasiliki Liaki y Sara Barrambana como primeras autoras.\n“Estos estudios abren una vía para diseñar nuevas terapias combinadas que puedan mejorar la supervivencia de los pacientes con adenocarcinoma ductal de páncreas [el cáncer de páncreas más común]”, afirman los autores en PNAS. “Estos resultados marcan el rumbo para desarrollar nuevos ensayos clínicos”.\nLos primeros fármacos dirigidos a dianas moleculares de cáncer de páncreas se aprobaron en 2021, después de medio siglo sin mejoras respecto a la quimioterapia convencional. Estos nuevos fármacos bloquean la acción de KRAS, un gen mutado en el 90% de las personas con cáncer de páncreas; su eficacia sin embargo es modesta, porque al cabo de unos meses el tumor se vuelve resistente.\nEste problema de las resistencias a los fármacos inhibidores de KRAS es el que aborda el nuevo estudio de Barbacid, pionero tanto en la investigación de KRAS como en el desarrollo de modelos animales para cáncer de páncreas.\nLa estrategia del grupo del CNIO ha sido bloquear la acción del oncogén KRAS en tres puntos, en vez de solo en uno -es más difícil que una viga se parta si se la fija al techo por tres sitios, en lugar de solo en un punto-. Y, en efecto, después de eliminar genéticamente tres moléculas de la vía de señalización de KRAS en modelos de ratón, los tumores desaparecieron de manera permanente.\nAplicar la misma estrategia en pacientes implica buscar fármacos que bloqueen la vía molecular de KRAS en los mismos tres puntos. El equipo empleó una terapia triple, que combinaba un inhibidor de KRAS disponible para estudios experimentales (daraxonrasib); un fármaco aprobado para ciertos adenocarcinomas de pulmón (afatinib); y un degradador de proteínas (SD36).\nEl tratamiento se aplicó a tres modelos de ratón de adenocarcinoma ductal de páncreas, y en todos se indujo “una regresión significativa y duradera de estos tumores experimentales sin provocar toxicidades significativas”, escriben los autores.\n“Este estudio describe una terapia triple combinada que induce la regresión robusta de modelos experimentales de adenocarcinoma ductal de páncreas, y evita la aparición de resistencias. Esta triple combinación es bien tolerada en ratones”, afirman en PNAS.\nEn cuanto a los siguientes pasos, Barbacid explica que “es importante entender que, si bien nunca se habían obtenido resultados experimentales como los aquí descritos, todavía no estamos en condiciones de llevar a cabo ensayos clínicos con la triple terapia”.\n“El camino para optimizar la terapia de triple combinación descrita aquí para su uso en un escenario clínico no será fácil”, se afirma en PNAS. “(..) A pesar de las limitaciones actuales, estos resultados podrían abrir la puerta a nuevas opciones terapéuticas para mejorar el resultado clínico de los pacientes con adenocarcinoma ductal de páncreas en un futuro no muy lejano”."
+  },
+  "sha256": {
+    "titular": "0d5e92a7396f38d39cbd287114d2889d73e7195c5ae944ceb995c75e34889fc1",
+    "entradilla": "4af44915d9f9f74115681bc76d708d56b93df5d1d61da8362b12f6d7c17cb43d",
+    "cuerpo": "0119d6104c9816345a068ebdd1698b08000af47b3d064134df95a9e43ddf3d91"
+  }
+}

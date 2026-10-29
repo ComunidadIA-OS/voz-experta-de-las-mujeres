@@ -1,0 +1,28 @@
+{
+  "id": "24bbd9ed07bc",
+  "url": "https://www.agenciasinc.es/Noticias/El-60-de-los-pacientes-criticos-de-covid-tienen-virus-en-el-pulmon-cuando-se-les-intuba",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-17T11:05:00+01:00",
+  "fuente_y_derechos": "Fuente: CIBER Enfermedades Respiratorias | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Medicina interna",
+    "Diabetes"
+  ],
+  "secciones": [
+    "Salud",
+    "tag"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:03+00:00",
+  "campos": {
+    "titular": "El 60 % de los pacientes críticos de covid tienen virus en el pulmón cuando se les intuba",
+    "entradilla": "Una investigación revela que, en la mayoría de pacientes de covid que llegan a la UCI, el daño respiratorio no es únicamente consecuencia de la respuesta inflamatoria, sino que el virus sigue replicándose en los pulmones. El hallazgo podría extrapolarse a otras infecciones víricas respiratorias graves, como la gripe estacional o pandémica.",
+    "cuerpo": "Un nuevo estudio da respuesta a una de las grandes incógnitas que dejó la pandemia: si cuando el paciente con covid llegaba al estado crítico y necesitaba ventilación mecánica invasiva, el virus seguía replicándose activamente en el pulmón o si el daño respiratorio era únicamente consecuencia de la respuesta inflamatoria. La respuesta es clara: el 60% de los pacientes críticos presentan virus vivo en el pulmón en el momento de la intubación.\nLa investigación, publicada en Anaesthesia Critical Care & Pain Medicine, se basó en un trabajo que contó con la participación del Hospital Universitario de Jerez.En él, se incluyeron a 159 pacientes críticos ingresados en UCI. El trabajo es un subproyecto del proyecto CIBERUCICOVID del Centro de Investigación Biomédica en Red área de Enfermedades Respiratorias (CIBERES), que investiga sobre factores de riesgo pronóstico personalizado y seguimiento a un año de los enfermos ingresados en las Unidades de Cuidados Intensivos Españolas infectados por el virus SARS-CoV2.\nAdemás de demostrar la persistencia de virus vivo en la mayoría de pacientes críticos, el equipo de investigación identificó dos perfiles claramente diferenciados en el momento de inicio de la ventilación mecánica invasiva.\nPor un lado, observaron pacientes que progresan rápidamente desde el inicio de los síntomas hasta el fallo respiratorio y la necesidad de ventilación mecánica. Estos presentan altas cargas de virus vivo en el pulmón y evidencias claras de replicación activa. Por otro, existen pacientes cuya progresión es más lenta y que llegan más tardíamente a la ventilación mecánica, en los que la carga viral pulmonar es baja o el virus ya no es detectable mediante cultivo.\n“Esta diferenciación tiene profundas implicaciones para el diseño de futuros ensayos clínicos con antivirales. Los resultados sugieren que no todos los pacientes críticos se beneficiarían por igual de estos tratamientos y que la estratificación basada en la presencia de virus viable podría ser clave para optimizar su administración”, explican Jesús F Bermejo-Martin, coordinador del estudio e investigador del CIBERES en el Instituto de Investigación Biomédica de Salamanca (IBSAL) y la Universidad de Salamanca, y Ángel Estella, primer firmante Hospital de Jerez.\nConscientes de que el cultivo viral no está disponible en la mayoría de hospitales, el equipo de investigación desarrolló y puso a punto un método alternativo basado en PCR digital para identificar a los pacientes con virus replicativo en el pulmón. Esta tecnología, ya implantada en numerosos centros, permite aproximarse a la detección de virus viable sin necesidad de infraestructuras de cultivo celular especializadas.\nEste avance facilita la selección de los pacientes críticos que podrían beneficiarse de tratamiento antiviral y abre la puerta a una medicina más personalizada en el entorno de la UCI.\nEl coordinador del proyecto e investigador del CIBERES en el Institut de Recerca Biomèdica de Lleida (IRBLleida), Ferrán Barbé, subraya que la estrategia desarrollada no se limita al SARS-CoV-2, virus que causa la covid: “Podría aplicarse a otras infecciones víricas respiratorias graves, como la gripe estacional o pandémica, así como a futuras amenazas emergentes”.\nEn conjunto, este trabajo supone un avance relevante en la comprensión de la fisiopatología de la insuficiencia respiratoria grave por infecciones víricas respiratorias y establece las bases para mejorar futuros ensayos clínicos con antivirales en pacientes críticos.\nEl estudio está coordinado por un equipo de investigación del CIBERES perteneciente al Instituto de Investigación Biomédica de Salamanca (IBSAL) y cofinanciado a través del Programa Estar Preparados de UNESPA y el Fondo COVID-19 del ISCIII."
+  },
+  "sha256": {
+    "titular": "b52510281fea4fa27b8a428fc193f460d2eaa27fc22760745f86972dcbcdbb6d",
+    "entradilla": "2f400ae5cb73dc99f3db4037b46bc0534a3b37d92c5e8f95d5510372b27b65da",
+    "cuerpo": "e1c53a5ab5bb842434130828bff75535a73fb0bf2c9356716f03195857b2ac99"
+  }
+}

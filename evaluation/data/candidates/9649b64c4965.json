@@ -1,0 +1,26 @@
+{
+  "id": "9649b64c4965",
+  "url": "https://www.agenciasinc.es/Noticias/Las-altas-temperaturas-limitan-los-movimientos-del-oso-pardo-cantabrico",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-17T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: UPM | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:39:00+00:00",
+  "campos": {
+    "titular": "Las altas temperaturas limitan los movimientos del oso pardo cantábrico",
+    "entradilla": "En un contexto del calentamiento global actual, dos estudios de la Universidad Politécnica de Madrid revelan que el calor ralentiza significativamente a los osos pardos cantábricos. Por eso, estos animales utilizan los bosques como un refugio térmico.",
+    "cuerpo": "Un equipo de investigadores de la Universidad Politécnica de Madrid (UPM), en colaboración con la Universidad de Exeter y la Junta de Castilla y León, han estudiado las trayectorias de movimiento del oso pardo cantábrico y han desarrollado una herramienta estadística que permite distinguir con mayor precisión entre distintas fases de movimiento, al identificar zonas de residencia, de reposo y desplazamientos exploratorios no residentes.\nLos resultados tienen implicaciones directas para la gestión del oso pardo en un contexto de cambio climático. Identificar, proteger y conectar refugios térmicos — laderas de umbría, bosques densos con recursos tróficos disponibles — se perfila como una estrategia prioritaria no solo para el oso, sino para otros grandes mamíferos que se enfrentan a retos similares.\nEn total se han llevado a cabo dos estudios, que se nutren de los datos del Plan de Captura y Radiomarcaje de Oso Pardo de Castilla y León que cuenta ya con más de 150 000 posiciones GPS registradas en 24 osos adultos.\nEl primer estudio presenta una herramienta estadística que permite segmentar trayectorias de movimiento de los osos en estados conductuales dentro de patrones de movimiento a largo plazo.\nSu aplicación a los datos de seguimiento GPS revela un alto cambio en el comportamiento del oso pardo, con variaciones notables en los ritmos de actividad tanto entre individuos como según la fase de movimiento en la que se encuentre el animal.\nAdemás, la herramienta permite mejorar significativamente la estimación de las áreas de campeo —un dato esencial para la gestión de la fauna— y es aplicable a otras especies objeto de recibir medidas de conservación.\nEl calor, altamente limitante del movimiento\nEl segundo estudio analiza cómo la temperatura, la huella humana, la cobertura forestal y el tamaño corporal condicionan conjuntamente la velocidad de movimiento de los osos. Gracias al uso de las temperaturas registradas por los propios collares GPS — a una escala de detalle que los datos climáticos convencionales no permiten alcanzar — los resultados muestran que el calor limita sus movimientos en gran medida.\nEste efecto es especialmente pronunciado en los machos adultos de mayor tamaño, que tienen más dificultades para disipar el calor y son por tanto más vulnerables al estrés térmico.\nAsimismo, según el estudio, los osos se movieron más rápido en áreas humanizadas, posiblemente para reducir el tiempo de viaje en zonas donde pueden ser detectados por el ser humano. Sin embargo, esta respuesta se vio atenuada por las altas temperaturas, lo que indica que el estrés térmico puede forzar al oso a moverse más lentamente en zonas donde normalmente aceleraría el paso.\nEn contraposición, el estudio revela cómo los bosques actúan como un refugio térmico: la sombra y el microclima más fresco que ofrece la cubierta arbórea permiten a los osos mantener su actividad durante los periodos más cálidos, amortiguando así el efecto limitante de las altas temperaturas sobre su comportamiento.\n“Ambos estudios ilustran el valor de la colaboración sostenida entre la administración y la universidad pública como una vía eficaz para traducir la ciencia en herramientas útiles para la gestión y la conservación de especies amenazadas”, comenta Pablo Cisneros Araujo, uno de los investigadores de la UPM que ha formado parte del equipo de investigación."
+  },
+  "sha256": {
+    "titular": "26886b2fe8d0f1c7de0ab40eddb06fe409354c3d75b81699fdb47a4a31cc3dac",
+    "entradilla": "ead97c8e1ee24a729034514775ad7449a74b9752f79af8d41b6f9bd8e7b63657",
+    "cuerpo": "8df95108721f74f4b4d70ab0d2cb65082ce7772789635cd9b6df98e33b5b1282"
+  }
+}

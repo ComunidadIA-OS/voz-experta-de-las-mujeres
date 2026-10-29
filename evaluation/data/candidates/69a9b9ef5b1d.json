@@ -1,0 +1,26 @@
+{
+  "id": "69a9b9ef5b1d",
+  "url": "https://www.agenciasinc.es/Noticias/Avances-para-una-produccion-sostenible-de-hidrogeno-verde",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-11-20T10:46:00+01:00",
+  "fuente_y_derechos": "Fuente: URJC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ingeniería y tecnología del medio ambiente"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:58:39+00:00",
+  "campos": {
+    "titular": "Avances para una producción sostenible de hidrógeno verde",
+    "entradilla": "Un equipo de investigación de la Universidad Rey Juan Carlos ha desarrollado materiales innovadores capaces de generar hidrógeno a partir del agua utilizando únicamente calor.",
+    "cuerpo": "La búsqueda de fuentes de energía más limpias y sostenibles ha situado al hidrógeno verde en el centro de atención. Este combustible, que solo emite vapor de agua al utilizarse, podría ser clave para reducir la dependencia de los combustibles fósiles y contribuir a la reducción de emisiones de CO2. Sin embargo, aún queda un gran reto: ¿cómo producirlo de forma eficiente y respetuosa con el medio ambiente?\nEl equipo de investigación del Grupo de Ingeniería Química y Ambiental (GIQA) y del Instituto de Investigación de Tecnologías para la Sostenibilidad (ITPS) de la URJC está desarrollado nuevos materiales capaces de producir hidrógeno verde a partir del agua utilizando únicamente calor procedente del sol.\nPara lograrlo, el personal investigador del Grupo de Ingeniería Química y Ambiental (GIQA) lleva tiempo trabajando en el diseño de materiales cerámicos que pueden calentarse, liberar oxígeno y luego reaccionar con vapor de agua para generar hidrógeno.\nEn el trabajo, recientemente publicado en la revista Catalysis Today, se presenta una nueva familia de materiales que han sido moldeados en forma de estructuras porosas. Estos materiales están diseñados para su utilización en reactores solarizados con elevada eficacia de producción de hidrógeno a temperaturas inferiores (por debajo de los 1000 ºC) a las usualmente necesarias para este tipo de procesos (1300-1500 ºC).\nLos materiales utilizados pertenecen a la familia de las perovskitas, que cuentan con oxígeno de gran movilidad en su estructura, permitiéndoles participar en un ciclo de reacciones químicas conocido como división termoquímica del agua de manera activa, estable y duradera.\nEn este proceso, primero se calientan los materiales a temperaturas muy elevadas, lo que provoca que liberen oxígeno, para después reaccionar con vapor de agua produciendo hidrógeno y recuperando el oxígeno.\n“Este ciclo puede repetirse muchas veces, lo que lo convierte en una alternativa prometedora para la producción continua de hidrógeno renovable”, apunta María Linares Serrano, investigadora del GIQA de la URJC.\nLa investigación no se limitó a trabajar con estos materiales en forma de polvo. Se moldearon en estructuras más funcionales —como pellets, espumas cerámicas y capas delgadas sobre soportes monolíticos— que permiten un mejor contacto con los gases y una transferencia de calor más eficiente. Gracias a estas formas, se logró aumentar significativamente la cantidad de hidrógeno producido.\n“Este avance no solo mejora el rendimiento del proceso, sino que también facilita su integración en reactores solares volumétricos, acercándonos a una producción de hidrógeno verde a gran escala”, destaca Linares Serrano.\nEste trabajo constituye un avance en la búsqueda de soluciones eficientes y sostenibles para lograr que el hidrógeno verde deje de ser una promesa y se convierta en una realidad accesible."
+  },
+  "sha256": {
+    "titular": "804ea61fd8c73840de6b064f7078eeb79e86bf788bea541bd70b887952706cd9",
+    "entradilla": "49247e39925285b4156809cc51a45889a0e20e60e8e5b6994eaf228dd61797bb",
+    "cuerpo": "53ea9fec6dc09debb1948e1d9f3a64186b715fb9d85a08391db30cb5b6f52e90"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "251e670d9ec8",
+  "url": "https://www.agenciasinc.es/Noticias/Una-proteina-actua-como-barrera-natural-frente-a-la-progresion-del-cancer-de-pulmon",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-11-17T11:20:00+01:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Patología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:58:56+00:00",
+  "campos": {
+    "titular": "Una proteína actúa como barrera natural frente a la progresión del cáncer de pulmón",
+    "entradilla": "Un equipo del CSIC ha identificado el papel de la proteína Capicua en la resistencia de ciertos tumores pulmonares. Este tipo de cáncer sigue siendo el tumor más mortal, con 23 239 fallecimientos en 2024, aunque la supervivencia ha mejorado un 12 % gracias a las nuevas terapias.",
+    "cuerpo": "Un equipo del Centro de Investigación del Cáncer (CSIC-USAL-FICUS) ha identificado el papel de una proteína en el desarrollo y la resistencia a los tratamientos de los tumores pulmonares que tienen mutaciones en los genes KRAS y TP53. Este tipo de cáncer, cuyo Día Internacional se celebra cada 17 de noviembre, es uno de los más mortales.\nEl estudio, que aparece publicado en la revista EMBO Molecular Medicine, demuestra que la proteína Capicua frena la transformación maligna causada por estas alteraciones genéticas y actúa, por tanto, como una barrera natural para la formación de estos tumores.\nEl laboratorio de Matthias Drosten, especializado en mejorar la comprensión de la biología del cáncer de pulmón y el diseño de tratamientos dirigidos a este tipo de cáncer, ha comprobado que los tumores pulmonares pueden superar esa barrera natural a través de ganancias en el número de copias del gen KRAS. En este contexto, el equipo ha confirmado que la pérdida de Capicua contribuye directamente a la resistencia a los tratamientos.\nLa investigación también abre nuevas vías terapéuticas: la restauración de la actividad represora de Capicua o el ataque a factores que compensan su pérdida pueden revertir la proliferación tumoral y restaurar la sensibilidad a los medicamentos.\n“Hemos descubierto que Capicua es mucho más que un simple actor secundario en la vía oncogénica de KRAS. Abre nuevas oportunidades para intervenir en fases tempranas de la enfermedad”, subraya Drosten. “Una vez perdida su función de represión, el crecimiento tumoral se dispara y, además, aparecen resistencias a fármacos que antes eran efectivos”, añade. ​\nKRAS es uno de los oncogenes más estudiados y responsables del 30 % de los cánceres humanos que, hasta hace poco, eran considerados “intratables”. Si bien existen terapias dirigidas actualmente aprobadas, la mayoría de los tumores acaban desarrollando resistencia.\nEl equipo ha realizado experimentos con modelos animales, empleando ratones genéticamente modificados para replicar las mutaciones observadas en cánceres humanos. Estas investigaciones permitieron estudiar de manera controlada el impacto de la pérdida funcional de Capicua y de la amplificación de KRAS en el desarrollo tumoral, así como testar nuevas estrategias terapéuticas. Todos los protocolos con animales fueron aprobados por los comités éticos pertinentes y cumplieron con las regulaciones internacionales sobre bienestar animal.\nEste descubrimiento tiene implicaciones importantes para la selección y el tratamiento de los pacientes. La identificación de mutaciones o alteraciones funcionales en Capicua permite anticipar la aparición de resistencias y diseñar tratamientos personalizados basados en el perfil molecular de cada tumor.\nEn este sentido, Irene Ballesteros-González, primera autora del estudio, subraya: “Gracias a los modelos experimentales empleados en esta investigación se han podido probar combinaciones farmacológicas. Además, se ha demostrado que la reactivación de Capicua, así como el uso de inhibidores metabólicos específicos, puede volver a sensibilizar los tumores resistentes a los fármacos convencionales”. ​\nSegún los últimos datos del Registro de Tumores Torácicos del del Grupo Español de Cáncer de Pulmón (GECP), este tipo de cáncer sigue siendo el tumor más mortal, con 23 239 fallecimientos en 2024, un 1,9 % más que el año anterior. Además, la mortalidad femenina crece un 7 %, y el cáncer de pulmón ya es la principal causa de muerte oncológica en mujeres.\nLos especialistas del GECP también alertan de nuevos perfiles: los diagnósticos femeninos ya representan el 27,8 % y uno de cada veinte pacientes tiene menos de 50 años. El tabaquismo sigue presente como causa directa de la enfermedad: el 40,9 % es fumador y el 46 % exfumador.\nEl cáncer de pulmón es el tumor más letal en España: sólo 3 de cada 10 pacientes sobreviven a cinco años. Pese a ello, la supervivencia ha mejorado un 12 % en la última década gracias a la investigación y las nuevas terapias. Sin embargo, sólo el 4 % de la inversión pública en cáncer se destina al de pulmón."
+  },
+  "sha256": {
+    "titular": "501ace4fcfe96138133e149f67a15b78b9c9dd7fc4d676d54de9e0f06fee34e5",
+    "entradilla": "202dc31c27c26d48bd4d45c3e64f5c2dae4514d49e7a41223bf3bb18df1eecd6",
+    "cuerpo": "69ba45ba3a8ee1b08a32beb4d36818b74e70601b5cfbd53c09280adc805332f6"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "e4858d58be7b",
+  "url": "https://www.agenciasinc.es/Noticias/Las-diferencias-de-expresion-genetica-en-el-cerebro-segun-el-sexo-influyen-en-el-riesgo-de-sufrir-trastornos-psiquiatricos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-16T20:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:47:25+00:00",
+  "campos": {
+    "titular": "Las diferencias de expresión genética en el cerebro según el sexo influyen en el riesgo de sufrir trastornos psiquiátricos",
+    "entradilla": "Los resultados de una nueva investigación sugieren que las pequeñas variaciones en los genes que se expresan en el cerebro según el sexo podrían estar detrás de las disparidades de sufrir trastornos psiquiátricos y neurológicos entre hombres y mujeres, además de condicionantes sociales.",
+    "cuerpo": "El enfoque de género en la medicina contemporánea permite definir factores de riesgo que afectan de forma distinta a los diferentes sexos. Un nuevo análisis de células cerebrales individuales en varias regiones del cerebro humano revela que existen variaciones sutiles, pero generalizadas, en la actividad genética entre cerebros masculinos y femeninos.\nLas conclusiones, publicadas en la revista Science, dan un paso más allá en la búsqueda de la razón por la que algunos trastornos psiquiátricos y neurológicos parecen afectar de manera diferente según el sexo.\nSi bien la causa más probable de estas disparidades es la interacción de influencias biológicas y sociales, su consistencia en diferentes culturas y su cronología predecible durante el desarrollo sugieren que las diferencias determinadas por el sexo en la transcripción genética en el cerebro pueden desempeñar un papel importante.\nUn equipo del Instituto Nacional sobre el Envejecimiento y el Instituto Nacional de Salud Mental (Estados Unidos), liderado por el investigador Alex DeCasien, llevó a cabo un análisis de alta resolución de la expresión genética en el cerebro humano.\nUtilizaron secuenciación de ARN de núcleo único en muestras de tejido de 30 individuos adultos (15 hombres y 15 mujeres). Se centraron específicamente en seis regiones corticales, algunas conocidas por presentar diferencias sexuales en la estructura cerebral y otras desconocidas. Esto permitió a los autores comparar con mayor precisión la variación molecular y anatómica.\nEl equipo de investigación descubrió que el sexo biológico explicaba solo una fracción muy pequeña de la variación en la expresión génica en el cerebro. Sin embargo, el análisis reveló más de 3 000 genes que exhibieron algún grado de transcripción sesgada por el sexo en al menos una región cortical, y 133 con efectos consistentes en diferentes regiones cerebrales y tipos celulares.\nSi bien las diferencias más marcadas se encontraron en genes ubicados en los cromosomas sexuales, la mayor parte de la variación relacionada con el sexo se produjo en genes que no están ligados a ellos y, a su vez, están regulados predominantemente por hormonas esteroides sexuales.\nMuchos de estos genes que muestran expresión sesgada por el sexo se superponen con variantes genéticas asociadas con trastornos neuropsiquiátricos y neurodegenerativos, como el TDAH, la esquizofrenia, la depresión y la enfermedad de Alzheimer.\nAun así, los autores del estudio reconocen que muchas de las diferencias relacionadas con el sexo pueden originarse en diferencias en la socialización y la experiencia. La influencia de estos factores sociales podría descartarse en futuras investigaciones, sobre todo si existen diferencias sexuales en la expresión genética antes del nacimiento."
+  },
+  "sha256": {
+    "titular": "3fc8ca3b0f8a42e5821cefd9d96ecb157820f3f3203a382c83d2f42469e39a20",
+    "entradilla": "351093a00faf9ef2aaa861f4cc929d63eadef8a099277d24a70bf05263e087e5",
+    "cuerpo": "6aae50719cb0da13703c86543408fd905ea90b1d165ce6f17858e9b63b3b531b"
+  }
+}

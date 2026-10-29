@@ -1,0 +1,24 @@
+{
+  "article_id": "2cd3d64e06fc",
+  "url": "https://www.agenciasinc.es/Noticias/La-carrona-influye-sobre-la-ecologia-las-epidemias-y-la-evolucion-humana",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Eva_Mar",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-27T04:15:01+00:00",
+  "article_sha256": {
+    "titular": "535454b4af6bbad629463a1e333c05ed471f44d3d2fb0cc2f3341dcabded0d40",
+    "entradilla": "852bcb27294d56c280ed9fafa605c1fa41823f2c684e91e9e58b6a5e5e6d9911",
+    "cuerpo": "5253e83bf9022c9e1620c25ca6416d89a9f5b502b421a1e1e2d6e9f5e070fdda"
+  },
+  "review_status": "draft_review",
+  "reviewed_people": [],
+  "reviewed_quotes": [],
+  "page_annotation": {
+    "personas": [],
+    "sin_personas": false,
+    "terminada": false,
+    "notas": "",
+    "segundos": 3
+  }
+}

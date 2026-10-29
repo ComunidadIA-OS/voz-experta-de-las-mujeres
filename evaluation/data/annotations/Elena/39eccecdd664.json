@@ -1,0 +1,387 @@
+{
+  "article_id": "39eccecdd664",
+  "url": "https://www.agenciasinc.es/Noticias/Descubierto-un-posible-nuevo-objeto-astrofisico-que-combina-una-estrella-y-un-agujero-negro",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:12+00:00",
+  "article_sha256": {
+    "titular": "8686467678cc76e54ca50e2d5473e4d77606d4877a0939f37c6d59b2d7645637",
+    "entradilla": "4d7066036d4252e686c37482bd9844d5568004b9762a4106a34dd0fc0d2ba0aa",
+    "cuerpo": "4428ae00886b962485fce4075a999e85b4ff38c8b190404283e7a2a725e87399"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Rohan Naidu",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "becario Hubble de la NASA y becario Pappalardo en el Instituto Kavli de Astrofísica e Investigación Espacial (MKI) del MIT",
+      "gender_representation": "man",
+      "gender_evidence": "primer autor",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Robert Simcoe",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "director del Instituto Kavli del MIT.",
+      "gender_representation": "man",
+      "gender_evidence": "director",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "Creemos que hay un agujero negro central 100 000 veces más masivo que el Sol. Y alrededor de este agujero negro, habría una envoltura de gas muy extensa que parece una estrella del tamaño del sistema solar. Es enorme”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Estos pequeños puntos rojos parecen estar por todas partes en el universo primitivo, pero prácticamente desaparecen en la actualidad”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Qué son exactamente estos objetos ha sido uno de los temas más debatidos de la era del JWST”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Ha habido un enigma: la aparición de muchas galaxias brillantes en épocas extremadamente tempranas”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "Lo que descubrimos fue que lo que parece una galaxia primitiva extremadamente brillante, un ‘milagro’, en algunos casos podría ser en realidad un ‘espejismo’”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La ruptura que observamos en este objeto es la más profunda que jamás hayamos visto en ningún objeto, lo que descarta que las estrellas ‘ordinarias’ sean la fuente”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "Pero nos hizo preguntarnos si estábamos viendo un nuevo tipo de ‘atmósfera estelar’, pero a una escala espectacular”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Era verdaderamente singular en muchos sentidos”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Tienes algo que se parece un poco a una estrella, pero es 100 mil millones de veces más brillante”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Eso significa que no puedes estar alimentándolo con fusión nuclear, que es la fuente de energía que se encuentra en el núcleo de todas las estrellas que conocemos”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Cada pequeño punto rojo es consistente con ser una estrella de agujero negro, incrustada en una galaxia primitiva genérica”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Pero lo especial de MoM-BH*-1 es que la estrella de agujero negro está eclipsando por completo a su galaxia anfitriona circundante, de tal manera que estamos viendo luz pura de estrella de agujero negro”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Cuando vemos algo muy rojo en el universo, solemos suponer que está rodeado de polvo, como hollín o ceniza”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "Del mismo modo que el humo de los incendios forestales de Canadá tiñó recientemente el cielo de Boston de un rojo brillante, los objetos astronómicos también pueden parecer más rojos que su color intrínseco cuando se observan a través de una capa de polvo”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Empezamos a preguntarnos: ¿Se podría crear algo tan rojo usando solo hidrógeno, sin polvo?”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Para nuestra sorpresa, resulta que sí, si se tiene una capa de hidrógeno extremadamente densa, tan densa que se parece más a la superficie de una estrella enorme que a una tenue nebulosa interestelar”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793120739108",
+        "nombre": "Rohan Naidu",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1351,
+            "fin16": 1362,
+            "texto": "Rohan Naidu",
+            "inicio": 1351,
+            "fin": 1362
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1337,
+          "fin16": 1349,
+          "texto": "primer autor",
+          "inicio": 1337,
+          "fin": 1349
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1489,
+            "fin16": 1707,
+            "texto": "Creemos que hay un agujero negro central 100 000 veces más masivo que el Sol. Y alrededor de este agujero negro, habría una envoltura de gas muy extensa que parece una estrella del tamaño del sistema solar. Es enorme”.",
+            "tipo": "directa",
+            "inicio": 1489,
+            "fin": 1707
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1988,
+            "fin16": 2122,
+            "texto": "“Estos pequeños puntos rojos parecen estar por todas partes en el universo primitivo, pero prácticamente desaparecen en la actualidad”",
+            "tipo": "directa",
+            "inicio": 1988,
+            "fin": 2122
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2138,
+            "fin16": 2232,
+            "texto": "“Qué son exactamente estos objetos ha sido uno de los temas más debatidos de la era del JWST”.",
+            "tipo": "directa",
+            "inicio": 2138,
+            "fin": 2232
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2674,
+            "fin16": 2774,
+            "texto": "“Ha habido un enigma: la aparición de muchas galaxias brillantes en épocas extremadamente tempranas”",
+            "tipo": "directa",
+            "inicio": 2674,
+            "fin": 2774
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2792,
+            "fin16": 2951,
+            "texto": "Lo que descubrimos fue que lo que parece una galaxia primitiva extremadamente brillante, un ‘milagro’, en algunos casos podría ser en realidad un ‘espejismo’”.",
+            "tipo": "directa",
+            "inicio": 2792,
+            "fin": 2951
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4155,
+            "fin16": 4320,
+            "texto": "“La ruptura que observamos en este objeto es la más profunda que jamás hayamos visto en ningún objeto, lo que descarta que las estrellas ‘ordinarias’ sean la fuente”",
+            "tipo": "directa",
+            "inicio": 4155,
+            "fin": 4320
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4337,
+            "fin16": 4454,
+            "texto": "Pero nos hizo preguntarnos si estábamos viendo un nuevo tipo de ‘atmósfera estelar’, pero a una escala espectacular”.",
+            "tipo": "directa",
+            "inicio": 4337,
+            "fin": 4454
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4590,
+            "fin16": 4639,
+            "texto": "“Era verdaderamente singular en muchos sentidos”,",
+            "tipo": "directa",
+            "inicio": 4590,
+            "fin": 4639
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5569,
+            "fin16": 5668,
+            "texto": "“Tienes algo que se parece un poco a una estrella, pero es 100 mil millones de veces más brillante”",
+            "tipo": "directa",
+            "inicio": 5569,
+            "fin": 5668
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5682,
+            "fin16": 5847,
+            "texto": "“Eso significa que no puedes estar alimentándolo con fusión nuclear, que es la fuente de energía que se encuentra en el núcleo de todas las estrellas que conocemos”.",
+            "tipo": "directa",
+            "inicio": 5682,
+            "fin": 5847
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 7184,
+            "fin16": 7308,
+            "texto": "“Cada pequeño punto rojo es consistente con ser una estrella de agujero negro, incrustada en una galaxia primitiva genérica”",
+            "tipo": "directa",
+            "inicio": 7184,
+            "fin": 7308
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 7322,
+            "fin16": 7526,
+            "texto": "“Pero lo especial de MoM-BH*-1 es que la estrella de agujero negro está eclipsando por completo a su galaxia anfitriona circundante, de tal manera que estamos viendo luz pura de estrella de agujero negro”",
+            "tipo": "directa",
+            "inicio": 7322,
+            "fin": 7526
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1364,
+          "fin16": 1486,
+          "texto": "becario Hubble de la NASA y becario Pappalardo en el Instituto Kavli de Astrofísica e Investigación Espacial (MKI) del MIT",
+          "inicio": 1364,
+          "fin": 1486
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793120796358",
+        "nombre": "Robert Simcoe",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3255,
+            "fin16": 3268,
+            "texto": "Robert Simcoe",
+            "inicio": 3255,
+            "fin": 3268
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 3270,
+          "fin16": 3278,
+          "texto": "director",
+          "inicio": 3270,
+          "fin": 3278
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3137,
+            "fin16": 3246,
+            "texto": "“Cuando vemos algo muy rojo en el universo, solemos suponer que está rodeado de polvo, como hollín o ceniza”,",
+            "tipo": "directa",
+            "inicio": 3137,
+            "fin": 3246
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3309,
+            "fin16": 3565,
+            "texto": "Del mismo modo que el humo de los incendios forestales de Canadá tiñó recientemente el cielo de Boston de un rojo brillante, los objetos astronómicos también pueden parecer más rojos que su color intrínseco cuando se observan a través de una capa de polvo”",
+            "tipo": "directa",
+            "inicio": 3309,
+            "fin": 3565
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4880,
+            "fin16": 4973,
+            "texto": "“Empezamos a preguntarnos: ¿Se podría crear algo tan rojo usando solo hidrógeno, sin polvo?”,",
+            "tipo": "directa",
+            "inicio": 4880,
+            "fin": 4973
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4989,
+            "fin16": 5191,
+            "texto": "“Para nuestra sorpresa, resulta que sí, si se tiene una capa de hidrógeno extremadamente densa, tan densa que se parece más a la superficie de una estrella enorme que a una tenue nebulosa interestelar”.",
+            "tipo": "directa",
+            "inicio": 4989,
+            "fin": 5191
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 3270,
+          "fin16": 3307,
+          "texto": "director del Instituto Kavli del MIT.",
+          "inicio": 3270,
+          "fin": 3307
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 511
+  }
+}

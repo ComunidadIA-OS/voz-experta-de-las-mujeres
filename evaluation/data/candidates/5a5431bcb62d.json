@@ -1,0 +1,26 @@
+{
+  "id": "5a5431bcb62d",
+  "url": "https://www.agenciasinc.es/Noticias/El-uso-de-luces-nocturnas-ha-crecido-un-16-en-la-ultima-decada",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-08T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:48:18+00:00",
+  "campos": {
+    "titular": "El uso de luces nocturnas ha crecido un 16 % en la última década",
+    "entradilla": "Cuando el Sol se pone en el horizonte, las farolas empiezan a encenderse para iluminar la vida nocturna, un hecho que puede observarse desde el espacio exterior. Un estudio ha analizado millones de imágenes de la Tierra, en las que se muestra que el planeta ‘parpadea’ debido a cambios en la emisión de estas luces artificiales.",
+    "cuerpo": "La emisión de luces artificiales durante la noche ha crecido un 16 % en todo el mundo desde 2014 hasta 2022, según expone un estudio de Nature en el que se presentan mapas de la iluminación nocturna de la Tierra.\nLos investigadores creen que estas imágenes revelan cambios en la huella lumínica producida por los humanos y que ofrecen información sobre los factores que influyen en la emisión de luz artificial tras ponerse el Sol.\nAnteriormente, las observaciones se centraban en tendencias a largo plazo que no capturaban eventos concretos como cortes de electricidad, obras, cambios graduales, procesos urbanísticos o la transición a dispositivos LED.\nAhora, gracias a este trabajo se entiende la medición de la actividad humana –a través de la emisión de luz– como una herramienta relevante para analizar cambios en las infraestructuras y transiciones de energía a corto plazo.\nLos expertos Tian Li y Zhe Zhu estudiaron la luz nocturna mediante 1,16 millones de imágenes satelitales diarias de la Tierra desde 2014 hasta 2022 y descubrieron que 3,51 millones de kilómetros cuadrados del área analizada experimentaba al menos un cambio en el fulgor emitido.\nEn concreto, el 51 % de esa superficie sufría alteraciones graduales, el 14 % cambios bruscos y el 35 % ambos fenómenos. Asimismo, también vieron un incremento del 16 % en el brillo durante los nueve años del estudio.\nPor otro lado, el 20 % de la superficie experimentó un cambio brusco en la iluminación en más de una ocasión, lo que indicó periodos de construcción, demolición, inestabilidad energética y otras perturbaciones sociales como conflictos en Oriente Medio o los cortes en la red eléctrica vistos en Venezuela.\nLos autores observaron una volatilidad bidireccional en la luz artificial nocturna –el brillo ‘parpadeaba’– en la mayor parte del planeta con condiciones estables en zonas de escasa población como reservas naturales y desiertos.\nLos hallazgos sugieren que la emisión de luz artificial no puede entenderse como una entidad única ya que el fulgor varía en función factores estructurales y sociales. Según añaden los expertos, investigaciones futuras podrían explorar las respuestas socioeconómicas a dichas alteraciones."
+  },
+  "sha256": {
+    "titular": "2754174b100d4ad08de5e24141021441fe5c73609a302325b1279b8cc19597e8",
+    "entradilla": "65f2b3e4c86404e6bddc059322b207fa10adf420a201c4a34aca392e6fd09f25",
+    "cuerpo": "cfe7bdae83a946935d84efedd4f2e3afa6185a90eb5f44eb3a305ee740b4ed80"
+  }
+}

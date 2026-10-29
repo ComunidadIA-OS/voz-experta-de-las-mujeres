@@ -1,0 +1,247 @@
+{
+  "annotator": "Elena",
+  "predictions": "gpt-oss-120b",
+  "group": "test",
+  "with_name_layer": false,
+  "articles": 40,
+  "detection": {
+    "found": 65,
+    "missed": 0,
+    "extra": 6
+  },
+  "missed_by_gender": {
+    "man": [
+      0,
+      37
+    ],
+    "woman": [
+      0,
+      20
+    ],
+    "unknown": [
+      0,
+      8
+    ]
+  },
+  "agreement": {
+    "gender": {
+      "total": 65,
+      "same": 61
+    },
+    "expert": {
+      "total": 65,
+      "same": 58
+    },
+    "role": {
+      "total": 65,
+      "same": 54
+    },
+    "quoted": {
+      "total": 65,
+      "same": 65
+    },
+    "work_role": {
+      "total": 65,
+      "same": 48
+    },
+    "headline_reference": {
+      "total": 65,
+      "same": 65
+    }
+  },
+  "funnel_human": {
+    "Presence: mentioned": {
+      "people": 65,
+      "known_gender": 57,
+      "women": 20,
+      "share_women": 0.3508771929824561,
+      "ci95": [
+        0.24000246078174026,
+        0.48058345411859105
+      ]
+    },
+    "Voice: quoted": {
+      "people": 57,
+      "known_gender": 55,
+      "women": 20,
+      "share_women": 0.36363636363636365,
+      "ci95": [
+        0.24930349342940838,
+        0.49577481851316285
+      ]
+    },
+    "Authority: technical experts": {
+      "people": 60,
+      "known_gender": 55,
+      "women": 20,
+      "share_women": 0.36363636363636365,
+      "ci95": [
+        0.24930349342940838,
+        0.49577481851316285
+      ]
+    },
+    "Protagonism: lead the work": {
+      "people": 55,
+      "known_gender": 51,
+      "women": 19,
+      "share_women": 0.37254901960784315,
+      "ci95": [
+        0.2532032972099011,
+        0.5097503729966575
+      ]
+    },
+    "Chosen voices: comment on the work": {
+      "people": 6,
+      "known_gender": 5,
+      "women": 1,
+      "share_women": 0.2,
+      "ci95": [
+        0.03622316096978745,
+        0.6244717358814613
+      ]
+    },
+    "Recognition: named in headline or lead": {
+      "people": 0,
+      "known_gender": 0,
+      "women": 0,
+      "share_women": null,
+      "ci95": null
+    }
+  },
+  "funnel_model": {
+    "Presence: mentioned": {
+      "people": 71,
+      "known_gender": 59,
+      "women": 21,
+      "share_women": 0.3559322033898305,
+      "ci95": [
+        0.2460311586943476,
+        0.48344740327733987
+      ]
+    },
+    "Voice: quoted": {
+      "people": 59,
+      "known_gender": 56,
+      "women": 21,
+      "share_women": 0.375,
+      "ci95": [
+        0.26010029646692184,
+        0.505948739655107
+      ]
+    },
+    "Authority: technical experts": {
+      "people": 57,
+      "known_gender": 52,
+      "women": 17,
+      "share_women": 0.3269230769230769,
+      "ci95": [
+        0.2152190173110406,
+        0.46244064860111084
+      ]
+    },
+    "Protagonism: lead the work": {
+      "people": 40,
+      "known_gender": 36,
+      "women": 14,
+      "share_women": 0.3888888888888889,
+      "ci95": [
+        0.24784655417822943,
+        0.5513582970325652
+      ]
+    },
+    "Chosen voices: comment on the work": {
+      "people": 23,
+      "known_gender": 21,
+      "women": 7,
+      "share_women": 0.3333333333333333,
+      "ci95": [
+        0.17194536432683688,
+        0.5462692434278971
+      ]
+    },
+    "Recognition: named in headline or lead": {
+      "people": 0,
+      "known_gender": 0,
+      "women": 0,
+      "share_women": null,
+      "ci95": null
+    }
+  },
+  "counts_human": {
+    "woman": {
+      "people": 20,
+      "name_mentions": 53,
+      "quotes": 73
+    },
+    "man": {
+      "people": 37,
+      "name_mentions": 86,
+      "quotes": 135
+    },
+    "other_explicit": {
+      "people": 0,
+      "name_mentions": 0,
+      "quotes": 0
+    },
+    "unknown": {
+      "people": 8,
+      "name_mentions": 9,
+      "quotes": 2
+    }
+  },
+  "counts_model": {
+    "woman": {
+      "people": 21,
+      "name_mentions": 54,
+      "quotes": 60
+    },
+    "man": {
+      "people": 38,
+      "name_mentions": 87,
+      "quotes": 99
+    },
+    "other_explicit": {
+      "people": 0,
+      "name_mentions": 0,
+      "quotes": 0
+    },
+    "unknown": {
+      "people": 12,
+      "name_mentions": 13,
+      "quotes": 3
+    }
+  },
+  "annotation_minutes_mean": 2.1,
+  "naming_human": {
+    "woman": {
+      "in_headline_or_lead": 0,
+      "named": 0,
+      "described_only": 0,
+      "share_named": null,
+      "ci95": null
+    },
+    "man": {
+      "in_headline_or_lead": 0,
+      "named": 0,
+      "described_only": 0,
+      "share_named": null,
+      "ci95": null
+    }
+  },
+  "naming_model": {
+    "woman": {
+      "in_headline_or_lead": 0,
+      "named": 0,
+      "described_only": 0,
+      "share_named": null,
+      "ci95": null
+    },
+    "man": {
+      "in_headline_or_lead": 0,
+      "named": 0,
+      "described_only": 0,
+      "share_named": null,
+      "ci95": null
+    }
+  }
+}

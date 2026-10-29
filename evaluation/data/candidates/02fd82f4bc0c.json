@@ -1,0 +1,24 @@
+{
+  "id": "02fd82f4bc0c",
+  "url": "https://www.agenciasinc.es/Noticias/La-epigenetica-puede-ayudar-a-entender-el-riesgo-de-lesiones-en-el-futbol-de-elite",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-17T19:00:00+01:00",
+  "fuente_y_derechos": "Fuente: Idibaps | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Epigenética"
+  ],
+  "secciones": [],
+  "fecha_consulta": "2026-10-27T01:52:18+00:00",
+  "campos": {
+    "titular": "La epigenética puede ayudar a entender el riesgo de lesiones en el fútbol de élite",
+    "entradilla": "El Barça Innovation Hub y el centro de investigación IDIBAPS, de Barcelona, han llevado a cabo un estudio centrado en el análisis molecular de futbolistas profesionales. El trabajo identifica patrones biológicos asociados a distintas trayectorias físicas a lo largo de la temporada. Sus resultados apuntan a nuevas formas de personalizar la preparación y el cuidado en la alta competición.",
+    "cuerpo": "zUn estudio del Barça Innovation Hub y el Clínic-IDIBAPS ha analizado el epigenoma de los jugadores y jugadoras de los primeros equipos de fútbol del Futbol Club Barcelona.\nEl trabajo, que ha estado estado liderado por Gil Rodas, médico del Futbol Club Barcelona y responsable de la Unidad de Medicina del Deporte del Hospital Clínic-Hospital Sant Joan de Déu de Barcelona, e Iñaki Martin-Subero, investigador ICREA y jefe del grupo de investigación del IDIBAPS Epigenómica biomédica, analiza cómo la metilación del ADN —un biomarcador epigenético que refleja cómo el cuerpo responde al entorno y al esfuerzo físico— se relaciona con el riesgo de lesión y con el reloj biológico en el contexto del fútbol profesional.\nLos resultados de la investigación se han publicado en Scientific Reports y en ella se analiza por primera vez el epigenoma de muestras de sangre de 74 futbolistas de los equipos masculino y femenino de primera división del FCB. El estudio explora si existen ‘firmas biológicas’ que ayuden a entender por qué algunos deportistas sufren más lesiones que otros y cómo la práctica de deporte de élite puede influir en la edad biológica.\nEl epigenoma se define como un interruptor que activa o inactiva los genes, y puede ser modificado por el estilo de vida. Raúl Fernández Pérez, primer autor del estudio, explica: “La epigenética es una herramienta muy poderosa para comprender mejor cómo el deporte profesional afecta a las células a nivel molecular”.\nGracias a la exhaustiva recogida de datos sobre lesiones de los jugadores del FCB —con muestras anonimizadas para garantizar la protección de la información—, los investigadores han podido identificar futbolistas con más o menos tendencia a lesionarse. Al comparar la metilación de estos dos grupos con diferentes historiales de lesiones, se encontraron diferencias epigenéticas.\nAunque globalmente las diferencias entre jugadores con mayor y menor tendencia a lesionarse son sutiles, el estudio ha identificado más de 1 000 regiones del ADN donde los patrones de metilación cambian de forma consistente entre ambos grupos. Gil Rodas declara: “La identificación de una firma epigenética asociada al riesgo de lesiones es importante, ya que nos permitirá ajustar aspectos de carga física, alimentación y estilo de vida para poder prevenirlas y que los jugadores desarrollen su máximo potencial”.\nEl equipo investigador también utilizó varios ‘relojes epigenéticos’ distintos para calcular la edad biológica, un indicador de estrés celular que no siempre coincide con la edad cronológica.\nUn hallazgo relevante es que los jugadores mostraron mayor aceleración de la edad biológica que las jugadoras, lo cual coincide con observaciones previas en la población general. Sin embargo, Iñaki Martin-Subero aclara: “En este caso, las diferencias entre hombres y mujeres se observaron en un contexto de deportistas con muy buena salud y con condiciones de vida altamente controladas. Las diferencias en la edad epigenética eran especialmente llamativas, y pensamos que se pueden asociar a los altos niveles de profesionalización y estrés asociado al fútbol masculino en comparación al femenino”.\nAdemás, las personas con mayor “edad epigenética” presentaban cambios extensos en la metilación del ADN, muchos de ellos relacionados con funciones de matriz extracelular y citoesqueleto —componentes fundamentales del músculo y los tejidos conectivos."
+  },
+  "sha256": {
+    "titular": "40cfa20e42794b013bff6678b23caf184c6217cb4db0954b062c14c0d7a953ae",
+    "entradilla": "16bb5e9bf8fe2a041047c28a014476a2ae0f5f5efa5be443871c8ca53c6f6bff",
+    "cuerpo": "a1ae912b5439313fabb69bc07b9a0c220c647fbf5a39a9977c8593ca9c715883"
+  }
+}

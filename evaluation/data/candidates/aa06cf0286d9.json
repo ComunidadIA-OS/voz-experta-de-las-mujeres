@@ -1,0 +1,26 @@
+{
+  "id": "aa06cf0286d9",
+  "url": "https://www.agenciasinc.es/Noticias/El-momento-en-que-el-Sol-se-duerme-permite-anticipar-su-proximo-ciclo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-21T13:30:00+02:00",
+  "fuente_y_derechos": "Fuente: Royal Astronomical Society (RAS) | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:38:42+00:00",
+  "campos": {
+    "titular": "El momento en que el Sol se ‘duerme’ permite anticipar su próximo ciclo",
+    "entradilla": "Un equipo investigador ha descubierto que los fenómenos meteorológicos espaciales más extremos cesan de forma abrupta en un punto concreto del ciclo solar. El número de manchas registrado entonces permite estimar, con seis o siete años de antelación, la intensidad del siguiente ciclo.",
+    "cuerpo": "Un nuevo método permite predecir la intensidad del próximo ciclo de actividad solar hasta siete años antes de que alcance su máximo. El sistema se basa en el número de manchas solares registrado en un punto de inflexión del ciclo, cuando los fenómenos meteorológicos espaciales más extremos cesan de forma repentina.\nCon este método, los investigadores han realizado una primera estimación que apunta a un ciclo solar 26 moderado, con un máximo de entre 100 y 120 manchas solares, similar o algo más débil que el actual. Sin embargo, esta previsión todavía se basa en proyecciones y no podrá precisarse hasta dentro de dos años, cuando el ciclo solar 25 alcance el punto de inflexión identificado.\nLa investigación, publicada en The Astrophysical Journal, se presenta esta semana en la Reunión Nacional de Astronomía de la Real Sociedad Astronómica, en Birmingham (Reino Unido).\n“El Sol no se duerme poco a poco para después despertar del mismo modo”, afirma Sandra Chapman, líder del trabajo y catedrática de Física de la Universidad de Warwick (Reino Unido). “Hemos descubierto que la actividad meteorológica espacial más extrema cesa de forma bastante repentina en un punto específico de cada ciclo solar. Al identificarlo, hemos encontrado una nueva forma de predecir cuán activo será probablemente el siguiente ciclo”.\nChapman espera precisar la predicción dentro de unos dos años, cuando el ciclo solar 25 alcance ese punto de inflexión y el pronóstico pueda basarse en observaciones en lugar de proyecciones.\nEl Sol atraviesa ciclos de aproximadamente 11 años, durante los cuales su campo magnético invierte la polaridad y el número de manchas solares aumenta y disminuye. Estas regiones de intensa actividad magnética pueden producir potentes erupciones y eyecciones de masa coronal, que afectan a los satélites, las comunicaciones, los sistemas de navegación y las redes eléctricas terrestres.\nAunque los astrónomos observan las manchas solares desde hace siglos, cada ciclo varía en duración e intensidad, lo que dificulta predecir el siguiente. El nuevo método se basa en el ‘reloj solar’ desarrollado anteriormente por Chapman, que representa los ciclos irregulares del Sol en una escala temporal estándar.\nEl equipo de Chapman ha descubierto que el número de manchas solares presentes en este punto de inflexión está estrechamente relacionado con el número máximo de manchas en el siguiente ciclo solar. El nuevo método puede pronosticar la intensidad del próximo ciclo solar entre seis y siete años antes de que alcance su máximo, lo que ofrece un margen de tiempo mayor que los métodos actuales, que dependen de esperar hasta el mínimo solar.\nEl método anticipó correctamente que el ciclo solar 25 sería más intenso de lo que indicaban muchos pronósticos anteriores. Su elevada actividad ha provocado las intensas auroras boreales observadas en los últimos años.\nAdemás, permite identificar la etapa en la que debería formarse el campo magnético que impulsará el siguiente ciclo. El equipo espera que este hallazgo ayude a comprender mejor la dinamo solar, el proceso que genera el campo magnético del Sol.\n“Estamos a unos dos años del punto de inflexión del actual ciclo solar 25. Por el momento, tenemos que estimar cuándo se producirá, pero, una vez que lo alcancemos, podremos utilizar únicamente las observaciones para realizar una predicción mucho más precisa del ciclo solar 26”, afirma Chapman. “Así podremos anticipar con unos siete años de antelación la intensidad que probablemente tendrá el ciclo”."
+  },
+  "sha256": {
+    "titular": "3fef1ad3fbe7a02f8107c2bd8412a52d77a8759f14e4bc7eb907414ada69bd52",
+    "entradilla": "2ce1195d2ae7c41ddccb2645827e10bb31c2575651d79500dd3fff1d081138c9",
+    "cuerpo": "1d2fa904962a0bc70ea8f84b3f443c92530f33343901d5e993f4f2148a34528c"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "article_id": "788d36af345f",
+  "url": "https://www.agenciasinc.es/Noticias/Hallan-por-primera-vez-una-cueva-volcanica-en-Venus",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:16+00:00",
+  "article_sha256": {
+    "titular": "fb4d1659ccb48694e1b7efd8f707f9908eccaace01fbdf5c5c2920b382871ab9",
+    "entradilla": "8b38ec5dc86d4bc0d94d618995611b8326edc907c587a40c36e5fd0ce46d95b8",
+    "cuerpo": "da6ebeca30770dea6dd2e60a91741638cfead0bf4ae9185b6e4d7ce4dc1acf27"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Lorenzo Bruzzone,",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "coordinador de la investigación, catedrático de Telecomunicaciones y director del Laboratorio de Teledetección del Departamento de Ingeniería de la Información y Ciencias de la Computación de la Universidad de Trento",
+      "gender_representation": "man",
+      "gender_evidence": "coordinador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Nuestro conocimiento de Venus sigue siendo limitado y, hasta ahora, nunca habíamos tenido la oportunidad de observar directamente los procesos que tienen lugar bajo la superficie del planeta gemelo de la Tierra”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Este descubrimiento contribuye a una comprensión más profunda de los procesos que han dado forma a la evolución de Venus y abre nuevas perspectivas para el estudio del planeta”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Analizamos las imágenes de radar de Magellan en las que hay signos de colapsos superficiales localizados utilizando una técnica de imagen que hemos desarrollado para detectar y caracterizar conductos subterráneos cerca de claraboyas”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "Interpretamos la estructura como un posible tubo de lava (piroducto), con un diámetro estimado de aproximadamente un kilómetro, un grosor de techo de al menos 150 metros y un vacío de no menos de 375 metros de profundidad”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Los datos disponibles nos permiten confirmar y medir solo la parte de la cavidad cercana a la claraboya. Sin embargo, el análisis de la morfología y la elevación del terreno circundante, junto con la presencia de otros pozos similares al estudiado, respalda la hipótesis de que los conductos subterráneos pueden extenderse al menos 45 kilómetros”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Para comprobar esta hipótesis e identificar otros tubos de lava, dice Bruzzone, se necesitarán nuevas imágenes de mayor resolución y datos obtenidos por sistemas de radar capaces de penetrar la superficie.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Nuestro descubrimiento representa solo el comienzo de una larga y fascinante actividad de investigación”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793121669111",
+        "nombre": "Lorenzo Bruzzone,",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 841,
+            "fin16": 858,
+            "texto": "Lorenzo Bruzzone,",
+            "inicio": 841,
+            "fin": 858
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 859,
+          "fin16": 870,
+          "texto": "coordinador",
+          "inicio": 859,
+          "fin": 870
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 619,
+            "fin16": 832,
+            "texto": "“Nuestro conocimiento de Venus sigue siendo limitado y, hasta ahora, nunca habíamos tenido la oportunidad de observar directamente los procesos que tienen lugar bajo la superficie del planeta gemelo de la Tierra”,",
+            "tipo": "directa",
+            "inicio": 619,
+            "fin": 832
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1155,
+            "fin16": 1333,
+            "texto": "“Este descubrimiento contribuye a una comprensión más profunda de los procesos que han dado forma a la evolución de Venus y abre nuevas perspectivas para el estudio del planeta”,",
+            "tipo": "directa",
+            "inicio": 1155,
+            "fin": 1333
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2068,
+            "fin16": 2303,
+            "texto": "“Analizamos las imágenes de radar de Magellan en las que hay signos de colapsos superficiales localizados utilizando una técnica de imagen que hemos desarrollado para detectar y caracterizar conductos subterráneos cerca de claraboyas”,",
+            "tipo": "directa",
+            "inicio": 2068,
+            "fin": 2303
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2417,
+            "fin16": 2639,
+            "texto": "Interpretamos la estructura como un posible tubo de lava (piroducto), con un diámetro estimado de aproximadamente un kilómetro, un grosor de techo de al menos 150 metros y un vacío de no menos de 375 metros de profundidad”",
+            "tipo": "directa",
+            "inicio": 2417,
+            "fin": 2639
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3337,
+            "fin16": 3685,
+            "texto": "“Los datos disponibles nos permiten confirmar y medir solo la parte de la cavidad cercana a la claraboya. Sin embargo, el análisis de la morfología y la elevación del terreno circundante, junto con la presencia de otros pozos similares al estudiado, respalda la hipótesis de que los conductos subterráneos pueden extenderse al menos 45 kilómetros”,",
+            "tipo": "directa",
+            "inicio": 3337,
+            "fin": 3685
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3701,
+            "fin16": 3906,
+            "texto": "Para comprobar esta hipótesis e identificar otros tubos de lava, dice Bruzzone, se necesitarán nuevas imágenes de mayor resolución y datos obtenidos por sistemas de radar capaces de penetrar la superficie.",
+            "tipo": "indirecta",
+            "inicio": 3701,
+            "fin": 3906
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4527,
+            "fin16": 4633,
+            "texto": "“Nuestro descubrimiento representa solo el comienzo de una larga y fascinante actividad de investigación”,",
+            "tipo": "directa",
+            "inicio": 4527,
+            "fin": 4633
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 859,
+          "fin16": 1075,
+          "texto": "coordinador de la investigación, catedrático de Telecomunicaciones y director del Laboratorio de Teledetección del Departamento de Ingeniería de la Información y Ciencias de la Computación de la Universidad de Trento",
+          "inicio": 859,
+          "fin": 1075
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 97
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "57d38ad1963f",
+  "url": "https://www.agenciasinc.es/Noticias/El-iris-de-algunas-ranas-se-oscurece-cuando-se-deshidratan",
+  "autoria": "Marcos D. Oliveros",
+  "fecha_publicacion": "2026-08-04T12:00:00+02:00",
+  "fuente_y_derechos": "Fuente: Estación Biológica de Doñana | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:08+00:00",
+  "campos": {
+    "titular": "El iris de algunas ranas se oscurece cuando se deshidratan",
+    "entradilla": "El aumento de las sequías incrementa el riesgo de deshidratación en estos anfibios. Un estudio propone que los ojos de las ranas Boana punctata pueden utilizarse como biomarcador no invasivo para evaluar el estado de poblaciones silvestres.",
+    "cuerpo": "Las pieles permeables poseen una capacidad limitada para la retención de agua, lo que hace que algunos tipos de animales, como los anfibios, se expongan a un mayor riesgo de deshidratación si las condiciones son muy secas.\nAhora, un equipo internacional de la Estación Biológica de Doñana (CSIC), la Universidad de Córdoba y el CONICET (Argentina) revela un indicador fisiológico del estrés hídrico en anfibios: el oscurecimiento del iris.\nEl estudio, publicado en Journal of Experimental Zoology Part A, demuestra que el iris de la rana neotropical Boana punctata se oscurece a medida que pierde agua. Los autores proponen este cambio como un biomarcador no invasivo para evaluar la deshidratación en poblaciones silvestres.\nEl estudio expone que este oscurecimiento podría deberse a la activación de melanóforos regulados por hormonas del estrés, como la α‑MSH y la corticosterona.\n“Parece que este tipo de señales químicas están relacionadas con la respuesta del organismo a una situación de peligro\", explica a SINC el coautor del trabajo e investigador de la EBC-CSIC, Miguel Tejedo\". \"En el caso de los anfibios, la pérdida de agua y deshidratación son factores de estrés muy intensos al ser animales de piel permeable\".\nLos anfibios dependen del agua para mantener su equilibrio fisiológico, y su piel permeable los hace vulnerables en contextos de sequías crecientes. Identificar señales de estrés hídrico como esta es esencial para anticipar impactos ecológicos.\nEl iris de los anfibios contiene cromatóforos –incluyen melanóforos y xantóforos– que almacenan pigmentos como melanina, pteridinas y carotenoides. La variación en el tipo, abundancia y distribución del pigmento influye en su coloración y modula la cantidad de luz que llega a la retina.\nPara saberlo, los investigadores sometieron a 25 adultos de esta especie de rana a deshidratación mediante dos métodos: corriente de aire y arroz desecante.\nDespués, fotografiaron el iris de cada individuo y cuantificaron el área oscurecida mediante un análisis de imagen. Los resultados fueron claros: por cada 1 % de agua corporal perdida, el iris se oscurecía alrededor de un 1,5 %, una relación lineal, robusta y prácticamente idéntica entre individuos y métodos.\n“El oscurecimiento del iris es una respuesta fisiológica rápida y muy sensible al estado hídrico del animal”, explica Ricardo Reques, autor del estudio. “Lo más interesante es que podemos medirlo a través de una simple fotografía, sin manipulación invasiva”.\nTras dos horas de rehidratación, el iris recuperó parcialmente su color, lo que confirmó que se trataba de un mecanismo dinámico y reversible. Este nuevo hallazgo abre una nueva vía para el seguimiento de los anfibios en el campo que permitirá contar con indicadores visuales con los que evaluar el estado físico de las poblaciones anfibias.\nAsimismo, este biomarcador podría aplicarse en programas de conservación, estudios de ecología térmica y monitoreo de especies sensibles al cambio climático como una herramienta para entender cómo se enfrentan a un mundo cada vez más seco."
+  },
+  "sha256": {
+    "titular": "08e40e2968dfe2f8649efc5ba45cb6e06f0a9ea2ec1615cfba260f4235920552",
+    "entradilla": "7f508396f4dc25f8361d104e37130631d2568d8e4d17cfb13248f45d186ba240",
+    "cuerpo": "3a897ff3795d57aef5eefb77d0f882baf51dc90e4bb6853d964dd3a71841942b"
+  }
+}

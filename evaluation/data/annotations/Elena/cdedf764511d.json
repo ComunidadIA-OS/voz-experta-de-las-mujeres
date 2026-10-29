@@ -1,0 +1,24 @@
+{
+  "article_id": "cdedf764511d",
+  "url": "https://www.agenciasinc.es/Noticias/El-BSC-presenta-EuroQCS-Spain-su-tercer-ordenador-cuantico",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:27+00:00",
+  "article_sha256": {
+    "titular": "bfccf2e30b99abb6dd45f1e29932f2842dd28d0d5b0fe5806af9fe89f829c499",
+    "entradilla": "66894008279d8e18ddeef38c8d54e015f36e6eb3d4a876f4cfca37e78ffb2b39",
+    "cuerpo": "f8dce26973704d332411122749ee40adfa85fc686c5a13a8c4f63832312c062c"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [],
+  "reviewed_quotes": [],
+  "page_annotation": {
+    "personas": [],
+    "sin_personas": true,
+    "terminada": true,
+    "notas": "",
+    "segundos": 23
+  }
+}

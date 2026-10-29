@@ -1,0 +1,26 @@
+{
+  "id": "09afd87f15b4",
+  "url": "https://www.agenciasinc.es/Noticias/Analizan-que-hidrogeles-sirven-para-generar-minipulmones-en-el-laboratorio",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-20T09:15:00+02:00",
+  "fuente_y_derechos": "Fuente: ISCIII | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:35:44+00:00",
+  "campos": {
+    "titular": "Analizan qué hidrogeles sirven para generar ‘minipulmones’ en el laboratorio",
+    "entradilla": "Un análisis de diferentes materiales que sustenten la síntesis de ‘mini-pulmones’ de laboratorio aporta nuevo conocimiento para seguir mejorando la fabricación de organoides, cuyo objetivo es imitar la actividad de pulmones humanos para estudiar enfermedades.",
+    "cuerpo": "Investigadores del Instituto de Salud Carlos III (ISCIII) han analizado nuevas alternativas para la generación de organoides pulmonares, mini-órganos desarrollados en laboratorio que imitan la actividad de pulmones reales y que pueden servir para estudiar diversas enfermedades. Los resultados de su trabajo se han publicado en la revista Stem Cells Research & Therapy.\nEl estudio se ha basado en el análisis de diferentes hidrogeles para sustentar la síntesis de minipulmones de laboratorio. Los hidrogeles son sustratos inertes, de origen químico o biológico, que permiten el cultivo de los organoides, proporcionando el soporte estructural para el crecimiento y diferenciación de células troncales capaces de generar tejidos en miniatura para investigación biomédica. Los organoides son una de las principales vías de estudio en medicina regenerativa.\nUno de los hidrogeles más utilizados para desarrollar organoides, denominado Matrigel, tiene origen animal, por lo que uno de los objetivos es hallar alternativas biocompatibles con el desarrollo de minipulmones en el contexto humano.\nLos autores han probado tres hidrogeles de origen no animal -Biogelx, PLTMax and GelMA- para saber si permitían, con igual eficacia, la diferenciación de células troncales pluripotentes humanas hacia minipulmones maduros.\nLos resultados indican que los organoides desarrollados con los hidrogeles alternativos tenían características estructurales aberrantes y no eran lo suficientemente maduros.\nAunque los hidrogeles analizados no han demostrado la misma capacidad que Matrigel, los datos obtenidos han permitido abrir nuevas vías experimentales para buscar y evaluar sustratos de origen sintético o humano que puedan facilitar la bioimpresión de minipulmones in vitro que, en el futuro, puedan emplearse como alternativas al reemplazo de tejidos y órganos.\nLos autores principales de la investigación son Irene Chamorro-Herrero, del Laboratorio de Biotecnología de células troncales y organoides en la Unidad Funcional de Investigación de Enfermedades Crónicas (UFIEC-ISCIII), y Julio Sempere, del laboratorio de referencia de neumococo del Centro Nacional de Microbiología (CNM) y del Área de Respiratorio del Centro de Investigación Biomédica en Red (CIBER-ISCIII). Estos laboratorios están dirigidos, respectivamente, por los doctores Alberto Zambrano y José Yuste."
+  },
+  "sha256": {
+    "titular": "b91c2382464a4034a1f63b2216f4eaca7a7f7450463e39e4c4e60fe0539cf1d9",
+    "entradilla": "7449ca26f7f4dc4a69eb378a50a7579771dc7770e9a5b51e57dbffac493156ae",
+    "cuerpo": "848bf831f970a1742b29c231d277a4ae7d2f4de340b40184353be51dd8e29b85"
+  }
+}

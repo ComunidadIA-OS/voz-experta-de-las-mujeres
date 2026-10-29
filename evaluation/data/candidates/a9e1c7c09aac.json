@@ -1,0 +1,26 @@
+{
+  "id": "a9e1c7c09aac",
+  "url": "https://www.agenciasinc.es/Noticias/El-CERN-descubre-una-nueva-particula-similar-al-proton",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-18T10:46:00+01:00",
+  "fuente_y_derechos": "Fuente: CERN | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Física"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:49:53+00:00",
+  "campos": {
+    "titular": "El CERN descubre una nueva partícula similar al protón",
+    "entradilla": "Una observación clave permite profundizar en la fuerza que mantiene unidos los componentes del núcleo atómico y en la estructura de la materia. La partícula descubierta, formada por dos quarks charm y un quark down, tiene una masa cuatro veces superior a la de un protón.",
+    "cuerpo": "Científicos del Laboratorio Europeo de Física de Partículas (CERN, en la frontera franco-suiza cerca de Ginebra) han descubierto una nueva partícula formada por dos quarks charm y un quark down, con una estructura similar a la del protón, pero en la que dos quarks up son sustituidos por quarks charm pesados, lo que cuadruplica su masa.\nEl hallazgo, llevado a cabo en el experimento LHCb del Gran Colisionador de Hadrones, ayudará a los físicos a comprender mejor cómo la llamada fuerza fuerte mantiene unidos protones, neutrones y otras partículas compuestas.\nLos quarks son los componentes fundamentales de la materia y existen en seis “sabores”: up, down, charm, strange, top y bottom. Suelen combinarse en grupos de dos o tres para formar mesones y bariones, respectivamente.\nA diferencia del protón estable, la mayoría de estos mesones y bariones —conocidos colectivamente como hadrones— son inestables y de vida muy corta, lo que dificulta su observación. Para producirlos es necesario hacer colisionar partículas de alta energía en una máquina como el LHC. Estos hadrones inestables se desintegran rápidamente, pero las partículas más estables resultantes pueden detectarse, lo que permite deducir las propiedades de la partícula original.\nLos investigadores han utilizado este método en numerosas ocasiones para descubrir nuevos hadrones, y la partícula anunciada ahora por la colaboración LHCb eleva a 80 el número total de hadrones descubiertos en experimentos del LHC.\n“Esta es la primera nueva partícula identificada tras las mejoras del detector LHCb completadas en 2023, y solo la segunda vez que se observa un barión con dos quarks pesados; el primero fue observado por LHCb hace casi diez años”, afirma el portavoz de LHCb, Vincenzo Vagnoni. “El resultado ayudará a los teóricos a poner a prueba modelos de cromodinámica cuántica, la teoría de la fuerza fuerte que une los quarks no solo en bariones y mesones convencionales, sino también en hadrones más exóticos como los tetraquarks y pentaquarks”.\nEn 2017, LHCb informó del descubrimiento de una partícula muy similar, compuesta por dos quarks charm y un quark up. Este quark up es la única diferencia con la nueva partícula, que incorpora un quark down en su lugar. A pesar de su similitud, la nueva partícula tiene una vida media prevista hasta seis veces más corta que la anterior debido a efectos cuánticos complejos, lo que hace aún más difícil su observación.\nAl analizar datos de colisiones protón-protón registrados por el detector LHCb durante la tercera fase de funcionamiento del LHC, la colaboración LHCb observó el nuevo barión con una significación estadística de 7 sigma, muy por encima del umbral de 5 sigma necesario para declarar un descubrimiento.\n“Este resultado es un ejemplo fantástico de cómo las capacidades únicas de LHCb desempeñan un papel vital en el éxito del LHC”, señala Mark Thomson, director general del CERN. “Demuestra cómo las mejoras experimentales en el CERN conducen directamente a nuevos descubrimientos y sientan las bases de la ciencia transformadora que esperamos del LHC de alta luminosidad. Estos logros solo son posibles gracias al rendimiento excepcional del complejo de aceleradores del CERN, a los equipos que lo hacen funcionar y al compromiso de los científicos del experimento LHCb”."
+  },
+  "sha256": {
+    "titular": "cf332efd0496be3d330a6824f4a11f001b7946a2d22932892e3e1fe70cc356b1",
+    "entradilla": "8a8414491b94364734a19489a60ab526fceb2ed3d5b0f885d7af1bcb163260b9",
+    "cuerpo": "5d2a4f978874f35a372615c13efef711904d3c95346df60b59c706f89f7f8e16"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "article_id": "f1139b9f8d69",
+  "url": "https://www.agenciasinc.es/Noticias/La-estimulacion-cerebral-impulsa-a-que-las-personas-se-comporten-de-forma-menos-egoista",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:32+00:00",
+  "article_sha256": {
+    "titular": "39059ca086c8105e5ee643dbd47d615b59aa2eb8ac036650e53e03c517837bce",
+    "entradilla": "c29da887111d0daad971a41aaafcd8e0025d6278bb405f0f6da8697f2f0a5842",
+    "cuerpo": "2ade6f63f7b297549c0b70f6420e6dda3ddccce684d3fc9ad7f57b1dd7b6f67a"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Christian Ruff.",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "el coautor del estudio e investigador de la universidad suiza",
+      "gender_representation": "man",
+      "gender_evidence": "el coautor",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Estas regiones se sincronizan y permiten el procesamiento del bienestar ajeno y la toma de decisiones desinteresadas”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Les colocamos electrodos que conducían corrientes imperceptibles con la capacidad de cambiar el potencial de reposo de las neuronas y facilitar o dificultar su activación”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Esto nos permitió inducir oscilaciones similares a las que se suelen ver en las neuronas de forma natural”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Estimulamos dos áreas que mostraron sincronización durante el electroencefalograma y que se relacionaban con la generosidad”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Cuanto más altruistas eran sus decisiones, más fuerte era esa sincronización, por lo que pensamos que existe una relación de causalidad”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Creemos que hemos identificado un método que podría ser objeto de estudio o de tratamiento, por ejemplo, en trastornos cerebrales o en condiciones donde haya falta de altruismo, como la psicopatía, el trastorno del espectro autista o la alexitimia\",",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793123768386",
+        "nombre": "Christian Ruff.",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 567,
+            "fin16": 582,
+            "texto": "Christian Ruff.",
+            "inicio": 567,
+            "fin": 582
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 504,
+          "fin16": 514,
+          "texto": "el coautor",
+          "inicio": 504,
+          "fin": 514
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 363,
+            "fin16": 482,
+            "texto": "“Estas regiones se sincronizan y permiten el procesamiento del bienestar ajeno y la toma de decisiones desinteresadas”,",
+            "tipo": "directa",
+            "inicio": 363,
+            "fin": 482
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 949,
+            "fin16": 1122,
+            "texto": "“Les colocamos electrodos que conducían corrientes imperceptibles con la capacidad de cambiar el potencial de reposo de las neuronas y facilitar o dificultar su activación”,",
+            "tipo": "directa",
+            "inicio": 949,
+            "fin": 1122
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1137,
+            "fin16": 1244,
+            "texto": "“Esto nos permitió inducir oscilaciones similares a las que se suelen ver en las neuronas de forma natural”",
+            "tipo": "directa",
+            "inicio": 1137,
+            "fin": 1244
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1773,
+            "fin16": 1899,
+            "texto": "“Estimulamos dos áreas que mostraron sincronización durante el electroencefalograma y que se relacionaban con la generosidad”,",
+            "tipo": "directa",
+            "inicio": 1773,
+            "fin": 1899
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1917,
+            "fin16": 2055,
+            "texto": "“Cuanto más altruistas eran sus decisiones, más fuerte era esa sincronización, por lo que pensamos que existe una relación de causalidad”,",
+            "tipo": "directa",
+            "inicio": 1917,
+            "fin": 2055
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2285,
+            "fin16": 2535,
+            "texto": "“Creemos que hemos identificado un método que podría ser objeto de estudio o de tratamiento, por ejemplo, en trastornos cerebrales o en condiciones donde haya falta de altruismo, como la psicopatía, el trastorno del espectro autista o la alexitimia\",",
+            "tipo": "directa",
+            "inicio": 2285,
+            "fin": 2535
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 504,
+          "fin16": 565,
+          "texto": "el coautor del estudio e investigador de la universidad suiza",
+          "inicio": 504,
+          "fin": 565
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 55
+  }
+}

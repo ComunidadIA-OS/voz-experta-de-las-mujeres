@@ -1,0 +1,26 @@
+{
+  "id": "cc676f97ba47",
+  "url": "https://www.agenciasinc.es/Noticias/El-agua-en-la-Tierra-no-tiene-la-misma-estructura-atomica-que-en-Neptuno",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-21T11:40:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Física"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:09+00:00",
+  "campos": {
+    "titular": "El agua en la Tierra no tiene la misma estructura atómica que en Neptuno",
+    "entradilla": "Fuera de nuestro planeta este elemento podría tener una configuración más asimétrica debido a las altas presiones vistas en otros mundos del sistema solar. Un nuevo estudio recrea dichas condiciones en un laboratorio para ver cómo se comportaría en los ‘gigantes helados'.",
+    "cuerpo": "Investigadores de la Universidad de Nevada Las Vegas (Estados Unidos) revelan que el agua puede cambiar de forma cuando la presión es muy intensa, por lo que los expertos podrían hacerse una idea de cómo es este elemento en otros mundos lejanos como Urano o Neptuno.\nPublicado en Communications Chemistry, el estudio incide en que el agua no es lo que parece porque, en condiciones extremas, puede cambiar su estructura atómica y alterar su aspecto y otras propiedades.\nDe hecho, los investigadores señalan que, a medida que se le aplica suficiente presión, se convierte en una versión más asimétrica.\n“En condiciones distintas a las terrestres tiene un comportamiento más complejo de lo que jamás habíamos imaginado”, afirma el autor del estudio e investigador en la universidad americana, Ashkan Salamat. “Resulta asombroso cómo puede comportarse el agua bajo presión”.\nAntes se pensaba que al comprimir este elemento se reducía el volumen, lo que obligaba a los átomos a acercarse cada vez más entre sí. En un escenario habitual, lo que cabría esperar es que esta presión creara disposiciones de los átomos con mayor simetría, pero los estudios sobre el agua han demostrado que no es así y que, a medida que se comprime, la estructura cambia.\nPara saberlo, sometieron a este fluido a una presión equivalente a 35 millones de libras por pulgada cuadrada (PSI). Como referencia, un neumático posee una 30 PSI. En este experimento se reprodujeron las condiciones extraterrestres de planetas lejanos como Neptuno o Urano.\n“No podemos adentrarnos en las cortezas ni en las atmósferas de estos planetas debido a la distancia, pero disponemos de datos del programa Voyager”, apunta Salamat. “Tenemos una idea de su composición, así como de la presión y de las temperaturas internas. En algunos laboratorios podemos imitar los procesos químicos y experimentar con lo que podría estar ocurriendo en el interior de estos mundos”.\nLos resultados indican que el agua puede adoptar formas desconocidas para nosotros y que, en condiciones de mucha presión, puede convertirse en un elemento metamorfo con una apariencia estructural diferente a la que tiene en la Tierra. Los expertos teorizan que, si dicha presión se liberara, es probable que el agua se reorganizara en una forma conocida y habitual para nosotros.\nEsto se comprobó mediante espectroscopia al comprimir muestras entre dos diamantes para generar presiones extraordinarias. A continuación, se utilizaron rayos X para observar la disposición estructural de los átomos.\n“Comprender los mecanismos de nuestro sistema solar y de nuestro universo observable es fundamental para el avance del conocimiento humano”, afirma el experto. “Cuando lleguemos a esos mundos, ¿qué vamos a ver? En realidad, somos los primeros en intentar averiguarlo\", concluye."
+  },
+  "sha256": {
+    "titular": "798591d90f8d987bc46d4cffd019dec14df1bd67f34131593e4cc7986251f490",
+    "entradilla": "9de1c3b54b546a7bd3173ca2ab37205f81c2447248d62dbdcc45a12fca5abdfc",
+    "cuerpo": "ec633c541d1e60b00e3ea6b619a40f7d603164c156f07523bddace788a9d65d2"
+  }
+}

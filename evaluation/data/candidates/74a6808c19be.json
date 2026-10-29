@@ -1,0 +1,26 @@
+{
+  "id": "74a6808c19be",
+  "url": "https://www.agenciasinc.es/Noticias/La-vacuna-frente-al-dengue-ofrece-una-alta-seguridad-en-viajeros-de-regiones-no-endemicas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-04T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: ISGlobal | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:17+00:00",
+  "campos": {
+    "titular": "La vacuna frente al dengue ofrece una alta seguridad en viajeros de regiones no endémicas",
+    "entradilla": "Un estudio prospectivo en más de 1 000 personas vacunadas en Cataluña con TAK-003 no identifica efectos adversos graves y aporta nueva evidencia sobre la seguridad a corto plazo de la vacuna. Los síntomas más habituales fueron dolor en el lugar de la inyección, cefalea, cansancio y malestar general.",
+    "cuerpo": "El dengue es una enfermedad vírica transmitida por mosquitos del género Aedes y documentada en más de 100 países. Se estima que más de la mitad de la población mundial vive en áreas con riesgo de infección. En las últimas décadas, su incidencia ha aumentado debido a la expansión geográfica de los mosquitos vectores, favorecida por el cambio climático, y al incremento de los viajes internacionales, que contribuyen a la circulación global del virus.\nAdemás, el dengue se ha convertido en una de las principales causas de fiebre en personas que viajan a regiones endémicas. En este contexto, disponer de una vacuna segura frente al dengue es fundamental para proteger a las personas en riesgo de contraerlo y diseñar estrategias de salud pública.\nLa vacuna TAK-003 presenta un buen perfil de tolerabilidad en la práctica clínica, según un estudio liderado por el Instituto de Salud Global (ISGlobal), centro impulsado por la Fundación “la Caixa”, junto con el Hospital Clínic Barcelona. Los datos han sido obtenidos en 1 028 personas vacunadas en Cataluña, procedentes de regiones no endémicas de dengue y se han publicado en The Lancet Regional Health Europe.\nTAK-003 es la primera vacuna autorizada en Europa para proteger frente al virus del dengue. Sin embargo, hay datos limitados sobre su seguridad en personas que no viven en zonas endémicas, especialmente en determinados grupos como individuos mayores, con enfermedades previas o aquellos que reciben múltiples vacunas antes de un viaje.\n“Para contribuir a cubrir esta laguna de conocimiento, realizamos un estudio de farmacovigilancia en ocho centros de atención a personas viajeras de Cataluña”, explica Daniel Camprubí Ferrer, primer autor del estudio, investigador en ISGlobal y miembro del Servicio de Salud Internacional del Hospital Clínic Barcelona.\nSe incluyeron 1 028 personas viajeras en el estudio, en su mayoría adultas, que recibieron la vacuna TAK-003 entre enero y diciembre de 2024. Tras cada dosis, se realizó un seguimiento para registrar la aparición de efectos adversos.\n“Además, quisimos averiguar si factores como la edad avanzada, el sexo, los antecedentes de infección o la coadministración de otras vacunas se asociaban con un mayor riesgo de presentar efectos adversos, tanto locales como sistémicos”, añade Camprubí.\nEl estudio no registró acontecimientos adversos graves tras la administración de 1 851 dosis de la vacuna TAK-003. A pesar de que la mitad de los participantes notificaron algún efecto adverso, estos fueron en su mayoría leves o moderados, de carácter transitorio y menos frecuentes tras la segunda dosis. Los síntomas más habituales fueron dolor en el lugar de la inyección, cefalea, cansancio y malestar general.\nEl análisis identificó que las personas de sexo femenino, aquellas que habían pasado previamente una infección por dengue y las que recibieron simultáneamente vacunas frente a otros flavivirus (como la vacuna de la fiebre amarilla) presentaron un mayor riesgo de reacciones adversas. En el caso de las mujeres fueron principalmente reacciones adversas locales, mientras en los otros dos grupos se dio mayormente fiebre.\n“Sin embargo, no observamos un aumento de reactogenicidad en personas mayores de 60 años o con comorbilidades, dos colectivos sobre los que hasta ahora existía muy poca evidencia”, explica Cesc Bertran Cobo, investigador en ISGlobal y uno de los autores del estudio. Tampoco se observó mayor probabilidad de efectos adversos al administrar de manera simultánea otras vacunas no flavivirales, lo que apoya el uso de la vacuna TAK-003 en consultas antes de viajes.\n“Nuestros resultados contribuyen a ampliar la evidencia disponible sobre la seguridad de TAK-003 en personas viajeras de Europa y señalan la necesidad de continuar evaluando su impacto, eficacia y seguridad a largo plazo”, concluye Jose Muñoz, investigador en ISGlobal y jefe del Servicio de Salud Internacional del Hospital Clínic Barcelona."
+  },
+  "sha256": {
+    "titular": "7e522343bf872715f0728ab140a76b9fbe68acf348f8a90f40c078069e909f18",
+    "entradilla": "f3bf0683056dab226bc80ddaa83831d932520e666845f74a149586706b91326b",
+    "cuerpo": "00ae3bfea1950d64099e5fc3b81f5d3379e323aeb6b89d4688c7ec66d7efc3d9"
+  }
+}

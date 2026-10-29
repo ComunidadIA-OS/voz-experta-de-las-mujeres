@@ -1,0 +1,26 @@
+{
+  "id": "965ea84c19d4",
+  "url": "https://www.agenciasinc.es/Noticias/El-asteroide-2024-YR4-no-impactara-contra-la-Luna-en-2032",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-06T09:30:00+01:00",
+  "fuente_y_derechos": "Fuente: ESA | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:50+00:00",
+  "campos": {
+    "titular": "El asteroide 2024 YR4 no impactará contra la Luna en 2032",
+    "entradilla": "Las últimas teorías descartaron un impacto terrestre, pero concluyeron que existía un 4 % de probabilidades de chocar con la Luna. Ahora, este riesgo queda completamente eliminado, según nuevas observaciones realizadas con el telescopio espacial James Web.",
+    "cuerpo": "La Agencia Espacial Europea –ESA por sus siglas en inglés– descarta que el asteroide 2024 YR4 impacte contra la Luna en 2032 tras realizar nuevas observaciones con el Telescopio Espacial James Webb.\nSi bien, rechazó una colisión contra la Tierra hace tiempo, teorías previas advirtieron de que existía un 4 % de probabilidades de impacto lunar. En sus comunicados, la institución europea concluyó que el asteroide no volvería a ser visible hasta 2028, pero un equipo internacional ha conseguido realizar nuevas observaciones.\nLos expertos identificaron dos oportunidades de observación el pasado febrero en las que el telescopio pudo detectar dicho objeto en un fondo de estrellas conocidas gracias al trabajo de la misión Gaia de la ESA.\nA pesar de los retos, sus observaciones fueron un éxito. Al comparar la posición del 2024 YR4 con respecto a los astros de fondo, el equipo pudo medir su órbita con suficiente precisión como para descartar un impacto lunar en 2032.\nEl Telescopio James Webb se diseñó para estudiar galaxias y otras estructuras cósmicas a miles de millones de años luz de distancia. El campo de visión de esta estructura es muy reducido, y detectarlo requirió una precisión extraordinaria.\nLos análisis se coordinaron gracias a la estrecha colaboración entre el Centro de Coordinación de Objetos Cercanos a la Tierra de la ESA, el Centro de Estudios de Objetos Cercanos a la Tierra de la NASA y la misión Webb.\nSegún avanzan desde la institución europea, la Luna se encuentra a salvo y 2024 YR4 ya no supone ningún peligro para el satélite. El equipo de Defensa Planetaria del Programa de Seguridad Espacial de la ESA seguirá detectando y rastreando objetos cercanos a la Tierra para garantizar su seguridad."
+  },
+  "sha256": {
+    "titular": "c650adb80694fd5a55ee9a8d19394e0d7f6165a3ec1bc3f1ef75177f2ef03a8e",
+    "entradilla": "76eacda0b445f67551ef5221db50fdaead0a2014af868c546d7829ed821ee793",
+    "cuerpo": "b454729f4d09cbe11aec7ab3ab2cd07382baa5ecfead3d2be7c351b8f6633398"
+  }
+}

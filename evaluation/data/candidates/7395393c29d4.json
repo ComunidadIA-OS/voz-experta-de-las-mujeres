@@ -1,0 +1,26 @@
+{
+  "id": "7395393c29d4",
+  "url": "https://www.agenciasinc.es/Noticias/Por-que-el-dolor-cronico-provoca-depresion-en-algunas-personas-y-en-otras-no",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-19T19:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Psiquiatría"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:49:40+00:00",
+  "campos": {
+    "titular": "¿Por qué el dolor crónico provoca depresión en algunas personas y en otras no?",
+    "entradilla": "El dolor persistente genera cambios en el hipocampo, una región del cerebro que actúa como centro de control y que ayuda a regular las respuestas emocionales ante esta enfermedad. Una nueva investigación cuestiona que la depresión sea una consecuencia inevitable y apunta a que todo depende de cómo responda esta región a lo largo del tiempo.",
+    "cuerpo": "Descubierto el mecanismo que explica por qué el dolor crónico genera depresión en algunas personas y en otras no. Un estudio, publicado en Science, rechaza la idea de que sea una consecuencia directa de esta enfermedad y afirma que su origen se localiza en el hipocampo cerebral.\nTras analizar escáneres humanos y experimentos animales, los investigadores descubrieron que el dolor persistente provoca cambios progresivos en el hipocampo –una región conocida por su relación con la memoria–, lo que determinaría si estos pacientes podrían desarrollar depresión con el tiempo.\nSegún el coautor de este estudio e investigador en la Universidad de Warwick (Reino Unido), Jiangfeng Feng, el dolor crónico suele conducir a episodios ansiosos o depresivos, pero antes de su trabajo no entendían por qué les ocurría a determinadas personas.\n“Nuestros hallazgos sugieren que el hipocampo actúa como un centro de control que regula las respuestas emocionales ante esta enfermedad, señala el experto. “La depresión no es inevitable y depende de cómo responda esta región”.\nEl dolor crónico afecta a más del 20 % de los adultos en todo el mundo y está estrechamente relacionado con la ansiedad y la depresión. Sin embargo, muchas personas con dolor persistente no desarrollan estas afecciones, y las razones biológicas que explican esta diferencia siguen sin estar claras.\nPara saberlo, los investigadores analizaron escáneres cerebrales de cohortes poblacionales, entre las que se incluyen datos del Biobanco de Reino Unido, y descubrieron que las personas que padecían dolor crónico y que no tenían depresión presentaban un volumen del hipocampo ligeramente mayor junto a una mayor actividad en esta región del cerebro.\nLos cambios iban acompañados de un mejor rendimiento en determinadas tareas de aprendizaje y memoria, los que sugiere que el cerebro podría iniciar una respuesta compensatoria ante el dolor crónico.\nPor el contrario, las personas que padecían dolor crónico y depresión presentaban un volumen del hipocampo reducido, una actividad alterada y un peor rendimiento cognitivo. Los análisis longitudinales indicaron que estos cambios se desarrollaban de forma progresiva con el paso del tiempo.\n“El hecho de que estos cambios se produzcan de forma gradual sugiere que están motivados por la propia experiencia del dolor”, añade Feng. “No se trata de una vulnerabilidad preexistente, sino de la respuesta cerebral ante el dolor crónico”.\nLos investigadores llevaron a cabo estudios paralelos en animales para comprender cómo se desarrollaban estos cambios y observaron una progresión de los efectos conductuales. Primero apareció una mayor sensibilidad al dolor seguida de un comportamiento ansioso, y después síntomas depresivos. Estos cambios vinieron acompañados de alteraciones en la estructura y actividad del hipocampo, lo que demuestra que el dolor crónico remodela los circuitos cerebrales responsables de la regulación emocional.\nDurante este trabajo, una pequeña región del hipocampo conocida como giro dentado se mostró como un centro regulador importante. En las primeras fases del dolor crónico, las neuronas creadas en el giro dentado se volvieron activas, lo que sugiere que el cerebro intentaba adaptarse al estrés continuo.\nNo obstante, con el tiempo las células inmunitarias del cerebro –llamadas microglías–se activaron de forma anómala y pasaron de ofrecer respuestas cerebrales adaptativas a una señalización disfuncional.\nCuando los expertos suprimieron esta actividad en modelos animales, los síntomas depresivos mejoraron y la función cerebral se mantuvo estable. Los resultados sugieren que actuar sobre la inflamación microglial podría ayudar a prevenir esta enfermedad mental en personas con dolor crónico desde hace poco tiempo.\n“El cerebro no se abruma por el dolor crónico”, señala el investigador. “Intenta regular el bienestar emocional, y cuando ese sistema se mantiene en equilibrio, las personas pueden conservar su resiliencia mental”, concluye."
+  },
+  "sha256": {
+    "titular": "0538716bac0f14be90a690444d6c9fd64bf6471f4cd8c3fd4f9bfdee8fbe7d32",
+    "entradilla": "9a42372a4af85d885a82b50085b4f2ae98f2d63ecf98e48a53f436f732eb21c0",
+    "cuerpo": "cfb3417dad25b73d11b398872712af807036c7093e9b84fe0162b8230a26ff0c"
+  }
+}

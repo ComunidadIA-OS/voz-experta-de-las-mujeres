@@ -1,0 +1,26 @@
+{
+  "id": "7013fb84cc30",
+  "url": "https://www.agenciasinc.es/Noticias/Starship-ameriza-con-exito-tras-su-primer-viaje-alrededor-de-la-Tierra",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-09-29T11:00:00+02:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:32:44+00:00",
+  "campos": {
+    "titular": "Starship ameriza con éxito tras su primer viaje alrededor de la Tierra",
+    "entradilla": "El despegue de la nave supone la decimocuarta prueba desde el complejo de Space X en Texas, Estados Unidos. La misión duró poco más de tres horas después de que decidieran reducir su recorrido, si bien estaba previsto que realizara seis vueltas al planeta.",
+    "cuerpo": "La nave Starship de SpaceX amerizó con éxito este lunes en el océano Pacífico frente a las costas de Chile tras su primer viaje orbital y después de que la empresa de Elon Musk decidiera reducir su recorrido, que estaba previsto inicialmente que realizara unas seis vueltas al planeta durante unas 10 horas.\nLa nave despegó hacia las 14:49 (hora española) en su decimocuarta prueba desde el complejo de SpaceX en el extremo sur de Texas, EE.UU, y reingresó entorno a las 17.58, unas tres horas después sin que la compañía haya detallado cuántas vueltas ha conseguido completar.\n“Amerizaje confirmado. ¡Felicidades a todo el equipo de SpaceX por el primer vuelo orbital de la Starship!\", celebró la compañía.\nLa misión estaba diseñada para alcanzar una altitud de aproximadamente 275 kilómetros sobre la Tierra.\nDurante el vuelo, Starship también logró desplegar con éxito 26 satélites V3 en órbita sostenida, por lo que estos nuevos dispositivos han pasado a integrarse a nivel operativo en la constelación Starlink, la subsidiaria de telecomunicaciones de SpaceX.\nHasta ahora, las misiones de Starship habían amerizado en el Índico tras seguir deliberadamente trayectorias suborbitales pasivamente seguras para maximizar la seguridad pública y permitir la recopilación de datos durante vuelos reales.\nLa de hoy es un “hito enorme\", subrayó SpaceX durante la transmisión en vivo.\nLos expertos recalcaron que llegar a una órbita, pero especialmente, poder permanecer en ella dependía de la velocidad que conservara la nave, no tanto de la altura alcanzada."
+  },
+  "sha256": {
+    "titular": "32df458517cb5532ad3c4ca0f11771f30cacd66209e551a6dd1415d73c8ef3c7",
+    "entradilla": "088ace2d271ebb4b317d566bc2d331aae1f214a339f34512f018f9c795faedfa",
+    "cuerpo": "26abce1b5c8f3f34da698a7f0d3c340763f2d8680212c50ade3e24a7fb1ca53c"
+  }
+}

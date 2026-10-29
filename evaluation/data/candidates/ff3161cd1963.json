@@ -1,0 +1,26 @@
+{
+  "id": "ff3161cd1963",
+  "url": "https://www.agenciasinc.es/Noticias/Las-celulas-no-contractiles-del-corazon-son-responsables-de-la-persistencia-de-la-arritmia-mas-comun",
+  "autoria": "Marcos D. Oliveros",
+  "fecha_publicacion": "2026-02-11T12:20:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:52:56+00:00",
+  "campos": {
+    "titular": "Las células no contráctiles del corazón son responsables de la persistencia de la arritmia más común",
+    "entradilla": "La fibrilación auricular es un tipo de arritmia frecuente en la práctica clínica y uno de los mayores retos terapéuticos cuando alcanza fases tardías. Un estudio revela que las células no contráctiles del corazón, como los fibroblastos y macrófagos, son las causantes de que esta condición se alargue en el tiempo.",
+    "cuerpo": "Tradicionalmente, la fibrilación auricular se ha considerado un trastorno eléctrico de las células contráctiles del corazón. Sin embargo, un trabajo del Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC) revela que algunas regiones auriculares desarrollan un entorno celular característico que favorece la persistencia de la arritmia.\nEstas áreas se denominan regiones impulsoras y presentan una actividad eléctrica más rápida que el tejido circundante. Actúan como \"verdaderos motores\" que mantienen la fibrilación auricular en el tiempo, según explican los investigadores,\nEl estudio, publicado en Circulation Research, identificó diferencias significativas en la abundancia, tipo y función de células –fibroblastos y macrófagos– que no participaban en la contracción directa del músculo cardiaco pero que sí influían de forma decisiva en el funcionamiento del tejido.\nSegún explica a SINC el líder de la investigación y jefe del grupo de Desarrollo Avanzado en Mecanismos y Terapias de Arritmias del CNIC, David Filgueiras Rama, “estas células participan en la generación de un microambiente que favorece la supervivencia de los cardiomiocitos y les permite mantener frecuencias de activación elevadas, lo que se asocia a la fibrilación auricular persistente”.\nEl equipo de la primera autora de este trabajo, Ana Simón Chica, observó que los macrófagos presentes en estas regiones no mostraban el perfil inflamatorio clásico de la fibrilación auricular.\nEn su lugar, observó que había mayor proporción de células asociadas a funciones protectoras, soporte metabólico y supervivencia celular. Los expertos concluyeron que la presencia de esta combinación de células ayudaría a los cardiomiocitos a tolerar la demanda eléctrica y energética que impone este tipo de condición.\nPara saberlo, los investigadores analizaron el tejido cardíaco de pacientes con fibrilación auricular persistente y estudiaron modelos experimentales avanzados con características similares al corazón humano.\nAsimismo, demostraron la relevancia de estas regiones impulsoras al observar que su eliminación selectiva, mediante técnicas como la ablación, interrumpía la arritmia y se asociaba a una mejoría en el control del ritmo a largo plazo.\n“En todo caso, cabe resaltar que este sustrato puede evolucionar en el tiempo”, añade Filgueiras. “En el tratamiento integral de estos pacientes, será fundamental considerar estrategias de vida saludable y control adecuado de factores de riesgo cardiovascular”, concluye.\nHoy en día, la fibrilación auricular es el trastorno eléctrico más habitual y representa uno de los mayores retos terapéuticos en fases persistentes, donde la vuelta a un ritmo normal es muy poco probable.\nLos autores destacan que estos hallazgos describen mecanismos adaptativos regionales y específicos en cada paciente que permiten la persistencia de la fibrilación auricular. Además, refutan la idea, aún extendida, de que el remodelado auricular –cambios en las aurículas producidos por la arritmia– ocurre de forma uniforme en todo el corazón.\nEl estudio abre la puerta a nuevas estrategias terapéuticas dirigidas a poblaciones celulares y moleculares, más allá de los cardiomiocitos, concluyen los investigadores."
+  },
+  "sha256": {
+    "titular": "aa8529ab1c9b50f70ff824c070067769365f403648cc1700bfe7d26dcec60e90",
+    "entradilla": "7d2da8d5e752493c33f8158fac817a221b43f80fa78b0febbb9eb2f179038594",
+    "cuerpo": "1ecf47fd7efb2f607cdfca01af7c45c872ced73c83db2591128c8aed0767aba5"
+  }
+}

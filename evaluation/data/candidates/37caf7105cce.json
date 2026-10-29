@@ -1,0 +1,26 @@
+{
+  "id": "37caf7105cce",
+  "url": "https://www.agenciasinc.es/Noticias/El-aguilucho-cenizo-podria-perder-mas-de-la-mitad-de-su-poblacion-en-Espana-en-las-proximas-dos-decadas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-21T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SEO/BirdLife | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:35:35+00:00",
+  "campos": {
+    "titular": "El aguilucho cenizo podría perder más de la mitad de su población en España en las próximas dos décadas",
+    "entradilla": "Un nuevo estudio revela una disminución sostenida en el éxito reproductor del aguilucho cenizo en nuestro país causada principalmente por un aumento del fracaso de los nidos que podría estar relacionado con factores asociados a la intensificación agrícola.",
+    "cuerpo": "El aguilucho cenizo, una de las rapaces más características de nuestros campos, atraviesa una situación más preocupante de lo que se pensaba.\nEl último número de la revista Ardeola, la publicación científica de SEO/BirdLife, publica un estudio basado en más de tres décadas de seguimiento que revela que la capacidad de esta especie para sacar adelante pollos ha empeorado de forma continuada, lo que está detrás del descenso poblacional detectado en los últimos años y anticipa un futuro aún más negativo.\nLa investigación, basada en el análisis de datos procedentes de más de 200 00 nidos, monitorizados en todo el país entre 1987 y 2023 por parte de administraciones regionales y ONG de conservación, muestra una caída clara y persistente en el tiempo en la productividad de la especie, es decir, en el número de pollos que logra volar cada pareja reproductora.\nEste descenso no parece deberse a que los pollos nazcan en peor estado o haya menos alimento disponible, sino a que cada vez más nidos fracasan antes de que los pollos lleguen a volar.\nEn otras palabras, cuando los nidos tienen éxito, el número de pollos que salen adelante se mantiene estable. El problema es que ahora muchos más nidos no llegan a ese punto.\nEste aumento del fracaso reproductor podría estar relacionado con cambios en las prácticas agrícolas, especialmente con cosechas cada vez más tempranas y rápidas, que destruyen nidos o dejan a los pollos expuestos a depredadores y a condiciones adversas.\nEl estudio, a cargo de un grupo de investigación del Instituto de Investigación en Recursos Cinegéticos (IREC) y de SEO/BirdLife, va más allá del diagnóstico y utiliza modelos demográficos para proyectar la evolución futura de la población.\nLos resultados son contundentes: Por un lado, el modelo reproduce con bastante precisión la caída observada entre 2006 y 2017, cuando la población descendió en torno a un 25 a 27%. Por otro, las proyecciones indican que, de mantenerse las condiciones actuales, la población podría reducirse en torno a un 59 % adicional en los próximos 18 años.\nEn conjunto, esto supondría una reducción superior al 70 % en apenas tres décadas, una magnitud que sitúa a la especie en una categoría de riesgo mucho mayor de la que tiene actualmente.\nAsí, y de acuerdo con los criterios internacionales de la UICN (Unión Internacional para la Conservación de la Naturaleza), estos resultados justificarían su reclasificación de “Vulnerable” a “En Peligro”, lo que implicaría mayores obligaciones legales y de gestión para las administraciones.\nCabe destacar que España alberga la mayor población reproductora de la especie de toda la Unión Europea, por lo que su declive tiene implicaciones a nivel continental."
+  },
+  "sha256": {
+    "titular": "307f55139e4b900360937cf2e176ad29915049f4931622d09a5c970dfe343bd1",
+    "entradilla": "c29990dbc6dadb741739caadc55da0766c6c67986ae2b48e19fe4bbf2d303427",
+    "cuerpo": "2d470a50cb7cb0527761f9877144319296022a256a43d78e57624dc06dc6322d"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d8a2c7b266bd",
+  "url": "https://www.agenciasinc.es/Noticias/La-vacuna-contra-la-gripe-puede-reducir-la-gravedad-de-infecciones-bacterianas-secundarias",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-29T10:50:00+01:00",
+  "fuente_y_derechos": "Fuente: ISCIII | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:56:23+00:00",
+  "campos": {
+    "titular": "La vacuna contra la gripe puede reducir la gravedad de infecciones bacterianas secundarias",
+    "entradilla": "Además de prevenir la gripe, la vacuna podría actuar como modulador del sistema inmunitario. Un nuevo estudio en ratones indica que esta protección adicional ayuda a controlar la inflamación pulmonar y limita el impacto de coinfecciones bacterianas graves.",
+    "cuerpo": "Una investigación internacional con colaboración del Instituto de Salud Carlos III (ISCIII) ha demostrado en un modelo preclínico de ratón que la vacunación contra la gripe, además de proteger frente al virus, potencia la respuesta del sistema inmunitario y reduce la mortalidad asociada a infecciones bacterianas secundarias.\nEl trabajo, publicado en Journal of Virology, está liderado por la Facultad de Medicina Icahn de Mount Sinai, en Nueva York (EE.UU.), y cuenta con la participación del Centro Nacional de Microbiología (CNM) del ISCIII y de grupos de la Universidad CEU San Pablo de Madrid.\nLas infecciones bacterianas secundarias, como las provocadas por Streptococcus pneumoniae, son una de las principales causas de complicaciones graves y muerte durante las epidemias anuales de gripe, especialmente en personas mayores y pacientes inmunodeprimidos.\nLos resultados de este estudio aportan nuevas claves para comprender cómo las coinfecciones bacterianas agravan la enfermedad y cómo la vacunación puede mitigar ese riesgo.\nEl estudio, coordinado desde Mount Sinai por el equipo del investigador Michael Schotsaert. Entre los autores se encuentra Jordi Ochando, del CNM-ISCIII y la Escuela Icahn de Nueva York, quien destaca: “Este estudio supone otra demostración de la necesidad de entender cómo funciona la inmunidad entrenada para controlar la memoria del sistema inmunitario innato”.\nLos resultados en ratones muestran que una sola dosis de la vacuna trivalente inactivada frente al virus influenza (TIV) redujo la mortalidad del 50% al 15% en coinfecciones simultáneas de virus y bacteria. En las denominadas ‘súper infecciones’, que aparecen una semana después de la infección viral, la mortalidad pasó del 100% al 50%.\nLa vacunación disminuyó las cargas virales y bacterianas y controló la inflamación pulmonar. Entre los cambios inmunitarios observados, se evitó la pérdida masiva de macrófagos alveolares, aumentó la presencia de eosinófilos y se redujo la infiltración de neutrófilos, lo que indica un proceso inflamatorio más controlado que en animales no vacunados.\nAdemás, se redujo la producción de citocinas proinflamatorias y se favoreció una respuesta humoral más equilibrada en los ratones vacunados coinfectados frente a los no vacunados.\nEstos hallazgos ayudan a explicar por qué la gripe puede producir infecciones bacterianas letales y sugieren que la vacunación puede cambiar este escenario, mejorando significativamente la supervivencia incluso con dosis subóptimas.\nAunque se trata de un estudio en modelo murino, los autores subrayan la importancia de obtener más datos en humanos para confirmar si la vacuna antigripal puede reducir complicaciones bacterianas, reforzando su papel como herramienta preventiva clave."
+  },
+  "sha256": {
+    "titular": "96ea31c773466339fe6c8f7c6faa8c14758c7f19f59ae52b7dfa2849def0823e",
+    "entradilla": "75979e2f9e56563f32990feae418577ec6ddc88d48c609cef2ef613d5f41a4fe",
+    "cuerpo": "c87cb2d4d2831da0418ea6778c4cc7b78d0f730a4161bb1372c078015ab356ea"
+  }
+}

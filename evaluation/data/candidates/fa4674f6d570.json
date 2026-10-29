@@ -1,0 +1,26 @@
+{
+  "id": "fa4674f6d570",
+  "url": "https://www.agenciasinc.es/Noticias/Como-sobrevivio-la-Via-Lactea-a-los-episodios-violentos-del-Universo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-22T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: IAC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:44:29+00:00",
+  "campos": {
+    "titular": "¿Cómo sobrevivió la Vía Láctea a los episodios violentos del Universo?",
+    "entradilla": "La mayoría de galaxias se mantienen intactas gracias a esferoides luminosos presentes en sus centros, aunque algunas como la Vía Láctea no los poseen. Hasta ahora se desconocía cómo estas estructuras celestes resistieron a las etapas más violentas del cosmos, pero un estudio internacional revela posibles hipótesis de este fenómeno.",
+    "cuerpo": "Un equipo internacional de astrofísicos ha empleado datos de varios telescopios del Observatorio del Roque de los Muchachos (La Palma) y simulaciones por ordenador para explicar cómo galaxias análogas a la Vía Láctea consiguieron superar las etapas más violentas de la historia del Universo.\nEn concreto, el modelo predijo una época dominada por fusiones galácticas con interacciones violentas que pudieron haber destruido pequeñas galaxias en espiral hace diez mil millones de años. Ahora, los investigadores de un proyecto internacional empiezan a ver los primeros resultados que explican su supervivencia.\n“Las galaxias suelen tener otros componentes gruesos –denominados bulbos– que les aportan estabilidad y les ayudan a sobrevivir\", explica el astrofísico del Instituto de Astrofísica de Canarias (IAC), Jairo Méndez Abreu. Sin embargo, algunas de estas estructuras galácticas, como la Vía Láctea, carecen de ellos y los expertos desconocían cómo pudieron sobrevivir sin estos elementos estabilizadores.\nPara saberlo, el proyecto BEARD ('Bulgeless Evolution And the Rise of Discs', por sus siglas en ingles) llevó a cabo más de 600 horas de observaciones en varios telescopios para el estudio de 54 galaxias análogas a la nuestra y publicó sus primeros resultados en la revista Astronomy & Astrophysics.\nUtilizaron imágenes profundas tomadas con el telescopio Isaac Newton y aplicaron una técnica de análisis novedosa para desvelar las partes más débiles y externas de esas galaxias análogas. El propósito era definir su extensión de forma precisa y encontrar diferencias con otros sistemas con bulbo.\nEl estudiante predoctoral del IAC y autor principal de uno de los estudios, Carlos Marrero de la Rosa, explica que estas diferencias pueden ser explicadas mediante formas especiales de fusión en galaxias sin bulbo, “un aspecto que hemos explorado detalladamente en el proyecto”, describe el experto.\nAsimismo, la investigadora de la Universidad de Córdoba (UCO) y autora principal de otro de los artículos, Yetli Rosas, detalla que estas estructuras pudieron sobrevivir durante la fase de fusiones mayores del Universo mediante dos canales.\n“Por un lado, existe una pequeña probabilidad de que algunas galaxias no interaccionasen con otras pese a la frecuencia de estos eventos violentos, y por el otro, pudo existir una configuración especial de interacción en la que los discos puros no fueran destruidos”, comenta la experta.\n“En este segundo canal, las galaxias deben fusionarse en un baile acompasado, girando en el mismo sentido y acercándose en un mismo plano, como una pareja que da vueltas sobre el mismo suelo”, continúa.\nPor su parte, otro investigador del proyecto, Salvador Cardona, expresa que dichas estructuras podrían haber estado acompañadas de sistemas estelares más pequeños que les beneficiara. “Las galaxias análogas a la Vía Láctea presentan una distribución de galaxias satélites distinta al resto de estructuras, más concentrada y alineada, de acuerdo con una historia de fusiones tranquila y ordenada. Este resultado concuerda con las dos explicaciones que BEARD aporta para la supervivencia cósmica de la Vía Láctea”, defiende\nEste trabajo ha conseguido explicar la existencia de galaxias como la Vía Láctea en el modelo del Universo aceptado actualmente, aunque todavía se siguen estudiando otros aspectos de la vida de estos objetos."
+  },
+  "sha256": {
+    "titular": "c94c68e352133629bc1b0b5e686b298ee0ca884a0936c2c3c881ff4e060f250e",
+    "entradilla": "b470d767b2e49cf8509f918a439de6b800cc8756f9bd970e91e63bbb5cc8ac93",
+    "cuerpo": "8d382b12ddfc7031e19064279fd1e83b6590e4177347231d29e772cebb5402b5"
+  }
+}

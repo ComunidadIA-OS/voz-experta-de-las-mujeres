@@ -1,0 +1,26 @@
+{
+  "id": "e3732ff4f56b",
+  "url": "https://www.agenciasinc.es/Noticias/Las-redes-descentralizadas-clave-en-el-nacimiento-de-las-primeras-sociedades-urbanas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-19T10:25:00+02:00",
+  "fuente_y_derechos": "Fuente: UB | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Antropología"
+  ],
+  "secciones": [
+    "Sociedad"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:21+00:00",
+  "campos": {
+    "titular": "Las redes descentralizadas, clave en el nacimiento de las primeras sociedades urbanas",
+    "entradilla": "El análisis de los asentamientos de la antigua Mesopotamia permite comprender cómo se articulaban las comunidades y evolucionaban sus relaciones a lo largo del tiempo. Los resultados muestran la importancia de las conexiones entre núcleos de población en la configuración de sistemas sociales cada vez más complejos.",
+    "cuerpo": "Los investigadores de la Facultad de Economía y Empresa Giacomo Benati y Sergi Lozano han analizado los datos de 957 yacimientos arqueológicos para estudiar el importante crecimiento de las redes de conexión por las que circulaban personas y mercancías en la antigua Mesopotamia durante el cuarto milenio antes de Cristo.\nLa investigación, publicada en Science Advances, concluye que \"las primeras sociedades urbanas no fueron solo el resultado del crecimiento de las ciudades o de los primeros estados, sino también de la aparición de redes de conexión cada vez más extensas y eficaces\".\nPara la investigación, se ha utilizado la mayor base de datos empleada hasta la fecha para estudiar las conexiones en la antigua civilización mesopotámica de Uruk, considerada la primera cultura urbana de la historia.\nEn concreto, los investigadores identifican tres fases en el desarrollo de las redes de conexiones. En el periodo comprendido entre el 3800 y el 3600 a. C., se trataba de una red basada principalmente en los grandes ríos, formada por largas cadenas de asentamientos. Entre el 3600 y el 3300 a. C., aparecen grupos regionales más densos y mejor conectados gracias a nuevas rutas terrestres. Y entre el 3300 y el 3000 a. C., estos grupos forman una estructura más integrada y eficiente, y aparece un número reducido de conexiones de larga distancia.\n\"Las redes se hicieron cada vez más eficientes, lo que ayuda a explicar por qué los materiales, las tecnologías y las prácticas administrativas se extendieron por una zona muy amplia de Mesopotamia\", explican los investigadores.\n\"La principal conclusión es que las primeras sociedades urbanas no dependían necesariamente de un poder central que controlara todas las conexiones, sino que los procesos de interacción descentralizados desempeñaron un papel fundamental\", afirman."
+  },
+  "sha256": {
+    "titular": "f8e11cfa6620b3a9ad2d2e80b0fecaedc5dbd7b0cf9c3e3f199371e08011f544",
+    "entradilla": "f01fffd5b4efd8ecd523f08eb7eee13cfcf93614629656a869be573ded2e32db",
+    "cuerpo": "3cc84e191ce4f0714981f7acdf67723693d57736dff652cd005e1cbf3d028dc5"
+  }
+}

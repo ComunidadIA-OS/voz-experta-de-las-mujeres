@@ -1,0 +1,26 @@
+{
+  "id": "b027b3399398",
+  "url": "https://www.agenciasinc.es/Noticias/LA-NASA-confirma-que-restos-de-un-cohete-de-SpaceX-impactaron-en-la-Luna",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-08-06T11:00:00+02:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:36:54+00:00",
+  "campos": {
+    "titular": "LA NASA confirma que restos de un cohete de SpaceX impactaron en la Luna",
+    "entradilla": "La agencia espacial estadounidense calificó el hecho como un evento seguro y sin riesgo para la Tierra ni para las misiones que operan en la Luna. El análisis del cráter causado por el impacto permitirá estudiar cómo se forman estas estructuras en distintos cuerpos del sistema solar",
+    "cuerpo": "Una etapa superior de un cohete de SpaceX impactó de forma no planificada contra la superficie lunar en las primeras horas de este miércoles, confirmó la agencia espacial estadounidense NASA. En un video publicado en X, la NASA calificó el hecho como un evento seguro y sin riesgo para la Tierra ni para las misiones que operan en la Luna.\nEl lanzamiento, realizado en 2025, permitió desplegar el módulo de aterrizaje Blue Ghost One, de la empresa estadounidense Firefly Aerospace, como parte de la iniciativa CLPS (Commercial Lunar Payload Services) de la NASA, un programa de servicios comerciales para transportar cargas científicas y tecnológicas a la superficie lunar.\nSegún explicó la NASA, el impacto se produjo debido a una combinación de actividad solar y fuerzas gravitacionales que modificaron la trayectoria del objeto. “La NASA no planeó deliberadamente que esta etapa superior impactara contra la Luna”, explicó una portavoz de la agencia en el video, que señaló que este tipo de eliminación de hardware es una práctica aceptada dentro de las operaciones lunares. “Esto es en realidad un método técnicamente aceptado y seguro para deshacerse de equipos en órbita lunar baja”, indicó.\nLa agencia añadió que algunos operadores de misiones eligen terminar sus operaciones haciendo que sus equipos impacten contra la superficie lunar porque “es una estrategia predecible y rastreable para la eliminación de hardware al final de su vida útil”. El impacto no representa absolutamente ningún peligro para nadie en la Tierra ni para ningún equipo que se encuentre en la Luna, señaló la NASA.\n“Los científicos están ansiosos por estudiar este evento de impacto, ya que puede ayudarnos a comprender mejor cómo rastrear cosas como esta en el futuro”, afirmó. La NASA explicó que la Luna funciona como un “laboratorio natural para estudiar procesos que ocurren en todo el sistema solar”, debido a que carece de atmósfera y su superficie permanece estable durante largos periodos.\nEl estudio de este tipo de impactos permite a los científicos analizar la formación de cráteres, un fenómeno que ocurre en distintos cuerpos del sistema solar. “Al hacer impactar un objeto de tamaño conocido a una velocidad conocida contra la superficie lunar, esto puede ayudar a los científicos a comprender el proceso de formación de cráteres por impacto y qué tipo de cráter resulta de un impacto de ese tamaño”, explicó.\nSegún recordó la agencia, la Luna ha recibido impactos de manera constante durante sus aproximadamente 4 000 millones de años de historia. “Meteoritos, asteroides, cometas y otros objetos golpean la Luna todo el tiempo”, indicó.\nAdemás, la NASA señaló que los astronautas de la misión Artemis II observaron este año durante su sobrevuelo lunar varios fenómenos de impacto. Entre ellos destellos de impactos activos, o cráteres formándose en la superficie lunar, durante las pocas horas que duró su sobrevuelo, indicó la agencia."
+  },
+  "sha256": {
+    "titular": "582e70e8957bf4549caed3eb9af5eb589e013369ab544e2d57787222ea400306",
+    "entradilla": "7bc28e99e06e5ff9371cacbf6df8dc0faa95fd0b3160d86e5a4aef3009567975",
+    "cuerpo": "eeeb2e0739f9691cf04985ba8d92f60842e20ac258ea0dfcf325acfce3e09ff3"
+  }
+}

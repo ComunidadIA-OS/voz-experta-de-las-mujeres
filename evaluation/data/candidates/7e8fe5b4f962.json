@@ -1,0 +1,26 @@
+{
+  "id": "7e8fe5b4f962",
+  "url": "https://www.agenciasinc.es/Noticias/Los-virus-de-la-gripe-aviar-resisten-la-fiebre-la-principal-defensa-frente-las-infecciones",
+  "autoria": "EFE",
+  "fecha_publicacion": "2025-11-28T10:36:00+01:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Epidemiología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:58:06+00:00",
+  "campos": {
+    "titular": "Los virus de la gripe aviar resisten la fiebre, la principal defensa frente las infecciones",
+    "entradilla": "Un estudio internacional revela que estas cepas poseen un gen que les permite replicarse en temperaturas elevadas, lo que aumenta su potencial pandémico.",
+    "cuerpo": "Los virus de la gripe aviar representan una seria amenaza para los seres humanos porque pueden replicarse incluso a temperaturas superiores a las que alcanza la fiebre, el mecanismo clave del organismo para frenar infecciones.\nAsí lo indica una investigación internacional dirigida por las universidades de Cambridge y Glasgow (Reino Unido), cuyos resultados se publican este jueves en Science.\nEl trabajo, realizado con cultivos celulares y modelos de ratón, identificó un gen aviar que confiere a los virus la capacidad de resistir las altas temperaturas asociadas a la fiebre humana. Este gen estuvo presente en los virus que originaron las pandemias de 1957 y 1968, las más letales tras la de 1918.\nCada año, los virus de la gripe humana causan millones de infecciones. Los más comunes —responsables de la gripe estacional— son los de la influenza A, que infectan las vías respiratorias superiores, donde la temperatura ronda los 33 ºC, en lugar de los pulmones profundos (37 ºC).\nEl virus se replica y se propaga por el organismo, provocando una enfermedad que puede ser grave. Para defenderse, el cuerpo activa la fiebre, que eleva la temperatura corporal hasta los 41 ºC.\nHasta ahora no estaba claro cómo la fiebre detiene los virus ni por qué algunos logran sobrevivir. Los virus de gripe aviar suelen prosperar en las vías respiratorias bajas y, en huéspedes como patos y gaviotas, infectan el intestino, donde las temperaturas alcanzan entre 40 ºC y 42 ºC. Esto los hace más resistentes a las condiciones febriles humanas.\nEstudios previos con células cultivadas sugerían que los virus aviares toleran mejor las temperaturas típicas de la fiebre humana. El estudio publicado hoy buscaba explicar cómo actúa la fiebre y por qué puede no ser suficiente frente a estos virus.\nPara ello, los investigadores emplearon ratones infectados con la cepa H1N1 PR8, adaptada para causar enfermedad grave en estos animales. Elevaron su temperatura corporal —los ratones no desarrollan fiebre de forma natural— y comprobaron que la fiebre frena la replicación de los virus humanos, pero apenas afecta a los aviares.\nUn aumento de solo 2 ºC convirtió una infección letal en una enfermedad leve en el caso de la gripe humana. El análisis también reveló que el gen PB1, esencial para la replicación del genoma viral, determina la sensibilidad a la temperatura. Los virus que portaban la versión aviar de este gen resistieron la fiebre y causaron enfermedad grave en los ratones.\nEste hallazgo es relevante porque los virus humanos y aviares pueden intercambiar genes cuando infectan al mismo huésped, advierte el estudio. “La capacidad de los virus para intercambiar genes es una amenaza constante. Lo vimos en pandemias anteriores, como las de 1957 y 1968, cuando un virus humano incorporó el gen PB1 de una cepa aviar”, señala Matt Turnbull, primer autor e investigador en la Universidad de Glasgow.\nTurnbull subraya que “es crucial” vigilar las cepas aviares para anticipar brotes e identificar las más virulentas. En la misma línea, Sam Wilson, del Instituto de Inmunología Terapéutica y Enfermedades Infecciosas de Cambridge, recuerda que, aunque las infecciones humanas por gripe aviar son poco frecuentes, se registran decenas de casos cada año.\n“Comprender qué hace que estos virus causen enfermedad grave es clave para la vigilancia y la preparación ante pandemias, especialmente por la amenaza que representan los H5N1”, añade.\nAunque los hallazgos podrían influir en el tratamiento, el equipo advierte que se necesita más investigación antes de modificar las directrices. La fiebre se trata habitualmente con antipiréticos como aspirina o ibuprofeno, pero hay evidencia clínica de que reducirla no siempre beneficia al paciente y puede incluso favorecer la transmisión de los virus de la influenza A."
+  },
+  "sha256": {
+    "titular": "b6f6987d30d64a94d1b7b5630c2f527f4e78cc6c47331c0db574bd8c70a43b3b",
+    "entradilla": "32190f22c775f0fe28e2b72f92f768835fbc511acf6c7dad090fdb58d38b5c55",
+    "cuerpo": "d953a6a5696a1980e0c075cf6cf99566b90d1f32aa91d2169dbe07c71a743ccb"
+  }
+}

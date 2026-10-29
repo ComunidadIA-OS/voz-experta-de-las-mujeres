@@ -1,0 +1,26 @@
+{
+  "id": "213e20e3efbd",
+  "url": "https://www.agenciasinc.es/Noticias/Un-reloj-circadiano-electrico-coordina-el-crecimiento-entre-el-tallo-y-la-raiz-de-las-plantas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-18T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: CRAG | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:52:14+00:00",
+  "campos": {
+    "titular": "Un reloj circadiano ‘eléctrico’ coordina el crecimiento entre el tallo y la raíz de las plantas",
+    "entradilla": "Un nuevo estudio revela que las plantas coordinan su crecimiento mediante señales electroquímicas controladas por su reloj interno. Este mecanismo ajusta cómo se reparten los recursos entre brotes y raíces, afinando su desarrollo a lo largo del día.",
+    "cuerpo": "Las plantas no solo responden a la luz y al agua, sino que también funcionan con un cronómetro interno diario conocido como reloj circadiano. Ahora, un equipo investigador ha descubierto que este sistema regula señales electroquímicas en células específicas que ayudan a decidir si la planta destina sus recursos al crecimiento aéreo o subterráneo.Los resultados se publican en la revista Cell.\nEn un estudio dirigido por Paloma Mas, profesora de investigación del CSIC en el Centro de Investigación en Agrigenómica (CRAG), los científicos muestran que un componente clave del reloj actúa como un controlador de corriente, ajustando pequeños cambios en la carga eléctrica en distintos tejidos. Estas señales determinan la velocidad a la que se estiran los tallos jóvenes y se alargan las raíces, permitiendo que la planta distribuya su crecimiento de forma muy precisa allí donde más conviene.\n“Las plantas están constantemente ajustando prioridades”, explica Mas. “Lo que hemos descubierto es que el reloj circadiano no solo marca el paso del tiempo, sino que ayuda a coordinar el crecimiento controlando un ‘lenguaje’ electroquímico que los tejidos usan para comunicarse”.\nPara crecer, las plantas deben trasladar la energía producida durante la fotosíntesis desde los tejidos donde se genera, como las hojas, hacia los tejidos sumidero, como las raíces. El equipo investigador siguió los cambios de acidez en plantas mediante sensores fluorescentes y descubrió un patrón sorprendente: los ritmos de acidez en las células epidérmicas del tallo joven son opuestos a los observados en los tejidos vasculares encargados del transporte de azúcar.\nEste hallazgo indica que los gradientes eléctricos no son simples consecuencias del metabolismo, sino componentes activos que impulsan tanto el crecimiento como el transporte. En las células externas del tallo joven, el aumento de acidez destensa las paredes celulares, permitiendo su expansión y la extensión del tallo. En el floema, en cambio, las señales eléctricas facilitan la carga de azúcares para distribuirlos al resto de la planta. Si esa ‘batería’ electroquímica se debilita, se mueve menos azúcar y las raíces reciben menos energía para crecer.\nLos investigadores identificaron un factor del reloj denominado CCA1 como un regulador fundamental de este proceso. Cuando su actividad aumenta, favorece el crecimiento del tallo mientras limita el de las raíces. Lo consigue de dos maneras: en el brote, potencia la señalización hormonal que promueve el crecimiento y genera las condiciones electroquímicas necesarias para la expansión; y en la vasculatura, reduce los niveles de una bomba de protones esencial para crear la fuerza eléctrica y de pH que impulsa el transporte eficiente de azúcares.\n“En ciertos momentos del día, la planta prioriza el crecimiento de los brotes sobre el de las raíces”, señala el primer autor del estudio, Lu Xiong. “CCA1 ayuda a ajustar ese equilibrio controlando dónde se destinan los azúcares”.\nEste descubrimiento ofrece una nueva manera de entender la productividad vegetal: no solo como una respuesta al entorno, sino como un sistema dinámico gestionado por el reloj interno de la planta, que ajusta la disponibilidad energética según las necesidades de crecimiento a lo largo del día.\nComprender —y en un futuro modificar— estas señales electroquímicas podría permitir desarrollar cultivos capaces de distribuir sus recursos con mayor eficiencia en condiciones adversas, como baja luminosidad, sequía o suelos pobres en nutrientes, donde el equilibrio entre el crecimiento aéreo y radicular es clave para la supervivencia y el rendimiento."
+  },
+  "sha256": {
+    "titular": "dc2505cb9e267961634ac1e77312ff954a70d1c29d06488200e3112b92fb4e24",
+    "entradilla": "e6ebc7f766dc4703cb1edec35dad1ecc709bb2d838fb2e55f9330679b6b1cb75",
+    "cuerpo": "ac91c589100205a2ab0a3654eda29bd3f5d0ca72c5566e4e568c12309be73547"
+  }
+}

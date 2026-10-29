@@ -1,0 +1,26 @@
+{
+  "id": "639c66e5e1e6",
+  "url": "https://www.agenciasinc.es/Noticias/Las-personas-con-trastornos-mentales-graves-tienen-mas-riesgo-de-demencia-e-ictus",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-17T10:45:00+02:00",
+  "fuente_y_derechos": "Fuente: IDIBAPS | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Psiquiatría"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:41:59+00:00",
+  "campos": {
+    "titular": "Las personas con trastornos mentales graves tienen más riesgo de demencia e ictus",
+    "entradilla": "Un estudio con datos de cerca de 700 000 personas en Cataluña apunta a una asociación entre enfermedades psiquiátricas severas y trastornos neurológicos y cardiovasculares. Los resultados respaldan la necesidad de reforzar la prevención y el seguimiento clínico de estos pacientes.",
+    "cuerpo": "Las personas con trastornos mentales graves presentan un mayor riesgo de desarrollar demencia a cualquier edad y también una mayor probabilidad de sufrir un ictus, especialmente durante la juventud y la mediana edad. Así lo indica un estudio liderado por el Clínic-IDIBAPS y publicado en la revista European Neuropsychopharmacology.\nLa investigación se basa en la cohorte PADRIS-PRESTO, que integra datos del sistema sanitario público catalán. El equipo comparó la prevalencia de demencia e ictus entre personas con trastornos mentales graves —como esquizofrenia, trastorno bipolar o depresión mayor— y población sin diagnóstico psiquiátrico.\nLos resultados muestran que la prevalencia de demencia es significativamente superior entre quienes padecen estos trastornos en todos los grupos de edad analizados. Además, el riesgo de ictus también resulta más elevado, sobre todo en adultos jóvenes y de mediana edad, aunque las diferencias se reducen progresivamente con el envejecimiento.\n\"Este estudio confirma que los trastornos mentales graves no solo afectan a la salud mental, sino que están estrechamente relacionados con otras enfermedades neurológicas y cardiovasculares\", explica Eduard Vieta, jefe del Servicio de Psiquiatría y Psicología del Clínic y líder del grupo de Trastornos bipolares y depresivos del IDIBAPS. \"Esto nos obliga a replantear el modelo asistencial hacia una visión más integral\".\nEl trabajo ha sido liderado por Eduard Vieta, Diego Hidalgo-Mazzei y Gerard Anmella, con Michele De Prisco y Vincenzo Oliva como primeros autores, y ha contado con la participación de investigadores del programa multidisciplinar de investigación traslacional de los trastornos cerebrales del IDIBAPS.\nSegún Michele De Prisco, investigador del IDIBAPS, \"nuestros resultados sugieren que los trastornos mentales graves deberían considerarse factores de riesgo para la demencia y el ictus, especialmente en edades en las que habitualmente no se esperan estas patologías\". El investigador añade que estos hallazgos ponen de relieve la conveniencia de adelantar las estrategias de prevención y vigilancia clínica en esta población.\nLos autores consideran que sus resultados pueden contribuir a mejorar la detección temprana de complicaciones neurológicas y cardiovasculares en personas con trastornos mentales graves, con el objetivo de reducir su carga de enfermedad y mejorar su calidad de vida."
+  },
+  "sha256": {
+    "titular": "2734a469ecf1e7e6a964468ed752e25f33ca8c98189bb6d72dfc5bb66893e6eb",
+    "entradilla": "bfde2e1fc5dcf624e309c156663db60178e17fc183c8bd1610731f1796cf8e22",
+    "cuerpo": "8c5dfa09194c623ce032411d91464f040e032af2f7169c7787be641c46aa62f3"
+  }
+}

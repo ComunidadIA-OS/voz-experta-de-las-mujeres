@@ -1,0 +1,26 @@
+{
+  "id": "0a727f77c2d9",
+  "url": "https://www.agenciasinc.es/Noticias/El-olfato-deja-de-ser-el-sentido-caotico-logran-cartografiar-los-mil-receptores-de-la-nariz",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-04-29T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:46:24+00:00",
+  "campos": {
+    "titular": "El olfato deja de ser el sentido ‘caótico’: logran cartografiar los mil receptores de la nariz",
+    "entradilla": "Al igual que sabemos cómo la lengua organiza los sabores básicos, un equipo de Harvard ha descubierto que el olfato sigue un orden espacial estricto en franjas, aunque con una complejidad varios órdenes de magnitud mayor que la del gusto.",
+    "cuerpo": "La biología centrada en estudiar nuestros sentidos desentrañó hace muchas décadas cómo la lengua utiliza receptores específicos en las papilas gustativas para identificar sabores como el dulce o el amargo. Sin embargo, el funcionamiento de la nariz seguía pareciendo un sistema gobernado por el azar.\nSe creía que, debido a su enorme complejidad, las neuronas olfativas se distribuían sin un orden claro. Ahora, un equipo de la Escuela de Medicina de Harvard ha logrado lo que parecía imposible: el primer mapa detallado del olfato, revelando que la nariz no es ningún caos, sino un sistema ultraorganizado.\nEl estudio, publicado este martes en la revista Cell, demuestra que los más de mil tipos de receptores olfativos que poseen los mamíferos (en este caso, ratones) se organizan en franjas horizontales precisas. Este hallazgo eleva nuestro conocimiento del olfato al nivel de la vista o el oído, y confirma que la geografía de la nariz es fundamental para entender cómo percibimos el mundo.\n“Nuestros resultados traen orden a un sistema que anteriormente se pensaba que carecía de él”, explica Sandeep Datta, profesor de neurobioogía en el Instituto Blavatnik de Harvard y autor principal de la investigación. El descubrimiento rompe con la idea de que el olfato era el único sentido ‘sin mapa’, lo que demuestra que el cerebro recibe la información aromática de forma tan estructurada como las imágenes que llegan de la retina.\nLa magnitud de este mapa es lo que realmente asombra a la comunidad científica. Si el sentido del gusto es comparable a un teclado con apenas cinco o seis teclas —los sabores básicos—, el olfato es un piano con más de mil notas distintas. Hasta ahora, la teoría predominante era que esas mil teclas estaban dispersas al azar y que el cerebro debía realizar un esfuerzo titánico para interpretar la mezcla.\nPara desmentir esta idea, el equipo de Datta utilizó técnicas de transcriptómica espacial para analizar 5,5 millones de neuronas. Descubrieron que cada tipo de receptor ocupa un ‘vecindario’ específico en la nariz. Estas bandas horizontales son consistentes entre diferentes individuos, lo que sugiere que todos nacemos con un plano olfativo predeterminado.\nAdemás, los investigadores confirmaron que este orden en la nariz se corresponde exactamente con el mapa del bulbo olfativo en el cerebro, creando una autopista de información perfectamente alineada.\nEl estudio no solo describe el mapa, sino que identifica al responsable de dibujarlo. Los científicos descubrieron que el ácido retinoico, una molécula clave en el desarrollo celular, actúa como un gradiente que guía a las neuronas. Dependiendo de la concentración de esta sustancia en una zona específica de la nariz, la neurona ‘sabe’ qué receptor debe activar.\nAl manipular los niveles de ácido retinoico, el equipo logró desplazar las franjas de receptores hacia arriba o hacia abajo, probando que este mecanismo es el que impide que el sistema se sumerja en el caos. “Es un hito del desarrollo biológico: lograr que mil receptores distintos se organicen en un mapa tan increíblemente preciso y consistente”, subraya Datta.\nEste avance no es solo teórico. La falta de un mapa fundamental ha sido, hasta hoy, el principal obstáculo para tratar trastornos como la anosmia (pérdida de olfato), cuya incidencia se disparó tras la pandemia de covid-19. La ausencia de este sentido está vinculada a un mayor riesgo de depresión y accidentes domésticos, al no poder detectar peligros como fugas de gas o alimentos en mal estado.\n“No podemos reparar el olfato sin entender cómo funciona de forma básica”, concluye Datta. Con este mapa en la mano, los investigadores cuentan por fin con una hoja de ruta para diseñar terapias regenerativas o interfaces tecnológicas que puedan restaurar la capacidad de oler, basándose en la ubicación exacta donde cada aroma debe ser procesado."
+  },
+  "sha256": {
+    "titular": "b98dd74e3f6f99a2f29168dc0e071973eb652e72153b8f6df5c569f5d88ffeb4",
+    "entradilla": "9abc3231c8a0172ba715774347706677d2a17a6ebf88398505d3ada59f59a1d8",
+    "cuerpo": "1f4abbaf2e5dc4ffd4b9795043579bf64150207af1b25b4750aef30f103e9353"
+  }
+}

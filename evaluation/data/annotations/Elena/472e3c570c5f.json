@@ -1,0 +1,24 @@
+{
+  "article_id": "472e3c570c5f",
+  "url": "https://www.agenciasinc.es/Noticias/Miden-por-primera-vez-la-contaminacion-atmosferica-por-la-reentrada-de-un-cohete",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:14+00:00",
+  "article_sha256": {
+    "titular": "ad5f8b5ca1290431acba7df6c8099a53a32c10466b0793fb3035dfc5eeb0fc97",
+    "entradilla": "b296e7793c5f6585f3d5b87218908a1c7a9b5a763ae72358798963c8895ffa00",
+    "cuerpo": "5048cb8fb1ade453ae5c5ab1b7d84a946f304b2368cf654af3b07acfe728ab98"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [],
+  "reviewed_quotes": [],
+  "page_annotation": {
+    "personas": [],
+    "sin_personas": true,
+    "terminada": true,
+    "notas": "",
+    "segundos": 30
+  }
+}

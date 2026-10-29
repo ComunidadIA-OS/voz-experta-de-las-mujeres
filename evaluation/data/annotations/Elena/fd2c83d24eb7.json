@@ -1,0 +1,243 @@
+{
+  "article_id": "fd2c83d24eb7",
+  "url": "https://www.agenciasinc.es/Noticias/El-estres-agudo-dificulta-la-conexion-de-recuerdos-y-la-deduccion-de-asociaciones",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:35+00:00",
+  "article_sha256": {
+    "titular": "8ae7afcce7b779d3f59ecc1637be85dbdf625c7f31378a6dc04f1ab928b559f7",
+    "entradilla": "84f4cf4f8aab119502c93ac6ab2827388684802aaea80ba2cd9eacdde9e18790",
+    "cuerpo": "cac7d756a7ec1083ed10f7fa43f60a5f2ccab105763f93972b0d56ce9f1ce3e3"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Kai Schüren",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "primer autor del estudio",
+      "gender_representation": "man",
+      "gender_evidence": "autor",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Lars Schwabe",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigador de la Universidad de Hamburgo y coordinador del estudio",
+      "gender_representation": "man",
+      "gender_evidence": "investigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "Si un amigo te muestra su nueva Vespa azul claro y, más tarde, ves esa misma scooter estacionada frente a la biblioteca de la universidad, podrías inferir que está estudiando dentro”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "En los entornos educativos, un objetivo principal es construir estructuras de conocimiento abstracto, que reflejen las relaciones entre varios hechos/eventos.”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "indirect",
+      "text": "Destaca que esto requiere la integración de contenidos aprendidos en momentos diferentes.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "indirect",
+      "text": "Lars explica que en la investigación se utilizaron imágenes neutras y se desconocen las implicaciones que podrían tener recuerdos vinculados a fuertes emociones:",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Los efectos podrían volverse aún más fuertes para los desencadenantes emocionales fuertes, aunque también podría haber una asociación en forma de U invertida, donde los efectos se invierten nuevamente para estímulos extremadamente intensos”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“puede ser esencial vincular eventos separados que comparten un elemento superpuesto (por ejemplo, primero vi a la persona A en un automóvil rojo específico y más tarde noté que este automóvil específico estaba estacionado cerca del edificio del banco; infiriendo que la persona A también podría haber estado cerca)”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Por ejemplo en la psicosis, donde los individuos muestran el llamado sesgo de saltar a conclusiones, una inferencia inmadura.”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793123993118",
+        "nombre": "Kai Schüren",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1323,
+            "fin16": 1334,
+            "texto": "Kai Schüren",
+            "inicio": 1323,
+            "fin": 1334
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1343,
+          "fin16": 1348,
+          "texto": "autor",
+          "inicio": 1343,
+          "fin": 1348
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1393,
+            "fin16": 1576,
+            "texto": "Si un amigo te muestra su nueva Vespa azul claro y, más tarde, ves esa misma scooter estacionada frente a la biblioteca de la universidad, podrías inferir que está estudiando dentro”.",
+            "tipo": "directa",
+            "inicio": 1393,
+            "fin": 1576
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1336,
+          "fin16": 1360,
+          "texto": "primer autor del estudio",
+          "inicio": 1336,
+          "fin": 1360
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793124021201",
+        "nombre": "Lars Schwabe",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2895,
+            "fin16": 2907,
+            "texto": "Lars Schwabe",
+            "inicio": 2895,
+            "fin": 2907
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2909,
+          "fin16": 2921,
+          "texto": "investigador",
+          "inicio": 2909,
+          "fin": 2921
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3061,
+            "fin16": 3220,
+            "texto": "En los entornos educativos, un objetivo principal es construir estructuras de conocimiento abstracto, que reflejen las relaciones entre varios hechos/eventos.”",
+            "tipo": "directa",
+            "inicio": 3061,
+            "fin": 3220
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3221,
+            "fin16": 3310,
+            "texto": "Destaca que esto requiere la integración de contenidos aprendidos en momentos diferentes.",
+            "tipo": "indirecta",
+            "inicio": 3221,
+            "fin": 3310
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3939,
+            "fin16": 4100,
+            "texto": "Lars explica que en la investigación se utilizaron imágenes neutras y se desconocen las implicaciones que podrían tener recuerdos vinculados a fuertes emociones:",
+            "tipo": "indirecta",
+            "inicio": 3939,
+            "fin": 4100
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4101,
+            "fin16": 4343,
+            "texto": "“Los efectos podrían volverse aún más fuertes para los desencadenantes emocionales fuertes, aunque también podría haber una asociación en forma de U invertida, donde los efectos se invierten nuevamente para estímulos extremadamente intensos”.",
+            "tipo": "directa",
+            "inicio": 4101,
+            "fin": 4343
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3374,
+            "fin16": 3691,
+            "texto": "“puede ser esencial vincular eventos separados que comparten un elemento superpuesto (por ejemplo, primero vi a la persona A en un automóvil rojo específico y más tarde noté que este automóvil específico estaba estacionado cerca del edificio del banco; infiriendo que la persona A también podría haber estado cerca)”.",
+            "tipo": "directa",
+            "inicio": 3374,
+            "fin": 3691
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3811,
+            "fin16": 3938,
+            "texto": "“Por ejemplo en la psicosis, donde los individuos muestran el llamado sesgo de saltar a conclusiones, una inferencia inmadura.”",
+            "tipo": "directa",
+            "inicio": 3811,
+            "fin": 3938
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2909,
+          "fin16": 2977,
+          "texto": "investigador de la Universidad de Hamburgo y coordinador del estudio",
+          "inicio": 2909,
+          "fin": 2977
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 111
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1ba6691a3478",
+  "url": "https://www.agenciasinc.es/Noticias/Asi-se-utiliza-la-filtracion-sanguinea-para-tratar-la-preeclampsia",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-27T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:46:36+00:00",
+  "campos": {
+    "titular": "Así se utiliza la filtración sanguínea para tratar la preeclampsia",
+    "entradilla": "La técnica, llamada aféresis, ayuda a retrasar la progresión de dicha complicación durante el embarazo sin perjudicar a la madre ni al bebé. El nuevo tratamiento puede reducir de manera segura los niveles de una proteína placentaria y disminuir la hipertensión arterial asociada.",
+    "cuerpo": "La preeclampsia es una afección del embarazo que causa hipertensión arterial y puede provocar problemas graves tanto para la madre como para el bebé. Sin embargo, actualmente no existe ningún tratamiento para este trastorno, salvo inducir el parto.\nSegún los resultados de un trabajo pionero, publicado en Nature Medicine, la filtración sanguínea puede reducir de manera segura los niveles de una proteína de la placenta y disminuir la hipertensión arterial asociada a la preeclampsia grave y de aparición muy temprana.\nLos hallazgos de la investigación provienen de modelos animales, además de un pequeño número de participantes humanos. Si bien se necesitan estudios más amplios, las conclusiones sugieren que este método podría ayudar a retrasar la progresión de la preeclampsia durante el embarazo y reducir el riesgo de parto prematuro.\nA medida que la preeclampsia progresa, aumentan los niveles de una proteína placentaria llamada sFlt-1. Los investigadores creen que esta proteína desempeña un papel importante en el desarrollo de la enfermedad.\nRavi Thadhani y sus colegas probaron una técnica de filtración del sistema circulatorio llamada aféresis para eliminar la sFlt-1 de la sangre. En pruebas con babuinos embarazados, cada una redujo los niveles de sFlt-1 aproximadamente a la mitad, y dos de los tres animales dieron a luz crías sanas. El tercero murió por complicaciones del parto no relacionadas con la terapia.\nLos autores probaron la misma técnica con cinco personas no embarazadas y no observaron efectos adversos antes de tratar a mujeres embarazadas con preeclampsia muy temprana. Siete mujeres recibieron un ciclo de aféresis y nueve recibieron varios ciclos del tratamiento.\nEn las mujeres que recibieron más de un ciclo, los niveles de sFlt-1 disminuyeron un 16,7 % y la presión arterial bajó ligeramente. Las madres y los bebés se mantuvieron estables en todo momento. El embarazo continuó durante una media de 10 días después del ingreso hospitalario de las participantes tratadas, en comparación con 4 días para aquellas no tratadas, y los efectos secundarios relacionados con la terapia fueron leves.\nLos resultados sugieren que la aféresis es segura y bien tolerada, y que la eliminación de sFlt-1 de la sangre podría retrasar la progresión de la preeclampsia muy temprana sin perjudicar a la madre ni al bebé. Los autores destacan el tamaño reducido de la muestra y enfatizan la necesidad de realizar estudios controlados de mayor envergadura para evaluar si este enfoque puede prolongar el embarazo de forma fiable y mejorar los resultados clínicos."
+  },
+  "sha256": {
+    "titular": "0fe5897f8da575a2c53198a9f52b0a289d6ce106e8af6b081d867e729ef03746",
+    "entradilla": "24d8a8c883ea4d72c6cc33eb3c636f344e7ca47bc9f0bd4132df58198f3e7a7d",
+    "cuerpo": "eac9229dadb6389debe33c8daa62de3967b017e8cc86c905feb6e2c69c33a198"
+  }
+}

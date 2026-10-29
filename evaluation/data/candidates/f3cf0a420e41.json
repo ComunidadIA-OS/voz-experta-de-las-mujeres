@@ -1,0 +1,26 @@
+{
+  "id": "f3cf0a420e41",
+  "url": "https://www.agenciasinc.es/Noticias/El-telescopio-Inouye-capta-la-superficie-del-Sol-con-una-resolucion-inedita-y-detecta-un-fenomeno-clave",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-08-05T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:36:57+00:00",
+  "campos": {
+    "titular": "El telescopio Inouye capta la superficie del Sol con una resolución inédita y detecta un fenómeno clave",
+    "entradilla": "El telescopio solar más grande del mundo registra imágenes en alta resolución de la fotosfera que confirman, por primera vez, la presencia de inestabilidades asociadas al transporte de energía y campos magnéticos.",
+    "cuerpo": "La superficie visible del Sol, conocida como fotosfera, es un entorno extremadamente dinámico donde el plasma convulsiona, condicionado por corrientes térmicas y potentes campos magnéticos. Aunque se sabía que esta fina capa de su atmósfera albergaba estructuras complejas, su observación en detalle constituía hasta ahora un enorme desafío técnico.\nEsta semana, un equipo internacional de investigadores ha logrado captar las imágenes de mayor resolución espacial obtenidas hasta la fecha de la fotosfera gracias al Telescopio Solar Daniel K. Inouye, situado en el volcán Haleakala en la isla de Maui (Hawái, EE. UU.).\nEl estudio, publicado este miércoles en la revista Nature, revela una arquitectura solar mucho más intrincada de lo que sugerían los modelos previos. Al analizar una región magnéticamente activa en las proximidades de una mancha solar, las secuencias temporales obtenidas por el instrumento mostraron una superficie dominada por estructuras en forma de bandas y torbellinos de escala reducida.\nEstas formaciones han sido identificadas por los autores como inestabilidades de Kelvin–Helmholtz, un fenómeno clásico de la dinámica de fluidos que se produce cuando dos capas de fluido adyacentes se desplazan a diferentes velocidades, generando ondas y vórtices característicos. Aunque este proceso se había teorizado e identificado en capas superiores de la atmósfera solar como la corona, el nuevo trabajo aporta la primera confirmación fehaciente de su existencia directa en la superficie de la estrella.\n“Las imágenes revelan con un detalle sin precedentes cómo la materia solar se mezcla en escalas espaciales diminutas”, explica David Kuridze, investigador del Observatorio Solar Nacional (NSO por sus siglas en inglés) de Estados Unidos y autor principal del trabajo. “Identificar estas inestabilidades en la fotosfera nos ayuda a entender cómo interactúan el flujo de plasma y las líneas de campo magnético a pequeña escala, un mecanismo fundamental para explicar la disipación de energía en el Sol”.\nLa presencia extendida de estas inestabilidades sugiere que el mezclado del plasma en la fotosfera es mucho más activo de lo que predecían los modelos teóricos tradicionales. Este proceso desempeña un papel clave en la reconexión magnética y en la transferencia de masa y energía hacia las capas superiores de la atmósfera solar, factores determinantes para comprender los mecanismos que desencadenan las erupciones solares y el clima espacial.\nEl Telescopio Solar Inouye, financiado por la Fundación Nacional de Ciencias de EE. UU. (NSF), cuenta con un espejo primario de cuatro metros que le permite resolver detalles en el Sol de tan solo una docena de kilómetros. El hallazgo demuestra el potencial de esta infraestructura para desentrañar los procesos magnéticos fundamentales que gobiernan el funcionamiento de las estrellas."
+  },
+  "sha256": {
+    "titular": "5dda7246569f8b2385010ea1f99a848e7996f3e7ed29b7a3159233842116ce49",
+    "entradilla": "432e90aef404cc598555201e0009fe7ed3a245de2cecadad93409aab1dea7ab1",
+    "cuerpo": "04a9e370bae2f92b6debaed3cc2c81f3ef2ba416f054491a9e19f00838fa19a1"
+  }
+}

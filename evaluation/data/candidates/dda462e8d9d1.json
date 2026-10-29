@@ -1,0 +1,26 @@
+{
+  "id": "dda462e8d9d1",
+  "url": "https://www.agenciasinc.es/Noticias/Una-noche-sin-dormir-altera-el-equilibrio-celular-del-cerebro",
+  "autoria": "Yoana Kaloyanova",
+  "fecha_publicacion": "2026-06-24T08:40:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:41:21+00:00",
+  "campos": {
+    "titular": "Una noche sin dormir altera el equilibrio celular del cerebro",
+    "entradilla": "Si existe privación del sueño, el cerebro permanece despierto durante más tiempo y continúa procesando estímulos e información. No dormir causa fatiga, y también se acompaña de cambios medibles en las conexiones neuronales.",
+    "cuerpo": "Durante mucho tiempo la ciencia se ha preguntado por qué las personas y los animales necesitan dormir. La cuestión parece estar tras las sinapsis, las conexiones entre las células cerebrales, que se fortalecen mientras el individuo está despierto. Con ello aumenta la cantidad de energía que necesita el cerebro y conduce a la acumulación de proteínas en él.\nHasta ahora se creía que el sueño restablece estos niveles, reduciendo las conexiones sinápticas y restaurando la homeostasis, pero la evidencia se ha limitado a modelos animales.\nSegún un estudio publicado esta semana en la revista de acceso abierto PLOS Biology, una noche sin dormir produce un aumento en los marcadores de conexiones entre las células cerebrales, lo que muestra que el sueño en los humanos puede ser importante para restablecer dicho equilibrio celular en el cerebro.\nPara determinar si la hipótesis de la homeostasis sináptica se confirma en humanos, los científicos del Instituto de Neurociencia y Medicina Forschungszentrum Jülich, en Alemania, utilizaron tomografía por emisión de positrones (PET) para buscar la glicoproteína 2A de vesículas sinápticas (SV2A), un marcador de las sinapsis cerebrales, en 40 participantes, la mitad de los cuales había pasado una noche sin dormir.\n“Antes de la fase experimental, los participantes pasaron por un periodo de saciación del sueño, y los horarios de sueño se estandarizaron y prescribieron según el protocolo del estudio”, apunta a SINC David Elmenhorst, primer autor. “Además, excluimos a personas con ritmos de sueño-vigilia irregulares, a trabajadores por turnos y a otros cuyos patrones de sueño pudieran afectar sustancialmente a la homeostasis del sueño.”\nEstas medidas se diseñaron para garantizar que los participantes comenzaran el estudio en condiciones de sueño comparables y que los efectos observados fueran atribuibles principalmente a la privación de sueño experimental, en lugar de a diferencias preexistentes en los hábitos de sueño.\nLos autores descubrieron que, tras 28 horas de vigilia continua, el grupo con privación de sueño presentaba niveles más elevados de SV2A en diversas regiones cerebrales, incluyendo el hipocampo (un área importante para la memoria) y el tálamo, un importante centro de relevo de información en el cerebro.\nCuando a los participantes sin dormir se les permitió una siesta de dos horas, los niveles más altos de SV2A se asociaron con una mayor actividad de ondas lentas, un indicador de sueño profundo y de la necesidad de descansar.\nSi bien la SV2A es solo un indicador indirecto de las conexiones entre las células cerebrales y los aumentos fueron relativamente pequeños, los resultados respaldan el modelo de homeostasis sináptica del sueño y sugieren una conexión biológica entre la necesidad de dormir y la acumulación de conexiones celulares.\n“Durante la privación del sueño, el cerebro permanece despierto durante más tiempo y continúa procesando estímulos e información. Nuestro estudio muestra que, tras aproximadamente 28,5 horas sin dormir, un marcador de densidad sináptica aumenta en varias regiones cerebrales. Esto sugiere que la privación del sueño no solo causa fatiga, sino que también se acompaña de cambios medibles en las conexiones neuronales”, señalan los autores.\n“Estudiamos a adultos jóvenes sanos con una edad media de 27,5 años. Debido a que solo examinamos a un grupo de edad, no podemos evaluar directamente cómo influye la edad en estos efectos”, destaca Elmenhorst.\n“No obstante, sabemos por investigaciones previas que los patrones de sueño, el sueño de ondas lentas y la plasticidad sináptica cambian a lo largo de la vida. Por lo tanto, es posible que la magnitud de los efectos observados difiera en adolescentes o adultos mayores. Se necesitarán estudios futuros para determinar cómo afecta la edad a la regulación sináptica dependiente del sueño en humanos”, concluye."
+  },
+  "sha256": {
+    "titular": "00750799f60bcd23ae80c49cac2f41bb340016a376d36101c2fdc3afd4f29410",
+    "entradilla": "c807bfb5db04c6511539f694836723474486f53b14aba26794716c615c235519",
+    "cuerpo": "a20e699560eb99b55ecf5fde00479455de3147c96b7e6795f00ab085b75b550d"
+  }
+}

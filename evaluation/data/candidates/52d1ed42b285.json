@@ -1,0 +1,26 @@
+{
+  "id": "52d1ed42b285",
+  "url": "https://www.agenciasinc.es/Noticias/El-edulcorante-aspartamo-reduce-la-grasa-corporal-pero-podria-ser-nocivo-para-el-corazon-y-el-cerebro",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-19T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: CIC BioGUNE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:56:41+00:00",
+  "campos": {
+    "titular": "El edulcorante aspartamo reduce la grasa corporal, pero podría ser nocivo para el corazón y el cerebro",
+    "entradilla": "Un estudio realizado en ratones ha encontrado que la ingesta prolongada de este edulcorante, muy utilizado en productos light, puede tener un impacto perjudicial en la función de estos órganos, incluso usado en dosis bajas.",
+    "cuerpo": "Uno de los edulcorantes más omnipresentes, el aspartamo, se utiliza en dulces, bebidas light, productos de bollería y chicles. Produce un sabor 200 veces más dulce que la sacarosa, lo que le confiere un valor calórico bajo. Aunque existen numerosos estudios sobre sus efectos, hasta ahora se desconocían las consecuencias metabólicas y conductuales a largo plazo.\nUn trabajo de CIC biomaGUNE y el Instituto de Investigación Sanitaria Biogipuzkoa expuso a ratones durante un año a una dosis equivalente a una sexta parte de la ingesta diaria máxima recomendada para humanos.\n“Efectivamente el aspartamo reduce los depósitos de grasa en un 20 %, pero lo hace a costa de una hipertrofia cardíaca leve y una disminución del rendimiento cognitivo”, señala el equipo investigador. Estos hallazgos sugieren que, aunque este edulcorante puede favorecer la pérdida de peso, también provoca cambios fisiopatológicos en órganos clave.\nLa dosis empleada —7 mg por kilo de peso corporal— está muy por debajo del límite fijado por la OMS, la EMA y la FDA (50 mg/kg). “Esto pone de manifiesto la importancia de los resultados obtenidos”, remarcan los autores, que advierten sobre la necesidad de revisar las directrices actuales.\nEl estudio, publicado en la revista Biomedicine & Pharmacotherapy, es el primero que analiza los efectos del consumo prolongado de aspartamo durante todo un año. Para ello se recurrió a técnicas avanzadas de imagen funcional y molecular, espectroscopía en cerebro e hígado, pruebas cognitivas y mediciones fisiológicas. “Hemos observado efectos que no se habían descrito hasta ahora, seguramente por la dificultad y la duración del estudio”, añaden.\nLos investigadores destacan que estos datos contribuyen a cubrir lagunas sobre las consecuencias del consumo crónico de edulcorantes artificiales y servirán como base para futuras investigaciones.\n“Estamos observando cómo la modulación de los nutrientes afecta a la función de los órganos en la salud y la enfermedad, y en este caso nos propusimos determinar el impacto fisiológico del aspartamo en el corazón y el cerebro, así como los efectos sobre los niveles de grasa y el peso corporal”, concluyen."
+  },
+  "sha256": {
+    "titular": "7700b0632df197059d40eab6915df41581e8d726bad6a3a9731960757b3d1e0f",
+    "entradilla": "68aedbf9cf2ea5b9638ee921952b09a9f47b732bee3b9adcdf92b227c29a4b4d",
+    "cuerpo": "32f16f54d7f25702b787aff8c89a6e104332ab4e7e5ef00c8def4f46fba27cbc"
+  }
+}

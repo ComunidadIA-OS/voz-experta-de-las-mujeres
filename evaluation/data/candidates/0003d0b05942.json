@@ -1,0 +1,26 @@
+{
+  "id": "0003d0b05942",
+  "url": "https://www.agenciasinc.es/Noticias/Una-correcta-higiene-de-manos-previene-infecciones-responsables-del-3-2-de-las-muertes-hospitalarias",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-05T11:42:00+02:00",
+  "fuente_y_derechos": "Fuente: Ministerio de Sanidad | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:46:02+00:00",
+  "campos": {
+    "titular": "Una correcta higiene de manos previene infecciones responsables del 3,2 % de las muertes hospitalarias",
+    "entradilla": "Según un análisis europeo, las infecciones asociadas a la atención sanitaria son responsables de 6 774 fallecimientos anuales. La higiene de manos es una de las medidas más eficaces y coste-efectivas para prevenir su aparición y transmisión.",
+    "cuerpo": "Cada 5 de mayo se celebra el Día Mundial de la Higiene de Manos promovido por la Organización Mundial de la Salud (OMS), que en 2026 se celebra bajo el lema “La acción salva vidas”. Esta iniciativa internacional pone el foco en la importancia de reforzar la prevención y el control de infecciones en todos los ámbitos asistenciales.\nEn este contexto, las infecciones asociadas a la atención sanitaria, es decir, aquellas que los pacientes adquieren durante su atención en hospitales y otros centros sanitarios, continúan representando un reto relevante para la seguridad del paciente.\nSegún un estudio publicado en Eurosurveillance en febrero de 2026, estas infecciones son responsables del 3,2 % de las muertes que se producen en hospitales, lo que se traduce en 6 774 fallecimientos anuales. Asimismo, afectan al 7,5 % de los pacientes hospitalizados, lo que evidencia su impacto en términos de salud pública y calidad asistencial.\nLos indicadores más recientes del Programa de Higiene de Manos del Sistema Nacional de Salud sitúan la adherencia en torno al 61 % en la práctica de higiene de manos y en el uso de soluciones hidroalcohólicas, reflejando una evolución positiva, aunque aún con margen de mejora.\nLa evidencia científica muestra que muchas de estas infecciones pueden prevenirse mediante la correcta aplicación de medidas de prevención y control. Entre ellas, la higiene de manos se consolida como una intervención clave, sencilla y eficaz para reducir la transmisión de microorganismos, incluidos los multirresistentes.\nEn el marco de esta campaña, el Ministerio de Sanidad, en consonancia con las recomendaciones de la Estrategia de Seguridad del Paciente del SNS 2025-2035, ha adaptado el mensaje al lema: “Antes del contacto y después también. Higiene de manos: por el paciente, por el centro, por ti”, con el objetivo de reforzar la responsabilidad individual y colectiva de los profesionales sanitarios en cada acto asistencial."
+  },
+  "sha256": {
+    "titular": "ae3e4ad72824fea62eb6c5b4c17cd96d43b12aedfa1e259b9fb177ffe38ec7d2",
+    "entradilla": "cb3993517a7b6167cc84d802fea8dd7c3d06babcfe9d48119aecc27dfeb69769",
+    "cuerpo": "2212514bca69af35cc984bac93f0c9dc9c84454885d45c89a371712807d5db88"
+  }
+}

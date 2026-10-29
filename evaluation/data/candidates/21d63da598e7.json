@@ -1,0 +1,26 @@
+{
+  "id": "21d63da598e7",
+  "url": "https://www.agenciasinc.es/Noticias/El-envejecimiento-reprograma-la-actividad-genetica-de-la-piel-y-favorece-la-inflamacion",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-19T11:00:00+02:00",
+  "fuente_y_derechos": "Fuente: IRB Barcelona | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias clínicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:35:50+00:00",
+  "campos": {
+    "titular": "El envejecimiento reprograma la actividad genética de la piel y favorece la inflamación",
+    "entradilla": "Un equipo científico del IRB Barcelona identifican un mecanismo molecular que amplifica la inflamación crónica en la piel envejecida. El estudio, realizado principalmente en ratones y respaldado por el análisis de datos de piel humana, se ha publicado en Nature Aging.",
+    "cuerpo": "A medida que envejecemos, la piel pierde parte de su capacidad para regenerarse, cicatrizar heridas y mantener una barrera eficaz frente al exterior. Entre las causas de este deterioro se encuentra una inflamación leve, pero persistente asociada a la edad.\nSin embargo, todavía no se conoce bien qué mecanismos mantienen activa esta respuesta en las células de la piel. Un estudio del IRB Barcelona, dirigido por Guiomar Solanas y Salvador Aznar Benitah, describe un mecanismo molecular que explica este proceso.\nDurante el envejecimiento, dos proteínas llamadas BMAL1 y YAP cambian la manera en la que trabajan juntas y aumentan la actividad de genes inflamatorios en la epidermis, la capa más externa de la piel. El trabajo se ha publicado en la revista Nature Aging.\n“Nuestros resultados muestran que, durante el envejecimiento, mecanismos que normalmente mantienen el equilibrio de la epidermis cambian de función y pasan a amplificar la inflamación”, explica Aznar Benitah, jefe del laboratorio de Células Madre y Cáncer del IRB Barcelona.\nBMAL1 es conocida por formar parte del reloj circadiano, que coordina numerosos procesos del organismo a lo largo del día. Por su parte, YAP ayuda a las células a adaptarse a cambios físicos en su entorno.\nEl estudio revela que ambas proteínas colaboran en la epidermis independientemente de los ritmos diarios. En la piel adulta, esta colaboración contribuye a preservar la identidad y la correcta función de las células de la piel.\nLo que ocurre con la edad es que los cambios en la rigidez de la piel, junto con un aumento de las señales inflamatorias, hacen que ambas proteínas se concentren en regiones del ADN que controlan genes inflamatorios y aumenten su actividad.\nEl hallazgo da continuidad a un estudio del mismo laboratorio, publicado en 2023. En aquel trabajo, el equipo identificó a IL-17 como una señal inflamatoria clave en el envejecimiento cutáneo. En ratones, el bloqueo temporal de esta proteína redujo la inflamación persistente y retrasó algunos rasgos asociados al envejecimiento de la piel.\nLa nueva investigación muestra qué ocurre dentro de las células epidérmicas cuando reciben esta señal, procedente de las células inmunes de la dermis (la capa más profunda de la piel). Según los experimentos, IL-17 contribuye a la activación de YAP. Cuando el equipo bloqueó IL-17 en ratones envejecidos, también disminuyeron la actividad asociada a YAP y la expresión de los genes inflamatorios estudiados.\n“En 2023 identificamos a IL-17 como una señal clave en el envejecimiento de la piel. Ahora hemos descubierto cómo las células de la epidermis responden a esa señal y amplifican la inflamación”, explica Júlia Bonjoch, primera autora del trabajo.\nEl hallazgo aclara cómo el envejecimiento y la inflamación se conectan en la piel. El siguiente paso será explorar si este mecanismo puede regularse de forma segura sin comprometer las funciones esenciales de la epidermis."
+  },
+  "sha256": {
+    "titular": "46afe7561f57fcb953606697c4e0b52aac0eaa53d265f4735265658315194ee6",
+    "entradilla": "cf495995eea11ec43870fe1cdb16701336e91bf389925fa943e85f3d8285d94c",
+    "cuerpo": "80d9fafeb30b63cbc56f08100ffcfa2944217226099e6005c108c7db8b86bd05"
+  }
+}

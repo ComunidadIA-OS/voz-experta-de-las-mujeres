@@ -1,0 +1,26 @@
+{
+  "id": "ffae21f63a42",
+  "url": "https://www.agenciasinc.es/Noticias/Desarrollan-un-mapa-molecular-de-la-miocardiopatia-hipertrofica",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-09-18T11:05:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Patología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:33:28+00:00",
+  "campos": {
+    "titular": "Desarrollan un mapa molecular de la miocardiopatía hipertrófica",
+    "entradilla": "Un estudio aporta información sobre los cambios moleculares que llevan al engrosamiento del corazón, una afección que puede conducir a insuficiencia cardíaca o muerte súbita. Además, el equipo científico identificó un gen que podría contribuir a su desarrollo.",
+    "cuerpo": "Investigadores de la Facultad de Medicina de Harvard han creado un mapa de la actividad molecular de la miocardiopatía hipertrófica, una forma común de cardiopatía que provoca que el músculo del corazón se vuelva rígido y grueso, algo que podría conducir a insuficiencia cardíaca o a un paro cardíaco repentino.\nLos resultados, publicados en Science Translational Medicine, aportan nuevos datos sobre los cambios que provocan esta enfermedad y que, a su vez, podrían servir de base para los tratamientos actuales y futuros.\n“Describir el panorama molecular de la miocardiopatía hipertrófica es esencial para avanzar en nuestra comprensión de la enfermedad, mejorar la atención al paciente y desarrollar nuevos enfoques terapéuticos”, afirma la colíder del trabajo e investigadora de la facultad estadounidense, Christine Seidman. Al analizar casi un millón de células cardíacas, obtuvimos información relevante sobre los cambios moleculares que subyacen a la miocardiopatía hipertrófica”, añadió.\nEl trabajo revela diferencias entre las variantes genéticas y no genéticas de esta enfermedad, así como entre la hipertrofia en fase temprana y en fase avanzada.\nSegún los autores, los hallazgos mostraron que son bastante distintas, y que los cambios moleculares observados en la hipertrofia genética son responsables de un mayor número de arritmias y de una mayor progresión hacia la insuficiencia cardíaca que la que se desarrolla sin condicionamiento genético.\nEn la investigación, el equipo caracterizó las firmas celulares y moleculares de la miocardiopatía hipertrófica. Utilizaron la secuenciación de ARN de un solo núcleo para analizar tejido cardíaco de 47 pacientes que se encontraban en la fase inicial y en la fase terminal de enfermedad.\nDespués, compararon estos perfiles con corazones de donantes sanos y de tejido cardíaco afectado por miocardiopatía dilatada, una afección en la que el ventrículo izquierdo se hincha y reduce las paredes de la cavidad.\nLos datos recopilados de este millón de células cardíacas permitieron crear un mapa que detallaba la actividad alterada de los genes según la fase de la enfermedad y el estado genético.\nAquí vieron que la miocardiopatía genética presentaba menos células del músculo cardíaco que la no genética; e identificaron el gen PRR16 como un posible factor que contribuye al agrandamiento de los cardiomiocitos (células cardíacas), un fenómeno característico de esta condición.\nAdemás, las muestras de hipertrofia genética presentaban una expresión elevada de genes relacionados con las arritmias cardíacas y la fibrosis, lo que contribuye a la progresión de la enfermedad.\nPor otro lado, los investigadores descubrieron características distintivas de la miocardiopatía hipertrófica en fase inicial en comparación con las fases avanzadas de la enfermedad. Los fibroblastos —que producen y mantienen la matriz extracelular que rodea a las células— expresan menos colágeno IV, un déficit que, según los investigadores, probablemente desestabilizaría la matriz.\nDe forma adicional, una IA entrenada con datos de expresión génica pudo distinguir si los pacientes se encontraban en fase temprana o fase avanzada, diferenciar la miocardiopatía hipertrófica de la dilatada e identificar a los pacientes con la expresión genética frente a los demás. Este modelo fue capaz de realizar las mismas distinciones con los datos de los fibroblastos."
+  },
+  "sha256": {
+    "titular": "15835382b70aad818bf85522b2bf8e202f28b13853248f41ac3cac7ab6d109c4",
+    "entradilla": "1b6dcbf4ce9d958811f7f14b698342b842de01d503a54b51e33f4b30dc70c35a",
+    "cuerpo": "f8e2cdc8f23d59de70bab988206517bc4ceaccdca30d86efdd16da47b1d9f590"
+  }
+}

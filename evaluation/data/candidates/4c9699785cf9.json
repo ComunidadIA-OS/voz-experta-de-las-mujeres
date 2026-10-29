@@ -1,0 +1,26 @@
+{
+  "id": "4c9699785cf9",
+  "url": "https://www.agenciasinc.es/Noticias/Un-gen-de-supervivencia-a-las-grandes-altitudes-podria-ayudar-a-revertir-el-dano-nervioso",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-16T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:13+00:00",
+  "campos": {
+    "titular": "Un gen de supervivencia a las grandes altitudes podría ayudar a revertir el daño nervioso",
+    "entradilla": "Científicos chinos han identificado una mutación genética presente en animales adaptados a vivir a gran altitud, como los yaks, que favorece la reparación de la mielina. El trabajo se ha probado en ratones y podría tener futuras aplicaciones frente a trastornos como la esclerosis múltiple o la parálisis cerebral.",
+    "cuerpo": "Una mutación genética que permite a animales como los yaks o los antílopes tibetanos sobrevivir a grandes altitudes podría ayudar a reparar el daño nervioso asociado a enfermedades como la parálisis cerebral o la esclerosis múltiple. El trabajo, liderado por investigadores del Hospital Songjiang afiliado a la Universidad Jiao Tong de Shanghái (China), se acaba de publicar en la revista Neuron, del grupo Cell.\nEl estudio identifica una vía biológica presente de forma natural que favorece la regeneración tras una lesión nerviosa. Según los autores, este mecanismo podría aprovecharse para tratar trastornos relacionados con el deterioro de la mielina, la capa protectora que recubre las fibras nerviosas.\n“La evolución es un gran regalo de la naturaleza, que proporciona una gran diversidad de genes que ayudan a los organismos a adaptarse a distintos entornos”, afirma el autor principal Liang Zhang, del Hospital Songjiang afiliado a la Universidad Jiao Tong de Shanghái. “Todavía queda mucho por aprender de las adaptaciones genéticas que aparecen de forma natural”, añade.\nLa mielina rodea las fibras nerviosas del cerebro y la médula espinal y permite que las señales nerviosas se transmitan con eficiencia. Durante el desarrollo cerebral, una falta de oxígeno puede dañar esta capa, lo que puede provocar parálisis cerebral en recién nacidos.\nEn adultos, el deterioro de la mielina se asocia a la esclerosis múltiple, una enfermedad autoinmune en la que el sistema inmunitario ataca por error esta capa protectora. También la reducción del flujo sanguíneo al cerebro —frecuente con el envejecimiento— puede dañarla y contribuir a trastornos como la enfermedad de pequeños vasos cerebrales o la demencia vascular.\nTrabajos previos habían mostrado que los animales que viven en la meseta tibetana, a una altitud media de unos 4 500 metros, presentan una mutación en el gen Retsat. Los científicos sospechaban que esta variación genética ayuda a especies como el yak o el antílope tibetano a mantener la función cerebral pese a niveles crónicamente bajos de oxígeno.\nPara comprobarlo, el equipo expuso ratones recién nacidos a condiciones de bajo oxígeno equivalentes a altitudes superiores a los 4 000 metros durante aproximadamente una semana. Los animales portadores de la mutación en Retsat obtuvieron mejores resultados en pruebas de aprendizaje, memoria y comportamiento social que los ratones con la versión estándar del gen. Los análisis cerebrales también mostraron mayores niveles de mielina alrededor de sus fibras nerviosas.\nLos investigadores evaluaron después si esta mutación podía reparar daños en la mielina similares a los que se observan en la esclerosis múltiple. En los ratones que portaban la mutación, la mielina se regeneró más rápido y de forma más completa tras la lesión. En las zonas dañadas también aparecieron más oligodendrocitos maduros, las células responsables de producir mielina.\nLos experimentos revelaron además que estos ratones generaban niveles más altos de ATDR en el cerebro, un metabolito derivado de la vitamina A. La mutación en Retsat aumenta la actividad enzimática que transforma la vitamina A en estos compuestos, lo que favorece la producción y maduración de los oligodendrocitos.\nCuando los investigadores administraron ATDR a ratones con una enfermedad similar a la esclerosis múltiple, la gravedad del trastorno disminuyó y los animales mostraron una mejora en la función motora.\n“Los tratamientos actuales para la esclerosis múltiple se centran principalmente en suprimir la actividad del sistema inmunitario”, señala Zhang. “El ATDR es una molécula que todos tenemos en el organismo. Nuestros resultados indican que podría existir otra vía terapéutica basada en moléculas naturales para tratar enfermedades relacionadas con el daño de la mielina”."
+  },
+  "sha256": {
+    "titular": "2de4c268ac3100ada73675c0b18b7a60bd20fe9011d7726785df547518217b48",
+    "entradilla": "7030936aa9057c469d786b374e01130654d01021dc410958e02b1c246574d197",
+    "cuerpo": "268bc7d1f8100ae35c7fd0724c5c9258251c425be5c17de85c3076978704b1e3"
+  }
+}

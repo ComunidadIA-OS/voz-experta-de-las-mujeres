@@ -1,0 +1,26 @@
+{
+  "id": "4e57c40da4de",
+  "url": "https://www.agenciasinc.es/Noticias/Identifican-una-proteina-clave-para-proteger-el-foliculo-piloso-de-la-perdida-de-pelo",
+  "autoria": "María G. Dionis",
+  "fecha_publicacion": "2026-07-30T10:33:00+02:00",
+  "fuente_y_derechos": "Fuente: CBM | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:40+00:00",
+  "campos": {
+    "titular": "Identifican una proteína clave para proteger el folículo piloso de la pérdida de pelo",
+    "entradilla": "Un estudio en ratones identifica un papel esencial de la proteína GRK2 para mantener el ciclo del pelo, la arquitectura del folículo piloso y la función de sus células madre. Su ausencia favorece la formación de quistes y provoca una pérdida progresiva de cabello.",
+    "cuerpo": "El folículo piloso es un pequeño órgano de la piel con una gran capacidad para renovarse durante toda la vida. Para ello, alterna fases de crecimiento, regresión y reposo. Este ciclo depende de la comunicación entre las células madre del folículo, el entorno que las rodea, conocido como ‘nicho’, y la papila dérmica, una estructura situada en la base del folículo esencial para iniciar cada nuevo ciclo de crecimiento.\nUn equipo de investigación liderado por Federico Mayor y Catalina Ribas en el Centro de Biología Molecular Severo Ochoa (centro mixto de la Universidad Autónoma de Madrid y el CSIC) y el IIS-Princesa ha identificado una función desconocida de la proteína señalizadora GRK2, clave para mantener este equilibrio.\nEl trabajo, publicado en Journal of Investigative Dermatology, demuestra que la ausencia de esta proteína altera el ciclo normal del pelo, favorece la aparición de quistes asociados al folículo y conduce progresivamente a la pérdida de pelo en modelos de ratón.\n“Vimos por primera vez el papel que tiene esta proteína y su gen para que las células madre del folículo mantengan su identidad celular, es decir, para que sigan siendo células madre”, explica a SINC Alejandro Asensio, primer autor del artículo y actualmente investigador en el Instituto Hubrecht (Utrecht, Países Bajos).\nEl trabajo muestra que la ausencia de GRK2 altera varios mecanismos de comunicación celular esenciales para activar el crecimiento del pelo. Como consecuencia, algunos folículos no progresan correctamente durante esta fase y generan estructuras quísticas que quedan desacopladas del ciclo normal del pelo.\nUna de las principales aportaciones del estudio es desvelar cómo estas estructuras quísticas pueden contribuir a la pérdida progresiva de pelo. Los quistes desplazan la papila dérmica lejos del nicho de células madre del folículo e interrumpen una comunicación esencial para iniciar nuevos ciclos de crecimiento. Con el tiempo, esta alteración daña la arquitectura del nicho, extingue las células madre foliculares y compromete la regeneración del pelo.\n“Lo más relevante es que no solo observamos una alteración morfológica, sino que hemos podido conectar esa alteración con un mecanismo de pérdida de función del folículo. Los quistes acaban actuando como barreras que separan físicamente a las células madre de las señales que necesitan para mantener el ciclo del pelo”, señalan los autores.\nAdemás, el trabajo muestra que estas estructuras quísticas presentan cambios en la identidad de sus células y son infiltradas por células inmunitarias durante el envejecimiento. Este proceso comparte algunas características con mecanismos descritos en personas con alopecias inmunomediadas, como la alopecia areata.\nAunque los resultados se han obtenido en ratones y no implican todavía una aplicación clínica directa, aportan una nueva perspectiva sobre los mecanismos que mantienen la salud del folículo piloso y ayudan a explicar cómo distintas alteraciones pueden desembocar en la pérdida de pelo.\n“Alteraciones similares a las encontradas en nuestro modelo de ratón también se han identificado en pacientes de alopecia areata, por lo que este hallazgo abre la posibilidad a que se puedan estudiar tratamientos”, añade Asensio.\nEl trabajo ha contado también con la participación de investigadores del CIEMAT y de la Universidad de Southampton (Reino Unido)."
+  },
+  "sha256": {
+    "titular": "ccc18067ef523f8e310ee80a4bfc82ff8c838c3e926b84834aa8bfb884e526f7",
+    "entradilla": "26cb3e7d6fb8fa08fa6991c519091081cab44c1ed555594f434a509ea442bef1",
+    "cuerpo": "c14b69577a68cf938b4d0c697a01c7a6fe16279fd80909992360678e719b4746"
+  }
+}

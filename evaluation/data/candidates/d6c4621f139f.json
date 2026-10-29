@@ -1,0 +1,26 @@
+{
+  "id": "d6c4621f139f",
+  "url": "https://www.agenciasinc.es/Noticias/El-cerebro-femenino-reacciona-de-forma-diferente-a-la-anestesia-con-ketamina",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-03T11:55:00+02:00",
+  "fuente_y_derechos": "Fuente: ISTA | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias clínicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:16+00:00",
+  "campos": {
+    "titular": "El cerebro femenino reacciona de forma diferente a la anestesia con ketamina",
+    "entradilla": "Durante la anestesia, las células del cerebro se 'silencian' y, a medida que los pacientes recuperan la conciencia, empiezan a recobrar su actividad previa. Investigadores austriacos revelan que existen diferencias por sexo en los cerebros de ratones al despertarse.",
+    "cuerpo": "Cuando el dolor se hace insoportable o es necesaria una intervención quirúrgica de urgencia se suele administrar ketamina, un analgésico que no solo alivia el malestar sino que induce la pérdida de conciencia y atenúa la comunicación entre las neuronas. Un estudio en ratones, publicado en Science Advances, expone que el cerebro femenino se recupera de forma distinta de los efectos de este psicoactivo.\nAntes de esta investigación no se conocía el proceso por el que las personas se reponían de la anestesia, ni tampoco si había diferencias entre cerebros masculinos y femeninos en este aspecto. Ahora, expertos del Instituto de Ciencia y Tecnología de Austria (ISTA por sus siglas en inglés) ofrecen las primeras respuestas.\nA través de una ventana craneal, los investigadores analizaron cómo se comportaba la microglía –las células inmunitarias que protegen al cerebro– y las neuronas mientras los ratones se recuperaban de la anestesia.\nDespués, observaron los procesos de la microglía en su acción dinámica con las neuronas y vieron que, a medida que las ratonas se despertaban, se inducía el proceso neuronal y la remodelación sináptica.\nEste mismo sistema no se observó en los ratones macho, y de hecho, en aquellos que carecían de este conjunto celular no se produjo remodelación sináptica, lo que indicó que la microglía es fundamental para que el cerebro recobre su plasticidad tras la anestesia.\nSegún explica el primer autor del trabajo e investigador de la institución austriaca, Alessandro Venturino, “lo fascinante del proyecto es que esta capacidad para cambiar, adaptarse y recuperarse solo se vio en el cerebro de las hembras”.\nMás allá, los investigadores quisieron saber por qué la recuperación era tan diferente entre los sexos y revelaron que la plasticidad del cerebro se debe a la corticosterona, una de las principales hormonas del estrés.\n“Durante la recuperación, los niveles de corticosterona aumentaron”, señala Venturino. “En las ratonas se activó un gen, llamado FKBP5, que codifica la proteína –que lleva su mismo nombre– y que, al parecer, estimula a la microglía a interactuar con las neuronas”.\nPara confirmarlo, el equipo extirpó las glándulas suprarrenales que producen la corticosterona y observaron que desaparecía el contacto entre las neuronas y la microglía durante la recuperación. Según añade la líder del trabajo e investigadora en el ISTA, Sandra Siegert, “esto nos recuerda que el estrés no siempre es perjudicial: sus hormonas son esenciales para determinados procesos del cerebro”.\nAún no se sabe con certeza por qué este proceso difiere entre ratones hembra y macho. Además, tampoco se conoce si el cerebro masculino utiliza un mecanismo similar.\nDesde un punto de vista evolutivo, los autores especulan que es posible que las hembras se hayan enfrentado a mayores exigencias de carácter social al realizar un mayor número de tareas simultáneas, por ejemplo el cuidado de los hijos, la búsqueda de alimento o la coordinación de actividades en grupo. Esta hipótesis señala que el cerebro femenino tuvo que adaptarse y responder con mayor rapidez.\nSiegert señala que, durante la revisión bibliográfica, su equipo encontró muy pocas investigaciones en las que se hubiera probado la ketamina en mujeres. “Solo había un puñado de estudios anecdóticos que mostraban que las mujeres experimentan náuseas y malestar con mayor frecuencia que los hombres tras la anestesia con ketamina”, afirma.\n“Es sorprendente que la gente de por sentado que los hombres y las mujeres responden a los medicamentos de la misma manera, cuando está claro que no es así”, subraya la experta.\nInvestigaciones como esta suponen un paso en la dirección correcta: ponen de relieve que los fármacos pueden actuar de forma diferente en mujeres y hombres y sirven para instar a que se tengan en cuenta las diferencias específicas de cada sexo en futuros estudios."
+  },
+  "sha256": {
+    "titular": "dbd5ddcca530aa27f8ffd67bead4fe162873ecda42fb7062c7123e06d6f6472f",
+    "entradilla": "15abe46fb8f8b065cfcf59f1e5e4c3cbb267bc83d3bb22ba19c2e8c555ba2c95",
+    "cuerpo": "c11f9c0c35700f4880b70846bf0fd415d9afdccedb8ca4dcae38feafbe03933e"
+  }
+}

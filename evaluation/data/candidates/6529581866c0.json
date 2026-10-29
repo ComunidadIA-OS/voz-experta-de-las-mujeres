@@ -1,0 +1,26 @@
+{
+  "id": "6529581866c0",
+  "url": "https://www.agenciasinc.es/Noticias/Un-estudio-valida-en-6-4-millones-de-personas-dos-algoritmos-que-predicen-el-riesgo-cardiovascular",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-08T11:56:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Medicina preventiva"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:45:36+00:00",
+  "campos": {
+    "titular": "Un estudio valida en 6,4 millones de personas dos algoritmos que predicen el riesgo cardiovascular",
+    "entradilla": "Las herramientas PREVENT y SCORE2 muestran buena capacidad predictiva en distintas regiones y contextos clínicos. Los resultados respaldan su uso en guías clínicas y refuerzan la prevención personalizada. Su validación en poblaciones diversas también impulsa su aplicación en distintos sistemas sanitarios.",
+    "cuerpo": "Un estudio internacional publicado esta semana en Nature Medicine respalda la utilidad de PREVENT y SCORE2, dos algoritmos utilizados en Estados Unidos y Europa para estimar el riesgo cardiovascular. El análisis incluye datos de más de 6,4 millones de personas procedentes de 44 cohortes observacionales y 18 ensayos clínicos aleatorizados, lo que permite evaluar su rendimiento en contextos geográficos y clínicos diversos.\nEl trabajo se enmarca en el consorcio internacional Chronic Kidney Disease Prognosis Consortium (CKD-PC) y cuenta con la participación del Instituto de Investigación Biomédica de Lleida (IRBLleida). Entre los autores figura José Manuel Valdivielso, responsable del grupo de Investigación Traslacional Vascular y Renal, que ha supervisado este trabajo multicéntrico.\nLas enfermedades cardiovasculares continúan siendo la principal causa de muerte en el mundo. En este contexto, herramientas como el algoritmo PREVENT, desarrollado por la American Heart Association, y SCORE2, incorporado en las guías europeas, permiten estimar el riesgo individual de sufrir eventos como infarto o ictus y orientar decisiones preventivas como el control del colesterol o la presión arterial.\nHasta ahora, ambos algoritmos se habían validado sobre todo en sus regiones de origen, por lo que faltaban estudios amplios que confirmaran su aplicabilidad en otras poblaciones y en ensayos clínicos internacionales.\n“El gran valor de este trabajo es que demuestra que estas herramientas mantienen un rendimiento sólido y consistente en poblaciones muy distintas entre sí”, explica Valdivielso. “Esto refuerza su utilidad para identificar de forma precoz a personas con alto riesgo cardiovascular y avanzar hacia una prevención más personalizada”. El investigador añade: “estos resultados probablemente influirán en las guías clínicas actuales”.\nDurante un seguimiento medio de 5,1 años, los investigadores registraron 293.737 eventos de enfermedad cardiovascular total según PREVENT (infarto, ictus o insuficiencia cardiaca) y 258.086 eventos según SCORE2 (infarto, ictus o muerte cardiovascular). Ambos modelos mostraron buena capacidad para discriminar y calibrar el riesgo en distintas regiones y también en ensayos clínicos, lo que respalda su uso amplio.\n“La prevención cardiovascular depende en gran medida de identificar correctamente quién tiene más probabilidades de desarrollar enfermedad en los próximos años”, señala Valdivielso. “Validar estos algoritmos en distintos países aporta confianza a profesionales y sistemas sanitarios y, sobre todo, permite anticiparnos a la enfermedad”.\nEl estudio destaca además su utilidad en personas con riesgo intermedio, un grupo que concentra una parte importante de los eventos y que a menudo queda en una “zona gris”. “PREVENT y SCORE2 permiten distinguir qué pacientes tienen realmente un riesgo mayor dentro de este grupo”, indica el investigador, lo que facilita aplicar medidas preventivas más adecuadas.\nGracias a los datos del CKD-PC, el equipo evaluó el impacto de añadir un marcador de salud renal, la albuminuria. Este parámetro, fácil y económico de medir, mejora la capacidad predictiva de ambos algoritmos.\n“La enfermedad renal crónica está en aumento y podría convertirse en la quinta causa de muerte mundial en 2040”, recuerda Valdivielso. “Sabemos que incrementa de forma notable el riesgo cardiovascular, y el estudio muestra que incorporar la albuminuria refuerza la precisión de estas herramientas”.\nAdemás, los investigadores desarrollaron factores de escalado que permiten adaptar PREVENT a predicciones de riesgo a corto plazo, entre uno y nueve años, lo que podría facilitar su uso en investigación clínica y en el diseño de ensayos terapéuticos.\nEn conjunto, los resultados respaldan el uso de estos algoritmos en distintos contextos clínicos y apuntan a una mejor estratificación del riesgo cardiovascular a escala global, con potencial para optimizar la prevención y el uso de recursos sanitarios."
+  },
+  "sha256": {
+    "titular": "cc2db496635fb9d37fe4c766b6f8f064afbcfb221e9c9f95d038819a70ef15fc",
+    "entradilla": "afb3b5e276fdfb5c3021eb91b240ef69c8f977499cb207f288e89d113edadf47",
+    "cuerpo": "2d7f680401352ca157356a8fcebfd2846837dc40b1a8e1de08d6e2d274f87d18"
+  }
+}

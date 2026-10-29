@@ -1,0 +1,179 @@
+{
+  "article_id": "901b9580e41b",
+  "url": "https://www.agenciasinc.es/Noticias/Esta-via-inmunitaria-podria-explicar-por-que-las-mujeres-son-mas-vulnerables-al-alzheimer",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:18+00:00",
+  "article_sha256": {
+    "titular": "609dd669fc201805c967ec12cde0b5a89fbe8c7cb6c99fbf5096f1af09ee6e0d",
+    "entradilla": "5d0133b0b043489330d1831def085a0801b336c89a1d682f0febb4dafbc715c0",
+    "cuerpo": "e48dc6c8ac703d0cb3d319b150d2bf98edb5c5a833705ce1cc2112f6263e6e19"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Verónica López López",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "primera autora del estudio",
+      "gender_representation": "woman",
+      "gender_evidence": "autora",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "José P. López-Atalaya",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigador del IN, que lidera el estudio",
+      "gender_representation": "man",
+      "gender_evidence": "nvestigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Nuestros datos refuerzan la idea de que la neuroinflamación desempeña un papel central en la progresión de la enfermedad de Alzheimer”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Sabíamos que las mujeres desarrollan con mayor frecuencia la enfermedad, pero desconocíamos qué mecanismos biológicos podían explicar esta diferencia. Nuestros resultados muestran que la respuesta por interferón está mucho más activada en las mujeres enfermas y que esta activación excesiva puede contribuir tanto a las alteraciones cerebrales como al deterioro de la función cognitiva”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Estos resultados apoyan la idea de que la modulación farmacológica de la señalización por interferón podría convertirse en una estrategia para reducir la neuroinflamación y preservar la función cerebral en la enfermedad de Alzheimer”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793121939609",
+        "nombre": "Verónica López López",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3019,
+            "fin16": 3039,
+            "texto": "Verónica López López",
+            "inicio": 3019,
+            "fin": 3039
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 3049,
+          "fin16": 3055,
+          "texto": "autora",
+          "inicio": 3049,
+          "fin": 3055
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2875,
+            "fin16": 3011,
+            "texto": "“Nuestros datos refuerzan la idea de que la neuroinflamación desempeña un papel central en la progresión de la enfermedad de Alzheimer”,",
+            "tipo": "directa",
+            "inicio": 2875,
+            "fin": 3011
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 3041,
+          "fin16": 3067,
+          "texto": "primera autora del estudio",
+          "inicio": 3041,
+          "fin": 3067
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793121971343",
+        "nombre": "José P. López-Atalaya",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1758,
+            "fin16": 1779,
+            "texto": "José P. López-Atalaya",
+            "inicio": 1758,
+            "fin": 1779
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1782,
+          "fin16": 1793,
+          "texto": "nvestigador",
+          "inicio": 1782,
+          "fin": 1793
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1361,
+            "fin16": 1749,
+            "texto": "“Sabíamos que las mujeres desarrollan con mayor frecuencia la enfermedad, pero desconocíamos qué mecanismos biológicos podían explicar esta diferencia. Nuestros resultados muestran que la respuesta por interferón está mucho más activada en las mujeres enfermas y que esta activación excesiva puede contribuir tanto a las alteraciones cerebrales como al deterioro de la función cognitiva”,",
+            "tipo": "directa",
+            "inicio": 1361,
+            "fin": 1749
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4317,
+            "fin16": 4552,
+            "texto": "“Estos resultados apoyan la idea de que la modulación farmacológica de la señalización por interferón podría convertirse en una estrategia para reducir la neuroinflamación y preservar la función cerebral en la enfermedad de Alzheimer”,",
+            "tipo": "directa",
+            "inicio": 4317,
+            "fin": 4552
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1781,
+          "fin16": 1823,
+          "texto": "investigador del IN, que lidera el estudio",
+          "inicio": 1781,
+          "fin": 1823
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 86
+  }
+}

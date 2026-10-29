@@ -1,0 +1,26 @@
+{
+  "id": "de1c1ff66a0c",
+  "url": "https://www.agenciasinc.es/Noticias/Hallan-dos-planetas-gaseosos-mas-ligeros-que-el-algodon-de-azucar",
+  "autoria": "Marcos D. Oliveros",
+  "fecha_publicacion": "2026-06-25T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:41:11+00:00",
+  "campos": {
+    "titular": "Hallan dos planetas gaseosos más ligeros que el algodón de azúcar",
+    "entradilla": "Estos gigantes gaseosos se formaron juntos y están atrapados en una relación gravitatoria que los obliga a tirar uno del otro. Sin embargo, lo más sorprendente es su escasa densidad, algo que los expertos todavía no saben responder al necesitar observaciones atmosféricas con el telescopio James Webb.",
+    "cuerpo": "Un estudio internacional revela dos planetas gaseosos con densidades inferiores a las del algodón de azúcar. El trabajo, liderado por la Universidad de Oxford (Reino Unido), se ha publicado en la revista Monthly Notices of the Royal Astronomical Society.\nDenominados TOI-791 b y TOI-791 c, estos cuerpos celestes orbitan alrededor de una estrella enana situada a 1 110 años luz de la Tierra en la constelación austral de Volans. Ambos planetas tienen el tamaño de Júpiter, y en palabras de los investigadores, son “superesponjosos”.\nEn concreto, el primero de ellos posee una densidad de apenas 0,038 gramos por centímetro cúbico, mientras que el segundo tiene una de 0,047. En comparación, la densidad media de nuestro gigante gaseoso (Júpiter) es de 1,33 gramos, es decir, entre 28 y 35 veces más. Ahora, la pregunta sería ¿cuánto pesa el algodón de azúcar en comparación con esta pareja gaseosa?\nSegún explica a SINC la autora principal del estudio e investigadora de la Universidad de Oxford, George Dransfield, la densidad promedio del algodón de azúcar es de 0,05 g/cm³. Por el contrario, la Tierra tiene 5,5 g/cm³.\n“Lo emocionante de estos planetas superinflados es que no sabemos con certeza cómo se formaron o cómo llegaron a tener densidades tan bajas”, explica la experta. “Una de las teorías principales es que se formaron en una parte del disco protoplanetario donde hay más gas disponible, lo que les permitiría acumular un volumen muy grande en poco tiempo” argumenta.\nEstos objetos cósmicos son hermanos y se cree que se constituyeron juntos. Además, están atrapados en una relación gravitatoria conocida como resonancia de movimiento medio, un fenómeno que explica que por cada cinco órbitas que completa el planeta interior, el exterior completa tres vueltas. “Esto conduce a interacciones gravitacionales entre los planetas que nos permiten calcular sus masas”, señala Dransfield.\nActualmente, solo se conocen otros cuatro sistemas que contengan múltiples planetas superligeros y convierte a este par cósmico en un laboratorio raro para estudiar su formación y evolución. “Solo se sabe de un puñado de planetas superesponjosos y es muy raro encontrar dos en el mismo sistema”, expone la experta. “Sus densidades tan bajas los convierten en fenómenos muy singulares en el Universo”, enfatiza.\nPor otro lado, cuando un planeta pasa por delante de su estrella anfitriona –un evento llamado tránsito–atenúa ligeramente la luz de la estrella. La cantidad de brillo permite conocer el tamaño del planeta y en este sistema los investigadores detectaron pequeñas variaciones en su cronometraje, causadas por el tirón gravitatorio mutuo mientras orbitan.\nAl analizar estos desvíos temporales, el equipo pudo estimar las masas de los planetas y calcular sus densidades. El trabajo se basó en ocho años de observaciones, en las que el invierno antártico ofreció una ventaja única gracias a los meses de oscuridad continua que permitieron que los astrónomos capturaran los tránsitos de los planetas. Cada uno duraba más de 11 horas, los tránsitos más largos observados desde la Tierra.\nEn cuanto a su composición, los astrónomos debaten sobre qué están hechos. “La hipótesis principal es que están conformados por vastas envolturas de hidrógeno y helio, algo que les ayudaría a estar tan inflados, explica Dransfield. “Sin embargo, hasta que no obtengamos observaciones atmosféricas con el telescopio James Webb no podemos decir nada seguro sobre su conformación”.\nEstas envolturas gaseosas podrían haberse acumulado cuando los planetas se formaron lejos de su estrella anfitriona, en regiones frías del disco protoplanetario donde pudo enfriarse y acumularse rápidamente alrededor de un núcleo sólido. En el futuro, los investigadores pretenden llevar a cabo estudios de seguimiento para comprender cómo se formaron y descartar posibles interpretaciones."
+  },
+  "sha256": {
+    "titular": "816df48f48fe117b30256bd72209c351fe6e65bd1eeae87c09e49570f94d090e",
+    "entradilla": "3ec72bf6cbab903f94b7ff15721bd5952b52dd50ebade4b8f00ba4926c31cfdd",
+    "cuerpo": "df601e380595bcef423b1ed4ea3d71e718b0e4616773388ee59a9c6b18407c04"
+  }
+}

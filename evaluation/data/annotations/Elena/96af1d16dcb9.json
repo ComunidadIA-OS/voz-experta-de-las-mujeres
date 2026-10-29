@@ -1,0 +1,243 @@
+{
+  "article_id": "96af1d16dcb9",
+  "url": "https://www.agenciasinc.es/Noticias/Tres-fragmentos-parietales-adultos-revelan-el-grosor-craneal-de-Homo-antecessor",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:20+00:00",
+  "article_sha256": {
+    "titular": "543989c63707dbac28573f5df292d33c946e64b7c2d09f9ce875cc1fad77281b",
+    "entradilla": "c4160dc1b4e42add3352548ae2f7936a4b6d9c587e57f6ce80d7ef565a6d2121",
+    "cuerpo": "233bf86d5ece4012ebc807047d9ba4f275dbd4057f2522fe56f478a55cbb2376"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Rafael Gallareto-Sande",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigador predoctoral del CENIEH",
+      "gender_representation": "man",
+      "gender_evidence": "investigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "María Martinón-Torres",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "la dirección de",
+      "gender_representation": "unknown",
+      "gender_evidence": "",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p3",
+      "name": "Emiliano Bruner",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "la dirección de",
+      "gender_representation": "unknown",
+      "gender_evidence": "",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p4",
+      "name": "Palmira Saladié",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "la dirección de",
+      "gender_representation": "unknown",
+      "gender_evidence": "",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Es la primera vez que podemos comparar de forma cuantitativa el grosor craneal de esta especie, capa por capa, con el resto de los datos disponibles para el género Homo, y eso aporta información muy valiosa que ayuda a interpretar la posición evolutiva de esta especie”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La muestra disponible es todavía limitada y fragmentada, por lo que cualquier fragmento nuevo puede matizar estos resultados. Confiamos en que en las próximas campañas se sigan recuperando nuevos restos craneales que permitan contrastar lo observado y profundizar en su interpretación”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793122177810",
+        "nombre": "Rafael Gallareto-Sande",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 587,
+            "fin16": 609,
+            "texto": "Rafael Gallareto-Sande",
+            "inicio": 587,
+            "fin": 609
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 611,
+          "fin16": 623,
+          "texto": "investigador",
+          "inicio": 611,
+          "fin": 623
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2093,
+            "fin16": 2364,
+            "texto": "“Es la primera vez que podemos comparar de forma cuantitativa el grosor craneal de esta especie, capa por capa, con el resto de los datos disponibles para el género Homo, y eso aporta información muy valiosa que ayuda a interpretar la posición evolutiva de esta especie”,",
+            "tipo": "directa",
+            "inicio": 2093,
+            "fin": 2364
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3079,
+            "fin16": 3366,
+            "texto": "“La muestra disponible es todavía limitada y fragmentada, por lo que cualquier fragmento nuevo puede matizar estos resultados. Confiamos en que en las próximas campañas se sigan recuperando nuevos restos craneales que permitan contrastar lo observado y profundizar en su interpretación”,",
+            "tipo": "directa",
+            "inicio": 3079,
+            "fin": 3366
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 611,
+          "fin16": 646,
+          "texto": "investigador predoctoral del CENIEH",
+          "inicio": 611,
+          "fin": 646
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793122204093",
+        "nombre": "María Martinón-Torres",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 669,
+            "fin16": 690,
+            "texto": "María Martinón-Torres",
+            "inicio": 669,
+            "fin": 690
+          }
+        ],
+        "genero": "desconocido",
+        "indicio_genero": null,
+        "citas": [],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 653,
+          "fin16": 668,
+          "texto": "la dirección de",
+          "inicio": 653,
+          "fin": 668
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793122214593",
+        "nombre": "Emiliano Bruner",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 701,
+            "fin16": 716,
+            "texto": "Emiliano Bruner",
+            "inicio": 701,
+            "fin": 716
+          }
+        ],
+        "genero": "desconocido",
+        "indicio_genero": null,
+        "citas": [],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 653,
+          "fin16": 668,
+          "texto": "la dirección de",
+          "inicio": 653,
+          "fin": 668
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793122257759",
+        "nombre": "Palmira Saladié",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 732,
+            "fin16": 747,
+            "texto": "Palmira Saladié",
+            "inicio": 732,
+            "fin": 747
+          }
+        ],
+        "genero": "desconocido",
+        "indicio_genero": null,
+        "citas": [],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 653,
+          "fin16": 668,
+          "texto": "la dirección de",
+          "inicio": 653,
+          "fin": 668
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 434
+  }
+}

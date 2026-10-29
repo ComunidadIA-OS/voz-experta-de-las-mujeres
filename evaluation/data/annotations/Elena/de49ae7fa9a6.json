@@ -1,0 +1,191 @@
+{
+  "article_id": "de49ae7fa9a6",
+  "url": "https://www.agenciasinc.es/Noticias/Como-la-profundidad-moldea-el-canto-de-las-ballenas",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:29+00:00",
+  "article_sha256": {
+    "titular": "0654f714e90169b40cdcfa98ae27399a169b69ccce7a4511377e33ea6f34a14d",
+    "entradilla": "1b118e12e2a154421bbfc7b5a28ca62007d3cc1618f8bd3dd04554ca1e453fe1",
+    "cuerpo": "ac59488421c46be171cafdf4dae92dbff18a670cf8375480e05ef8e12ab3c10a"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Julia Zeh",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "primera autora del estudio e investigadora de la Universidad de Siracusa",
+      "gender_representation": "woman",
+      "gender_evidence": "primera autora",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“El canto de la ballena jorobada parece ser un despliegue de apareamiento utilizado para atraer hembras y/o competir con otros machos; sin embargo, al ser tan complejo, este hallazgo nos brinda una estructura para enfocar la investigación sobre cuál es el significado del canto”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Esto nos da una idea de qué partes de la canción debemos investigar si nos interesa la variación, que probablemente esté impulsada por la selección sexual”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "La experta señala, además, que la variación concentrada cerca de los puntos más profundos de la columna de agua de una ballena puede ser donde la canción de un macho se esfuerza más por destacar.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Zeh considera probable que las limitaciones fisiológicas sean similares, aunque las diferencias documentadas en la evolución del canto entre hemisferios sugieren que la estructura de estas vocalizaciones podría estar sometida a presiones distintas en cada población.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Lo que más me sorprendió y entusiasmó fue comprobar por primera vez hasta qué punto las inmersiones de las ballenas jorobadas mientras cantaban seguían patrones regulares. Al superponer el canto sobre el perfil de las inmersiones, observamos que ambos coincidían casi a la perfección. Era algo inédito y me llevó a reflexionar sobre cómo nadar y bucear puede limitar y, al mismo tiempo, moldear el canto de una ballena”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Combinar la acústica con los datos de movimiento me permitió plantear nuevas preguntas sobre el comportamiento de las ballenas y abordar de otra forma fenómenos tan estudiados como su canto”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "La investigadora señala que esta experiencia ha sentado las bases de su trabajo actual en monitoreo y conservación ecológica.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793123278422",
+        "nombre": "Julia Zeh",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3635,
+            "fin16": 3644,
+            "texto": "Julia Zeh",
+            "inicio": 3635,
+            "fin": 3644
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 3646,
+          "fin16": 3660,
+          "texto": "primera autora",
+          "inicio": 3646,
+          "fin": 3660
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3340,
+            "fin16": 3619,
+            "texto": "“El canto de la ballena jorobada parece ser un despliegue de apareamiento utilizado para atraer hembras y/o competir con otros machos; sin embargo, al ser tan complejo, este hallazgo nos brinda una estructura para enfocar la investigación sobre cuál es el significado del canto”,",
+            "tipo": "directa",
+            "inicio": 3340,
+            "fin": 3619
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3720,
+            "fin16": 3877,
+            "texto": "“Esto nos da una idea de qué partes de la canción debemos investigar si nos interesa la variación, que probablemente esté impulsada por la selección sexual”,",
+            "tipo": "directa",
+            "inicio": 3720,
+            "fin": 3877
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3890,
+            "fin16": 4085,
+            "texto": "La experta señala, además, que la variación concentrada cerca de los puntos más profundos de la columna de agua de una ballena puede ser donde la canción de un macho se esfuerza más por destacar.",
+            "tipo": "indirecta",
+            "inicio": 3890,
+            "fin": 4085
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4826,
+            "fin16": 5092,
+            "texto": "Zeh considera probable que las limitaciones fisiológicas sean similares, aunque las diferencias documentadas en la evolución del canto entre hemisferios sugieren que la estructura de estas vocalizaciones podría estar sometida a presiones distintas en cada población.",
+            "tipo": "indirecta",
+            "inicio": 4826,
+            "fin": 5092
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5504,
+            "fin16": 5924,
+            "texto": "“Lo que más me sorprendió y entusiasmó fue comprobar por primera vez hasta qué punto las inmersiones de las ballenas jorobadas mientras cantaban seguían patrones regulares. Al superponer el canto sobre el perfil de las inmersiones, observamos que ambos coincidían casi a la perfección. Era algo inédito y me llevó a reflexionar sobre cómo nadar y bucear puede limitar y, al mismo tiempo, moldear el canto de una ballena”",
+            "tipo": "directa",
+            "inicio": 5504,
+            "fin": 5924
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 6564,
+            "fin16": 6755,
+            "texto": "“Combinar la acústica con los datos de movimiento me permitió plantear nuevas preguntas sobre el comportamiento de las ballenas y abordar de otra forma fenómenos tan estudiados como su canto”",
+            "tipo": "directa",
+            "inicio": 6564,
+            "fin": 6755
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 6769,
+            "fin16": 6894,
+            "texto": "La investigadora señala que esta experiencia ha sentado las bases de su trabajo actual en monitoreo y conservación ecológica.",
+            "tipo": "indirecta",
+            "inicio": 6769,
+            "fin": 6894
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 3646,
+          "fin16": 3718,
+          "texto": "primera autora del estudio e investigadora de la Universidad de Siracusa",
+          "inicio": 3646,
+          "fin": 3718
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 75
+  }
+}

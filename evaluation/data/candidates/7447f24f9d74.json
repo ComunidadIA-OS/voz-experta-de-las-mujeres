@@ -1,0 +1,26 @@
+{
+  "id": "7447f24f9d74",
+  "url": "https://www.agenciasinc.es/Noticias/Identifican-nuevos-biomarcadores-para-el-diagnostico-y-seguimiento-de-la-covid-persistente",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-29T09:30:00+02:00",
+  "fuente_y_derechos": "Fuente: URJC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:45+00:00",
+  "campos": {
+    "titular": "Identifican nuevos biomarcadores para el diagnóstico y seguimiento de la covid persistente",
+    "entradilla": "En los pacientes de ‘long covid’, más de dos millones en España, el sistema inmunitario se comporta como si el virus siguiese activo provocando inflamación crónica. Un estudio de las universidades Complutense de Madrid y Rey Juan Carlos ha detectado dos elementos específicos de esta enfermedad que podrían estar detrás de esta cascada inmunitaria.",
+    "cuerpo": "Un equipo de investigación de la Universidad Complutense de Madrid (UCM) y de la Universidad Rey Juan Carlos (URJC) avanza en la comprensión de los mecanismos inmunológicos detrás de la covid persistente al detectar dos biomarcadores que podrían ayudar a su diagnóstico y a su seguimiento.\nPor un lado, los investigadores han observado la presencia elevada de anticuerpos inmunoglobulina A (IgA) en saliva frente a una proteína del coronavirus, la nucleocápside, no incluida en las vacunas que se administran en España. Esto apunta a una desregulación a nivel de las mucosas, como si el sistema inmune siguiese activado por la presencia del virus.\nPor otro lado, el trabajo, publicado en Frontiers in Immunology, describe una disminución del componente C3 del sistema del complemento, un conjunto de aproximadamente 50 proteínas entre componentes y reguladores, que se activan en cascada ante la presencia de un virus en nuestro organismo.\nEl descenso de los niveles de C3 en los pacientes puede deberse a una activación excesiva del complemento frente a componentes del coronavirus SARS-CoV-2 y a otros antígenos. Esta promueve la atracción y activación de células inmunitarias, lo que contribuye a procesos inflamatorios.\nLa novedad del estudio es correlacionar por primera vez la presencia elevada en los pacientes de anticuerpos IgG frente a la nucleocápside y el consumo del complemento detectado en el ensayo denominado CH50. El hallazgo indica que los anticuerpos IgG anti-nucleocápside, que están elevados en pacientes con covid persistente, podrían activar el complemento y promover la respuesta inmunitaria. Esta puede resultar dañina y provocar inflamación crónica.\n“Ambos parámetros considerados conjuntamente, IgA anti-nucleocápside y C3, podrían contribuir a un panel de biomarcadores para diagnóstico y seguimiento de los pacientes”, destaca Narcisa Martínez Quiles, catedrática de Inmunología de la Facultad de Medicina de la UCM y coordinadora del estudio.\nPara llevar a cabo la investigación, se ha estudiado a 34 individuos control que pasaron la infección sin secuelas y 104 pacientes con post-covid, cuyas muestras fueron obtenidas gracias a la asociación de covid persistente de la Comunidad de Madrid (AMACOP).\nAlrededor de 2 millones de personas en España sufren COVID persistente. Científicamente se considera un síndrome post-viral y por ello también se denomina síndrome post-covid. Tras la infección por el SARS-CoV-2, que todavía continúa circulando, algunas personas desarrollan secuelas que pueden prolongarse durante años, y afectar a distintos órganos y sistemas, como el vascular, el inmunitario o el nervioso.\nEstas manifestaciones pueden variar desde leves hasta graves, llegando en algunos casos a ser incapacitantes. Hay descritos alrededor de 200 síntomas, entre ellos: pérdida de olfato y gusto, afonía, ‘niebla mental’ y pérdida de memoria, cansancio o agotamiento, dolor muscular y articular. Las estimaciones más recientes calculan que al menos el 10 % de infecciones en adultos, y el 1 - 4 % en niños, podrían haber llevado al desarrollo de diversas secuelas.\n“Las causas por las cuales algunos individuos infectados desarrollan el síndrome no se conocen con exactitud, aunque hay factores de riesgo tales como mayor gravedad durante la infección aguda (neumonía), sexo femenino, enfermedades previas e infección antes de vacunación”, concluyen los autores. En cuanto a los mecanismos que lo producen, cada vez más estudios implican la desregulación de la respuesta inmunitaria."
+  },
+  "sha256": {
+    "titular": "c87d27bb42f50a653d72393ebcbe288b47fd3569bc6d268342393a559f41de2c",
+    "entradilla": "51dcbb9a3517233ff5a37bcf21b405936d1a24f6a07a265a5d3ba2767b9ad743",
+    "cuerpo": "7de9dbb44275c30e5d16bae5919b7e4da69ded2e44e29f6e3a9979111e332aa1"
+  }
+}

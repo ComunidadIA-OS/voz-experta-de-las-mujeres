@@ -1,0 +1,26 @@
+{
+  "id": "86d9f074e7bf",
+  "url": "https://www.agenciasinc.es/Noticias/Sanidad-concluye-que-la-homeopatia-no-es-eficaz-para-tratar-ninguna-enfermedad",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-21T14:03:00+02:00",
+  "fuente_y_derechos": "Fuente: Salvador Aguilar, María Trinidad Bretones y Jaime Pastor | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Farmacología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:47:05+00:00",
+  "campos": {
+    "titular": "Sanidad concluye que la homeopatía no es eficaz para tratar ninguna enfermedad",
+    "entradilla": "Un informe técnico de la AEMPS ha revisado más de una década de literatura científica y sitúa a estos productos al mismo nivel que el placebo, además de advertir del riesgo que supone abandonar tratamientos médicos con eficacia demostrada.",
+    "cuerpo": "La Agencia Española de Medicamentos y Productos Sanitarios (AEMPS) ha concluido que no existe evidencia científica que avale la eficacia de la homeopatía en ninguna patología. El diagnóstico se recoge en un informe oficial publicado este martes por el Ministerio de Sanidad tras analizar 64 revisiones sistemáticas de la literatura científica internacional publicadas desde 2009.\nEl documento señala que los estudios que atribuyen beneficios a los productos homeopáticos presentan, en general, una baja calidad metodológica, con muestras reducidas, periodos de seguimiento cortos o deficiencias en la aleatorización. A medida que aumenta el rigor de los ensayos clínicos, añade el informe, los efectos positivos atribuidos a la homeopatía disminuyen hasta desaparecer por completo, lo que sitúa su eficacia al nivel del placebo.\nDesde el punto de vista científico, la AEMPS subraya que los principios en los que se basa la homeopatía resultan incompatibles con el conocimiento actual en física, química y farmacología. En las diluciones habituales, como la 12 CH, el procedimiento hace matemáticamente imposible que quede una sola molécula de la sustancia original en el preparado, lo que elimina cualquier relación causal entre el producto y un posible efecto terapéutico. Incluso una dilución menor, de 6 CH, equivaldría a disolver un sobre de azúcar en todo el mar Mediterráneo, según ilustra el informe.\nEl documento también rechaza conceptos como la denominada ‘memoria del agua’, que sostiene que el disolvente conservaría las propiedades de una sustancia ausente, al considerarlos postulados sin base empírica que contradicen el pensamiento científico. En este contexto, la AEMPS recuerda que la plausibilidad biológica es un criterio clave para evaluar la validez de cualquier intervención terapéutica.\nEn el ámbito regulatorio, el informe explica que, tras un proceso de regularización conforme a la normativa europea y nacional, en España no existe ningún producto homeopático autorizado con indicación terapéutica. Los 976 preparados que permanecen registrados lo hacen mediante un procedimiento simplificado, basado en diluciones extremas que garantizan su inocuidad, pero que no exige demostrar eficacia y prohíbe incluir indicaciones médicas en el etiquetado.\nLa posición española se alinea con la tendencia de otros países. Francia eliminó el reembolso público de la homeopatía en 2021, el Reino Unido dejó de financiarla con fondos públicos y Australia desaconseja su uso para tratar enfermedades crónicas o graves. Alemania prevé suprimir definitivamente la cobertura por el seguro médico legal y Estados Unidos exige advertencias explícitas sobre la ausencia de pruebas científicas que respalden estos productos.\nAunque suele percibirse como una opción inocua por su carácter ‘natural’, la AEMPS recuerda que se han notificado reacciones adversas graves asociadas a productos homeopáticos, incluidas intoxicaciones y fallecimientos en lactantes en otros países.\nNo obstante, el principal riesgo identificado es el abandono o retraso de tratamientos médicos con eficacia demostrada, una decisión que puede tener consecuencias graves para la salud, especialmente en enfermedades crónicas o potencialmente mortales.\nCon este informe, el Ministerio de Sanidad reafirma en un comunicado su compromiso con una medicina basada en la evidencia y con la protección de la salud pública. La conclusión es rotunda: ante la ausencia de pruebas sobre su eficacia, la homeopatía no puede considerarse una alternativa terapéutica válida y su uso no debe sustituir a tratamientos que sí han demostrado beneficios clínicos."
+  },
+  "sha256": {
+    "titular": "8628ea22dfcf3377c28acfcbf398d0262882865749b21b88de85cfb0e0bc99e5",
+    "entradilla": "413680f8e0d89d0a66588e1e066188883ba080478f9a1b7ef582fdf21b7a32ec",
+    "cuerpo": "936d80a97b7c6362b16c3fe78fae13b4a4b009a8834bd1aede89b102057deb57"
+  }
+}

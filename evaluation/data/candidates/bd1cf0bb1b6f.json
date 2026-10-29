@@ -1,0 +1,26 @@
+{
+  "id": "bd1cf0bb1b6f",
+  "url": "https://www.agenciasinc.es/Noticias/Un-visor-de-acceso-abierto-facilita-el-seguimiento-y-analisis-de-los-terremotos-en-Granada",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-21T10:14:00+02:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades tecnológicas"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:35:32+00:00",
+  "campos": {
+    "titular": "Un visor de acceso abierto facilita el seguimiento y análisis de los terremotos en Granada",
+    "entradilla": "El CSIC lo ha desarrollado como parte de las labores de asesoramiento científico-técnico que está prestando a las autoridades a través del Grupo de Asesoramiento en Desastres y Emergencias.",
+    "cuerpo": "El Consejo Superior de Investigaciones Científicas (CSIC), organismo adscrito al Ministerio de Ciencia, Innovación y Universidades, ha desarrollado un visor de acceso abierto para facilitar el seguimiento y análisis de la serie sísmica registrada desde el pasado 15 de agosto en la Vega de Granada.\nLa creación del visor se enmarca en las labores que desarrolla el Grupo de Asesoramiento en Desastres y Emergencias (GADE) del CSIC para el seguimiento y análisis de la actividad sísmica. El grupo fue activado el pasado 15 de agosto, a petición de la Agencia de Emergencias de la Junta de Andalucía a través del Centro Nacional de Seguimiento y Coordinación de Emergencias (CENEM), con el objetivo de proporcionar asesoramiento científico-técnico a las autoridades responsables de la gestión de la emergencia.\nLa herramienta permite consultar la evolución temporal y la distribución espacial de los terremotos sobre mapas geológicos y de satélite, así como identificar su relación con las principales fallas activas de la zona.\nLa información que muestra el visor procede de fuentes científicas oficiales. Los terremotos se incorporan a partir de los datos del Instituto Geográfico Nacional (IGN), que se consultan en tiempo real al abrir la herramienta.\nEl visor permite así ir acumulando los nuevos eventos registrados en la zona y seguir la evolución de la serie sísmica. Además, incluye información sobre los terremotos registrados entre 2015 y 2026 a partir del Centro Sismológico Euro-Mediterráneo (EMSC). En cuanto a las fallas activas, los datos proceden de la base de datos QAFI, desarrollada por el IGME-CSIC, que recoge las principales fallas activas de la península ibérica.\nLa responsable de emergencias del CSIC, Inés Galindo, y el coordinador de riesgos geológicos, Juan Carlos García, han asumido la coordinación del GADE, que cuenta con personal investigador del Instituto Geológico y Minero de España (IGME-CSIC), del Instituto de Ciencias Marinas de Andalucía (ICMAN-CSIC) y el Instituto de Ciencias de la Construcción Eduardo Torroja (IETCC).\nDesde el 15 de agosto, el equipo científico del GADE ha analizado los terremotos registrados, estudiando su distribución espacial, profundidad y evolución temporal, así como su relación con las fallas activas de la zona. Este seguimiento permite caracterizar cómo evoluciona la actividad sísmica y analizar la secuencia de réplicas que se producen tras los terremotos de mayor magnitud.\nAdemás, el equipo aplica modelos de análisis de la actividad sísmica que permiten estudiar la evolución de las réplicas y evaluar la posible activación de fallas próximas durante las horas y días posteriores a los eventos principales. Este análisis contribuye a mejorar el conocimiento de la evolución de la serie y a proporcionar información científica de utilidad para la toma de decisiones durante la emergencia.\nAsimismo, el GADE participa en las reuniones del Comité Asesor del Plan de Emergencia ante el Riesgo Sísmico en Andalucía, convocadas por la Junta de Andalucía, en las que se analiza la evolución de la serie sísmica registrada en Granada, se valoran las incidencias y se coordina el seguimiento científico y operativo de la situación.\nLa Consejería de Presidencia, Sanidad y Emergencias de la Junta de Andalucía es la principal autoridad responsable de la gestión de la emergencia. En este sentido, las autoridades recuerdan que los terremotos no se pueden predecir. Sin embargo, conocer y aplicar las medidas de autoprotección puede contribuir a reducir sus consecuencias.\nLa ciudadanía puede consultar las recomendaciones de actuación ante estos fenómenos en la Guía básica de protección ante terremotos de la Junta de Andalucía. Actualmente, está activado el Plan de Emergencia ante el Riesgo Sísmico en fase de Emergencia, situación operativa 1."
+  },
+  "sha256": {
+    "titular": "fb805e2624ef257f785410fc4778390133e494fb7a6ad6f0d072f12b14ed1e40",
+    "entradilla": "72806a61a9def6d578506f92933982764223bbe84c612ce582455a8f77f111ac",
+    "cuerpo": "372b2179c9bc2b5204b0be27e250c04d38dfbd9d456e014adeb40784c2f37ce6"
+  }
+}

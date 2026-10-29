@@ -1,0 +1,26 @@
+{
+  "id": "f6adfe788001",
+  "url": "https://www.agenciasinc.es/Noticias/Las-plantas-ajustan-su-crecimiento-espiando-el-aroma-de-sus-vecinas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-28T10:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:52+00:00",
+  "campos": {
+    "titular": "Las plantas ajustan su crecimiento ‘espiando’ el aroma de sus vecinas",
+    "entradilla": "Un equipo de la Universidad Sueca de Ciencias Agrícolas muestra que los compuestos orgánicos volátiles que emiten plantas sanas permiten a sus vecinas detectar su ritmo de crecimiento y ajustar el suyo propio, modulando tanto el desarrollo como la expresión génica. El hallazgo amplía la comprensión de la comunicación vegetal.",
+    "cuerpo": "Las plantas tienen la capacidad de detectar las tasas de crecimiento de sus vecinas a través de señales aromáticas llamadas compuestos orgánicos volátiles y, posteriormente, ajustar la cantidad de energía que invierten en su propio crecimiento o estrategias de defensa mediante la expresión genética adaptativa. Esta es la principal conclusión de un estudio, publicada en Journal of Experimental Botany y llevada a cabo por investigadores de la Universidad Sueca de Ciencias Agrícolas.\nLos compuestos orgánicos volátiles son sustancias químicas a base de carbono que se evaporan fácilmente y que las plantas producen para comunicarse con herbívoros, polinizadores y otras plantas. También generan una gran variedad de fragancias y se utilizan en perfumes, cosméticos, alimentos y productos de limpieza.Hasta ahora, la mayor parte de la investigación se ha centrado en plantas dañadas que liberan señales químicas de alarma para advertir a sus vecinas y activar sus defensas frente a herbívoros. Este estudio describe una función hasta ahora desconocida de las emisiones de plantas sanas en entornos de cultivo competitivos.\n“Las plantas sanas liberan de forma constante su propia ‘huella química’ al aire, y sus vecinas interpretan esas señales para ajustar no solo sus defensas, sino toda su estrategia de crecimiento”, afirma Velemir Ninkovic, de la universidad suecas. “Es como una conversación continua entre vecinas. Además, comprobar que estos compuestos orgánicos volátiles pueden modificar el crecimiento y la actividad genética abre una nueva perspectiva sobre la comunicación vegetal”.\nPara comprender mejor el papel de estos compuestos en plantas sanas, Ninkovic y su equipo realizaron dos experimentos de laboratorio con tres cultivares de cebada (Hordeum vulgare) de crecimiento lento (Fairytale), intermedio (Luhkas) y rápido (Salome), cada uno con perfiles distintos de compuestos orgánicos volátiles.En los ensayos, las plantas de crecimiento lento y rápido se expusieron a emisiones de los tres cultivares, y los efectos sobre su desarrollo y sus defensas se evaluaron tras 25 días mediante el análisis de sus características físicas y de la expresión génica.\n“Las plantas receptoras de compuestos orgánicos volátiles ajustaron su crecimiento para adaptarse a la presión competitiva que les indicaba el olor de sus vecinas: crecieron más cuando estaban expuestas a una vecina de crecimiento rápido y menos cuando estaban expuestas a una de crecimiento lento”, explica Ninkovic. “Este efecto se observó de forma consistente en todas las partes de la planta: hojas, tallos y raíces, en lugar de que la planta simplemente redistribuyera los recursos entre sus partes”.\nEl análisis genético mostró que estos cambios en la biomasa se relacionan con variaciones en las vías de crecimiento y defensa. La exposición al perfil de Fairytale, de crecimiento lento, activó genes de respuesta al estrés —vinculados a la protección frente a herbívoros— y redujo la actividad de genes implicados en el transporte celular y la replicación del ADN; el patrón inverso se observó con el perfil de Salome, de crecimiento rápido.\nEntre los compuestos más asociados a estas señales destacan el nitrilo bencílico, el linalol y el octanal, responsables de fragancias florales como la lavanda y los cítricos, así como de aromas más metálicos y terrosos.\n“Las plantas liberan de forma natural una mezcla de compuestos volátiles, y tiene sentido que hayan desarrollado la capacidad de detectar estas señales tras millones de años de coexistencia”, afirma Ninkovic. “Creemos que este tipo de interacción está muy extendida en el reino vegetal, aunque su intensidad varía entre especies”."
+  },
+  "sha256": {
+    "titular": "f4e9e1c21237db8602dd0818b376e2ec32fae929f96197a2f8a6544a1e84257a",
+    "entradilla": "e1460825f4268ee5b0a81d17c5d1201cbbd6ce7d03e1824a901f837e0377bf76",
+    "cuerpo": "adda836bc5cac0499efa0569d7bc9d35198e611a78f17371d723fa18cd8a1017"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "08597e1ec28e",
+  "url": "https://www.agenciasinc.es/Noticias/Deberian-las-aerolineas-limitar-la-eleccion-de-asiento-por-seguridad-El-dilema-del-pasajero-senior",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-03-31T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:48:48+00:00",
+  "campos": {
+    "titular": "¿Deberían las aerolíneas limitar la elección de asiento por seguridad? El dilema del pasajero sénior",
+    "entradilla": "Un estudio sobre evacuaciones en el Airbus A320 cuestiona el modelo actual de libre elección de plaza tras demostrar que la distribución de los pasajeros mayores de 60 años es el factor que más retrasa la salida en caso de emergencia.",
+    "cuerpo": "En la aviación comercial moderna, el pasajero es el dueño de su ubicación: previo pago, uno puede elegir la cercanía a la salida, el espacio para las piernas o la proximidad a la cabina. Sin embargo, esta lógica comercial podría estar colisionando con la seguridad física.\nUn nuevo estudio internacional publicado este martes en la revista AIP Advances sugiere que la libertad para elegir asiento debería estar supeditada a un reparto estratégico de los pasajeros según su edad para garantizar una evacuación eficiente.\nLos investigadores han simulado 27 escenarios de emergencia en un Airbus A320 —el modelo de pasillo único más extendido— ante un incendio crítico en ambos motores. Los resultados son reveladores: la velocidad de vaciado del avión no depende tanto del número de salidas abiertas, sino de cómo están repartidos los pasajeros de más de 60 años por la cabina. Cuanto más concentrados están en una zona, más lento es el flujo de todo el pasaje.\nLa Administración Federal de Aviación (FAA, por sus siglas en inglés) exige que cualquier aeronave pueda evacuarse en 90 segundos. El estudio demuestra que, con una población mundial cada vez más envejecida, este objetivo es casi una utopía técnica si no se interviene en la disposición de los asientos. En la mejor de las simulaciones, donde los pasajeros sénior estaban distribuidos de forma estrictamente uniforme, el tiempo de evacuación fue de 141 segundos, muy por encima del límite legal.\n“Aunque un incendio doble es estadísticamente raro, eventos de baja probabilidad pero alto impacto como el 'Milagro en el Hudson' nos obligan a buscar los estándares de seguridad más altos”, afirma Chenyang Zhang, investigador en la Universidad de Calgary (Canada) y coautor del estudio. La investigación plantea un dilema para las aerolíneas: ¿deberían intervenir en la asignación de asientos, limitando las opciones de elección del usuario, para evitar embotellamientos mortales?\nEl problema identificado no es solo una cuestión de agilidad física. El estudio integra datos sobre cómo el declive cognitivo asociado a la edad afecta a la toma de decisiones bajo un estrés extremo. Un pasajero de edad avanzada puede tardar más segundos en procesar las instrucciones de la tripulación o en reaccionar ante una alarma, lo que genera un efecto dominó que bloquea el pasillo para el resto de los ocupantes.\n“Nuestros hallazgos sugieren que las aerolíneas podrían mitigar riesgos de forma proactiva mediante una distribución estratégica del pasaje”, explica Zhang. Esto implicaría que los sistemas de reserva no permitieran la acumulación de perfiles de movilidad lenta en determinadas filas, rompiendo así con la actual libertad total de elección de asiento que impera en el mercado.\nEl equipo de investigación propone que, además de esta redistribución física, se implementen protocolos de seguridad específicos. Si las aerolíneas conocen de antemano la ubicación de los pasajeros más vulnerables, podrían ofrecer sesiones informativas personalizadas antes del despegue para compensar posibles retrasos en la evacuación.\nEl trabajo no se detendrá en la tercera edad. Los científicos ya planean expandir estas simulaciones para incluir a niños, lactantes y mujeres embarazadas, colectivos que presentan mecánicas de movimiento únicas y que, en conjunto, obligarán a la industria aérea a repensar si el asiento donde viajamos debe ser una decisión puramente económica o una medida de protección colectiva."
+  },
+  "sha256": {
+    "titular": "80d95e80432b37fe515a7ce09cda5ab3acb97bc7bc325fc0600726e532246148",
+    "entradilla": "df2f3cb12bfe8f9c0306dfb2d61cefd3468d405afb3c11cd284fe0cbea01e6fd",
+    "cuerpo": "7566c84c981f53f1151b3c1050aed5bf443ebffa9451c50310c5c3eff2c3f865"
+  }
+}

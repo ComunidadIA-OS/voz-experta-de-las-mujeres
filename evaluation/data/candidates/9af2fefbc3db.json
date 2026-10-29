@@ -1,0 +1,26 @@
+{
+  "id": "9af2fefbc3db",
+  "url": "https://www.agenciasinc.es/Noticias/Detectan-una-colision-cosmica-que-desafia-el-modelo-clasico-de-las-fusiones-estelares",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-03-11T12:11:00+01:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:25+00:00",
+  "campos": {
+    "titular": "Detectan una colisión cósmica que desafía el modelo clásico de las fusiones estelares",
+    "entradilla": "El análisis de ondas gravitacionales apunta a una fusión inédita entre un agujero negro y una estrella de neutrones que se movían en una órbita excéntrica. La observación aporta pistas nuevas sobre cómo se forman y evolucionan estos sistemas extremos.",
+    "cuerpo": "Un equipo científico internacional ha descubierto una colisión cósmica (de un agujero negro con una estrella de neutrones) que orbitaban en una trayectoria ovalada y no en un perfecto círculo, lo que desafía el modelo clásico de las fusiones estelares.\nLos autores del estudio han hallado las primeras evidencias sólidas de esa colisión entre las dos partes cuando cubrían una órbita elíptica, lo que resulta trascendental para la ciencia porque hasta ahora se pensaba que esas fusiones ocurrían cuando esos 'pares' cubrían órbitas circulares antes de colisionar.\nLo han descubierto investigadores de la Universidad Autónoma de Madrid (UAM), de la Universidad de Birmingham y el Instituto Max Planck de Física Gravitacional, y los resultados del trabajo se han publicado en The Astrophysical Journal Letters.\nLa mayoría de los pares de estrellas de neutrones y agujeros negros adoptan órbitas circulares mucho antes de fusionarse, pero un evento ondas (el bautizado como GW200105) ha mostrado que este sistema se desplazó en una órbita ovalada mucho antes de fusionarse para formar un agujero negro trece veces más masivo que el Sol, lo cual nunca antes se había observado.\nEl investigador Gonzalo Morras, de la UAM y del Instituto Max Planck de Física Gravitacional, ha destacado que se trata de una prueba convincente de que no todos los pares de estrellas de neutrones y agujeros negros comparten el mismo origen, y ha apuntado que la órbita excéntrica sugiere un lugar de nacimiento en un entorno donde muchas estrellas interactúan gravitacionalmente.\nLos científicos han explicado que este descubrimiento proporciona nuevas pistas que son \"cruciales\" para entender cómo se forman estos objetos extremos, revela que los modelos teóricos conocidos hasta ahora están incompletos y plantea nuevas preguntas sobre en qué lugar del universo se originan estos sistemas.\nLos investigadores analizaron datos de dos detectores de ondas gravitacionales (Ligo y Virgo) utilizando un nuevo modelo desarrollado en el Instituto de Astronomía de Ondas Gravitacionales de la Universidad de Birmingham, lo que les permitió medir tanto la órbita ovalada y excéntrica como cualquier oscilación inducida por la rotación, y han valorado que esta ha sido la primera vez que se miden estos dos efectos conjuntamente en un evento de estrella de neutrones y agujero negro."
+  },
+  "sha256": {
+    "titular": "29c3d4b7beb124cc681e4808d0b21c8b1b5143fef6600695b30b230512aa2aa4",
+    "entradilla": "9f5fd51a063961aca8e94f6fa0cad352ab45f80bf125634d2b2281574952d2cb",
+    "cuerpo": "916df49eb7505fc74aa5e90146c3d189b5cceb579edc51ad772c9978ebe43c5c"
+  }
+}

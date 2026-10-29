@@ -1,0 +1,26 @@
+{
+  "id": "653b815b68c3",
+  "url": "https://www.agenciasinc.es/Noticias/La-IA-permite-interceptar-drones-no-autorizados-en-el-espacio-aereo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-02T10:27:00+01:00",
+  "fuente_y_derechos": "Fuente: UPM | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Tecnología de los sistemas de transporte"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:51:22+00:00",
+  "campos": {
+    "titular": "La IA permite interceptar drones no autorizados en el espacio aéreo",
+    "entradilla": "Un equipo de investigadores de la Universidad Politécnica de Madrid demuestra que el aprendizaje por refuerzo −una rama de la inteligencia artificial− permite a drones autónomos interceptar de forma segura otros drones no autorizados, incluso en condiciones adversas y ante maniobras impredecibles.",
+    "cuerpo": "La creciente presencia de drones en el espacio aéreo controlado plantea importantes retos para la seguridad, especialmente en entornos sensibles como aeropuertos, infraestructuras críticas o futuras ciudades con movilidad aérea urbana.\nLa detección y neutralización de drones no autorizados es una necesidad cada vez más urgente para evitar tanto accidentes como interrupciones del tráfico aéreo, así como amenazas a la seguridad.\nEn este sentido, investigadores de la Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio (ETSIAE) de la Universidad Politécnica de Madrid (UPM), en colaboración con el Center for Computational Simulation (CCS), han desarrollado un nuevo sistema basado en inteligencia artificial capaz de interceptar drones no cooperativos de manera autónoma y eficiente.\nLos resultados obtenidos suponen un paso importante hacia sistemas autónomos más seguros e inteligentes para la gestión del espacio aéreo.\nMiembros del grupo de investigación ModelFlows han llevado a cabo un estudio centrado en el uso de aprendizaje por refuerzo, una rama de la inteligencia artificial que permite a los sistemas aprender mediante ensayo y error.\nEn este caso, los investigadores entrenaron un dron de ala fija para perseguir e interceptar a otro dron que intenta evadirlo utilizando distintas estrategias de escape. A diferencia de los métodos clásicos de control (que suelen fallar ante comportamientos impredecibles), el sistema propuesto aprende a adaptarse a situaciones nuevas y no vistas durante el entrenamiento.\nPara lograrlo, el equipo comparó varios algoritmos de aprendizaje por refuerzo, incluyendo enfoques tradicionales y un método avanzado basado en modelos predictivos del entorno. Los entrenamientos y pruebas se realizaron en simulaciones de alta fidelidad que reproducen con gran realismo la dinámica de vuelo, incorporando además perturbaciones como rachas de viento y ruido en los sensores.\nEl trabajo ha sido publicado recientemente en la revista internacional Aerospace Science and Technology. El primer autor del estudio, Francisco Giral, investigador en el grupo ModelFlows y doctorando en la ETSIAE de la UPM, trabaja en el desarrollo de sistemas autónomos basados en inteligencia artificial.\nSu investigación se centra especialmente en el uso del aprendizaje por refuerzo para el control de vuelo y la planificación de trayectorias, con aplicaciones directas en seguridad aérea y gestión del espacio aéreo.\nSobre la investigación realizada comenta “los resultados que hemos obtenido muestran que el sistema no solo es capaz de interceptar al dron objetivo de forma rápida, sino que también mantiene un alto nivel de robustez frente a condiciones adversas y maniobras inesperadas del objetivo. En particular, el enfoque basado en modelos demostró una mayor estabilidad y capacidad de generalización, lo que lo hace especialmente prometedor para aplicaciones reales”.\nPor su parte, Soledad Le Clainche, investigadora de la UPM que ha participado en el trabajo, señala “las posibles aplicaciones del sistema que hemos desarrollado incluyen la protección de infraestructuras críticas, la seguridad aeroportuaria y el control del tráfico de drones en futuros entornos urbanos, donde convivirán aeronaves tripuladas y no tripuladas”."
+  },
+  "sha256": {
+    "titular": "50f689464f38fa980b0dcde0e6bd592bdc1830875ebc2793b7741085e8f697f6",
+    "entradilla": "313595cd3bdd427b82b8a73955a54b09683a2deb765eba4c04532380f8808472",
+    "cuerpo": "659f4ea571a9a8ef132e48d5f4678119e9e6e515c99915e101bf96cd8b7c1851"
+  }
+}

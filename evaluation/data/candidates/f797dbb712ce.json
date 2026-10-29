@@ -1,0 +1,26 @@
+{
+  "id": "f797dbb712ce",
+  "url": "https://www.agenciasinc.es/Noticias/Athena-el-nuevo-superordenador-de-la-NASA-que-brindara-apoyo-para-proximas-misiones",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-05T11:40:00+01:00",
+  "fuente_y_derechos": "Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Tecnología de los ordenadores"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:53:41+00:00",
+  "campos": {
+    "titular": "Athena, el nuevo superordenador de la NASA que brindará apoyo para próximas misiones",
+    "entradilla": "Entre sus habilidades, ofrece una capacidad de cálculo sin precedentes que supera en eficiencia y potencia a otras computadoras avanzadas como Aitkens o Pleiades. Con ella, la agencia norteamericana amplía los recursos disponibles para ayudar a científicos e ingenieros a abordar algunos de los retos más complejos del sector aeroespacial.",
+    "cuerpo": "La NASA anuncia el lanzamiento de su nuevo superordenador Athena para dar soporte a la próxima generación de misiones y proyectos de investigación en el espacio. El dispositivo pertenece al grupo Capacidad de Computación de Alto Rendimiento –HECC por sus siglas en inglés– y se ubica en el Centro de Investigación Ames de Silicon Valley, en California (EE UU).\nGracias a su potencia de cálculo, esta tecnología ayudará a científicos e ingenieros en el abordaje de tareas relativas a los sectores espacial, aeronáutico y científico. Sus capacidades superan a las de sus predecesores Aitken y Pleiades; y está a disposición de los investigadores de la agencia y científicos externos que apoyan sus programas.\nAthena se puso en marcha el pasado enero tras una batería de pruebas para analizar su productividad.\nConcretamente, ofrece un rendimiento máximo de 20 petaflops –unidades de medida que analiza la potencia de cálculo por segundo– y reduce el coste de la supercomputación dentro de la agencia estadounidense.\nSegún afirma el director científico de datos y responsable de la unidad HECC, Kevin Murphy, con esta tecnología podrán ampliar esfuerzos y proporcionar los recursos informáticos necesarios que satisfagan las necesidades de las misiones.\nEn su opinión, estos superordenadores son fundamentales porque proporcionan la potencia computacional necesaria para simular lanzamientos de cohetes, diseñar aviones de última generación y entrenar modelos básicos de inteligencia artificial que ayuden en el análisis de datos de nuevos hallazgos científicos.\nPor otro lado, el nombre de Athena hace referencia a la diosa griega de la sabiduría y fue seleccionado mediante un concurso de la unidad de HECC en marzo de 2025.\nLas capacidades del proyecto seguirán expandiéndose a medida que la agencia invierta en supercomputación avanzada para hacer frente a la creciente complejidad de las misiones en el espacio.\nPara ello, la capacidad de calcular de forma rápida, eficiente e inteligente será más importante que nunca. Con Athena, la NASA sentará las bases digitales para la próxima era de descubrimientos."
+  },
+  "sha256": {
+    "titular": "d74e104563b08078a083439873e53dbbc5dfeff5553c80a092e5aa977cd9012b",
+    "entradilla": "a05b6115853f40ee553fba1d363e9c4c7bd7df9c7551693229eb925f43e00ea8",
+    "cuerpo": "a7c467b3b785446e53c0ce0e9e0bff1e1cb422cebec0d038a8434e48134723bc"
+  }
+}

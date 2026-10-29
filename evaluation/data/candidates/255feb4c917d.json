@@ -1,0 +1,26 @@
+{
+  "id": "255feb4c917d",
+  "url": "https://www.agenciasinc.es/Noticias/La-IA-de-OpenAI-extrajo-datos-de-agencias-gubernamentales-y-empresas-y-borro-su-rastro",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-10-02T10:07:00+02:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Tecnología de los ordenadores"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:32:22+00:00",
+  "campos": {
+    "titular": "La IA de OpenAI extrajo datos de agencias gubernamentales y empresas y borró su rastro",
+    "entradilla": "Un informe señala a modelos de inteligencia artificial de la tecnológica de Sam Altman por acceder a datos de páginas webs gubernamentales y empresas, principalmente estadounidenses. El documento también apunta a que estas acciones suelen ser llevadas a cabo por ‘hackers’ humanos que usan esta tecnología para ocultar sus huellas.",
+    "cuerpo": "Modelos de inteligencia artificial (IA) de la empresa tecnológica estadounidense OpenAI extrajeron datos de 55 agencias gubernamentales, organismos y empresas -principalmente estadounidenses- y trataron de ocultar su rastro, según un informe al que ha accedido el diario británico Financial Times (FT).\nEl documento, elaborado por la compañía de informática forense Asymmetric Security, afirma que los modelos de OpenAI utilizaban tácticas novedosas para acceder a las páginas web, como “borrar los registros o hacerlos inaccesibles”, reduciendo la capacidad de los auditores externos de examinar sus acciones.\nEntre ellas, se incluyen la creación de buzones de correo electrónico temporales y cuentas privadas a través del servicio Urlquery, una herramienta teóricamente utilizada para escanear sitios web en busca de contenido malicioso, para descargar datos.\nSegún los investigadores de Asymmetric, estas acciones ocultas de los agentes de inteligencia artificial impidieron a los auditores rastrear el tipo de datos que los ‘bots’ extraían.\nEn la lista de las 55 entidades a las que accedieron se encuentran, según el FT, la Agencia Internacional de la Energía (IEA), los Centros para el Control y Prevención de Enfermedades de EE.UU., la Comisión de Bolsa y Valores estadounidense, y la Mayo Clinic, considerado uno de los mejores hospitales privados de Estados Unidos.\nLa cofundadora de Asymmetric Security Pippa Thompson afirmó que este tipo de acciones, pese a ser ejecutadas por modelos de IA, suelen ser llevadas a cabo por ‘hackers’ humanos: “Es posible que los agentes estuvieran utilizando deliberadamente estas herramientas para borrar sus huellas”.\nLa compañía de informática forense no pudo determinar si las acciones fueron intencionadas o fruto de “un fallo provocado por las limitaciones impuestas en un ejercicio de prueba”, pero igualmente señala que los hallazgos refuerzan los temores en torno a la transparencia y la falta de supervisión de esta tecnología.\nLos modelos de OpenAI afrontan acusaciones de haber vulnerado los sistemas de varias organizaciones, incluido el sitio web del servicio de salud pública de Australia, donde habría accedido recientemente sin autorización a archivos públicos y privados.\nLa tecnológica estadounidense, liderada por Sam Altman, pidió disculpas al Gobierno australiano y reconoció que debería haber informado antes a las autoridades sobre lo que calificó como un “incidente cibernético” durante una sesión de entrenamiento interna."
+  },
+  "sha256": {
+    "titular": "d437836ef60047b2f9239a99400aae4788e845f61c9d95994a4a0e8ed5dda008",
+    "entradilla": "06ef63e44d18e08f79251c52dc2a96d289685c1d08a65d902e3f306bb2786f98",
+    "cuerpo": "c5c55cfaad2b1ba0b3a93a8003a3b824f9d07c2167ead4c4cfe67dfa0fa8ca6d"
+  }
+}

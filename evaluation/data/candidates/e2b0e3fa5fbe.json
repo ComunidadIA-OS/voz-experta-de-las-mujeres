@@ -1,0 +1,26 @@
+{
+  "id": "e2b0e3fa5fbe",
+  "url": "https://www.agenciasinc.es/Noticias/Este-pariente-lejano-de-Pluton-no-deberia-tener-atmosfera-pero-la-tiene",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-05-04T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:46:05+00:00",
+  "campos": {
+    "titular": "Este pariente lejano de Plutón no debería tener atmósfera, pero la tiene",
+    "entradilla": "El descubrimiento del objeto 2002 XV93 sugiere que incluso los cuerpos pequeños del cinturón de Kuiper pueden retener capas gaseosas, alimentadas por criovulcanismo o impactos de cometas.",
+    "cuerpo": "En las profundidades del sistema solar, más allá de la órbita de Neptuno, el planeta enano Plutón era el único objeto conocido con una atmósfera claramente detectada.\nSin embargo, una campaña de observación internacional ha roto este paradigma al hallar evidencias de una capa gaseosa alrededor de un cuerpo mucho más pequeño: el plutino (objeto que comparte con Plutón alguna de sus características orbitales) 2002 XV93.\nEl hallazgo, liderado por Ko Arimatsu de la Universidad de Kioto y el Observatorio Astronómico Nacional de Japón, desafía las teorías actuales sobre la retención de volátiles en objetos de apenas 500 kilómetros de diámetro.\nSegún los datos publicados este lunes en la revista Nature Astronomy, este pariente lejano de Plutón posee una presión superficial de entre 100 y 200 nanobares, una cifra que, aunque es millones de veces más tenue que la de la Tierra, supera los límites detectados anteriormente en cuerpos mucho más grandes de la misma región.\nPara cazar este fenómeno, los investigadores recurrieron a una técnica de alta precisión denominada ocultación estelar. El 10 de enero de 2024, el objeto 2002 XV93 pasó exactamente por delante de una estrella lejana, bloqueando su luz momentáneamente. El evento fue monitorizado desde tres ubicaciones en Japón: los observatorios de Kioto y Kiso, y una estación operada por un astrónomo aficionado en Fukushima.\nA diferencia de los cuerpos sin aire, donde la luz de la estrella desaparece de forma instantánea, las curvas de luz de 2002 XV93 mostraron un desvanecimiento gradual tanto al inicio como al final de la ocultación. “Este comportamiento indica una firma refractiva causada por una capa atmosférica delgada”, explican los autores en el estudio publicado este lunes. La detección fue posible gracias al uso de cámaras CMOS de alta sensibilidad, capaces de captar variaciones sutiles de flujo luminoso en intervalos de milisegundos.\nLa existencia de una atmósfera en un cuerpo de este tamaño es una anomalía física. Debido a su baja gravedad y a las temperaturas de entre 40 y 50 Kelvin, gases como el metano, el nitrógeno o el monóxido de carbono deberían escapar al espacio en escalas de tiempo geológicamente breves. Por ello, los científicos proponen que esta atmósfera no es una reliquia primordial, sino que está siendo repuesta activamente.\nUna de las hipótesis principales es el criovulcanismo, donde procesos geológicos internos expulsan gases desde el interior del objeto hacia la superficie. Otra posibilidad es que se trate de un fenómeno transitorio generado por el impacto reciente de un pequeño objeto gélido, similar a un cometa, que habría liberado una nube de material volátil que rodea al cuerpo de forma temporal.\n“Este descubrimiento muestra que incluso un objeto transneptuniano de unos pocos cientos de kilómetros puede albergar, al menos transitoriamente, una atmósfera”, señala el equipo investigador.\nEste hallazgo obliga a revisar los modelos de evolución térmica y química de los objetos distantes. Hasta ahora, se pensaba que solo los planetas enanos masivos como Plutón, Eris o Makemake tenían potencial para retener gases, pero 2002 XV93 demuestra que la actividad en el borde del sistema solar es más compleja de lo previsto.\nEl siguiente paso para la astronomía será determinar la composición exacta de estos gases. Los investigadores apuntan al Telescopio Espacial James Webb (JWST) como la herramienta ideal para realizar espectroscopia de alta resolución y confirmar si el origen de esta envoltura es volcánico o accidental.\nLa colaboración entre profesionales y astrónomos aficionados se revela, además, como una estrategia crucial para monitorizar cómo cambia esta presión atmosférica en los próximos años."
+  },
+  "sha256": {
+    "titular": "5b3ce7e66f6e3f55ea397f0c6e403f2237feec0eee56841d1b36f7f750fa436f",
+    "entradilla": "0ace6f4b07ae09f03a118c999fd8c0af7a8603b76b8de6b7d6458450725c9f36",
+    "cuerpo": "7d17e39bb529a640f08c96d7e450bf9d150640105268acd2567e4d4be34c8986"
+  }
+}

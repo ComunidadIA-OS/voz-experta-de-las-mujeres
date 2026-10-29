@@ -1,0 +1,26 @@
+{
+  "id": "4f707ca6b90e",
+  "url": "https://www.agenciasinc.es/Noticias/Reprograman-hongos-vivos-para-crear-tejidos-autorreparables-autolimpiables-y-con-proteccion-solar",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-07-27T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Tecnología de materiales"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:38:06+00:00",
+  "campos": {
+    "titular": "Reprograman hongos vivos para crear tejidos autorreparables, autolimpiables y con protección solar",
+    "entradilla": "Un nuevo método de biofabricación aprovecha la red celular activa del hongo Cordyceps militaris para crear textiles vivos capaces de regenerar su superficie, autorrepararse con agua y ofrecer propiedades avanzadas sin recurrir a tratamientos químicos ni revestimientos sintéticos.",
+    "cuerpo": "Durante los últimos años, el desarrollo de materiales vivos ingenierizados (en inglés, Engineered Living Materials o ELMs) ha buscado integrar células vivas en estructuras macroscópicas para lograr propiedades autogenerativas. Sin embargo, la gran mayoría de los procesos de fabricación con micelio fúngico, uno de los candidatos más prometedores, destruían la viabilidad celular al emplear calor o secado químico para garantizar estabilidad, eliminando toda capacidad de adaptación del hongo.\nAhora, un equipo de científicos del Instituto de Tecnología Avanzada de Shenzhen (China) ha diseñado una plataforma capaz de preservar la actividad metabólica del hongo en láminas textiles flexibles y con resultados visualmente espectaculares.\nEl estudio, publicado en la revista Science Advances, detalla cómo el uso de agregados de micelio (pellets) moldeados a baja energía y tratados con glicerol permite obtener una matriz duradera. Este plastificante rompe la red rígida de enlaces de hidrógeno de la pared celular fúngica, aumentando su ductilidad en un 50 % sin comprometer la resistencia del tejido ni romper la viabilidad de sus células.\nLa preservación de la vida celular en el textil permite que este responda activamente a su entorno. Al aplicar gotas de solución nutritiva sobre zonas específicas, el hongo forma patrones personalizados o regenera la capa exterior. Esta microestructura superficial le confiere al tejido una fuerte hidrofobicidad, haciendo que las gotas de agua o residuos resbalen rápidamente, lo que dota al material de propiedades autolimpiables sin tener que añadir aditivos sintéticos.\nAdemás, los investigadores han demostrado que la estructura interna del tejido funciona como una plataforma donde se pueden integrar otros microorganismos de forma modular. “Nuestra arquitectura permite la integración de socios microbianos sin necesidad de modificar genéticamente el hongo principal”, explican los autores del trabajo. Lo que en informática se conoce como plug and play.\nPara dotar al material de color sin usar tintes contaminantes, el equipo incorporó variantes genéticamente modificadas de la levadura Saccharomyces cerevisiae. Al anclarse de forma estable a la quitina del hongo, la levadura produce pigmentos biológicos que van desde tonos azules hasta púrpuras. Del mismo modo, la adición del hongo Aspergillus niger genera una capa rica en melanina capaz de bloquear la radiación ultravioleta y actuar como un potente antioxidante.\nComo demostración práctica, los científicos confeccionaron un vestido prototipo ensamblado a partir de diferentes módulos textiles vivos, integrando zonas autolimpiables y paneles coloreados biológicamente. Al final de su vida útil, el material demostró una biodegradación casi completa al ser enterrado en suelo en un plazo de 41 días.\nLos análisis de ciclo de vida confirman el menor impacto ambiental de estos textiles a base de hongos frente a las fibras sintéticas tradicionales, derivadas del petróleo. Los investigadores señalan que este avance abre las puertas al uso de materiales vivos en sectores de uso temporal o de economía circular, tales como el envasado biodegradable, el vestuario técnico adaptativo o la arquitectura sostenible."
+  },
+  "sha256": {
+    "titular": "60c789491ab8e74982e6fca1b5d9c8fa5b5eb446b577b1ea6ca164f29e185d60",
+    "entradilla": "9a36ac61320017b7c5bd3770ec89e4a44973ef6e2aa0b68f5a6b2bfb1af28573",
+    "cuerpo": "13ba5899e787787964dfa57464462b91fd85af2682b098298dd39f1db5fd9d54"
+  }
+}

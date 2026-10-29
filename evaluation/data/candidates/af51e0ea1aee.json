@@ -1,0 +1,26 @@
+{
+  "id": "af51e0ea1aee",
+  "url": "https://www.agenciasinc.es/Noticias/Un-estimulo-a-distancia-protege-el-corazon-de-la-quimioterapia-sin-restar-eficacia-contra-el-cancer",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-02T10:49:00+01:00",
+  "fuente_y_derechos": "Fuente: CNIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:51:21+00:00",
+  "campos": {
+    "titular": "Un estímulo a distancia protege el corazón de la quimioterapia sin restar eficacia contra el cáncer",
+    "entradilla": "Un estudio del Centro Nacional de Investigaciones Cardiovasculares demuestra en ratones con cáncer que una intervención sencilla puede reducir el daño cardiaco asociado a antraciclinas. La estrategia mantiene intacta la capacidad de la quimioterapia para frenar el crecimiento tumoral.",
+    "cuerpo": "Los tratamientos oncológicos han mejorado de forma notable la supervivencia, pero algunos de los fármacos más eficaces, como las antraciclinas, pueden causar toxicidad cardiaca. En ciertos pacientes, ese daño aparece meses o años después de finalizar la terapia y condiciona su evolución clínica.\nEl trabajo, publicado en Basic Research in Cardiology, analiza una posible vía para minimizar ese problema sin interferir en la acción frente al tumor. En un modelo murino de cáncer de piel tratado con doxorrubicina, los investigadores aplicaron acondicionamiento isquémico remoto, una técnica que consiste en provocar de forma controlada breves interrupciones del riego sanguíneo en una extremidad mediante un manguito de presión.\nLos animales que recibieron esta intervención conservaron una mejor función cardiaca que aquellos tratados solo con quimioterapia. Además, la respuesta del tumor fue comparable en ambos grupos, lo que indica que la protección del corazón no comprometió el efecto antitumoral.\n“Demostrar que se puede proteger el corazón sin comprometer el tratamiento contra el cáncer es fundamental para avanzar hacia terapias más seguras”, señala Anabel Díaz-Guerra, primera autora del estudio.\nEl equipo está coordinado por Borja Ibáñez, autor del trabajo y director científico del CNIC, que también participa en el ensayo clínico europeo RESILIENCE, diseñado para evaluar si esta estrategia puede reducir las complicaciones cardiovasculares a largo plazo en pacientes con cáncer tratados con antraciclinas.\n“Este trabajo refuerza la idea de que estrategias sencillas y no invasivas pueden desempeñar un papel clave en la protección cardiovascular de los pacientes con cáncer”, apunta Laura Cádiz, coautora e investigadora sénior del equipo."
+  },
+  "sha256": {
+    "titular": "e5ac7180a0bcc62602be6a6d24d3719902df740e587aed74bfbe97da839eedb6",
+    "entradilla": "d03c019fc091455345edf67123394e8c95b3879e0ef82fd6ef9c4a2d4df0ce17",
+    "cuerpo": "4de860799db0e4fea69dd78ebb08730ab7ff38ffbcdc253e315354b90cc34a4f"
+  }
+}

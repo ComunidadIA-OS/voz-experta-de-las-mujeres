@@ -1,0 +1,26 @@
+{
+  "id": "f2360551922d",
+  "url": "https://www.agenciasinc.es/Noticias/Detectan-mas-de-40-contaminantes-del-trafico-en-la-cuenca-del-Tajo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-11-19T11:04:00+01:00",
+  "fuente_y_derechos": "Fuente: CIEMAT | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:58:45+00:00",
+  "campos": {
+    "titular": "Detectan más de 40 contaminantes del tráfico en la cuenca del Tajo",
+    "entradilla": "Un análisis revela la presencia generalizada de aditivos procedentes del desgaste de neumáticos y otras partes del vehículo en el ecosistema fluvial. El estudio confirma una relación directa entre la densidad del tráfico y la carga contaminante del río, alertando sobre posibles efectos adversos en organismos acuáticos.",
+    "cuerpo": "Un estudio desarrollado por el departamento de Medio Ambiente del CIEMAT alerta sobre la presencia de más de 40 contaminantes emergentes asociados al tráfico rodado en la cuenca del río Tajo. Algunos de estos compuestos, procedentes del desgaste de neumáticos, frenos y otros componentes vehiculares, son persistentes, tóxicos y/o disruptores endocrinos, con potencial de afectar negativamente a los ecosistemas acuáticos.\nEl tráfico rodado representa más del 80 % del transporte de pasajeros y mercancías en España y libera partículas y aditivos químicos que terminan en ríos y otros cuerpos de agua, actuando como sumideros naturales de estos compuestos.\nEn el marco del proyecto CEMEF, financiado por el Ministerio de Ciencia, Innovación y Universidades y la Agencia Estatal de Investigación, el personal investigador del CIEMAT analizó muestras de agua procedentes de distintos puntos de la cuenca del Tajo utilizando técnicas avanzadas de UHPLC-QTOF HRMS. Este cribado permitió detectar más de 40 compuestos relacionados con el tráfico, algunos de ellos documentados por primera vez en un ecosistema fluvial español.\nLos resultados muestran que la carga de contaminantes aumenta en zonas con mayor densidad de tráfico y actividad humana, confirmando al transporte por carretera como una fuente clave de entrada de estos compuestos al medio acuático.\n“La presencia de estos contaminantes es especialmente preocupante, ya que algunos pueden causar toxicidad aguda o disrupción endocrina en los organismos acuáticos”, señala Juan Escobar-Arnanz del equipo investigador. “Estos hallazgos subrayan la necesidad de continuar investigando y de desarrollar futuras normativas ambientales que protejan nuestros ríos”.\nEl estudio ha sido publicado por un equipo de la Unidad de COP y Contaminantes Emergentes en Medio Ambiente del Departamento de Medio Ambiente del CIEMAT en la revista científica Environmental Research, y refuerza la importancia de seguir ampliando el monitoreo de contaminantes emergentes y desarrollar estrategias de mitigación basadas en evidencia científica."
+  },
+  "sha256": {
+    "titular": "539c8a4fcf9c1db41511f5f52485540010e15db3fead5d8050ac4bcaf9814ddc",
+    "entradilla": "529231b501a68adcaf5669857e2fb3dc9a791f9c0438dd064a1a63e2a158cb45",
+    "cuerpo": "483ada550d227314c49d9f1416afad4b55836c2d5f0d954593d065b4af4509a5"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "341f395c484b",
+  "url": "https://www.agenciasinc.es/Noticias/Fumar-menos-La-clave-puede-estar-en-las-variantes-de-un-gen-receptor-de-la-nicotina",
+  "autoria": "Marcos D. Oliveros",
+  "fecha_publicacion": "2026-02-24T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:51:42+00:00",
+  "campos": {
+    "titular": "¿Fumar menos? La clave puede estar en las variantes de un gen receptor de la nicotina",
+    "entradilla": "Los receptores nicotínicos de acetilcolina regulan los efectos de recompensa en el cerebro y se relacionan con cambios en los hábitos tabáquicos de fumadores. Un estudio muestra que la mutación de uno de estos genes podría relacionarse con una menor probabilidad de consumir cigarrillos.",
+    "cuerpo": "Las variantes en un gen, llamado CHRNB 2, se relacionan con la reducción del hábito tabáquico al influir sobre el proceso de recompensa del cerebro, según un nuevo estudio publicado en Nature Communications.\nEstos hallazgos se observaron, sobre todo, en datos poblacionales mexicanos, aunque los mismos efectos se confirmaron en mutaciones de personas con ascendencia asiática y europea.\n“Los receptores de acetilcolina son proteínas que se unen a la nicotina en el cerebro y desencadenan cambios en el comportamiento, en las sensaciones de placer y el grado adicción de fumadores” explica a SINC el primer autor del trabajo e investigador del Centro de Genética Regeneron (EE UU), Veera Rajagopa.\nEn su proyecto, revelaron que las mutaciones de un receptor nicotínico (CHRNB2), que codifica una grupo de proteínas, se asociaban con un menor consumo de cigarrillos. Estudios previos vincularon muchas subunidades de receptores con el tabaquismo “pero la función de cada subunidad no se comprendía bien” explica el experto.\nPara saberlo, el equipo de Rajagopa secuenció los genomas de 37 897 fumadores que participaron en el Estudio Prospectivo de Ciudad de México en el que se analiza los factores que impactan contra la salud de la población.\nAsimismo, identificaron una variante de CHRNB2 –codifica la subunidad β3 – que se asoció a un menor consumo diario de cigarrillos entre fumadores. Los participantes que poseían una o dos copias del gen mutado fumaban entre un 21 y un 78% menos que aquellos con la versión más típica.\nEsta variación se observó en mayor medida entre las personas de ascendencia indígena y se encontraron efectos similares de otras mutaciones en poblaciones con ascendencia europea y asiática, gracias a datos del Biobanco del Reino y al Biobanco de Japón.\n“Esto quiere decir que, si bien cada población tiende a tener ciertas variantes únicas, no existe diferencia entre el gen real o su expresión entre las poblaciones”, aclara el líder del estudio y vicepresidente en la misma institución, Giovanni Coppola. Todavía son necesarias cohortes más grandes y una investigación más sólida que evalúe la relación entre dichas mutaciones y la dependencia al tabaco.\nLos datos indican que las variantes genéticas que regulan la actividad de CHRNB2 pueden reducir el número de cigarrillos que consumen los fumadores y que, por lo tanto, la inhibición de la subunidad β3 sería una diana terapéutica para tratar la adicción a la nicotina. “Todavía es muy pronto para determinar su seguridad y eficacia”, añade. “Centrarse en las proteínas cerebrales sigue siendo un reto y el proceso en este campo es muy limitado para condiciones como el tabaquismo.\nActualmente, las estrategias potenciales incluyen el uso de pequeñas moléculas de ARN que bloquean la expresión génica de CHRNB3 en el cerebro (SIRNA) o fármacos de moléculas pequeñas que puedan penetrarlo y bloquear la unión de las proteínas β3 a la nicotina."
+  },
+  "sha256": {
+    "titular": "cc03757faace7ccae66220ab76a3b62bffef93efe8e27ff77d6ee1c332d7be80",
+    "entradilla": "ff6b7d40f0c05236cdc1de6d8c26a368b8d06d2af155be9ae5e01ae1d70cecf4",
+    "cuerpo": "e2248b4f20fb3f88bb74ec99c822f36dced03fc63aba45e43e7ea0b5bf080032"
+  }
+}

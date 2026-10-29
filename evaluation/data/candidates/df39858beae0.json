@@ -1,0 +1,26 @@
+{
+  "id": "df39858beae0",
+  "url": "https://www.agenciasinc.es/Noticias/Las-fallas-pueden-guiar-el-ascenso-del-magma-pero-tambien-detenerlo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-24T11:30:00+02:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:46:42+00:00",
+  "campos": {
+    "titular": "Las fallas pueden guiar el ascenso del magma, pero también detenerlo",
+    "entradilla": "Estas estructuras geológicas desempeñan un papel dual: pueden facilitar el ascenso del magma, pero también reducir su presión e interrumpir una posible erupción. Un estudio amplía el conocimiento sobre las erupciones fallidas y aporta nuevas claves para la prevención de futuras crisis sísmicas.",
+    "cuerpo": "El Consejo Superior de Investigaciones Científicas (CSIC) ha coliderado un estudio que revela el doble papel que desempeñan las grandes fallas geológicas, que, por un lado, serían capaces tanto de guiar el ascenso del magma como de detenerlo.\nEl hallazgo, publicado en Nature Communications, es fruto del estudio de un intenso episodio de actividad volcánico-tectónica en la isla de São Jorge, en las Azores, en marzo de 2022, donde se registraron miles de terremotos, pero que no terminó en una erupción. Los resultados de este descubrimiento aportan un nuevo marco conceptual para mejorar la predicción de riesgos volcánicos.\nEl equipo científico reconstruyó minuciosamente el movimiento bajo la isla del magma y, para ello, empleó datos de deformación del terreno procedentes de satélites radar y estaciones GPS, junto con localizaciones muy precisas de terremotos obtenidas mediante una red densa de sismómetros terrestres y de fondo oceánico.\nGracias a ellos descubrieron que el magma ascendió de forma prácticamente vertical a través de un conducto plano con forma casi rectangular conocido como dique, y lo hizo rápidamente desde más de 20 kilómetros de profundidad hasta tan solo 1,6 kilómetros bajo la isla, donde se detuvo. Gran parte de este ascenso ocurrió de forma “silenciosa”, con muy poca actividad sísmica y, una vez el magma dejó de ascender, se produjeron la mayoría de los terremotos sentidos por la población.\n“Se trató de una intrusión sigilosa”, afirma el autor principal Stephen Hicks, de la Universidad de Londres (UCL). “El magma se movió rápidamente a través de la corteza, pero gran parte de su trayectoria fue silenciosa, lo que dificultó en ese momento predecir si se produciría o no una erupción”.\nLas observaciones de satélite y su modelado mostraron que la superficie del volcán se elevó 6 centímetros, lo que confirma que el magma había penetrado en la corteza superior. Sin embargo, la intrusión se detuvo antes de alcanzar la superficie, dando lugar a lo que se denomina una “erupción fallida”. Así, este tipo de intrusiones contribuye al crecimiento de las islas y este estudio ha mostrado cómo ocurre este proceso.\nUna particularidad del ascenso del magma es que lo hizo a través de uno de sus principales sistemas de fallas de la isla, la del Pico do Carvão. Estudios geológicos previos indicaban que esta falla ha generado grandes terremotos en el pasado. Sin embargo, en lugar de producir un gran terremoto, la actividad magmática generó numerosos pequeños terremotos agrupados a lo largo de esta falla.\nEl equipo interpreta que las fallas pueden guiar el magma hacia arriba, pero también permitir que gases y fluidos volátiles escaparan del magma lateralmente a lo largo de la falla, lo que resultó en una reducción de la presión del magma y contribuyó a detener su ascenso.\nComo explica Pablo J. González, coautor principal del estudio e investigador del CSIC en el Instituto de Productos Naturales y Agrobiología en Tenerife, “la falla actuó tanto como una autopista como una fuga o, en otras palabras, ayudó al magma a ascender, pero también pudo haber evitado la erupción”.\nLos resultados de este estudio muestran que las intrusiones magmáticas pueden ocurrir rápidamente y con señales precursoras mínimas y que las grandes fallas geológicas son capaces de influir en si el magma llega a erupcionar o se queda atrapado bajo tierra.\n“Hay que recordar que no existen grandes fallas, como las de Azores, en todas las zonas volcánicas del planeta, pero gran parte de este descubrimiento es transferible a otros volcanes, incluidos los de las islas Canarias”, añade González.\nEn este sentido, Ricardo Ramalho, coautor de la Universidad de Cardiff, señala que “el estudio sirvió de apoyo a las autoridades locales en la evaluación de una posible amenaza volcánica, destacando el valor de combinar datos geofísicos terrestres y marinos para una detección y localización precisas de eventos sísmicos y deformaciones del terreno”."
+  },
+  "sha256": {
+    "titular": "48957a419b77520e3481e4f1fae676ea0f17d109382307418ba4e91fab527d53",
+    "entradilla": "6ec2df6a0550c3b5d84d9836ad2a85bd8ee1309aa334a52200b5a2f4d500b108",
+    "cuerpo": "e50329fa98335c305553c550bac0cdcd15e6ddf3358b600ceddf4f52089b8469"
+  }
+}

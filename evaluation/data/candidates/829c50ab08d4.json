@@ -1,0 +1,26 @@
+{
+  "id": "829c50ab08d4",
+  "url": "https://www.agenciasinc.es/Noticias/Un-algoritmo-de-IA-identifica-especies-arboreas-en-la-Amazonia",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-20T12:00:00+01:00",
+  "fuente_y_derechos": "Fuente: MNCN | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:51:54+00:00",
+  "campos": {
+    "titular": "Un algoritmo de IA identifica especies arbóreas en la Amazonia",
+    "entradilla": "TropiCam-AI es una herramienta de código abierto que analiza miles de fotografías y videos de cámaras trampa y evalúa de qué animales se trata con un 95 % de precisión. Además, puede reconocer 84 grupos de aves y mamíferos que viven en el dosel de los bosques neotropicales.",
+    "cuerpo": "El monitoreo de la fauna silvestre en los bosques tropicales es fundamental para conocer el estado de los ecosistemas y establecer planes de conservación.\nUn equipo de investigación del Museo Nacional de Ciencias Naturales (MNCN-CSIC) ha desarrollado TropiCam-AI, el primer algoritmo de inteligencia artificial que permite identificar, a partir de imágenes de cámaras trampa, las especies animales que habitan en el dosel de los bosques húmedos neotropicales.\nEn concreto, han desarrollado esta herramienta –que alcanza un 95 % de precisión– para 84 grupos de mamíferos y aves neotropicales.\nEsta tecnología de código abierto ofrece numerosas posibilidades para la investigación y conservación de especies difíciles de observar mediante métodos tradicionales.\n“Con TropiCam-AI podemos procesar rápidamente cientos de miles de imágenes de fauna arbórea en los bosques tropicales con gran precisión, y transformar la manera en la que estudiamos estos ecosistemas”, señala el autor principal del estudio, Andrea Zampetti,\nEsta herramienta es capaz de reconocer 84 taxones (63 especies, 13 géneros, 5 familias y 3 órdenes) de mamíferos y aves, incluyendo todos los géneros de monos del continente americano.\nPara desarrollar TropiCam-AI, el equipo entrenó el algoritmo con más de 180.000 imágenes de cámaras trampa procedentes de Brasil, Perú, Costa Rica y la Guayana Francesa, además de 54.000 imágenes de ciencia ciudadana obtenidas en la plataforma iNaturalist.\nPosteriormente, para mejorar la precisión, se implementó una estrategia de clasificación jerárquica que permite asignar especies difíciles de clasificar a niveles taxonómicos superiores (género, familia o orden), lo que incrementa la precisión y posibilita que el modelo funcione en lugares y especies no contemplados durante el entrenamiento.\nPor ejemplo, una nueva especie de mono araña podría ser reconocida como perteneciente a un taxón (Ateles), incluso si el algoritmo no fue entrenado con ella.\nAunque los algoritmos de inteligencia artificial para el reconocimiento de especies se han vuelto cada vez más comunes en los últimos años, las herramientas disponibles se centran en especies terrestres de ambientes templados.\nTropiCam-AI está disponible en la plataforma AddaxAI, una interfaz interactiva accesible para los investigadores independientemente de sus conocimientos técnicos, con el propósito de incrementar la accesibilidad a profesionales que trabajan en el Neotrópico.\nSu fácil acceso permitirá realizar inventarios rápidos de especies arbóreas, lo que facilita el desarrollo de estudios de ecología del comportamiento, ecología de comunidades y conservación en uno de los ecosistemas más diversos y menos explorados del planeta: el neotrópico.\n“La herramienta que hemos desarrollado no solo acelera el procesamiento de datos, sino que democratiza el acceso a la inteligencia artificial para quienes realizan su trabajo en estos ecosistemas”, concluye la investigadora del MNCN Ana Benítez-López."
+  },
+  "sha256": {
+    "titular": "2f0ac5ace47a8a281d5114c73aa6137a97b70368d3bd85bf1963071fc8154175",
+    "entradilla": "ed681097efda1ea50f34c2cf38cce77a05563bca9cb8a55a6b4f708d0ce3f251",
+    "cuerpo": "5edc8166c313439ee1028d8eef999dfd0553ee9bb170dedd887cb1ef421f37c1"
+  }
+}

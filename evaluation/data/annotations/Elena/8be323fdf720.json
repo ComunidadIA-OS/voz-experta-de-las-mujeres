@@ -1,0 +1,163 @@
+{
+  "article_id": "8be323fdf720",
+  "url": "https://www.agenciasinc.es/Noticias/Nuevo-metodo-mas-sensible-para-detectar-la-gripe-aviar-en-la-leche",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:17+00:00",
+  "article_sha256": {
+    "titular": "710324981ca68d81c1897d53af2ad0081bdf6c6b8f7b86d492c27138d70d56b6",
+    "entradilla": "cb14492534dc41fc563b7489453e72f1743749ee343dad72bf5671fe61fd5c43",
+    "cuerpo": "70dcef0e022cdab627e49625b2509171dff7722593e8b640ab4a5913792ef5ed"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Gloria Sánchez",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigadora del grupo VISAFELab del IATA-CSIC que ha dirigido el estudio",
+      "gender_representation": "woman",
+      "gender_evidence": "investigadora",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Alba Pérez-Cataluña",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigadora del grupo que ha codirigido la investigación.",
+      "gender_representation": "woman",
+      "gender_evidence": "investigadora",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Uno de los principales retos es que la leche es una matriz compleja que dificulta la detección de virus cuando están presentes en bajas concentraciones. Nuestro método permite mejorar la recuperación y aumentar la sensibilidad analítica”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Las superficies de las granjas pueden actuar como reservorios temporales del virus. Disponer de métodos estandarizados y eficaces de muestreo es esencial para la detección temprana y la prevención de la propagación”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793121841360",
+        "nombre": "Gloria Sánchez",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2379,
+            "fin16": 2393,
+            "texto": "Gloria Sánchez",
+            "inicio": 2379,
+            "fin": 2393
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2395,
+          "fin16": 2408,
+          "texto": "investigadora",
+          "inicio": 2395,
+          "fin": 2408
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2131,
+            "fin16": 2370,
+            "texto": "“Uno de los principales retos es que la leche es una matriz compleja que dificulta la detección de virus cuando están presentes en bajas concentraciones. Nuestro método permite mejorar la recuperación y aumentar la sensibilidad analítica”,",
+            "tipo": "directa",
+            "inicio": 2131,
+            "fin": 2370
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2395,
+          "fin16": 2469,
+          "texto": "investigadora del grupo VISAFELab del IATA-CSIC que ha dirigido el estudio",
+          "inicio": 2395,
+          "fin": 2469
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793121894226",
+        "nombre": "Alba Pérez-Cataluña",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4607,
+            "fin16": 4626,
+            "texto": "Alba Pérez-Cataluña",
+            "inicio": 4607,
+            "fin": 4626
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 4628,
+          "fin16": 4641,
+          "texto": "investigadora",
+          "inicio": 4628,
+          "fin": 4641
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4382,
+            "fin16": 4599,
+            "texto": "“Las superficies de las granjas pueden actuar como reservorios temporales del virus. Disponer de métodos estandarizados y eficaces de muestreo es esencial para la detección temprana y la prevención de la propagación”,",
+            "tipo": "directa",
+            "inicio": 4382,
+            "fin": 4599
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 4628,
+          "fin16": 4687,
+          "texto": "investigadora del grupo que ha codirigido la investigación.",
+          "inicio": 4628,
+          "fin": 4687
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 101
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4a6d217b0e40",
+  "url": "https://www.agenciasinc.es/Noticias/Emplean-bacterias-para-producir-un-ingrediente-protector-en-cremas-solares",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-13T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:45:20+00:00",
+  "campos": {
+    "titular": "Emplean bacterias para producir un ingrediente protector en cremas solares",
+    "entradilla": "El gradusol es un compuesto que segregan los peces y otros organismos marinos para protegerse de los rayos ultraviolenta. Su extracción suponía costes medioambientales y resultaba ineficiente, pero un nuevo estudio ha diseñado una estrategia más sostenible para incrementar su producción.",
+    "cuerpo": "Los peces sobreviven a la luz implacable del Sol gracias a la segregación de su propio protector solar: el gradusol, un compuesto con beneficios antioxidantes que los defiende del daño ultravioleta.\nAhora, una investigación publicada en Trends in Biotechnology señala que los humanos podríamos estar a un paso de utilizarlo también, ya que hasta el momento su extracción era ineficiente y acarreaba costes ambientales.\nInvestigadores de la Universidad de Jiangnan (China) han diseñado ‘fábricas de bacterias’ para producir este compuesto de forma sostenible. Los autores consideran que, con el tiempo, podría convertirse en un ingrediente potencial de cremas solares y emplearse en cosméticos por sus beneficios antioxidantes.\nEn concreto, el gradusol se encuentra en los huevos de peces y otros organismos marinos, y les protege de los efectos perjudiciales del Sol. No obstante, “es un ingrediente escaso en la naturaleza y su extracción es poco productiva”, señala el artífice principal del trabajo, Ping Zhang. “Queríamos encontrar una forma escalable y sostenible de producir esta sustancia”.\nPara ello, el experto y su equipo pensaron que, en vez de extraer la propia molécula de la naturaleza, podrían crearla a través de ‘granjas microbianas’. Primero reconstruyeron la vía metabólica del pez cebra para producir gradusol dentro de la bacteria Escherichia coli y después modificaron la genética de estos microbios junto con sus condiciones de cultivo.\nEstas intervenciones multiplicaron por 93 la producción de gradusol y pasaron de 45,2 miligramos por litro a 4,2 gramos. Además, los resultados muestran que 100 mg ya podrían bloquear de manera eficaz los rayos solares, por lo que creen que será una materia prima esencial en la protección solar.\n“Alcanzar este nivel de producción en un laboratorio es prometedor”, afirma Zhang. “Con ello, podríamos satisfacer la demanda futura de ingredientes de origen natural para protectores solares”.\nAdemás, este compuesto podría ofrecer beneficios añadidos a la protección solar, gracias a sus cualidades antioxidantes comparables a la vitamina C. Los expertos sugieren que el gradusol podría neutralizar los radicales libres que dañan las células como consecuencia de la exposición solar.\nEsta propiedad inspiró al equipo a desarrollar una prueba de cribado basada en el color. En ella, una señal química púrpura se vuelve amarilla cuando el gradusol neutraliza los radicales libres, por lo que esta variación ayudaría a identificar las cepas bacterianas que generan más cantidades de este compuesto.\n“En comparación con el análisis químico tradicional, este enfoque es más cómodo, eficiente y económico”, afirma el colíder del estudio e investigador de la misma universidad, Ruirui Xu.\nEsta investigación nace por el creciente interés en alternativas a algunos ingredientes convencionales que irritan la piel o que dañan a los organismos marinos.\nSegún indica el trabajo, algunos agentes fotoprotectoras inorgánicos preocupan por su permeabilidad dérmica, así como por su estrés oxidativo y toxicidad celular. Los filtros de rayos ultravioleta orgánicos como el gradusol no mostraron efectos negativos para la salud humana y están en línea con las demandas de los consumidores.\nNo obstante, esta alternativa tardará en llegar, ya que el estudio no comparó los efectos del gradusol con cremas solares comerciales, ni analizó su seguridad a largo plazo o su fabricación a gran escala. Y aunque así fuera, todavía necesitaría la aprobación de las autoridades reguladoras.\nXu considera que esta investigación ofrece un punto de partida para llevar el compuesto hacia aplicaciones prácticas y que, con la tecnología actual, empezarán a aparecer algunos productos en el mercado dentro de un par de años.\n“Esperamos que la gente mire más allá de los métodos de extracción tradicionales”, afirma Zhang. “Las fábricas de células microbianas están surgiendo como una forma más sostenible de llevar los descubrimientos de laboratorio al mundo real”."
+  },
+  "sha256": {
+    "titular": "1ba5630db73fddd75fd3233cbf3282bec0f9e203c877cee7e41c251ab56e0c6a",
+    "entradilla": "bbb109c2094e8c4dace6714c94357da2fab0611f1faac1b870f8338772a5635b",
+    "cuerpo": "80c4852ddcb29a27138d5c8adc36e80cee5240d7865e85635d556d54239bad1b"
+  }
+}

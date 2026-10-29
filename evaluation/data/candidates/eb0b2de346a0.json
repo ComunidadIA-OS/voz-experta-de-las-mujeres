@@ -1,0 +1,26 @@
+{
+  "id": "eb0b2de346a0",
+  "url": "https://www.agenciasinc.es/Noticias/Junio-acaba-con-mas-de-1-000-muertes-atribuibles-al-calor-maximo-historico-para-este-mes",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-07-02T10:00:00+02:00",
+  "fuente_y_derechos": "Fuente: Efe | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:40:35+00:00",
+  "campos": {
+    "titular": "Junio acaba con más de 1 000 muertes atribuibles al calor, máximo histórico para este mes",
+    "entradilla": "Entre el 21 y el 25 de junio, la primera ola de calor del verano concentró un tercio de las defunciones estimadas por el exceso de temperatura. Más del 97 % de estos fallecimientos se asocia al agravamiento de enfermedades previas y no a golpes de calor.",
+    "cuerpo": "Junio ha concluido con un balance provisional de 1 029 muertes atribuibles a las altas temperaturas, un tercio durante los cinco días que duró la primera ola de calor del año, lo que le convierte en el mes con la cifra más alta de fallecidos por esta causa desde el inicio de la serie en 2015.\nSe trata del segundo mes consecutivo que España registra un máximo mensual de fallecimientos atribuibles al calor, ya que mayo marcó otro récord histórico para este mes con 123 muertos, según el Sistema de Monitorización de la Mortalidad Diaria (MoMo).\nAsí, desde el inicio del periodo estival -que este sistema sitúa en el 15 de mayo, coincidiendo con la activación del plan calor por parte del Ministerio de Sanidad-, en nuestro país se han producido 1 152 defunciones vinculadas al exceso de temperatura, de las cuales, 1 029 han ocurrido en junio, 29 más que en 2017, año que hasta ahora registraba el máximo de la serie.\nSon cifras provisionales, ya que para que las estimaciones del MoMo sean más estables hay que esperar al menos una semana; tampoco son números reales de fallecimientos, puesto que lo que hace este sistema es una proyección estadística a partir de la información que diariamente le reportan el INE y la Aemet y la cruza con los fallecimientos observados y esperados para un determinado periodo de tiempo.\nBajo esta premisa, la primera ola de calor que tuvo lugar entre el 21 y el 25 de junio fue la causante del mayor número de defunciones por altas temperaturas: en esos días, se contabilizaron 353.\nLa inmensa mayoría de las muertes por exceso de temperaturas, más del 97 %, se debe al agravamiento de patologías previas y no directamente a golpes de calor; de hecho, prácticamente la totalidad de los fallecidos en junio (1 022) tenían más de 65 años, de los cuales 720 superaban los 85. Por sexos, las mujeres fueron las principales afectadas, 624 frente a 405 hombres."
+  },
+  "sha256": {
+    "titular": "77fcc40a50e4d1b75f83e6a474b69a411a3679e522c24530f7b498624a82f6bf",
+    "entradilla": "62abc92124ff9ba68dc6c5641f1664664316cdcf62625748da54a61ebdcbc0a7",
+    "cuerpo": "837a8d740739256b0667755fc47efd1e7d1639cc02f15488cbdf7898b1633bed"
+  }
+}

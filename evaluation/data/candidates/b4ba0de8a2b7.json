@@ -1,0 +1,26 @@
+{
+  "id": "b4ba0de8a2b7",
+  "url": "https://www.agenciasinc.es/Noticias/Los-compuestos-quimicos-eternos-se-acumulan-en-las-aguas-de-la-Antartida",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-11-11T12:30:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:59:14+00:00",
+  "campos": {
+    "titular": "Los compuestos ‘químicos eternos’ se acumulan en las aguas de la Antártida",
+    "entradilla": "El trabajo de dos centros del CSIC demuestra que estos contaminantes permanentes superan la barrera de las corrientes oceánicas a través de aerosoles marinos y se depositan en aguas antárticas en forma de lluvia o nieve.",
+    "cuerpo": "Un estudio liderado por el Instituto de Diagnóstico Ambiental y Estudios del Agua (IDAEA-CSIC) y el Instituto de Química Orgánica General (IQOG-CSIC), ha descubierto que los ácidos perfluoroalquilados (PFAAs), compuestos sintéticos utilizados en la industria y productos de consumo, alcanzan niveles hasta ahora inesperados en las aguas próximas a la Antártida.\nEl trabajo, publicado en Communications Earth & Environment, es el primero en probar que los PFAAs que llegan a la Antártida a través de aerosoles marinos y su posterior deposición atmosférica húmeda mediante lluvia o nieve, se acumulan en el océano austral próximo a la península Antártica. Este estudio reescribe los mecanismos de transporte dominantes de estos contaminantes a escala global hasta la fecha.\nLas sustancias per- y polifluoralquiladas (PFAS) son una familia de compuestos químicos muy resistentes a la degradación que, por sus propiedades, se han utilizado como antiadherentes en diversos productos como envases de alimentos, gran variedad de textiles, materiales de construcción y de extinción de incendios, cosméticos, etc. Algunos de ellos, como el ácido perfluorooctanoico (PFOA), son cancerígenos en humanos y otros animales, mientras que otros, como el sulfonato de perfluorooctano (PFOS) se consideran posibles cancerígenos según la Agencia Internacional de Investigación del Cáncer de la Organización Mundial de la Salud.\nAdemás de su amplia distribución, preocupa su extrema persistencia en el medio ambiente, razón por la cual estos compuestos se conocen como químicos eternos.\n“Hace 15 años se sugirió que los PFAS no podían llegar a Antártida por las corrientes oceánicas. Con este estudio hemos demostrado que sí lo hacen, pero transportados por la atmósfera, mediante la nieve y la lluvia. Lo relevante es que están aumentando las concentraciones en una zona remota como la Antártida”, señala Jordi Dachs, científico del IDAEA-CSIC e investigador principal del proyecto sobre contaminación global.\nEstos resultados se han logrado en dos campañas oceanográficas, en 2021 y 2022, en las que se recogieron muestras de agua desde el Atlántico Norte hasta el océano Antártico, utilizando la misma metodología. La investigación ha demostrado que las concentraciones de PFAAs son similares en zonas atlánticas y antárticas, confirmando su distribución global. Los niveles más altos se encontraron en aguas oceánicas con influencia de las costas de Brasil y Argentina.\n“El uso de la misma metodología para todas las regiones oceánicas estudiadas permite la comparación de concentraciones entre las distintas regiones y así confirmar que los niveles de PFAAs en la Antártida son parecidos a los del Atlántico norte, una región más próxima a las fuentes antropogénicas de contaminación”, añade Begoña Jiménez, coinvestigadora principal del proyecto.\n“La capacidad de transporte a larga distancia y la persistencia permite que estos compuestos se acumulen porque no hay vías de eliminación o de salida para compensar su nivel de entrada”, indica Núria Trilla-Prieto, investigadora del IDAEA-CSIC y primera autora del trabajo científico.\nLos investigadores resaltan que la persistencia química de estas sustancias es el principal factor que determina su riesgo ambiental a largo plazo. Actualmente, la Agencia Europea de Sustancias y Mezclas Químicas (ECHA, por sus siglas en inglés) está evaluando científicamente la propuesta de restringir los PFAS en la Unión Europea. Esta investigación liderada por el IDAEA-CSIC y el IQOG-CSIC aporta evidencia científica importante para la regulación de estos compuestos."
+  },
+  "sha256": {
+    "titular": "8efe54588bee8a60b6affb1fd82d2c0afd51c6c18f3fe92b412c1490b27dcd8d",
+    "entradilla": "4f68c95cb8e5d27327062eae3447d8d7fb818ef6c091586083437b09405da613",
+    "cuerpo": "41bac968932580340be716392700811de46bedfdd6ef0358e00b85cdfa98c13a"
+  }
+}

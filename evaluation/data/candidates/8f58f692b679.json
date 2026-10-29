@@ -1,0 +1,26 @@
+{
+  "id": "8f58f692b679",
+  "url": "https://www.agenciasinc.es/Noticias/Esta-protesis-para-las-personas-con-paralisis-permite-hablar-y-gesticular-al-mismo-tiempo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-09-15T12:20:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades tecnológicas"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:33:49+00:00",
+  "campos": {
+    "titular": "Esta prótesis para las personas con parálisis permite hablar y gesticular al mismo tiempo",
+    "entradilla": "Un dispositivo neuronal ‘convierte’ la actividad comunicativa, ya sea por medio del lenguaje hablado o gestual, en una expresión digital. Este nuevo hallazgo permitiría que los pacientes con parálisis puedan comunicarse de una forma más integrada.",
+    "cuerpo": "Una interfaz cerebro-ordenador permite que las personas con parálisis puedan comunicarse a través del habla y los gestos. Este tipo de sistemas ya permitieron una función similar en el pasado, pero este es el primero en conjugar ambas formas de comunicación al mismo tiempo.\nExpertos de la Universidad de California en San Francisco (UCSF) emplearon el aprendizaje automático para entender la actividad cerebral que subyace al habla y a los gestos simultáneos en tres pacientes. La interfaz 'tradujo' con éxito las intenciones comunicativas de dos participantes en comandos que dictaban las expresiones de un avatar virtual de cuerpo completo.\n“El lenguaje es mucho más que palabras que se pronuncian, es un proceso dinámico y con múltiples capas en el que interviene toda la corteza motora”, afirma el autor del estudio y profesor de la UCSF, Edward Chang. “Este trabajo nos muestra que es posible que una prótesis así recupere parte de esta libertad y flexibilidad”.\nLas personas con síndrome lateral amiotrófico (ELA) o que han sufrido accidentes cerebrovasculares en el tronco encefálico suelen tener parálisis grave, lo que puede limitar o anular sus capacidades verbales y no verbales.\nLas tecnologías de seguimiento ocular –el tratamiento estándar actual– les permiten utilizar la conversión de texto a voz, pero son lentas, ofrecen formas de expresión limitadas y su uso puede resultar agotador.\nPara ofrecer una solución más natural, en ensayos previos los expertos implantaron una fina tira de sensores en la corteza motora de varios pacientes. A continuación, utilizaron decodificadores y tradujeron sus señales cerebrales en comandos informáticos que controlaban una cabeza y un rostro digitales.\nEn concreto, para esta investigación implantaron dichos sensores en pacientes con distintos niveles de parálisis del tracto vocal y corporal con el propósito de permitir expresiones de las extremidades superiores mediante un avatar de cuerpo completo.\nLos investigadores recopilaron datos mientras los participantes intentaban verbalizar frases específicas o realizar gestos, como saludar con la mano o levantar el pulgar, tanto por separado como de forma simultánea.\nEn el pasado, las interfaces cerebro-ordenador facilitaron tanto la comunicación verbal como la no verbal, pero se pensaba que intentar ambas a la vez reducía la capacidad del habla. Los expertos creían que las señales cerebrales asociadas al habla y los gestos no serían más que una suma de ambos tipos de señales, pero Chang descubrió que la comunicación multimodal es más que la suma de las dos.\nA pesar de que existió cierto solapamiento, los resultados de la comunicación simultánea fueron muy diferentes de los que se obtuvieron con el habla o los gestos por separado.\nDescubrieron que los decodificadores lograban descifrar las señales comunicativas mixtas si se les había entrenado previamente.\nAunque esta interfaz consistía en un sistema con cables que conectaba los sensores implantados a unidades de procesamiento externas, Chang explicó que su equipo probará en el futuro una versión totalmente implantable e inalámbrica con mejores perspectivas de aplicación a largo plazo."
+  },
+  "sha256": {
+    "titular": "3608836e91947af837b3323bffde85e7738e1b4a30a308c00233c61320c6722b",
+    "entradilla": "f04ae435491977f538baa96f4891a51e0f1c8e029acd3f90d60d1c071cc25084",
+    "cuerpo": "da1481a4e78cb463627b97309076bf2e917355809ab967919365fe6efe9b481b"
+  }
+}

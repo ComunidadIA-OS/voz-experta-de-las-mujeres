@@ -1,0 +1,26 @@
+{
+  "id": "cc9241e33c97",
+  "url": "https://www.agenciasinc.es/Noticias/Una-terapia-genica-para-la-anemia-de-Fanconi-recibe-la-designacion-de-medicamento-huerfano-en-Europa",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-22T12:34:00+01:00",
+  "fuente_y_derechos": "Fuente: CIEMAT | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:56:34+00:00",
+  "campos": {
+    "titular": "Una terapia génica para la anemia de Fanconi recibe la designación de medicamento huérfano en Europa",
+    "entradilla": "Un equipo científico español ha desarrollado un tratamiento basado en el uso de linfocitos modificados genéticamente, conocidos como células CAR-T, que facilita la eliminación de células tumorales y ofrece una alternativa más segura y eficaz frente a las terapias convencionales.",
+    "cuerpo": "Personal investigador del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) ha desarrollado una nueva terapia génica antitumoral destinada a pacientes con anemia de Fanconi que ha obtenido la designación de medicamento huérfano por parte de la Agencia Europea del Medicamento.\nEl reconocimiento europeo respalda el avance de una opción terapéutica dirigida a una patología poco frecuente y con importantes necesidades médicas no cubiertas.\nLa investigación, realizada desde la Unidad de Innovación Biomédica del CIEMAT en colaboración con el Centro de Investigación Biomédica en Red de Enfermedades Raras y el Instituto de Investigación Sanitaria Fundación Jiménez Díaz, se basa en el uso de linfocitos T modificados genéticamente, conocidos como células CAR-T.\nEstas células permiten reconocer y eliminar de forma selectiva las células tumorales, lo que reduce la agresividad asociada a los tratamientos oncológicos convencionales.\nEl desarrollo incorpora un vector lentiviral mejorado, apoyado en trabajos clínicos previos del King’s College de Londres, que incrementa la eficiencia y la seguridad del procedimiento. Esta aproximación resulta especialmente relevante para los pacientes con anemia de Fanconi, que presentan una elevada sensibilidad a la quimioterapia y la radioterapia tradicionales.\nLa anemia de Fanconi es una enfermedad genética rara causada por alteraciones en los mecanismos de reparación del ADN. Se manifiesta con fallo de la médula ósea y conlleva una alta predisposición al desarrollo de distintos tipos de cáncer. En particular, las personas afectadas presentan un riesgo hasta 700 veces superior al de la población general de desarrollar carcinomas escamosos de cabeza y cuello.\nEn el ámbito europeo, la designación de medicamento huérfano se concede a tratamientos destinados a enfermedades raras o con escasa rentabilidad comercial, con el objetivo de incentivar la investigación y garantizar el acceso equitativo a nuevas terapias. En este contexto, el nuevo reconocimiento supone una herramienta clave para avanzar en el desarrollo clínico de esta terapia génica y facilitar su futura llegada a los pacientes.\nLos investigadores del CIEMAT subrayan que este avance representa un paso significativo hacia una alternativa terapéutica más segura y eficaz para una población especialmente vulnerable. Los resultados preclínicos obtenidos hasta el momento sientan las bases para continuar con los estudios necesarios que permitan evaluar su aplicación clínica con las máximas garantías de seguridad.\nEl trabajo ha contado con la colaboración de numerosos hospitales y centros de investigación españoles, así como con la participación activa de pacientes, un factor determinante para el progreso de la investigación en enfermedades raras. Además de su impacto directo en la anemia de Fanconi, el hallazgo abre nuevas perspectivas para el desarrollo de tratamientos oncológicos más selectivos y menos agresivos."
+  },
+  "sha256": {
+    "titular": "7574b5b2b286dac86763ba4163a09fb937cdc6a780fc50a6a1c337d50c1f766f",
+    "entradilla": "5d1a04f442ced4b86e93328f96f6569ba594003cfb6d6b93c4f21ed5f95d4fd7",
+    "cuerpo": "4c90bf445f55b05c575f9743661de1b6f526d4d04d806820925bbd5043710956"
+  }
+}

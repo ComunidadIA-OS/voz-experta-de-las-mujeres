@@ -1,0 +1,26 @@
+{
+  "id": "c76e5eb2d0c2",
+  "url": "https://www.agenciasinc.es/Noticias/Este-es-el-mecanismo-por-el-que-una-proteina-favorece-la-propagacion-de-la-gripe",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-22T10:00:00+02:00",
+  "fuente_y_derechos": "Fuente: CNB | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:44:35+00:00",
+  "campos": {
+    "titular": "Este es el mecanismo por el que una proteína favorece la propagación de la gripe",
+    "entradilla": "TRIM34, una proteína cuya presencia elevada en el organismo favorece la multiplicación del virus de la gripe, interfiere en la respuesta antiviral. Un equipo de investigadoras del CSIC ha demostrado que actúa inhibiendo el transporte de ARNm y de factores de transcripción necesarios para activar las defensas celulares.",
+    "cuerpo": "La inmunidad innata actúa como la primera barrera de protección frente a infecciones virales. El reconocimiento de la presencia de un virus en la célula desencadena una cascada de señalizaciones que culmina con la producción de citoquinas proinflamatorias e interferones, señales que, a su vez, activan la producción de nuevas proteínas con capacidad de respuesta antiviral para controlar la infección.\nEn este complejo sistema, la familia de proteínas TRIM, con más de 80 proteínas identificadas, tiene un papel importante porque son capaces de regular una amplia gama de procesos celulares, desde la autofagia a la señalización del sistema inmunitario innato y la restricción viral directa.\nMarta López de Diego, investigadora del CSIC en el Centro Nacional de Biotecnología (CNB-CSIC) y líder del trabajo explica el porqué del estudio. “Decidimos estudiar TRIM34 debido a que se sabe que regula la muerte celular programada y la progresión tumoral así como los mecanismos de su acción en estos procesos, pero no se conoce cómo actúa en una infección viral a nivel molecular.”\nPara identificar cómo TRIM34 puede afectar a la infección, el equipo realizó experimentos tanto in vitro, en distintas líneas celulares humanas, como in vivo, en ratones; y observaron cómo avanzaba el contagio con el virus de la gripe.\nDe esta forma, vieron que los niveles de TRIM34 afectan a la infección causada por el virus de la gripe, pero de una manera inesperada. En vez de limitar la multiplicación viral, el incremento de TRIM34 produce, a su vez, un aumento de la producción de virus y una inhibición en la respuesta inmunitaria innata.\nLa identificación de las proteínas con las que interactúa TRIM34 en este contexto ofrece pistas sobre el mecanismo que explica su acción. Según López de Diego, “TRIM34 se une a componentes de los poros nucleares, las puertas que regulan la entrada y salida de moléculas implicadas en la señalización de la respuesta inmunitaria innata”.\nUna parte importante de la respuesta antiviral comienza con la inducción de la síntesis de proteínas capaces de frenar la infección. En todo este proceso participan factores de transcripción, que entran en el núcleo celular para inducir la expresión de genes que normalmente están inactivos y, que son capaces de bloquear la progresión viral.\nLos ARNm producto de estos genes son transportados desde el núcleo celular al citoplasma donde se produce la síntesis de proteínas. El transporte de distintos tipos de moléculas entre el núcleo y el citoplasma es crítico y es el punto de acción de TRIM34.\nPor primera vez se ha observado la interacción de una proteína de la familia TRIM con diferentes proteínas que forman parte del poro nuclear.\nSegún Paula Vázquez Utrilla, investigadora del CNB-CSIC, y primera autora del trabajo “esta interacción resulta en un bloqueo de la entrada al núcleo del factor de transcripción IRF3, y en una inhibición de la salida hacia el citoplasma de ARNm celulares implicados en la respuesta antiviral\".\nSin embargo, los ARNm virales siguen saliendo del núcleo y produciendo las proteínas virales. \"Si bien el objetivo inicial de este proceso celular podría ser disminuir la producción excesiva de citoquinas proinflamatorias para el organismo, en el contexto de la infección por gripe favorece la replicación viral al inhibir las respuestas antivirales.”\nEstos resultados sugieren que la modulación de la actividad de TRIM34 podría constituir una estrategia prometedora para el tratamiento antiviral contra el virus de la gripe A (IAV) y, posiblemente, otras infecciones virales. No obstante, en futuros estudios deberá abordarse con especial atención el riesgo de que se agrave la inflamación."
+  },
+  "sha256": {
+    "titular": "d1e0b7aeac2f2cdbf26e00e036fb52d2c8eab9af785fc9b166da135b32855303",
+    "entradilla": "682ba6134e9965a2f1de7a9df18f11b26b1eb38eee301f8c1430e3f92e81cebf",
+    "cuerpo": "7930e825b7b122b730451ad622f140c0668e745ac66f22c9035c28413c37436f"
+  }
+}

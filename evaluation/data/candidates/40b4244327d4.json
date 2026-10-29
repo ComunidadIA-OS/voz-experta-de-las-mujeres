@@ -1,0 +1,26 @@
+{
+  "id": "40b4244327d4",
+  "url": "https://www.agenciasinc.es/Noticias/El-ejercito-invisible-que-decide-si-un-mosquito-te-pica-o-si-te-contagia-una-enfermedad",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-07-02T20:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:40:28+00:00",
+  "campos": {
+    "titular": "El ‘ejército invisible’ que decide si un mosquito te pica o si te contagia una enfermedad",
+    "entradilla": "Un estudio revela cómo la microbiota de la piel en los huéspedes y los microbios del intestino de los propios insectos actúan como reguladores clave en la transmisión de virus, lo que abre nuevas vías para el control de patologías vectoriales.",
+    "cuerpo": "Durante mucho tiempo, la lucha contra enfermedades como el dengue, el zika o la malaria se ha centrado exclusivamente en los dos actores más visibles del tablero: el virus patógeno y el mosquito que lo transporta. Las estrategias tradicionales, basadas en insecticidas o modificaciones genéticas, suelen toparse con problemas de resistencia y aceptación pública.\nSin embargo, un enfoque completamente diferente está emergiendo desde el plano microscópico. El investigador Yibin Zhu, de la Universidad de Tsinghua (China), ha demostrado que las comunidades bacterianas que habitan de forma natural en los huéspedes y en los vectores son los verdaderos reguladores invisibles que aceleran o bloquean la transmisión de estas enfermedades.\nEl trabajo, publicado este jueves en la revista Science, le ha valido a Zhu el prestigioso premio de ensayo científico Noster & Science Microbiome Prize de 2026. A través de una serie de investigaciones, el científico ha descifrado los mecanismos por los cuales la microbiota manipula tanto la atracción que sienten los mosquitos por un cuerpo enfermo como la capacidad del propio insecto para albergar el virus y contagiarlo a un nuevo hospedador.\nUno de los hallazgos más sorprendentes del equipo de Zhu explica por qué los huéspedes infectados resultan desproporcionadamente atractivos para los mosquitos en comparación con los individuos sanos.\nLejos de tratarse de una simple casualidad, los investigadores descubrieron que la infección por flavivirus altera de manera drástica el entorno inmunitario de la piel del mamífero. En concreto, el virus suprime la producción de un péptido antimicrobiano llamado RELMα.\nAl debilitarse esta barrera defensiva, una bacteria comensal de la piel especializada en la producción de compuestos volátiles prolifera rápidamente. Este microbio genera grandes cantidades de acetofenona, una sustancia química que emana del cuerpo y que actúa como un potente imán olfativo para los mosquitos buscadores de sangre.\n“El virus no actuó solo, sino que explotó una interacción entre la inmunidad del huésped, los microbios comensales y el comportamiento del vector”, señala Zhu.\nLa investigación también desveló la otra cara de la moneda: cómo la microbiota puede convertirse en un aliado letal contra el virus dentro del propio mosquito. Tras analizar bacterias intestinales en poblaciones salvajes de mosquitos Aedes aegypti y Aedes albopictus, los científicos aislaron un simbionte bacteriano natural llamado Rosenbergiella_YN46.\nLos mosquitos colonizados por esta bacteria mostraron una resistencia formidable a la infección por dengue y zika. El mecanismo descubierto posee una elegancia biofísica asombrosa: tras succionar sangre, la bacteria secreta una enzima que acidifica prematuramente el intestino del mosquito.\nDado que los flaviviruses necesitan de la acidez para activar los cambios estructurales en sus proteínas de envoltura y entrar en las células epiteliales, sufrir este baño ácido antes de tiempo inactiva los virus de forma irreversible. El patógeno queda completamente neutralizado antes de poder establecerse en el vector.\nLos análisis de campo complementarios indicaron que la bacteria Rosenbergiella_YN46 es mucho más abundante en regiones geográficas que registran de forma natural una menor incidencia de dengue. Además, la presencia de este microbio protector no supone ningún coste biológico detectable para la supervivencia o aptitud del mosquito, lo que facilita enormemente su persistencia estable si se introduce en poblaciones naturales.\nEste cambio de paradigma invita a diseñar herramientas de salud pública basadas en el manejo microbiológico. En lugar de erradicar poblaciones enteras de insectos o desarrollar fármacos masivos, la ciencia mira ahora hacia la optimización evolutiva que los propios microbios llevan madurando durante milenios.\n“Comprender esta mano invisible de la microbiota puede ayudarnos a replantear cómo surgen las enfermedades transmitidas por vectores y cómo podrían, finalmente, ser controladas”, concluye el autor."
+  },
+  "sha256": {
+    "titular": "e0ad744ee52c69c67f3b2b37864fce81884d0c45c0064e97b0a2443147b748f2",
+    "entradilla": "4e983b4968eea5b5dfebaaf5ecc549a8a0bd1cbc9356037a18794038bf9e0cbb",
+    "cuerpo": "a28f4b2828a224acdb64fa37fd9d641c270cc2156e9c57460208e7ea9e05b1e5"
+  }
+}

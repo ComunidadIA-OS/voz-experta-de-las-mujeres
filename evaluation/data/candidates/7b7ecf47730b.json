@@ -1,0 +1,26 @@
+{
+  "id": "7b7ecf47730b",
+  "url": "https://www.agenciasinc.es/Noticias/El-brote-de-ebola-en-la-Republica-Democratica-del-Congo-se-acerca-a-los-4-000-muertos",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-09-28T10:23:00+02:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:32:51+00:00",
+  "campos": {
+    "titular": "El brote de ébola en la República Democrática del Congo se acerca a los 4 000 muertos",
+    "entradilla": "Según un nuevo informe, los casos confirmados en el brote de ébola que asola el país africano desde mayo superan ahora los 8 000. La tasa de letalidad es de casi el 50 %.",
+    "cuerpo": "La epidemia de ébola declarada el pasado 15 de mayo en la República Democrática del Congo (RDC) ha superado los 8 000 casos confirmados, mientras se acerca cada vez más a la barrera de los 4 000 muertos, informaron este lunes las autoridades congoleñas.\nSegún el último informe publicado por el Instituto Nacional de Salud Pública (INSP) de la RDC, con datos recabados hasta el 26 de septiembre, se han registrado un total de 8 067 infecciones confirmadas, incluyendo 3 901 fallecimientos, con una tasa de letalidad del 48,4 %.\nAsimismo, 2 070 pacientes se han recuperado hasta el momento y otros 773 se encuentran hospitalizados o en aislamiento, mientras la tasa de seguimiento de contactos se sitúa en un 74,7 %.\n“Se observa una transmisión comunitaria activa y persistente en las provincias de Ituri, Kivu del Norte, Haut-Uélé y Bas-Uéle”, señaló el INSP, si bien subrayó que “se sigue avanzando en el ámbito de las investigaciones epidemiológicas: se ha investigado al 95,2 % de los casos sospechosos en las 24 horas posteriores a su notificación”.\n“El refuerzo de las intervenciones prioritarias (vigilancia, atención, control de la epidemia, logística y participación comunitaria) sigue siendo esencial para interrumpir rápidamente las cadenas de transmisión”, añadió el organismo.\nLa epidemia afecta a 63 zonas de salud de siete provincias (de las 26 que tiene la RDC): Ituri (este), Tshopo (centro-norte), Bas-Uélé (norte), Haut-Uélé (noreste), Kivu del Norte (este), Kivu del Sur (este) y Ubangi del Sur (noroeste).\nEste brote -el segundo más mortífero y contagioso de la historia a nivel global— superó al ocurrido en la misma región congoleña entre 2018 y 2020, aunque todavía está lejos del más grave registrado hasta la fecha, que provocó unos 11 000 muertos y 28 000 contagios en África occidental entre 2014 y 2016.\nLa cepa de Bundibugyo, causante de la actual epidemia, carece de tratamientos específicos, aunque la Organización Mundial de la Salud (OMS) trabaja en dos vacunas que han iniciado ensayos de fase 1 en humanos y que, hasta ahora, se han mostrado seguras, pero su desarrollo podría llevar varios meses.\nParalelamente, la RDC inició a finales de agosto una campaña de inmunización contra el ébola con la vacuna Ervebo, única disponible a gran escala y diseñada en principio para la variante Zaire del virus -más común-, pero que ha dado indicios positivos contra la cepa Bundibugyo en animales.\nLa actual epidemia también se propagó a la vecina Uganda, donde la OMS declaró el pasado 26 de agosto el fin del brote, después de contabilizarse 20 contagios confirmados, incluidos 15 importados de la RDC, entre los que hubo dos muertos.\nEl virus del ébola se transmite por contacto directo con fluidos corporales de personas o animales infectados y causa fiebre hemorrágica grave, vómitos, diarrea y hemorragias internas."
+  },
+  "sha256": {
+    "titular": "59b6d5879d21708e0a398e9af29ee50e8a49c4883fea6e4b8b57bf5b71126074",
+    "entradilla": "de231afdc54a638892d78d8f4e2e5bf1847001667983ae7539965e70c234e8b3",
+    "cuerpo": "9894b21c70730a24bd9447bfc3d7567493cf4bf5f41e6422c86a3ed029ca932d"
+  }
+}

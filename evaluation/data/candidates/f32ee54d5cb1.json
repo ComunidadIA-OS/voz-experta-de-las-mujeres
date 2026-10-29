@@ -1,0 +1,26 @@
+{
+  "id": "f32ee54d5cb1",
+  "url": "https://www.agenciasinc.es/Noticias/Cartografian-como-el-cerebelo-conecta-con-el-cerebro-en-las-primeras-etapas-del-desarrollo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-11T10:36:00+01:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Cerebro"
+  ],
+  "secciones": [
+    "tag"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:16+00:00",
+  "campos": {
+    "titular": "Cartografían cómo el cerebelo conecta con el cerebro en las primeras etapas del desarrollo",
+    "entradilla": "Un estudio del Instituto de Neurociencias de Alicante revela que estas conexiones se forman muy pronto y atraviesan fases críticas que pueden influir en trastornos del neurodesarrollo.",
+    "cuerpo": "El cerebelo, tradicionalmente asociado al control del movimiento, también participa en funciones cognitivas, emocionales y sociales. Sin embargo, se desconocía cuándo empezaba a comunicarse con otras regiones del cerebro.\nUn trabajo del Instituto de Neurociencias (CSIC-UMH), publicado en PNAS, ha cartografiado por primera vez las proyecciones cerebelosas en ratones, identificando las etapas en que estas vías se forman, se expanden y se refinan durante el desarrollo temprano.\nEl equipo, liderado por Juan Antonio Moreno Bravo, ha definido ventanas críticas de vulnerabilidad en las que factores genéticos o ambientales pueden alterar la maduración de estas conexiones, lo que podría contribuir al origen de trastornos como autismo o esquizofrenia.\n“Hemos podido observar que las proyecciones cerebelosas comienzan a formarse muy temprano, ya en el embrión, cuando los primeros axones empiezan a conectar con múltiples regiones del cerebro”, explica Moreno Bravo. Después, las conexiones se expanden de forma masiva y, en las primeras semanas postnatales, se consolidan mediante un refinamiento progresivo.\nEste hallazgo sugiere que el cerebelo desempeña un papel más temprano e influyente de lo que se pensaba en la organización del cerebro. “Nuestro trabajo indica que el cerebelo empieza a construir su red muy pronto y podría contribuir activamente a la formación de circuitos en otras regiones desde fases iniciales”, añade el investigador. Esta perspectiva replantea su función: no solo como modulador tardío del movimiento, sino como nodo clave en la arquitectura cerebral.\nEl mapa generado constituye una herramienta de referencia para estudiar cómo experiencias tempranas, factores genéticos o condiciones ambientales afectan al cerebelo y, en consecuencia, a las redes neuronales con las que se conecta. “Este trabajo sienta las bases para explorar no solo el desarrollo normal, sino también alteraciones patológicas de origen cerebeloso”, destacan los autores.\nPara lograrlo, el equipo combinó herramientas genéticas con técnicas de imagen tridimensional aplicadas al cerebro completo. Mediante marcadores fluorescentes específicos, etiquetaron neuronas de los núcleos cerebelosos profundos y, con métodos avanzados de aclaramiento tisular y microscopía, visualizaron los axones en 3D.\n“Ver cómo surgen en el embrión y se extienden por el cerebro ha sido fascinante”, afirma Raquel Murcia Ramón, primera autora del estudio. Muchas de estas conexiones no se habían visto nunca con esta precisión.\nEl proyecto ha contado con financiación del Consejo Europeo de Investigación (ERC), la Agencia Estatal de Investigación y el programa Severo Ochoa."
+  },
+  "sha256": {
+    "titular": "1bd4d7d83d0dc85d4268630823fcc29e298b52db983626c11659d26def1ac99c",
+    "entradilla": "bbd3f4cf7d6693e7b084770829ed4c5d3e3a7a4d123b603ba840abc32dae83d4",
+    "cuerpo": "8a34d398a64eb7242386b848cc3c1e6b5583d7f60c2f3da690bc9e2b75e7a0de"
+  }
+}

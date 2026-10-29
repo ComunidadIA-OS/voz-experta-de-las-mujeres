@@ -1,0 +1,26 @@
+{
+  "id": "05cd1fd4fd8a",
+  "url": "https://www.agenciasinc.es/Noticias/Cuando-jovenes-y-mayores-crean-juntos-sus-cerebros-se-sincronizan",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-20T20:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:35:40+00:00",
+  "campos": {
+    "titular": "Cuando jóvenes y mayores crean juntos, sus cerebros se sincronizan",
+    "entradilla": "Un estudio revela que trabajar de forma conjunta favorece una mayor coordinación de la actividad cerebral, aunque su relación con la cercanía social varía según la edad, el contexto y la evolución de la interacción.",
+    "cuerpo": "Cuando personas de distintas generaciones crean arte juntas, sus cerebros muestran una mayor sincronía, y esa actividad cerebral compartida puede ofrecer pistas sobre cómo se construyen los vínculos sociales y cómo cambia la sensación de soledad. E\ns la principal conclusión de un estudio publicado en PLOS Biology que ha analizado por primera vez cómo evoluciona la actividad cerebral durante la formación de relaciones entre personas jóvenes y mayores.\nLa investigación ha reunido a 31 parejas intergeneracionales, formadas por adultos mayores de 70 años y jóvenes de entre 18 y 35, y a 30 parejas de adultos jóvenes. Durante seis sesiones, los participantes realizaron un programa de dibujo en el que podían crear por separado o trabajar juntos sin hablar. Los investigadores midieron tanto sus sentimientos de soledad y cercanía social como su actividad cerebral mediante espectroscopia funcional de infrarrojo cercano.\nEl resultado es claro: la actividad cerebral de las parejas está más sincronizada cuando dibujan juntas que cuando lo hacen por separado. Pero esa sincronía no significa necesariamente una mayor conexión. Su relación con el vínculo social depende del momento y del contexto.\nEn las parejas formadas por personas de distintas generaciones, la sincronía entre determinadas regiones cerebrales mientras dibujaban por separado puede predecir los niveles de soledad. En cambio, cuando dibujan juntas, la sincronía en una de esas regiones está relacionada con una mayor sensación de cercanía social. En las parejas de la misma generación también se han observado asociaciones entre la sincronía cerebral y la conexión social.\nEl estudio muestra, además, que la sincronía cerebral no permanece estable mientras se construye una relación. A lo largo de las seis sesiones, ha aumentado entre las parejas de jóvenes, mientras que disminuye entre las parejas intergeneracionales.\nLos investigadores advierten así contra una interpretación sencilla de la sincronía cerebral como indicador de una mejor relación. La conexión entre cerebros parece ser dinámica y depende del contexto y de cómo se desarrolla la interacción entre las personas.\nLos resultados ofrecen una nueva forma de estudiar cómo se construyen las relaciones entre generaciones y cómo pueden evolucionar los mecanismos cerebrales asociados a la conexión social.\nLos autores señalan que la técnica de registro simultáneo de la actividad cerebral de dos personas puede permitir estudiar relaciones sociales durante periodos más largos y acercar la investigación a la complejidad de las interacciones de la vida cotidiana.\nEl estudio tiene algunas limitaciones, entre ellas el reducido número de sesiones y la ausencia de un grupo formado por parejas de personas mayores de la misma generación.\nAun así, sus resultados sugieren que la actividad cerebral compartida puede ser una pieza relevante para comprender cómo se forman los vínculos entre personas de distintas edades y cómo se relacionan con la soledad."
+  },
+  "sha256": {
+    "titular": "eceb096a12036e8392a2466e2a553aad4e8d1749c11aba8c512a97852e31ec12",
+    "entradilla": "451b331d2bc6e0626bcfa9dd1f8d8d6922bed438c15679a01c19332a5002aca8",
+    "cuerpo": "c17f75cf8613985fc57af533acfebf1a5e0e0870c4481ae404a34d0318c23509"
+  }
+}

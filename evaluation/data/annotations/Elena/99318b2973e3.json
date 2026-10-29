@@ -1,0 +1,284 @@
+{
+  "article_id": "99318b2973e3",
+  "url": "https://www.agenciasinc.es/Noticias/La-division-de-un-grupo-de-chimpances-provoca-una-guerra-civil-entre-antiguos-aliados",
+  "group": "calibration",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-27T16:37:50+00:00",
+  "article_sha256": {
+    "titular": "b0553d420e74e50ce06cce8289c504ea557fa660001e824c6e4c45f7a49f5a7e",
+    "entradilla": "cf04f7e831e19ed8d77210af204bfdbc7a6f0030f99f10b3990e9700c7dbdab8",
+    "cuerpo": "9415e251a1233cbf69834b3bcfa7d46e80d1ff7ed1a26fc8ee53d9035c9910a8"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Aaron Sandel",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "lidera el estudio que publica la revista Science",
+      "gender_representation": "unknown",
+      "gender_evidence": "",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "John Mitani",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "profesor emérito de antropología",
+      "gender_representation": "man",
+      "gender_evidence": "profesor",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Esperamos tanto para publicar el estudio porque queríamos asegurarnos de que la fisión fuera permanente. Nuestro trabajo proporciona evidencia sólida de que los chimpancés parecen tener identidades de grupo. No solo tienen un sentido de quién pertenece a su comunidad y quién no, sino que estas identidades pueden cambiar. Estudios futuros se beneficiarán de colaboraciones con psicólogos, sociólogos y politólogos”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Siento que ahora puedo volver y leer sobre el caso de Gombe y entenderlo de una manera que antes no podía. Lo que presencié en Ngogo me sirve como referencia. En ambos casos, la pérdida de posibles conectores sociales y un cambio en la jerarquía de dominancia masculina parecen desempeñar un papel importante”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“existe la tentación de hablar de ciertos comportamientos como ‘naturales’ o ‘propios de nuestra naturaleza’. Es importante recordar que los animales, incluidos chimpancés y humanos, son complejos. Nuestro comportamiento es el resultado de numerosos aspectos de nuestra biología y nuestro entorno”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Uno de los misterios para mí es precisamente por qué el amigo de ayer se convierte en el enemigo de hoy. En este caso, los individuos crecieron juntos, se conocieron durante toda su vida y cooperaron y colaboraron para beneficiarse mutuamente de formas importantes”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Aunque la agresión y las guerras aparecen ocasionalmente entre los humanos, en su mayor parte vivimos de forma pacífica unos junto a otros en un mundo con más de 8 000 millones de personas. Esta diferencia entre chimpancés y humanos es algo que me da esperanza, especialmente en un momento de creciente polarización”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "indirect",
+      "text": "Para Mitani, existen algunos paralelismos entre el supuesto caso en Tanzania y lo que han descrito en Science.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "El conflicto letal en Gombe tras una aparente división es la similitud más evidente. Sin embargo, también hay diferencias importantes entre ambos casos”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“En cambio, la fisión en Ngogo dio lugar a la creación de dos grupos escindidos que continúan existiendo. Uno de ellos ha expandido su territorio sobre el del otro y no ha renunciado a esas ganancias”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "Soy más prudente y cauto que algunos de mis coautores a la hora de establecer paralelismos entre lo que describimos aquí y el conflicto humano. Una cosa que he aprendido tras más de 35 años estudiando estos animales es que nosotros no somos chimpancés. Hemos cambiado considerablemente durante los últimos 6 a 8 millones de años desde que nos separamos de un ancestro común. Este estudio muestra también en qué nos diferenciamos de ellos”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Una diferencia fundamental entre chimpancés y humanos es que somos una especie inusualmente prosocial y cooperativa. Nos esforzamos por ayudar a otros, incluso a personas que pueden ser completas desconocidas. Esta capacidad de convivir con otros es inusual, si no única”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793118816853",
+        "nombre": "Aaron Sandel",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1719,
+            "fin16": 1731,
+            "texto": "Aaron Sandel",
+            "inicio": 1719,
+            "fin": 1731
+          }
+        ],
+        "genero": "desconocido",
+        "indicio_genero": null,
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1289,
+            "fin16": 1705,
+            "texto": "“Esperamos tanto para publicar el estudio porque queríamos asegurarnos de que la fisión fuera permanente. Nuestro trabajo proporciona evidencia sólida de que los chimpancés parecen tener identidades de grupo. No solo tienen un sentido de quién pertenece a su comunidad y quién no, sino que estas identidades pueden cambiar. Estudios futuros se beneficiarán de colaboraciones con psicólogos, sociólogos y politólogos”",
+            "tipo": "directa",
+            "inicio": 1289,
+            "fin": 1705
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4438,
+            "fin16": 4748,
+            "texto": "“Siento que ahora puedo volver y leer sobre el caso de Gombe y entenderlo de una manera que antes no podía. Lo que presencié en Ngogo me sirve como referencia. En ambos casos, la pérdida de posibles conectores sociales y un cambio en la jerarquía de dominancia masculina parecen desempeñar un papel importante”",
+            "tipo": "directa",
+            "inicio": 4438,
+            "fin": 4748
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 6190,
+            "fin16": 6488,
+            "texto": "“existe la tentación de hablar de ciertos comportamientos como ‘naturales’ o ‘propios de nuestra naturaleza’. Es importante recordar que los animales, incluidos chimpancés y humanos, son complejos. Nuestro comportamiento es el resultado de numerosos aspectos de nuestra biología y nuestro entorno”.",
+            "tipo": "directa",
+            "inicio": 6190,
+            "fin": 6488
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1783,
+          "fin16": 1831,
+          "texto": "lidera el estudio que publica la revista Science",
+          "inicio": 1783,
+          "fin": 1831
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793118878486",
+        "nombre": "John Mitani",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2737,
+            "fin16": 2748,
+            "texto": "John Mitani",
+            "inicio": 2737,
+            "fin": 2748
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2750,
+          "fin16": 2758,
+          "texto": "profesor",
+          "inicio": 2750,
+          "fin": 2758
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2454,
+            "fin16": 2720,
+            "texto": "“Uno de los misterios para mí es precisamente por qué el amigo de ayer se convierte en el enemigo de hoy. En este caso, los individuos crecieron juntos, se conocieron durante toda su vida y cooperaron y colaboraron para beneficiarse mutuamente de formas importantes”",
+            "tipo": "directa",
+            "inicio": 2454,
+            "fin": 2720
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2844,
+            "fin16": 3162,
+            "texto": "“Aunque la agresión y las guerras aparecen ocasionalmente entre los humanos, en su mayor parte vivimos de forma pacífica unos junto a otros en un mundo con más de 8 000 millones de personas. Esta diferencia entre chimpancés y humanos es algo que me da esperanza, especialmente en un momento de creciente polarización”,",
+            "tipo": "directa",
+            "inicio": 2844,
+            "fin": 3162
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3410,
+            "fin16": 3520,
+            "texto": "Para Mitani, existen algunos paralelismos entre el supuesto caso en Tanzania y lo que han descrito en Science.",
+            "tipo": "indirecta",
+            "inicio": 3410,
+            "fin": 3520
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3522,
+            "fin16": 3675,
+            "texto": "El conflicto letal en Gombe tras una aparente división es la similitud más evidente. Sin embargo, también hay diferencias importantes entre ambos casos”,",
+            "tipo": "directa",
+            "inicio": 3522,
+            "fin": 3675
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4220,
+            "fin16": 4421,
+            "texto": "“En cambio, la fisión en Ngogo dio lugar a la creación de dos grupos escindidos que continúan existiendo. Uno de ellos ha expandido su territorio sobre el del otro y no ha renunciado a esas ganancias”,",
+            "tipo": "directa",
+            "inicio": 4220,
+            "fin": 4421
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5247,
+            "fin16": 5685,
+            "texto": "Soy más prudente y cauto que algunos de mis coautores a la hora de establecer paralelismos entre lo que describimos aquí y el conflicto humano. Una cosa que he aprendido tras más de 35 años estudiando estos animales es que nosotros no somos chimpancés. Hemos cambiado considerablemente durante los últimos 6 a 8 millones de años desde que nos separamos de un ancestro común. Este estudio muestra también en qué nos diferenciamos de ellos”",
+            "tipo": "directa",
+            "inicio": 5247,
+            "fin": 5685
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5869,
+            "fin16": 6141,
+            "texto": "“Una diferencia fundamental entre chimpancés y humanos es que somos una especie inusualmente prosocial y cooperativa. Nos esforzamos por ayudar a otros, incluso a personas que pueden ser completas desconocidas. Esta capacidad de convivir con otros es inusual, si no única”",
+            "tipo": "directa",
+            "inicio": 5869,
+            "fin": 6141
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2750,
+          "fin16": 2782,
+          "texto": "profesor emérito de antropología",
+          "inicio": 2750,
+          "fin": 2782
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 299
+  }
+}

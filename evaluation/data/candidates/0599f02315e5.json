@@ -1,0 +1,26 @@
+{
+  "id": "0599f02315e5",
+  "url": "https://www.agenciasinc.es/Noticias/Esta-es-la-clave-del-exito-de-uno-de-los-serotipos-de-neumococo-mas-letales",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-24T11:50:00+02:00",
+  "fuente_y_derechos": "Fuente: ISCIII | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:41:19+00:00",
+  "campos": {
+    "titular": "Esta es la clave del éxito de uno de los serotipos de neumococo más letales",
+    "entradilla": "Esta bacteria provoca infecciones leves, como las otitis, o graves como la neumonía y la meningitis. Expertos españoles han descrito la mutación de uno de sus clados, es decir, del conjunto de especies que descienden de un antepasado común, lo que explica por qué es tan virulento y cuenta con capacidad para evadir al sistema inmunitario.",
+    "cuerpo": "Una investigación del Instituto de Salud Carlos III (ISCIII) ha confirmado el aumento de cepas de uno de los serotipos de neumococo con mayor prevalencia y letalidad. Los resultados se han publicado en la revista científica The Lancet Microbe.\nEl neumococo (Streptococcus pneumoniae) es una bacteria que puede provocar desde infecciones leves, como otitis o sinusitis, hasta formas graves como neumonía, meningitis o sepsis. Estas enfermedades invasivas afectan principalmente a la población infantil, personas mayores o con condiciones de riesgo, y su prevención se basa en vacunas conjugadas.\nLos resultados publicados revelan un incremento de cepas del serotipo 3 del clado I-α, con una mutación en la proteína LytA, que incrementa la capacidad del neumococo para infectar y evadir el sistema inmunitario.\nEste aumento se ha observado tanto en población pediátrica menor de 2 años como en personas mayores de 65 años, los grupos más vulnerables de sufrir la enfermedad neumocócica invasiva. Los autores explican que estos hallazgos son relevantes desde la perspectiva clínica, ya que el neumococo es una de las principales bacterias causantes de meningitis, sepsis y neumonía.\nEl trabajo ha caracterizado a escala molecular las posibles mutaciones en estos neumococos de serotipo 3, lo que ha permitido hallar un cambio de aminoácido en la proteína LytA, uno de los principales factores de virulencia del microorganismo. Esta mutación es responsable de un aumento de la virulencia de la bacteria, lo que favorece su capacidad de evadir el sistema inmunitario.\nEl equipo explica que es fundamental mantener la vacunación frente al neumococo tanto en la población pediátrica como en la adulta.\nEste serotipo de neumococo se sitúa entre los principales responsables de hospitalizaciones y de un gasto sanitario asociado, por lo que es recomendable incrementar las tasas de vacunación antineumocócica en personas adultas, en las que las cifras actuales siguen siendo bajas.\nTambién insisten en la relevancia de seguir reforzando la vigilancia microbiológica de la enfermedad neumocócica a escala nacional para monitorizar la evolución de estos clones hipervirulentos y detectar la posible aparición de otros nuevos.\nSegún concluyen lo principales autores del trabajo, Mirian Domenech y Jose Yuste, estos resultados “permite entender el notable incremento de este serotipo en los últimos años, y ofrecen una nueva diana para el desarrollo de futuras vacunas frente a neumococo basadas en proteínas”.\nEstudios previos en modelos preclínicos ya demostraron que los anticuerpos dirigidos contra LytA son protectores y pueden neutralizar la función de esta proteína clave en la virulencia del microorganismo."
+  },
+  "sha256": {
+    "titular": "73d7e5ba6a7e81174be688dc7ae537448ff07828949b101f0cd6079a8343d68a",
+    "entradilla": "aaa7da0577bd1d4dab7e4a2613af3b97af09da78cca116f164d196764afe15df",
+    "cuerpo": "62c832afce6c2d2225bfaeb4e6ed365abaee8441b753894b9bec77d916f03084"
+  }
+}

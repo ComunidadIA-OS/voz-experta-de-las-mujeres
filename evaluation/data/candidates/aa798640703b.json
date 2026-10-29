@@ -1,0 +1,26 @@
+{
+  "id": "aa798640703b",
+  "url": "https://www.agenciasinc.es/Noticias/Identifican-un-mecanismo-clave-que-regula-el-uso-de-la-grasa-como-fuente-de-energia",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-08T14:00:00+02:00",
+  "fuente_y_derechos": "Fuente: CNIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:39:53+00:00",
+  "campos": {
+    "titular": "Identifican un mecanismo clave que regula el uso de la grasa como fuente de energía",
+    "entradilla": "Un estudio revela que el calcio mitocondrial actúa como una señal que controla la interacción entre las mitocondrias y las reservas celulares de grasa. Comprender cómo se controla esta relación abre posibles vías al desarrollo de estrategias terapéuticas frente a la obesidad y otras enfermedades metabólicas.",
+    "cuerpo": "Un estudio del Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC) ha identificado un mecanismo que regula cómo el organismo utiliza la grasa almacenada para producir energía.\nLos resultados, que se publican en The EMBO Journal, muestran que el calcio presente en el interior de las mitocondrias actúa como una señal que determina si estos orgánulos permanecen unidos o se separan de las gotas lipídicas, donde las células almacenan la grasa.\nLas mitocondrias son las estructuras celulares encargadas de generar la mayor parte de la energía necesaria para el funcionamiento de los tejidos. En el tejido adiposo marrón, un tipo de grasa especializada en la producción de calor y el gasto energético, una parte de las mitocondrias permanece asociada a las gotas lipídicas, lo que forma las denominadas mitocondrias peridropletales. Estas mitocondrias desempeñan un papel esencial en la gestión de las reservas energéticas celulares.\nSegún la primera autora del trabajo e investigadora del centro español, Rebeca Acín-Pérez, el aumento de los niveles de calcio en el interior de las mitocondrias provoca cambios en su morfología y favorece su separación de las gotas lipídicas. “Este proceso resulta esencial para que las enzimas responsables de la degradación de las grasas, conocidas como lipasas, puedan acceder a los lípidos almacenados y convertirlos en energía”, asegura la investigadora.\nLos autores del estudio observaron que esta separación de las mitocondrias se produce antes del inicio de la lipólisis al actuar como una especie de interruptor molecular que pone en marcha la movilización de las reservas grasas.\nEn concreto, el intercambiador mitocondrial de calcio NCLX controla la salida de calcio desde las mitocondrias. Cuando la actividad de NCLX disminuye, aumenta la acumulación de calcio mitocondrial, se favorece la separación de las mitocondrias de las gotas lipídicas y se incrementa la utilización de grasa como fuente de energía.\nPor el contrario, cuando NCLX está activo, las mitocondrias tienden a permanecer asociadas a las reservas lipídicas. Los investigadores también identificaron una función relevante para la fosfodiesterasa PDE2A, una proteína que regula indirectamente este sistema al modular los niveles intracelulares de calcio.\nMás allá de describir este mecanismo biológico, el trabajo expone que su manipulación farmacológica puede tener importantes consecuencias metabólicas. En modelos animales de obesidad, la inhibición de PDE2A incrementó la asociación entre mitocondrias y gotas lipídicas, redujo la degradación de grasa y favoreció el uso de glucosa como combustible energético. Este cambio metabólico se asoció con una mejora del control energético y un aumento del gasto metabólico.\nEn conjunto, los resultados revelan que la interacción entre las mitocondrias y las gotas lipídicas es un proceso dinámico y finamente regulado por señales intracelulares como el calcio. “Comprender cómo se controla esta relación proporciona una nueva perspectiva sobre los mecanismos que regulan el metabolismo energético y abre posibles vías para el desarrollo de estrategias terapéuticas frente a la obesidad y otras enfermedades metabólicas”, señalan los autores."
+  },
+  "sha256": {
+    "titular": "f8a98dc24df3172f6c7aed5bb16d0ea1a859a3bcefc45406ef0511bfde7dad9f",
+    "entradilla": "f881e36a1c9bdc661bfc2760604eb4ad298339794a51f6510b10d2b78f6093fb",
+    "cuerpo": "8a7ad6d423bb7f3d451e54f6e2b1993ddcc7ac2aff05f7ba257ad233f1ef628d"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "da1f162f8c26",
+  "url": "https://www.agenciasinc.es/Noticias/Un-farmaco-usa-la-glucosa-para-frenar-la-expansion-del-cancer-en-ratones",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-06T12:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Farmacología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:36:51+00:00",
+  "campos": {
+    "titular": "Un fármaco usa la glucosa para frenar la expansión del cáncer en ratones",
+    "entradilla": "Un grupo de investigadores ha desarrollado una molécula que acelera el consumo de glucosa en las células cancerosas y, al mismo tiempo, bloquea el uso de las grasas como fuente de energía. En ratones, este mecanismo logró limitar la expansión del tumor.",
+    "cuerpo": "Las células cancerosas utilizan la glucosa para crecer, por lo que muchos científicos han intentado desarrollar tratamientos para cortarles el suministro. Un fármaco experimental, descrito en Nature Chemical Biology, las ‘engaña’ para que consuman esta sustancia, a la vez que bloquea su fuente energética de reserva: la grasa.\nInvestigadores de la Universidad de Austin (Texas) señalan que, al actuar sobre ambas fuentes a la vez, este compuesto somete a las células cancerosas a un estrés tan intenso que muchas de ellas mueren. Los resultados demostraron su eficacia en una forma agresiva de melanoma en ratones.\n“Me gusta pensar en esta tecnología como un dragón de dos cabezas”, afirma la colíder del trabajo e investigadora de la institución estadounidense, Xiaolu Lim Ang Cambronne. “Estamos acelerando al máximo una parte de la célula mientras que, al mismo tiempo, debilitamos a otra\". Parece ser extremadamente eficaz”, expresa.\nDurante los experimentos, el fármaco resultó útil contra varios tipos de células humanas de distintos tipos de cáncer o cultivos celulares, entre ellas las del melanoma, la leucemia, el cáncer de mama, el cáncer de pulmón, el de hígado y el neuroblastoma.\nUna molécula denominada XJ-4-85 actúa sobre la enzima responsable de acelerar la descomposición de la glucosa en el interior de las células y, después, libera un compuesto que actúa sobre la enzima CPT2, clave para obtener energía a partir de los ácidos grasos en las mitocondrias. Al alterar simultáneamente ambas vías metabólicas, el tratamiento frena el crecimiento del tumor.\n“El modo en el que actúa este fármaco fue totalmente inesperado”, afirma el colíder del trabajo e investigador del Laboratorio Hsu (EE.UU), Ken Hsu, que diseñó la molécula. “Se necesitó mucha investigación para averiguar qué estaba pasando a nivel molecular. También, nos sorprendió ver con qué selectividad se une a las células cancerosas”.\nLos fármacos que atacan el cáncer a nivel molecular no son totalmente nuevos. Existe una clase de compuestos que utilizan un anticuerpo para dirigirse a las células tumorales y liberar una carga de quimioterapia directamente en el tumor. No obstante, presentan numerosas limitaciones.\n“Los anticuerpos son difíciles de fabricar y, debido a su gran tamaño, solo pueden actuar sobre proteínas situadas en la superficie de las células cancerosas”, explica Hsu. “Creemos que este nuevo fármaco es equivalente, pero son más fáciles de fabricar y, al ser más pequeños, pueden actuar sobre proteínas que se encuentran en el interior de las células”.\nEsta investigación se encuentra en sus primeras fases, aunque los resultados parecen prometedores. Los expertos señalan que se necesitan muchas más pruebas de laboratorio antes de que el fármaco pueda estudiarse en personas. Más allá, afirman que ilustra un nuevo enfoque para el diseño de medicamentos de dos componentes, capaces de emplearse para otros tipo de enfermedades."
+  },
+  "sha256": {
+    "titular": "3e609e0fe092d0248dd27e53bd05d9349689b272c74e7e3f8d31ec118591075b",
+    "entradilla": "7d9a95d6060aa043cf77edf1de076bec091d31ca4be051f228df7dc774c52775",
+    "cuerpo": "b883fbb04df177574a7f8ce000288fb49b12abd84594b79006d23a91199acddf"
+  }
+}

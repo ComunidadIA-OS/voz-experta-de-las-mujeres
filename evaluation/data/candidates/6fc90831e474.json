@@ -1,0 +1,26 @@
+{
+  "id": "6fc90831e474",
+  "url": "https://www.agenciasinc.es/Noticias/Asi-sera-la-corona-solar-del-eclipse-total-del-proximo-12-de-agosto",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-04T09:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:14+00:00",
+  "campos": {
+    "titular": "Así será la corona solar del eclipse total del próximo 12 de agosto",
+    "entradilla": "El Ministerio ha utilizado el Superordenador de La Palma para predecir la corona solar del eclipse. La simulación reproduce con un alto nivel de detalle la estructura de la corona solar que será visible durante la totalidad del fenómeno a lo largo del camino de totalidad.",
+    "cuerpo": "El Ministerio de Ciencia, Innovación y Universidades (MICIU) ha utilizado el Superordenador de La Palma para predecir la corona solar del eclipse total del próximo 12 de agosto, el primero de los tres grandes acontecimientos extraordinarios que constituyen el denominado Trío de Eclipses.\nEl Instituto de Astrofísica de Canarias (IAC), organismo dependiente del MICIU, ha desarrollado la simulación en colaboración con el grupo de investigación Predictive Science Inc. (PSI, San Diego, California), que reproduce con un alto nivel de detalle la estructura de la corona solar.\nEsta será visible durante la totalidad del fenómeno a lo largo del camino de totalidad, incluido el Observatorio de Yebes (Guadalajara), que se convertirá en el centro de seguimiento oficial del Gobierno de España del Eclipse Total Solar. Los usuarios e investigadores pueden explorar la predicción en tiempo real y seleccionar cualquier punto geográfico a través del mapa interactivo.\nLa corona solar -la parte más externa del Sol- está moldeada por los campos magnéticos de la superficie solar. Para construir la simulación, el equipo científico ha utilizado datos medidos continuamente por los satélites SDO de NASA y Solar Orbiter de ESA, así como de la red internacional GONG (Global Oscillation Network Group), que cuenta con una de sus estaciones clave en el Observatorio del Teide (Tenerife), gestionado por el IAC.\nDado que no es posible observar la totalidad del Sol simultáneamente, el modelo reconstruye la distribución del campo magnético uniendo las observaciones tomadas franja a franja a lo largo de una rotación solar completa.\nCon este mapa magnético de partida, el Superordenador de La Palma ha resuelto las ecuaciones magnetohidrodinámicas (MHD) altamente complejas para predecir cómo se formarán las estructuras y los ‘rayos’ de la corona el día del eclipse.\nMás allá de la predicción estética, este trabajo tiene un objetivo científico: desentrañar el problema del calentamiento coronal, una de las mayores incógnitas de la Física Solar y estelar. Mientras que la superficie del Sol se encuentra a unos 6 000 °C, la corona alcanza temperaturas de millones de grados.\nAl comparar las imágenes reales capturadas durante el eclipse con la predicción numérica realizada antes del evento, los astrofísicos podrán evaluar la precisión de sus modelos, corregir las hipótesis del balance térmico y aprender qué procesos físicos dominan el calentamiento en esta parte del Sol, solo visible desde Tierra en un eclipse total de solar.\nComprender la dinámica de la corona es importante para avanzar la meteorología espacial, ya que estas estructuras magnéticas influyen directamente en las tormentas solares que afectan a las redes de telecomunicaciones, los satélites en órbita y la tecnología en la Tierra."
+  },
+  "sha256": {
+    "titular": "ff00ce5d22adc5a2e1a7d8cd85b232fe646f0c7d226c848570960e6ae74dabce",
+    "entradilla": "cc3e4d84d5b460fdf014bd2cf2aceb19ad8d0df8f381154a938cca9fe4760dae",
+    "cuerpo": "aa7d08ca34cd17477af6a68ea7ac9bafbd367a43ad3a2b19a17be7ebaee78552"
+  }
+}

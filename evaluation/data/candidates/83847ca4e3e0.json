@@ -1,0 +1,26 @@
+{
+  "id": "83847ca4e3e0",
+  "url": "https://www.agenciasinc.es/Noticias/No-solo-importan-las-neuronas-el-espacio-entre-ellas-facilita-la-comunicacion-cerebral",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-27T12:00:00+02:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Química"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:46:38+00:00",
+  "campos": {
+    "titular": "No solo importan las neuronas: el espacio entre ellas facilita la comunicación cerebral",
+    "entradilla": "Este microambiente entre las células del cerebro permite el movimiento de los neurotransmisores, lo que influye en la rapidez y en la precisión de la comunicación neuronal. El nuevo trabajo ha descubierto que este ‘hueco’ extracelular no es pasivo, como se creía hasta ahora, sino que posee un rol importante en el correcto funcionamiento del cerebro.",
+    "cuerpo": "Un experto del Consejo Superior de Investigaciones Científicas (CSIC) ha liderado un estudio internacional que revela cómo el espacio que rodea a las neuronas desempeña un papel activo en la comunicación cerebral y no pasivo, como se creía anteriormente.\nLa investigación, publicada en Fluids and Barriers of the CNS, demuestra que la forma y organización del llamado espacio extracelular influyen directamente en cómo se transmiten las señales químicas entre neuronas.\nCuando una neurona se comunica con otra, libera sustancias químicas llamadas neurotransmisores, que deben desplazarse por ese espacio hasta encontrar su destino. Hasta ahora, se pensaba que este entorno era solo un medio de paso. Sin embargo, el nuevo estudio muestra que no es un espacio pasivo, sino que puede facilitar o dificultar el movimiento de esas señales, lo que influye en la rapidez y precisión de la comunicación neuronal.\nEl equipo investigador ha observado que este efecto depende del tipo de sinapsis, es decir, del punto de contacto entre neuronas. En las sinapsis excitadoras, que activan la actividad neuronal y están relacionadas con procesos como el aprendizaje y la memoria, la forma del entorno ayuda a que el neurotransmisor se elimine rápidamente. Esto evita interferencias con otras sinapsis cercanas y permite que cada conexión funcione de manera independiente y precisa.\nEn cambio, en las sinapsis inhibidoras, que sirven para frenar y regular la actividad del cerebro, el entorno favorece que el neurotransmisor se extienda lateralmente. Esto refuerza una señal de fondo que ayuda a mantener el equilibrio de la actividad cerebral y evita la sobreexcitación.\nEste hallazgo abre nuevas vías para comprender el funcionamiento del cerebro y el impacto que pueden tener factores como el envejecimiento, las lesiones o las enfermedades neurológicas en la comunicación neuronal. En este sentido, el estudio subraya la importancia de abordar el cerebro como un sistema integrado, en el que no solo importan las neuronas, sino también el entorno en el que se comunican.\nPara llegar a estas conclusiones, el equipo combinó microscopía de altísima resolución, capaz de observar el cerebro a escalas muy pequeñas, con modelos informáticos que simulan cómo se mueven las moléculas en el tejido cerebral real.\n“Los resultados muestran que el espacio entre neuronas no es solo un hueco, sino una parte activa del sistema”, explica Jan Tønnesen, investigador del CSIC en el Instituto Biofisika (IBF-CSIC-UPF) y líder del estudio. Por su parte, la investigadora Paula Giménez, coautora del trabajo, añade que “la propia estructura del cerebro contribuye a que las señales se transmitan de forma más eficiente”."
+  },
+  "sha256": {
+    "titular": "d5db3d44d3bedcdadd10bbe3fb345f2d39ad4b1a68719a207f74b0b17d45c625",
+    "entradilla": "ed4a359118c49e7a71179c047976426f2015db6a0e20f40a716cc72cadac7f55",
+    "cuerpo": "150e9fc692049e4060232d2d6ba24f0818014d8f83276bcd69088fb251585bca"
+  }
+}

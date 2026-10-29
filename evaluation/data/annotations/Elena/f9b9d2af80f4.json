@@ -1,0 +1,24 @@
+{
+  "article_id": "f9b9d2af80f4",
+  "url": "https://www.agenciasinc.es/Noticias/El-presupuesto-estatal-en-I-D-i-alcanza-los-15-676-millones-impulsado-por-la-inversion-en-defensa",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:34+00:00",
+  "article_sha256": {
+    "titular": "e3d1905f4eb29023ef665edd66f0768e16c81f6c309ce4a768babddea45c0798",
+    "entradilla": "7547449b75c09d1920548649012f007267cde66d1e207caee33c19d65f39300c",
+    "cuerpo": "689d31be3bf30e6fa53223378039f597d64ceb1f6d2153822146e9e4bd24bad9"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [],
+  "reviewed_quotes": [],
+  "page_annotation": {
+    "personas": [],
+    "sin_personas": true,
+    "terminada": true,
+    "notas": "",
+    "segundos": 14
+  }
+}

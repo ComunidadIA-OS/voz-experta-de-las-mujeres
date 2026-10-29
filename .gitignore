@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+/results/
+article_review.json
+development_case_*.json
+.DS_Store
+
+# Run logs from the Codespace
+*.log
+nohup.out

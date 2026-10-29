@@ -1,0 +1,26 @@
+{
+  "id": "05467108e842",
+  "url": "https://www.agenciasinc.es/Noticias/Los-grandes-peces-oceanicos-en-riesgo-por-el-calentamiento-de-los-mares",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-17T11:42:00+02:00",
+  "fuente_y_derechos": "Fuente: UGR | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:47:18+00:00",
+  "campos": {
+    "titular": "Los grandes peces oceánicos, en riesgo por el calentamiento de los mares",
+    "entradilla": "Un estudio publicado por la revista Science en el que participa la Universidad de Granada revela que especies como el atún o el tiburón blanco podrían sufrir sobrecalentamiento al aumentar la temperatura de los océanos.",
+    "cuerpo": "Un trabajo de investigación que acaba de ser publicado por la revista Science advierte que los grandes peces mesotérmicos como atunes, tiburones peregrinos o tiburones blancos, enfrentan una alta demanda energética y un creciente riesgo de sobrecalentamiento debido al aumento de la temperatura oceánica.\nEl estudio, en el que participa el investigador de la Universidad de Granada Ignacio Peralta Maraver, analiza cómo el tamaño corporal, la estrategia térmica de cada especie y el calentamiento global determinan su distribución actual y su vulnerabilidad futura, e incluso aporta nuevas claves sobre la extinción de especies del pasado como el megalodón.\nLos responsables de la investigación distinguen dos grandes grupos de peces según su capacidad para regular el calor corporal. Por un lado, los ectotermos estrictos, cuya temperatura corporal depende directamente de la del agua, y por otro, los mesotermos, que generan y retienen parte de su calor interno.\nEstos últimos, entre los que se encuentran algunas de las especies más conocidas y de mayor tamaño, requieren de mucha más energía que los ectotermos de tamaño similar y, además, disipan el calor con gran dificultad.\nEl equipo responsable de la investigación ha desarrollado y validado una técnica innovadora para estimar la demanda metabólica de una amplia variedad de peces óseos y cartilaginosos a partir de su tamaño corporal y su estrategia térmica.\nEste avance resulta especialmente relevante porque permite estudiar especies cuya tasa metabólica era prácticamente imposible de medir de forma directa en el laboratorio.\nGracias a estas estimaciones, los autores han podido determinar que, a medida que los peces mesotermos aumentan de tamaño, generan calor más rápido de lo que pueden perderlo. Ese desajuste metabólico provoca un riesgo creciente de sobrecalentamiento.\nEste fenómeno explica por qué, en los océanos actuales, muchas de estas especies se concentran en aguas frías, altas latitudes o zonas profundas, donde la temperatura les permite compensar su elevada demanda energética. Los investigadores han comprobado que su modelo reproduce con precisión los patrones reales de distribución global de los grandes peces marinos.\nEl objetivo del estudio no sólo mira al futuro, sino que propone también una nueva explicación a las extinciones de especies ocurridas hace millones de años.\nLos autores sugieren que gigantes como el megalodón pudieron extinguirse al quedar atrapados en una combinación letal: una altísima necesidad de energía, una escasa capacidad para disipar el calor y unos límites térmicos que resultaron insostenibles cuando las condiciones del océano cambiaron.\nDe este modo, la investigación conecta de formas muy eficaz la fisiología, la distribución geográfica y la extinción de los grandes peces a escala planetaria.\nLos resultados del trabajo permiten anticipar qué especies serán más vulnerables al calentamiento oceánico, lo que resulta fundamental para diseñar estrategias de conservación basadas en mecanismos fisiológicos y no sólo en observaciones actuales.\nAsimismo, ayudan a prever desplazamientos de especies de gran valor ecológico y pesquero hacia aguas más frías, mejorando así la gestión de los recursos de pesca en un contexto de cambio climático.\nEl trabajo aporta además herramientas para anticipar cambios profundos en la estructura de los ecosistemas oceánicos, proteger especies icónicas como el tiburón blanco, los atunes o el tiburón ballena, y reducir riesgos de colapso poblacional frente al calentamiento global."
+  },
+  "sha256": {
+    "titular": "de1398140144f9a561ca8ada818882e8e694db7c3ebd12b5f6e29f4e69dd2560",
+    "entradilla": "1a760f193afc75598c0974cbbb2ca786a10f2cec86ce3e80acf50d83fcd8902d",
+    "cuerpo": "af666fa3d3e04b2137243a02e814dda1635cdd3b53025ef4e0f0cf6823e9fbc3"
+  }
+}

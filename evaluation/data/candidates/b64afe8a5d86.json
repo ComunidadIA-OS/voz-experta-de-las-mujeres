@@ -1,0 +1,26 @@
+{
+  "id": "b64afe8a5d86",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-como-algunos-tumores-de-mama-se-vuelven-resistentes-a-la-terapia-hormonal",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-11-13T10:03:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Patología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:59:02+00:00",
+  "campos": {
+    "titular": "Descubren cómo algunos tumores de mama se vuelven resistentes a la terapia hormonal",
+    "entradilla": "Un estudio ha identificado un mecanismo que permite a ciertos tumores de mama escapar al control hormonal. El hallazgo abre la puerta a nuevas combinaciones de fármacos para mejorar la eficacia de los tratamientos",
+    "cuerpo": "Un equipo del Centro de Investigación del Cáncer (CSIC-Universidad de Salamanca-FICUS) han descubierto un mecanismo que explica por qué algunos tumores de mama dejan de responder a las terapias hormonales.\nEn experimentos con células y modelos animales, comprobaron que determinadas señales de crecimiento modifican el comportamiento del tumor, haciéndolo menos dependiente de las hormonas y capaz de seguir creciendo incluso cuando se bloquea la acción hormonal.\nEste hallazgo, publicado en Nucleic Acids Research, podría permitir en el futuro diseñar combinaciones de fármacos que bloqueen estas señales y mejoren la eficacia de los tratamientos actuales.\nEl trabajo identifica nuevos mecanismos implicados en la resistencia a las terapias hormonales en el cáncer de mama luminal, uno de los más prevalentes y complejos en oncología. Ha sido liderado por los doctores Antoni Hurtado y Sandra López, responsables del Grupo de Genómica Funcional del Cáncer y del Grupo de Regulación del Ciclo Celular, con participación de instituciones en España y Noruega.\nLos investigadores han demostrado que una proteína llamada FOXA1, que actúa como interruptor celular regulando el crecimiento tumoral, cambia de comportamiento según lleve o no una “marca química” (acetilación).\nCuando esta proteína pierde esa marca, se vuelve más activa y coopera con dos receptores muy conocidos en oncología (HER2 y HER3), que ayudan al tumor a esquivar los tratamientos dirigidos contra el receptor de estrógenos.\nFOXA1, clasificada como factor “pionero”, se une a regiones específicas del ADN para facilitar que el receptor de estrógenos active o silencie genes clave en el crecimiento tumoral.\nLa acetilación o desacetilación de la proteína determina su localización en el genoma y su respuesta a las señales emitidas por HER2 y HER3. Estos receptores, situados en la superficie celular, activan rutas moleculares que favorecen la resistencia a las terapias hormonales.\nMediante modelos celulares y animales, el equipo comprobó que la activación de HER2/HER3 provoca la desacetilación de FOXA1, lo que le permite escapar al control hormonal y activar genes asociados a peor pronóstico. Entre los tratamientos afectados figura fulvestrant, fármaco utilizado en segunda línea para el cáncer de mama luminal.\nEl estudio también revela el papel esencial de la proteína HDAC2, que actúa como un interruptor para que las señales de HER2 y HER3 funcionen. Bloquear HDAC2 podría convertirse en una nueva estrategia para frenar el tumor.\nSegún los autores, este hallazgo tiene implicaciones clínicas importantes. Combinar fármacos que bloqueen las señales de HER2/HER3 con terapias hormonales podría revertir la resistencia en tumores HER2-low, que presentan niveles intermedios de HER2 y necesitan tratamientos específicos.\nAsimismo, el uso de inhibidores selectivos de histona desacetilasas (HDAC), como la romidepsina, ha logrado restaurar el control hormonal del crecimiento celular, abriendo el camino hacia ensayos clínicos más personalizados. y España."
+  },
+  "sha256": {
+    "titular": "2b4543d91c4964dbefd155b3efc188090f287a55e7f5c289f9b47371eb45a02d",
+    "entradilla": "97da1cc62b9708a58dfd91cdd22615006ce0a682777d541afd5fe9f93d344d6a",
+    "cuerpo": "a1362084d8f4bc5b4cfa87158fcc16186faa16abf70cae9cb6db2f0d207e85b4"
+  }
+}

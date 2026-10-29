@@ -1,0 +1,26 @@
+{
+  "id": "d1a4bd114be7",
+  "url": "https://www.agenciasinc.es/Noticias/Un-robot-con-IA-logra-superar-a-jugadores-expertos-de-tenis-de-mesa",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-23T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:46:51+00:00",
+  "campos": {
+    "titular": "Un robot con IA logra superar a jugadores expertos de tenis de mesa",
+    "entradilla": "Ace es capaz de responder de forma ágil y veloz en un partido de tenis de mesa. Sus reflejos y capacidad de reacción le han permitido ganar tres rondas contra jugadores de élite de esta disciplina, lo que revela que un robot autónomo puede tener éxito en deportes de competición y en otras áreas que requieran de habilidades físicas.",
+    "cuerpo": "El tenis de mesa es un deporte desafiante para humanos y robots, ya que necesita de una gran habilidad para proporcionar respuestas rápidas y predecir de forma precisa la trayectoria de la pelota. Investigaciones previas demostraron que algunos sistemas robóticos podían hacer frente a tales limitaciones, pero los ensayos se realizaron con varios participantes y aficionados sin seguir las reglas del juego.\nAhora, un sistema robótico basado en inteligencia artificial ha sido capaz de superar a jugadores de tenis de mesa expertos. Los resultados del estudio, publicados en Nature, revelan el potencial de esta tecnología para realizar tareas complejas en tiempo real y sus investigadores creen que podría exportarse a todo tipo de actividades donde se requieran interacciones físicas rápidas y precisas.\nSegún explica el director de Sony AI en Zúrich y responsable del proyecto, Peter Dür, el estudio demuestra que un robot autónomo puede tener éxito en deportes de competición e igualar el tiempo de reacción de los humanos.\n“El tenis de mesa es un juego de enorme complejidad que requiere tomar decisiones en fracciones de segundo, así como mostrar velocidad y potencia”, expone el desarrollador. “Este avance expone el potencial de los agentes físicos de IA para realizar tareas interactivas en tiempo real y supone un paso significativo hacia la creación de sistemas con aplicaciones más amplias”, enfatiza.\nEl robot, denominado proyecto Ace, consta de un sistema de percepción de alta velocidad que utiliza una red de cámaras, un sistema de control basado en IA y un brazo robótico con ocho articulaciones.\nLos investigadores evaluaron su rendimiento en una serie de partidos disputados contra jugadores de élite –con más de diez años de experiencia– y dos jugadores profesionales de la liga japonesa: Minami Ando y Kakero Sone. Ganó tres de cinco partidos contra los atletas expertos y perdió las rondas contra los profesionales.\nDurante su exhibición, Ace demostró un manejo correcto al obtener una tasa de devolución superior al 75 %. Los sistemas de percepción y control de baja latencia del robot también le permitieron ofrecer reacciones rápidas ante golpes inusuales, como pelotas que rebotan contra la red.\n“Este hallazgo va mucho más allá del tenis de mesa”, afirma el científico jefe de Sony AI, Peter Stone. “Representa un hito en la investigación sobre IA y demuestra que, primera vez, un sistema de este tipo puede percibir, razonar y actuar de forma eficaz en entornos del mundo real que exigen precisión y velocidad”, concluye.\nLos investigadores creen que sus hallazgos ayudarán al desarrollo de sistemas de IA física en distintas disciplinas. Tras observar un golpe ejecutado por Ace, el exjugador olímpico de tenis de mesa Nakamura comentó que nunca creyó que fuera posible y que, al ver al robot, le hizo pensar que los humanos también podían hacerlo."
+  },
+  "sha256": {
+    "titular": "857a9ef9194005d12ba987ede10fc6fc442cc5297d3caed8e73e445fb8049f95",
+    "entradilla": "6e278a1fdaa9d2a82e64ccf8b79c3b2ce17510fe4310e45c0fecff55dee5d2e4",
+    "cuerpo": "594bb2285d4042bf4882dbb023a612f5699626dc5821164c6843fdde8b57ab8e"
+  }
+}

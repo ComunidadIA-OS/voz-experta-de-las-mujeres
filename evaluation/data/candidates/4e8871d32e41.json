@@ -1,0 +1,26 @@
+{
+  "id": "4e8871d32e41",
+  "url": "https://www.agenciasinc.es/Noticias/Presentan-nueve-recomendaciones-para-evitar-la-propagacion-de-la-peste-porcina-africana",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-10T11:24:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:53:13+00:00",
+  "campos": {
+    "titular": "Presentan nueve recomendaciones para evitar la propagación de la peste porcina africana",
+    "entradilla": "Un grupo de especialistas ha elaborado una guía con medidas clave para reforzar la bioseguridad y reducir el riesgo de transmisión de esta enfermedad en el sector ganadero.",
+    "cuerpo": "El Comité científico para el asesoramiento en relación con el brote de peste porcina africana (PPA) ha concluido su informe preliminar con nueve recomendaciones para evitar la propagación de la enfermedad.\nLas propuestas combinan medidas para reforzar la bioseguridad en granjas, intensificar la vigilancia epidemiológica y gestionar activamente las poblaciones de jabalíes, consideradas un elemento clave en la dinámica de transmisión del virus.\nEl documento aborda también la caracterización genética del patógeno y la coordinación entre administraciones para adaptar las respuestas sanitarias y prevenir la difusión de la enfermedad entre fauna silvestre y porcino doméstico nacional.\nLa función del comité es asesorar en aspectos científicos al Ministerio de Agricultura, Pesca y Alimentación y al resto de autoridades competentes, tanto sobre la evolución y el seguimiento de la PPA como sobre las medidas necesarias para controlar y erradicar el virus en España.\n.\nLa PPA se detectó el pasado 28 de noviembre en Cerdanyola del Vallès, en la provincia de Barcelona. Desde entonces, no se ha observado una expansión del brote fuera de esa zona, gracias a las medidas de contención y bioseguridad adoptadas.\nHasta el 31 de enero, fecha de cierre del documento, se han detectado 103 jabalíes positivos. Todos los casos se concentran en el área inicialmente afectada. No se ha confirmado ningún contagio en explotaciones de porcino doméstico.\nEl comité destaca el refuerzo de la vigilancia epidemiológica desde el inicio del brote. Se han intensificado los muestreos en fauna silvestre y la búsqueda activa de animales muertos. Estas acciones permiten detectar precozmente nuevos casos y delimitar con mayor precisión las zonas de riesgo.\nEl informe también subraya la necesidad de actuar sobre las poblaciones de jabalíes. Considera clave su gestión coordinada para reducir la presión de infección. Además, recomienda mantener la caracterización molecular del virus para adaptar las estrategias de control ante posibles cambios en su evolución."
+  },
+  "sha256": {
+    "titular": "d53bd6cc81348296e3a52e0c4059a5a48d1c99ddcaf9aade490a7f111cdafef2",
+    "entradilla": "389dd5d20a2c2024d944ad44923c388067f192e21acc748119772315d548ee4c",
+    "cuerpo": "6e442c7c5bd1bc34fc9f591fff237fb40bc6c1481ecb88097785bd1f74138170"
+  }
+}

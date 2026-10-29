@@ -1,0 +1,26 @@
+{
+  "id": "8ab574df9d16",
+  "url": "https://www.agenciasinc.es/Noticias/Un-anticuerpo-protege-in-vitro-a-las-celulas-del-sistema-inmunitario-de-una-peligrosa-bacteria-hospitalaria",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-27T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Farmacología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:51:25+00:00",
+  "campos": {
+    "titular": "Un anticuerpo protege ‘in vitro’ a las células del sistema inmunitario de una peligrosa bacteria hospitalaria",
+    "entradilla": "Investigadores del Instituto de Química Avanzada de Cataluña del CSIC han creado un anticuerpo capaz de anular la acción tóxica de la piocianina, una molécula clave en la virulencia de Pseudomonas aeruginosa, en células inmunitarias. El hallazgo apunta a una vía terapéutica alternativa contra esta bacteria que podría reducir el uso de antibióticos y evitar resistencias.",
+    "cuerpo": "Un anticuerpo monoclonal creado por el grupo de Nanobiotecnología para el Diagnóstico del Instituto de Química Avanzada de Cataluña (IQAC), del CSIC, ha demostrado en cultivos celulares que puede neutralizar a la toxina piocianina de la bacteria Pseudomonas aeruginosa, considerada por Organización Mundial de la Salud muy peligrosa por su elevada resistencia a casi todos los antibióticos y su presencia en los hospitales.\nEn este trabajo, publicado en la revista ACS Pharmacology and Translational Science, se ha seguido una estrategia “antivirulencia”, que no va dirigida contra la bacteria, como los tratamientos actuales, sino que se centra en inhibir a la toxina piocianina, con el valor añadido de que este enfoque no provocaría resistencia a los antibióticos.\nPseudomonas aeruginosa es considerada uno de los patógenos más preocupantes globalmente debido a su capacidad para adaptarse y desarrollar resistencia a la mayoría de los antibióticos disponibles, lo que provoca miles de muertes anuales en pacientes vulnerables. Su toxina, la piocianina, desempeña un papel decisivo en esa capacidad dañina, ya que mata células del sistema inmunitario y altera la respuesta inflamatoria del organismo. Neutralizar esta toxina resulta una vía terapéutica alternativa con potencial para reducir la necesidad de antibióticos y el riesgo de aparición de nuevas resistencias.\nLa investigadora del IQAC CSIC y autora del estudio, Llüisa Vilaplana, subraya la urgencia de buscar tratamientos innovadores ante este tipo de bacterias. “Esta bacteria debido a su alta adaptabilidad, ha desarrollado una gran resistencia a los antibióticos clásicos, lo que ha impulsado el desarrollo de nuevas estrategias para reducir las cepas multirresistentes y minimizar la progresión de la infección”, explica. Esta resistencia extrema convierte la búsqueda de alternativas en un desafío prioritario.\nCon este objetivo, las investigadoras del IQAC desarrollaron en modelos de ratón un anticuerpo monoclonal denominado mAb122, diseñado para unirse específicamente a la piocianina e impedir su acción. Un anticuerpo monoclonal es una proteína generada en el laboratorio que reconoce de forma muy precisa una única molécula, lo que permite bloquear de manera selectiva su efecto. Tras su producción, el anticuerpo se evaluó en macrófagos expuestos a diferentes concentraciones de la toxina.\nLos resultados mostraron que el mAb122 reduce el daño celular provocado por la piocianina y aumenta notablemente la supervivencia de las células inmunitarias. Además, cuando se administró solo, no mostró efectos tóxicos, un aspecto esencial para considerar su desarrollo en fases posteriores.\nPilar Marco, responsable del grupo que ha liderado el estudio, subraya que esta estrategia antivirulencia no busca eliminar la bacteria, sino neutralizar uno de sus mecanismos clave de daño, lo que reduce la presión selectiva y la aparición de resistencias. El anticuerpo actúa desarmando la toxina sin afectar a la viabilidad del patógeno, un enfoque que podría permitir usar menos antibióticos y en dosis más bajas.\nEl trabajo también evaluó su efecto sobre la respuesta inflamatoria, con cambios que requieren estudios adicionales para determinar su impacto. Aunque los resultados son preliminares, la neutralización de la piocianina aparece como una vía prometedora para proteger a las células inmunitarias y avanzar hacia terapias más seguras frente a infecciones por bacterias multirresistentes, cuyo siguiente paso será la validación en modelos animales."
+  },
+  "sha256": {
+    "titular": "aaa6b57fb30d9accb206b6a8e397586ceeabce9e732817006a1171163675db0e",
+    "entradilla": "ff082275a054bb6d44d580c28897cebf8c543cd41524a10e6c590f8caa948570",
+    "cuerpo": "6368a8c94bf28432d3346b87a035a3dcc9886482f9daffe7a6b178bc431ac1f6"
+  }
+}

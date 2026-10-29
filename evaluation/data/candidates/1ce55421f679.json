@@ -1,0 +1,26 @@
+{
+  "id": "1ce55421f679",
+  "url": "https://www.agenciasinc.es/Noticias/Identifican-en-Cuenca-una-nueva-ave-del-Cretacico-clave-en-la-evolucion-temprana-de-las-aves",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-25T11:09:00+01:00",
+  "fuente_y_derechos": "Fuente: Museo Paleontológico de Castilla-La Mancha | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:51:39+00:00",
+  "campos": {
+    "titular": "Identifican en Cuenca una nueva ave del Cretácico clave en la evolución temprana de las aves",
+    "entradilla": "El equipo científico de esta investigación ha descrito la especie fósil Gorgonavis alcyone, un ave que vivió hace unos 125 millones de años y cuyos restos revelan rasgos anatómicos poco comunes entre las enantiornitas. El hallazgo, procedente del yacimiento de Las Hoyas (Cuenca), aporta nueva información sobre la evolución de las aves primitivas y consolida el valor científico de este enclave para reconstruir los ecosistemas del Cretácico Inferior.",
+    "cuerpo": "El yacimiento de Las Hoyas, reconocido como uno de los geositios más importantes del planeta por la Unión Internacional de Ciencias Geológicas (IUGS) y declarado Bien de Interés Cultural, representa un antiguo humedal del Cretácico donde convivieron plantas y animales en un momento crucial de la evolución de la vida en la Tierra.\nEntre sus fósiles más destacados se encuentran las aves enantiornitas, un linaje de dinosaurios que en aquel momento comenzaba a diversificarse, hasta convertirse en el grupo de aves más abundante del planeta antes de desaparecer con el resto de dinosaurios.\nLas Hoyas documenta este grupo desde la década de 1980, con hallazgos tan emblemáticos como Iberomesornis, a los que siguieron descubrimientos como Concornis y Eoalulavis, además del primer polluelo recién nacido descrito para estas aves.\nEn esa misma línea de investigación sobre la fauna aviaria de Las Hoyas, un nuevo trabajo presenta una nueva especie de enantiornita: Gorgonavis alcyone. El nombre de la especie alude a las Gorgonas de la mitología griega, como Medusa, capaces de convertir en piedra a quien las mirara y a las que solo se podía vencer cortándoles la cabeza. El guiño no es casual: el ejemplar hallado está representado precisamente por una pequeña cabeza aislada.\n“El cráneo es clave en la determinación de una especie, pero en aves fósiles es fácil que se pierda porque suele desarticularse temprano en el proceso post mortem, lo que ha sido habitual en las especies descritas en Las Hoyas”, explica Sergio M. Nebreda, primer autor del trabajo y actualmente investigador postdoctoral en la Universidad Johns Hopkins.\nNebreda destaca además que “la apariencia del pico de estas aves primitivas era excepcionalmente elongada—de ahí el nombre del grupo de aves enantiornitas al que pertenece, las longipterígidas—y aunque tenía pequeños dientes, mantenía una anatomía similar al pico de las aves modernas”.\nLas aves longipterígidas, linaje al que pertenece este fósil, se conocían hasta ahora únicamente a partir de yacimientos paleontológicos de China. Desde la Universidad Autónoma de Madrid, la profesora emérita Angela Buscalioni subraya que “como otros grupos fósiles descubiertos en el yacimiento, esta nueva ave destaca la posición clave de Las Hoyas entre Asia y Europa en esa época”.\nPor su parte, Jesús Marugán Lobón, coordinador del proyecto, añade que “la presencia de una nueva especie en el yacimiento robustece la hipótesis de que este humedal fue un ecosistema clave para comprender mejor el modo de vida de estas aves primitivas”.\nLa descripción del cráneo de esta nueva especie ha requerido el uso de técnicas digitales avanzadas, como la micro-tomografía computarizada, en el marco de un equipo internacional en el que también han participado el Museo de Historia Natural de Los Ángeles, la Universidad de Cambridge y la Universidad de Málaga."
+  },
+  "sha256": {
+    "titular": "a5d0b1a4cd3ae96210027e107f2f52fc1d24afc706e7ee3774543e3d5fcca890",
+    "entradilla": "128c12e5af91563dd655bba0841ea3b7f810efaf24a49c9ade93d68b452595bf",
+    "cuerpo": "444c2b37c10636b91c71c46be9ecd3e4e71cd0f0e230d832bdfb4ccbcbd0d973"
+  }
+}

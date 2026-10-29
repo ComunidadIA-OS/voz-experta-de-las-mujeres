@@ -1,0 +1,26 @@
+{
+  "id": "c9b0b8837753",
+  "url": "https://www.agenciasinc.es/Noticias/Los-espanoles-visitan-mas-al-medico-y-consumen-mas-medicamentos-que-los-migrantes",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-02T11:00:00+02:00",
+  "fuente_y_derechos": "Fuente: Ministerio de Sanidad | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:31+00:00",
+  "campos": {
+    "titular": "Los españoles visitan más al médico y consumen más medicamentos que los migrantes",
+    "entradilla": "El Ministerio de Sanidad ha presentado un informe en el que analiza ‘el efecto del inmigrante sano’, un fenómeno que describe la ventaja epidemiológica inicial de estas personas al llegar al país de destino. La población española posee un mayor número de enfermedades crónicas y consume una mayor cantidad de medicamentos.",
+    "cuerpo": "Los españoles tienen más enfermedades crónicas y acceden a una mayor cantidad de recursos médicos que los migrantes, según ha informado el Ministerio de Sanidad tras publicar un estudio en el que se analizan las ventajas epidemiológicas iniciales de estas poblaciones al llegar al país de destino.\nEl informe compara el estado de salud de los nacidos en España con el de personas procedentes de cinco áreas geográficas y selecciona los 21 problemas de salud que concentran más gasto público al requerir un mayor número de consultas, tratamientos y seguimiento médico.\nLos resultados revelan que la población autóctona presenta una mayor incidencia en 16 de las 21 patologías analizadas. De hecho, en cuatro de ellas –trastornos de ansiedad, metabolismo lipídico, infecciones respiratorias agudas y asma– las tasas de prevalencia superan en más de 20 puntos las de otras regiones.\nSolo hay cinco excepciones en las que la población migrante tenga peores indicadores de salud. Entre ellas, algunos factores de riesgo cardiovascular como la hipertensión arterial no complicada o la diabetes suelen presentar una prevalencia mayor en las personas de África y del Mediterráneo Oriental, respectivamente.\nEl estudio también identifica enfermedades en las que la situación de salud es muy similar entre los grupos analizados. En particular, destacan el infarto agudo de miocardio o las enfermedades mentales, donde el porcentaje de personas que acudieron a un profesional en el último año fue casi idéntico.\nNo obstante, tras analizar las diferencias en los perfiles de multimorbilidad, los españoles presentan una tasa entre un 24 % y un 38 % superior de padecer más de un problema de salud crónico. Este fenómeno requiere de una mayor asistencia sanitaria en atención primaria y hospitalaria, así como de atención de urgencia en el caso de una descompensación de su estado médico.\nEl informe también refleja diferencias regionales en el uso del sistema sanitario, ya que la población migrante, en condiciones de igualdad, presenta un menor uso del sistema en diferentes niveles asistenciales. Este colectivo se puede enfrentar a barreras en el acceso debido a factores legales, administrativos, por falta de adaptación cultural o lingüística de los servicios sanitarios, o por discriminación por motivos raciales o étnicos.\nEsto se traduce en un uso de recursos farmacéuticos dispar. La población autóctona registra un consumo de medicamentos (Dosis Diaria Definida) de 1.503, una cifra que supera en un 62,7 % a la de la población procedente de África y en casi un 50 % a la de Latinoamérica.\nA pesar de la ventaja inicial del \"migrante sano\", el Ministerio de Sanidad advierte que este nivel de salud tiende a empeorar con los años de estancia en España. El informe atribuye este deterioro a la desigualdad en el acceso a recursos básicos como una vivienda digna o una alimentación saludable, así como a condiciones laborales más precarias y a la exposición continuada a los factores de riesgo de la sociedad de destino.\nAsimismo, el documento identifica que las barreras legales, administrativas y lingüísticas dificultan la entrada a los servicios de prevención y diagnóstico precoz, lo que puede derivar en un agravamiento de las patologías si no se garantiza una atención sanitaria universal efectiva."
+  },
+  "sha256": {
+    "titular": "50dc5bf8e582726568e7da90b8a04d511bfa725924a030e75c061d09600465ac",
+    "entradilla": "2c34fb4998f28980615d1f45101ea6bbafdeaba2d69b980b958a63406d1b5496",
+    "cuerpo": "8f8e69d829f307c898b7f7138105a34e7e38df05bcb1d366edaf21d292b72e1e"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "0c45288fadca",
+  "url": "https://www.agenciasinc.es/Noticias/La-contaminacion-luminica-de-las-megaconstelaciones-satelitales-afectara-a-los-telescopios",
+  "autoria": "EFE",
+  "fecha_publicacion": "2025-12-04T10:24:00+01:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:38+00:00",
+  "campos": {
+    "titular": "La contaminación lumínica de las megaconstelaciones satelitales afectará a los telescopios",
+    "entradilla": "El aumento masivo de satélites en órbita plantea un desafío crítico para la observación astronómica. Un estudio en Nature advierte que su impacto podría comprometer la calidad de las imágenes captadas por los principales telescopios espaciales.",
+    "cuerpo": "En apenas cinco años, el número de satélites que orbitan la Tierra ha pasado de 2 000 a 15 000 y para 2037 se espera que sean 560 000, pero su presencia tiene un coste: la contaminación lumínica emitida por estos satélites amenaza el funcionamiento de los telescopios espaciales.\nSegún un estudio del Centro de Investigaciones Ames de la NASA, si se llevan a cabo los lanzamientos previstos, el telescopio espacial Hubble podría ver afectadas más de un tercio de sus imágenes y otros telescopios perderían más del 96 % de sus trabajos.\nLos resultados del análisis publicado en Nature sugieren que esta contaminación lumínica debe minimizarse para que la investigación astronómica tenga éxito.\nDado que los telescopios espaciales y las constelaciones satelitales comparten el mismo espacio orbital, el estudio propone reducir el número de satélites enviados al espacio o situarlos en órbitas más bajas que las de los telescopios, aunque advierte que esto podría afectar a la capa de ozono terrestre.\nEl estudio, dirigido por Alejandro S. Borlaff, investigador del centro de la NASA, señala que la reducción de costes para lanzar cargas útiles ha favorecido la proliferación de satélites, pero su impacto sobre los telescopios científicos se ha pasado por alto.\nA medida que los satélites orbitan, los observatorios basados en el espacio —como el Hubble— pueden capturar rayas de luz reflejada, lo que hace que la imagen sea completamente inútil para los astrónomos, apuntan los autores.\nPara realizar el estudio, simularon la vista de cuatro telescopios espaciales: dos de la NASA (Hubble y SPHEREx), el ARRAKIHS de la Agencia Espacial Europea (ESA) y el Xuntian programado por China, todos ellos en órbitas entre 400 y 800 kilómetros.\nComprobaron que la luz de los 560 000 satélites previstos para 2037 (Starlink, OneWeb, Astra o Guowang, entre otros) afectaría aproximadamente al 39,6 % de las imágenes del Hubble y al 96 % de las de los otros tres telescopios.\nAdemás, estimaron que el número promedio de satélites observados por exposición será de 2,14 para el Hubble, 5,64 para SPHEREx, 69 para ARRAKIHS y 92 para Xuntian.\nPara los autores, una solución podría ser desplegar satélites en órbitas más bajas que las de los telescopios, aunque las emisiones de estos satélites podrían tener implicaciones para la capa de ozono, reconocen."
+  },
+  "sha256": {
+    "titular": "c15d1f23a7597b87cb279929e2a73e6006df7e00954d3892228eb79727de67b2",
+    "entradilla": "fac065b653e0968195cd0296e9771e2b97876be7d65aaabc925b29acdefb1b39",
+    "cuerpo": "f3cfba61453996a266c9604a56ba9eaa01dbbaa41d5f9191076fa91e910aaecc"
+  }
+}

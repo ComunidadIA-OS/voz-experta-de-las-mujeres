@@ -1,0 +1,38 @@
+{
+  "id": "3618f637a1a0",
+  "url": "https://www.agenciasinc.es/Noticias/Las-voces-hechas-con-IA-pueden-enganar-a-tu-oido-pero-no-a-tu-cerebro",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-03-10T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:40+00:00",
+  "campos": {
+    "titular": "Las voces hechas con IA pueden engañar a tu oído, pero no a tu cerebro",
+    "entradilla": "Aunque los oyentes no logran distinguir conscientemente el habla sintética de la humana, su actividad cerebral se adapta rápidamente para diferenciar ambos sonidos tras un breve entrenamiento, de apenas 12 minutos.",
+    "cuerpo": "A medida que las herramientas de inteligencia artificial perfeccionan su capacidad para imitar la voz humana, la frontera entre lo real y lo sintético se vuelve más difusa. Un nuevo estudio liderado por la Universidad de Tianjin y la Universidad China de Hong Kong ha revelado que, si bien las personas fallan habitualmente al intentar identificar vocalizaciones generadas por IA, sus cerebros muestran una respuesta distinta ante ambos estímulos tras un breve periodo de aprendizaje.\nLa investigación, publicada este lunes en la revista eNeuro, analizó el comportamiento de 30 voluntarios que escucharon frases pronunciadas tanto por humanos como por sistemas de texto a voz (text-to-speech). Los participantes debían juzgar el origen de la voz antes y después de recibir un entrenamiento de apenas 12 minutos. Los resultados confirmaron que los humanos somos ‘poco hábiles’ a la hora de discriminar entre ambos tipos de hablantes, y que este entrenamiento apenas mejoró su capacidad de decisión consciente.\nSin embargo, el análisis de la actividad cerebral mediante electroencefalografía (EEG) contó una historia diferente. A escala neuronal, el entrenamiento provocó que las respuestas ante el habla humana y la de IA fueran mucho más diferenciadas en etapas tempranas y tardías del procesamiento auditivo (específicamente a los 55, 210 y 455 milisegundos).\nSegún Xiangbin Teng, investigador principal del estudio, esto sugiere que el sistema auditivo comienza a captar matices acústicos casi imperceptibles, “aunque las personas aún no sean capaces de convertir esa información en una decisión conductual fiable”. El cerebro empieza a ‘etiquetar’ el habla de la IA de forma distinta, detectando microdiferencias en el ritmo o el tono que la mente consciente todavía no ha aprendido a priorizar.\nEl estudio destaca una curiosa disociación: por qué, si el cerebro nota la diferencia, seguimos siendo engañados. Los expertos explican que la IA ha llegado a ser extremadamente buena imitando la prosodia humana —la melodía y el ritmo emocional del habla—, lo que engaña fácilmente a nuestro juicio consciente. Existe una brecha entre la percepción sensorial y la toma de decisiones; es decir, el sistema auditivo registra la anomalía, pero el cerebro aún no ha conectado esa señal con el botón de ‘esto es falso’ de nuestra mente.\nPara los autores, este hallazgo resulta esperanzador en la lucha contra los fraudes sonoros y la clonación de voz. “Los seres humanos todavía se están adaptando al contenido generado por IA. Un rendimiento bajo en las pruebas no significa que las señales no estén ahí, sino que puede que aún no estemos utilizando las pistas adecuadas”, explica Teng. El estudio sugiere que futuros programas de entrenamiento podrían enseñar a las personas a escuchar específicamente esas señales que sus cerebros ya están detectando de forma subconsciente."
+  },
+  "sha256": {
+    "titular": "250dff90d6670174cee1ba60a57cd926deedb83905a6b70bafbc3b6a752a04a7",
+    "entradilla": "042abdf3bd21ae0021a13f2c9e26fbaa412aee5414adf0b34484f19071ba0191",
+    "cuerpo": "6a843cf40cba8b73f433e9187e66d08d2fdda8640a76f0c5a4f779503d728b9d"
+  },
+  "article": {
+    "headline": "Las voces hechas con IA pueden engañar a tu oído, pero no a tu cerebro",
+    "introduction": "Aunque los oyentes no logran distinguir conscientemente el habla sintética de la humana, su actividad cerebral se adapta rápidamente para diferenciar ambos sonidos tras un breve entrenamiento, de apenas 12 minutos.",
+    "body": "A medida que las herramientas de inteligencia artificial perfeccionan su capacidad para imitar la voz humana, la frontera entre lo real y lo sintético se vuelve más difusa. Un nuevo estudio liderado por la Universidad de Tianjin y la Universidad China de Hong Kong ha revelado que, si bien las personas fallan habitualmente al intentar identificar vocalizaciones generadas por IA, sus cerebros muestran una respuesta distinta ante ambos estímulos tras un breve periodo de aprendizaje.\nLa investigación, publicada este lunes en la revista eNeuro, analizó el comportamiento de 30 voluntarios que escucharon frases pronunciadas tanto por humanos como por sistemas de texto a voz (text-to-speech). Los participantes debían juzgar el origen de la voz antes y después de recibir un entrenamiento de apenas 12 minutos. Los resultados confirmaron que los humanos somos ‘poco hábiles’ a la hora de discriminar entre ambos tipos de hablantes, y que este entrenamiento apenas mejoró su capacidad de decisión consciente.\nSin embargo, el análisis de la actividad cerebral mediante electroencefalografía (EEG) contó una historia diferente. A escala neuronal, el entrenamiento provocó que las respuestas ante el habla humana y la de IA fueran mucho más diferenciadas en etapas tempranas y tardías del procesamiento auditivo (específicamente a los 55, 210 y 455 milisegundos).\nSegún Xiangbin Teng, investigador principal del estudio, esto sugiere que el sistema auditivo comienza a captar matices acústicos casi imperceptibles, “aunque las personas aún no sean capaces de convertir esa información en una decisión conductual fiable”. El cerebro empieza a ‘etiquetar’ el habla de la IA de forma distinta, detectando microdiferencias en el ritmo o el tono que la mente consciente todavía no ha aprendido a priorizar.\nEl estudio destaca una curiosa disociación: por qué, si el cerebro nota la diferencia, seguimos siendo engañados. Los expertos explican que la IA ha llegado a ser extremadamente buena imitando la prosodia humana —la melodía y el ritmo emocional del habla—, lo que engaña fácilmente a nuestro juicio consciente. Existe una brecha entre la percepción sensorial y la toma de decisiones; es decir, el sistema auditivo registra la anomalía, pero el cerebro aún no ha conectado esa señal con el botón de ‘esto es falso’ de nuestra mente.\nPara los autores, este hallazgo resulta esperanzador en la lucha contra los fraudes sonoros y la clonación de voz. “Los seres humanos todavía se están adaptando al contenido generado por IA. Un rendimiento bajo en las pruebas no significa que las señales no estén ahí, sino que puede que aún no estemos utilizando las pistas adecuadas”, explica Teng. El estudio sugiere que futuros programas de entrenamiento podrían enseñar a las personas a escuchar específicamente esas señales que sus cerebros ya están detectando de forma subconsciente."
+  },
+  "published": "2026-03-10T08:00:00+01:00",
+  "cc_licence": true,
+  "source_type": "sinc_newsroom",
+  "sections": [
+    "Tierra"
+  ],
+  "group": "test"
+}

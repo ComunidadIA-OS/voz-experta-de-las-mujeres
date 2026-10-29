@@ -1,0 +1,26 @@
+{
+  "id": "4a0117d41d42",
+  "url": "https://www.agenciasinc.es/Noticias/Un-telescopio-espanol-descubre-un-nuevo-cometa-despues-de-40-anos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-22T11:50:00+01:00",
+  "fuente_y_derechos": "Fuente: Observatorio Astronómico de Calar Alto | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:54:48+00:00",
+  "campos": {
+    "titular": "Un telescopio español descubre un nuevo cometa después de 40 años",
+    "entradilla": "El cometa P/2025 W3 gira alrededor del Sol en cuatro años y consta de una órbita elipsoidal–similar a una esfera aplastada– lejana de al menos 300 millones de kilómetros de distancia del astro. Su descubridor fue un ingeniero aeroespacial alemán que empleaba el telescopio Smichdt de Calar Alto, en Almería, en remoto.",
+    "cuerpo": "El ingeniero de la Agencia Espacial Europea (ESA) Reiner Kresken detectó un nuevo cometa durante la noche del 28 de noviembre de 2025 mientras probaba una cámara recién instalada en el telescopio Schmidt de Calar Alto (Almería). Su descubrimiento fue reconocido de manera oficial el pasado diciembre y lo han denominado P/2025 W3 (Kresken).\nEste experto aeroespacial trabajaba para el Centro de Coordinación de Objetos Cercanos a la Tierra (NEOCC) de la ESA y observaba de forma remota desde Darmstadt (Alemania). Apuntó el telescopio hacia un campo de la constelación de Géminis –cerca de las estrellas Cástor y Pólux– y tras examinar las imágenes, detectó un objeto tenue que mostraba una delgada y alargada cola.\nDurante las noches siguientes, este elemento desconocido se había desplazado ligeramente en el cielo pero su cola seguía siendo alargada, por lo que pensó que podía tratarse de un cometa. El 6 de diciembre de 2025 fue reconocido oficialmente como tal por el Centro de Planetas Menores de la Unión Astronómica Internacional, con el nombre de P/2025 W3 (Kresken).\nEn concreto, el objeto descubierto completa una vuelta alrededor del Sol en solo cuatro años y posee una órbita elipsoidal muy pronunciada. Asimismo, se encuentra al menos 300 millones de kilómetros del astro.\nNo obstante, otras observaciones sugieren que podría tratarse de un asteroide activo del cinturón principal. Esta región tiene forma de ‘donut’ –se sitúa entre Marte y Júpiter– y es rica en asteroides (o planetas menores), con 1,3 millones contabilizados hasta la fecha.\nLos cometas del cinturón principal (MBC, por sus siglas en inglés) son asteroides activos, es decir, asteroides que presentan una coma o una cola.\nLa actividad de algunos de ellos se debe a la sublimación del hielo, como ocurre con todos los cometas. Sin embargo, otros asteroides activos pueden liberar polvo al impactar con otro objeto o al perder masa por rotación. Se necesitará algún tiempo para saber qué mecanismo es el responsable de la activación del cometa Kresken.\nSe trata del tercer descubrimiento de un cometa realizado por el telescopio Schmidt. El primero de ellos fue Kohoutek (C/1973 E1), en 1973, cuando el telescopio se encontraba todavía en el observatorio de Hamburgo (Bergedorf).\nPocos años después, el cometa Thiele (C/1985 T1) fue descubierto en una placa fotográfica tomada el 9 de octubre de 1985 por el astrónomo Ullrich (Ulli) Thiele en Calar Alto. Era el primer cometa descubierto desde España desde 1932.\nSe trata de un resultado científico muy oportuno para celebrar el 50º aniversario de la ESA y los diez años del acuerdo entre ESA y CAHA para el uso exclusivo del telescopio Schmidt robotizado, en particular para la búsqueda de objetos cercanos a la Tierra (NEOs) potencialmente peligrosos."
+  },
+  "sha256": {
+    "titular": "8246d2acd6c7edeb1b2b496a8486e6940cf138ec61cacefdf07eea0620c0f9bb",
+    "entradilla": "b73973b4c9b59786d92c06e798fdea11e19ec6f022ec57fe5dca5777a4c6e7ef",
+    "cuerpo": "8d8eb6a94a30832fb3b71ffcae1892460a2bfb3ee0e4e1eca6d6dd518d3e77f0"
+  }
+}

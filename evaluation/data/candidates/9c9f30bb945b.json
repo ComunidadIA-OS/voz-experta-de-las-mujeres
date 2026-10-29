@@ -1,0 +1,26 @@
+{
+  "id": "9c9f30bb945b",
+  "url": "https://www.agenciasinc.es/Noticias/Por-que-aun-no-podemos-predecir-cuando-y-donde-explotara-el-proximo-volcan-Tajogaite",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-05-08T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:45:43+00:00",
+  "campos": {
+    "titular": "Por qué aún no podemos predecir cuándo y dónde explotará el próximo volcán Tajogaite",
+    "entradilla": "Un nuevo análisis identifica las lagunas científicas que impiden anticipar con precisión cuándo, cuánto tiempo y con qué violencia despertará un volcán.",
+    "cuerpo": "En 2021, la erupción del volcán Tajogaite en la isla de La Palma mantuvo en vilo a España durante 85 días, demostrando que, incluso con una monitorización constante, la duración y el volumen final de lava siguen siendo incógnitas difíciles de despejar en tiempo real. Este fenómeno no es aislado: ya en 2010, la erupción del Eyjafjallajökull en Islandia paralizó el espacio aéreo europeo, recordando al mundo que los gigantes de fuego siguen siendo impredecibles.\nAunque la ciencia ha mejorado drásticamente su capacidad para detectar señales precursoras, un nuevo estudio publicado este jueves en la revista Science advierte de que todavía existen importantes “puntos ciegos”. La investigación, firmada por Magnús T. Gudmundsson (Universidad de Islandia) y Christopher J. Bean (Instituto de Estudios Avanzados de Dublín), subraya que el impacto social de una erupción no depende solo de que ocurra, sino de su ubicación, estilo de actividad y, sobre todo, su escala.\nSegún los autores, mientras que las pequeñas erupciones son frecuentes y localizadas, las llamadas ‘supererupciones’ (de magnitud 8 en el índice de explosividad volcánica) son extremadamente raras pero capaces de alterar el clima global.\nUna de las grandes preguntas que dejó La Palma fue por qué es tan difícil saber cuánto durará una erupción una vez que empieza. En declaraciones a SINC, los autores comparan nuestra visión actual de los volcanes con una observación a larga distancia: “Incluso con los datos de mayor calidad que podemos obtener hoy, solo tenemos una imagen aproximada del sistema. No podemos saber cuánto magma hay disponible; es un poco como ver un coche conduciendo por una carretera a muchos kilómetros de distancia: lo ves, pero no puedes decir su tamaño o su tipo”, explican.\nSegún Gudmundsson y Bean, si existen sistemas de vigilancia, los precursores (seísmos o deformación del terreno) se detectan casi siempre, aunque sea apenas unas horas antes. El verdadero reto es la complejidad del sistema. “La respuesta es a menudo no lineal, lo que hace virtualmente imposible predecir el resultado preciso: el momento exacto, el tamaño o la duración. Podemos decir que una erupción es muy probable, pero carecemos de herramientas para decir cómo de grande será”.\nLa mayoría de las grandes erupciones se originan en ‘sistemas cerrados’, donde los conductos están sellados y la presión aumenta internamente hasta el colapso. Aunque estos volcanes emiten señales, los autores advierten de que los signos visibles (como el vapor) no ocurren en la mayoría de los casos, por lo que la instrumentación técnica es vital. Sin embargo, no está claro que el problema se resuelva solo con más sensores.\n“Parte de la incertidumbre puede estar relacionada con la forma en que los diferentes componentes del sistema interactúan de forma no lineal”, señalan.\nPara salvar estas brechas, el estudio propone una estrategia híbrida que combine modelos físicos con aprendizaje automático (machine learning). Sin embargo, los investigadores aclaran que la tecnología no es una “varita mágica”.\n“La IA es una herramienta útil para encontrar tendencias en grandes conjuntos de datos y será muy valiosa a medida que reunamos más datos sobre ciclos eruptivos, pero no es un reemplazo para la física, la química o el mapeo geológico”, afirman los expertos a SINC.\nExiste, además, un problema de base para entrenar a estas inteligencias: la falta de ejemplos. “Los eventos más grandes son raros. No tenemos datos sobre los precursores de tales eventos y, por lo tanto, no hay datos con los que entrenar los sistemas de IA”. Para los autores, el futuro pasa por una combinación: mejor recolección de datos sobre la estructura subterránea —ya que nuestra capacidad para estimar el volumen de magma bajo los volcanes es aún limitada— y un estudio profundo de los restos de grandes erupciones pasadas."
+  },
+  "sha256": {
+    "titular": "d296570215a4c27786f2d5f486450e59e4a44bb8cea912851c64b8a41f7bb36e",
+    "entradilla": "845c8e1e16ccb58de4f3e39add777e084f38fd6d9dc740edf9a170d90b8bf7cf",
+    "cuerpo": "aab3f4922524f463c3badfa99edf709b440ad971e641ace698e675a4b4a905ac"
+  }
+}

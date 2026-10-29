@@ -1,0 +1,26 @@
+{
+  "id": "c7eab0ac23d4",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-un-metamaterial-programable-en-el-ojo-de-una-mosca-del-vinagre",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-01T10:50:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Tecnología de materiales"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:40:50+00:00",
+  "campos": {
+    "titular": "Descubren un metamaterial programable en el ojo de una mosca del vinagre",
+    "entradilla": "Un equipo internacional describe el primer metamaterial orgánico y revela cómo los insectos programan la forma de sus ojos mediante una malla celular. Este hallazgo permitirá estudiar la morfogénesis sintética y el diseño de tejidos vivos para un uso potencial en medicina regenerativa.",
+    "cuerpo": "Una área de investigación en el campo de la ciencia de materiales se centra en el desarrollo de unas estructuras conocidas como metamateriales, sistemas cuyas propiedades no dependen de la sustancia de la que están hechos, sino de cómo están organizados internamente.\nUn metamaterial tiene un diseño preciso para comportarse de una forma específica. Dentro de este ámbito, un avance interesante es el de los metamateriales programables que se diseñan para alcanzar una determinada forma en 3D cuando se necesite. Hasta ahora, crear algo tan complejo se consideraba un logro exclusivo de la tecnología desarrollada por el ser humano.\nUn nuevo estudio, publicado en la revista Nature Communications, revela que estos principios han estado en la naturaleza desde hace millones de años y muestra el primer metamaterial natural programable en un organismo vivo: el ojo de la mosca Drosophila melanogaster.\nLa mosca del vinagre o Drosophila es uno de los modelos biológicos más potentes de la ciencia. Los humanos comparten con ella gran parte de sus genes y la forma en que las células utilizan estos genes para formar tejidos y órganos.\nSu semejanza permite a los científicos estudiar procesos complejos como la morfogénesis: el proceso por el que señales químicas y mecánicas guían a grupos de células para que se organicen y formen un órgano con una función y forma precisas.\nPor definición, los metamateriales debían ser artificiales pero un equipo multidisciplinar ha demostrado que el ojo de la mosca, durante su desarrollo, posee una malla de células interconectadas en forma de triángulos. El tamaño de estos triángulos celulares no es uniforme. En algunas zonas los triángulos son mayores que en otras.\nEsta malla funciona como un metamaterial programable: la distribución de los tamaños de estos triángulos en dos dimensiones contiene las instrucciones precisas para que, al aplicarse presión hidrostática al tejido –un proceso similar a inflar un globo de agua–, adopte la curvatura tridimensional (3D) exacta para que la mosca adulta vea de forma correcta.\n\"Es fascinante cómo la naturaleza no solo utiliza la biología para dar forma a los órganos, sino que emplea principios de ingeniería avanzada. Una vez más, la biología nos sorprende al utilizar mecanismos que para nosotros representan la vanguardia tecnológica”, comenta Juan Garrido García, primer autor del trabajo.\nLos investigadores descubrieron que el ojo de la mosca tiene un 'plano' arquitectónico en 2D que predetermina su forma final en 3D. Este plano permite que el ojo de la mosca tenga zonas más planas, con mayor agudeza visual, y otras más curvas, de menor resolución, pero de visión más panorámica, para detectar predadores. “Otro aspecto sorprendente es el tamaño, ya que el ojo de una mosca tiene un diámetro aproximado de 0.5 milímetros. La naturaleza de metamaterial del ojo en desarrollo permite el control preciso de la forma del ojo en esta escala diminuta”, enfatiza el experto.\nMás allá de la importancia biológica, este descubrimiento sienta las bases de la morfogénesis sintética. Al entender cómo la naturaleza programa la forma de un tejido sin necesidad de moldes externos rígidos, los científicos pueden empezar a diseñar \"tejidos vivos programables\".\nEn el futuro, esta capacidad de controlar la forma 3D de los cultivos celulares mediante sustratos con patrones geométricos podría revolucionar la bioingeniería y permitir la creación de órganos artificiales o injertos que, cuando sean implantados, desplieguen su forma diseñada con una precisión sin precedentes y eliminar la dependencia de materiales sintéticos no biológicos."
+  },
+  "sha256": {
+    "titular": "c678e293131595be544ec6e4ccb3a8db02b3c28d0b1733ad6622a262730695f5",
+    "entradilla": "4af0ce0e7854b1cd8a5dcb72993ce812a86a9163bb5d4496e502b38dc0017c1f",
+    "cuerpo": "fc6735c1b2104f49bc9ab4717586d86d05b0df28c4dbcb53057bcd6467d312f3"
+  }
+}

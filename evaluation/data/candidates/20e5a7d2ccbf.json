@@ -1,0 +1,26 @@
+{
+  "id": "20e5a7d2ccbf",
+  "url": "https://www.agenciasinc.es/Noticias/El-ventriculo-derecho-resiste-mejor-las-paradas-cardiacas-por-fibrilacion",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-29T10:51:00+02:00",
+  "fuente_y_derechos": "Fuente: CNIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:43+00:00",
+  "campos": {
+    "titular": "El ventrículo derecho resiste mejor las paradas cardíacas por fibrilación",
+    "entradilla": "Este tipo de arritmia es una de las principales causas de muerte súbita en el mundo, debido a que la actividad eléctrica irregular del corazón impide el bombeo eficaz de la sangre. Sin embargo, la fibrilación ventricular no afecta a todas las partes de este órgano de la misma forma: un nuevo estudio revela que la cavidad derecha es más resistente.",
+    "cuerpo": "Un estudio del Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC) aporta avances en la comprensión de la arritmia cardíaca más peligrosa –la fibrilación ventricular– al revelar que el ventrículo derecho es más resistente que el izquierdo en una parada cardíaca.\nLa investigación se ha publicado en la revista Cardiovascular Research y demuestra que las señales eléctricas del corazón ofrecen información relevante sobre el daño que sufren tanto este órgano como otros igual de críticos durante estos eventos.\nLa fibrilación ventricular es una de las principales causas de muerte súbita y se estima que en España se producen 17 000 decesos asociados a este tipo de arritmias malignas.\nLa mayoría de los episodios ocurren fuera del hospital, donde las probabilidades de supervivencia son menores al 10 %. La actividad irregular de los ventrículos bloquea la capacidad del corazón para bombear la sangre, lo que lleva a una isquemia global –falta de oxígeno– y a la muerte en pocos minutos.\nSin embargo, los investigadores revelan que existen diferencias entre ventrículos en estos escenarios. El líder del trabajo e investigador del CNIC, Filgueiras Rama, explica que el derecho presenta una mayor resistencia que el izquierdo a la escasez de perfusión sanguínea durante una parada.\n“Estas diferencias generan gradientes en la activación eléctrica del corazón que reflejan la evolución del daño producido”, señala el experto. “El uso de la señal eléctrica de superficie en el contexto de una parada cardíaca por fibrilación ventricular permite predecir las probabilidades de recuperación neurológica tras el ingreso hospitalario”, añade.\nEl trabajo identifica que estas diferencias son más fuertes entre la superficie externa e interna del corazón, aunque las discrepancias se mantienen entre el epicardio del ventrículo derecho e izquierdo.\nUna mayor resistencia del ventrículo derecho se traduce en la preservación de la actividad eléctrica durante más tiempo, lo que a su vez significa que existe una mejor preservación metabólica y tolerancia a la isquemia. Los datos fueron confirmados gracias a simulaciones computacionales desarrolladas por la Universidad Politécnica de Valencia.\n“Los resultados clínicos apoyan el valor pronóstico del electrocardiograma de superficie en un contexto de una parada cardíaca por fibrilación ventricular. Esto permite reconocer a aquellos pacientes con mayor probabilidad de recuperación sin secuelas neurológicas graves”, explica Filgueiras.\nPor su parte, el investigador senior del grupo del CNIC, Jorge García Quintanilla, destaca que “estos hallazgos aportan pistas clave para el desarrollo de terapias dirigidas a proteger el ventrículo izquierdo y a mejorar su resistencia a la isquemia durante la parada cardíaca”.\nEste trabajo subraya la importancia de ofrecer enfoques multidisciplinares para abordar problemas arrítmicos complejos como la fibrilación ventricular, lo que permitirá desarrollar nuevas terapias en un campo con avances limitados en las últimas décadas."
+  },
+  "sha256": {
+    "titular": "b413d666a457f209e569f52abcc8676e52d36764304c4026ffde8c0c87018c33",
+    "entradilla": "0a4dcbfdd1ace4885097d0f17401b952c2c4705766fde98666a4613a14164875",
+    "cuerpo": "7a119310391ca5a2ff9199a9dd52d6778ba5c6eaecabdda59e6381d4364f6475"
+  }
+}

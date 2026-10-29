@@ -1,0 +1,26 @@
+{
+  "id": "a65d53842c5e",
+  "url": "https://www.agenciasinc.es/Noticias/Como-se-forman-los-tsunamis-Los-satelites-podrian-explicar-el-origen-de-estas-olas-gigantes",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-26T19:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:49:05+00:00",
+  "campos": {
+    "titular": "¿Cómo se forman los tsunamis? Los satélites podrían explicar el origen de estas olas gigantes",
+    "entradilla": "La magnitud del terremoto de Kamchatka del 29 de julio de 2025 fue de 8,8 y provocó un tsunami que se extendió por todo el Pacífico. Un satélite sobrevoló la zona 70 minutos después del evento y capturó imágenes en alta resolución que revelaron la curvatura y dirección de estas olas catastróficas, además de realizar mediciones precisas del nivel del mar.",
+    "cuerpo": "Estas olas monstruosas pueden recorrer miles de kilómetros, atravesar cuencas oceánicas enteras o devastar las costas; y pese a ello, todavía se desconocen las causas exactas de su formación. Un estudio, publicado en Science, revela que los satélites podrían ser útiles para investigar dichos fenómenos extremos.\nDe hecho, uno de ellos recabó información del tsunami de Kamchatka de 2025 poco después de su génesis y proporcionó mediciones en alta resolución de la superficie del mar con una precisión de centímetros.\nAunque la monitorización mediante sensores del fondo marino y medidores costeros ayudó a captar parte del evento, los sistemas se vieron limitados por la cobertura y la atenuación de las ondas de corta longitud. Por ello, los investigadores creen que los satélites podrían ser una herramienta complementaria que delimite el origen de los terremotos, sus riesgos y la dinámica de las zonas de subducción.\nPara saberlo, un equipo internacional liderado por la Universidad de San Diego (EE UU) analizó los datos del satélite SWOT de la NASA que sobrevoló la región por casualidad 70 minutos después de que empezara el evento.\nObservaron que el satélite capturó el campo de ondas completo y contemplaron la curvatura, dirección y longitud de las olas de este fenómeno catastrófico.\nAsimismo, los análisis de sensibilidad revelaron que el tsunami se generó a unos 10 kilómetros de la zona de subducción, una información valiosa que no puede obtenerse mediante las técnicas tradicionales.\nEstos hallazgos constituyen la primera evidencia espacial en alta resolución sobre el origen de un tsunami, y evidencian que estos aparatos pueden ayudar a la investigación sobre la dinámica de grandes fenómenos provocados por terremotos de subducción en el océano, unos de los eventos naturales más peligrosos."
+  },
+  "sha256": {
+    "titular": "cbb105d13930d4300a5f4824cae49dde24dee2c1664712c05583e71b31e0aafd",
+    "entradilla": "bd439d3444a05383e64eacb5e0ef6fb8baa041c5348e14f1c06a963e02f39e84",
+    "cuerpo": "e2f9ed4a87754d1dfd24bddd493e72909300fe83596e0b462cc2401b8d9c5568"
+  }
+}

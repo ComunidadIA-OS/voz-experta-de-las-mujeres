@@ -1,0 +1,26 @@
+{
+  "id": "18fbc900e58c",
+  "url": "https://www.agenciasinc.es/Noticias/Hallan-el-origen-de-dos-brotes-de-norovirus-de-un-hospital-madrileno-en-2024",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-05T12:00:00+02:00",
+  "fuente_y_derechos": "Fuente: ISCIII | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:05+00:00",
+  "campos": {
+    "titular": "Hallan el origen de dos brotes de norovirus de un hospital madrileño en 2024",
+    "entradilla": "Este virus causa gastroenteritis, diarrea o vómitos; y puede ser peligroso en hospitales porque provoca contagios difíciles de controlar en personas vulnerables. Un estudio revela que la segunda infección vista en el Hospital de Getafe en Madrid no fue una continuación de la primera, aunque fuera provocada por la misma variante.",
+    "cuerpo": "Una investigación del Instituto de Salud Carlos III (ISCIII) y el Hospital de Getafe ha analizado dos brotes consecutivos de norovirus ocurridos en 2024 que afectaron principalmente a personas mayores y trabajadores sanitarios del centro madrileño.\nEl estudio, publicado en la revista Journal of Medical Virology, combina la investigación epidemiológica tradicional con técnicas avanzadas de secuenciación genómica y revela que los contagios no estaban relacionados.\nEl objetivo del trabajo fue determinar si el segundo brote correspondía a una continuación del primero o a una nueva introducción del virus, así como de comprender con mayor precisión la transmisión intrahospitalaria y evaluar la efectividad de las medidas de control implementadas.\nAdemás, las conclusiones resaltan la importancia de utilizar pruebas moleculares con alto grado de sensibilidad para detectar el virus y mejorar la identificación de posibles casos y brotes.\nEl norovirus es un virus muy contagioso que causa gastroenteritis (diarrea y vómitos) y puede ser especialmente peligroso en hospitales, ya que provoca brotes difíciles de controlar y supone un riesgo considerable para pacientes vulnerables.\nLos brotes asociados a los hospitales pueden tener graves consecuencias, debido a su rápida transmisión y a la dificultad para identificar y cortar las cadenas de contagio de los métodos tradicionales.\nEl equipo investigador ha analizado muestras de heces de pacientes con síntomas de gastroenteritis mediante técnicas avanzadas de secuenciación genómica y análisis filogenéticos, lo que ha permitido caracterizar el virus responsable y reconstruir las cadenas de transmisión dentro del hospital.\nLos resultados revelan que las estrictas medidas de prevención aplicadas tras el primer brote lograron cortar la transmisión interna, y que el segundo fue causado por una nueva introducción del virus, no por una continuación del anterior.\nAmbos contagios fueron provocados por una nueva variante de norovirus llamada GII.17[P17], que había comenzado a circular en varios países desde 2023 y 2024.\nAdemás, se ha determinado que este patógeno se transmitió entre las unidades de Geriatría y Oncohematología del hospital, algo que no se detectó inicialmente porque las pruebas rápidas de inmunocromatográfica dieron negativo, por lo que no se declaró brote en esa unidad.\nGracias al análisis molecular y genómico posterior, se identificó la relación entre los casos de ambas unidades, lo que manifiesta la importancia de emplear métodos diagnósticos sensibles para el control eficaz de los brotes hospitalarios de norovirus.\nTambién se observó que algunos pacientes seguían eliminando el virus en las heces incluso después de la resolución oficial del brote, algo que podría facilitar nuevos contagios.\nEsta información es importante para determinar el tiempo de duración de medidas de control, ya que la prevención debe adaptarse al hecho de que algunos pacientes puedan seguir siendo contagiosos después de recuperarse de la infección.\nLa investigadora principal del trabajo y responsable de Gastroenteritis Víricas en el Centro Nacional de Microbiología del ISCIII, María Dolores Fernández-García, resalta la importancia de combinar la epidemiología tradicional con el análisis genómico para identificar con mayor precisión las fuentes y cadenas de transmisión de virus altamente contagiosos como el norovirus.\n“Este enfoque integrado permite detectar rutas de contagio que podrían pasar desapercibidas con métodos convencionales, y aporta información relevante para adaptar y reforzar las medidas de prevención y control de infecciones, especialmente en entornos con pacientes vulnerables”, concluye."
+  },
+  "sha256": {
+    "titular": "46fb6dea999d17716de79bb9d7aa8118a0d716269705431a47f11d95518d0f97",
+    "entradilla": "84d9abf3b5e65af9f8f263fdd0c59ad5d03df864dde8ba89a515494b3b912a31",
+    "cuerpo": "f6db31105b441ae4a53aab5df90e0b3c7d52b6e9fb1f1f4a3b48b086543bb8d5"
+  }
+}

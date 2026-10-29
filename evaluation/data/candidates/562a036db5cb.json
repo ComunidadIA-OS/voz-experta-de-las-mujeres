@@ -1,0 +1,26 @@
+{
+  "id": "562a036db5cb",
+  "url": "https://www.agenciasinc.es/Noticias/El-cambio-climatico-ha-multiplicado-por-diez-el-calor-extremo-en-Europa-en-las-ultimas-decadas",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-02-23T11:10:00+01:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:51:49+00:00",
+  "campos": {
+    "titular": "El cambio climático ha multiplicado por diez el calor extremo en Europa en las últimas décadas",
+    "entradilla": "Un nuevo método de cálculo para calcular los riesgos derivados de los fenómenos meteorológicos extremos revela que Europa ha registrado un aumento de diez veces en el calor extremo en el periodo entre 2010 y 2024, en comparación con el periodo de 1961 a 1990.",
+    "cuerpo": "El cambio climático causado por las actividades humanas ha provocado un aumento de diez veces en el calor extremo en el periodo entre 2010 y 2024, según un método para calcular los riesgos derivados de los fenómenos extremos desarrollado por la Universidad de Graz (Austria).\nEl nuevo método de cálculo, que se explica en un artículo que publica Weather and Climate Extremes, puede calcular todas las métricas de riesgo relevantes para fenómenos como olas de calor, inundaciones y sequías en cualquier región del mundo.\nEl equipo, encabezado por Gottfried Kirchengast, usó este método para investigar los cambios en los fenómenos de calor extremo en Europa y los cálculos se basaron en conjuntos de datos de temperaturas máximas diarias entre 1961 y 2024.\nEl resultado fue que el calor total extremo en la mayoría de las regiones del centro y sur de Europa aumentó aproximadamente diez veces en el período climático actual, entre 2010 y 2024, en comparación con el periodo de 1961 a 1990.\nEsto se debe “al aumento tanto de la frecuencia y la duración de los fenómenos, como de la magnitud de los umbrales superados y la extensión espacial de los mismos\", explicó Kirchengast, en un comunicado de la universidad.\nEste “enorme aumento” en la métrica de extremos totales va mucho más allá de su variabilidad natural y “muestra la influencia del cambio climático provocado por el ser humano con una claridad que ni siquiera yo, como investigador climático, había visto antes”, agregó.\nEl umbral para considerar una temperatura ‘extrema’ se fijó en la temperatura de cada lugar que solo se superó en un 1 % de los valores diarios entre 1961 y 1990. Ese umbral supera los 35 grados en el sur de España, es de unos 30 en Austria y en Finlandia ronda los 25 grados.\nEl estudio también proporciona una base para cuantificar mejor los daños causados a las personas, los ecosistemas y las infraestructuras.\nYa sea en el ámbito de la salud, la construcción, la agricultura, la silvicultura o el sector energético, muchas áreas se ven afectadas por los impactos y daños causados por los fenómenos meteorológicos y climáticos extremos.\nLas temperaturas superiores a 30 grados centígrados provocan estrés térmico en el cuerpo y debilitan la forma física de muchas personas, recuerda la nota.\nEste método se puede utilizar para calcular la frecuencia, la duración, la intensidad, la extensión espacial y otras variables de los fenómenos extremos, hasta la combinación de todas las métricas en la extremidad total.\nLa capacidad de calcular la gravedad de estos peligros es, por ejemplo, crucial para los cálculos del impacto climático y las medidas de adaptación correspondientes.\nSi se dispone de datos climáticos adecuados a largo plazo, el desarrollo de métricas de riesgo climático para los extremos de interés puede seguirse año tras año y década tras década, tanto en los países europeos como en cualquier otra región del mundo, indicó el investigador.\nEl método puede servir para una amplia variedad de fines, desde proporcionar datos completos sobre los peligros de los fenómenos meteorológicos extremos para los análisis del impacto climático, hasta apoyar la atribución del grado de responsabilidad de los actores que generan grandes emisiones, como los Estados o las empresas, en el aumento de los daños y riesgos climáticos."
+  },
+  "sha256": {
+    "titular": "536111afd671d7a3f064332e7476d174c1793780170f09162472a0db999ad481",
+    "entradilla": "e0fc5c6c6764d7fb4cbfaa1392789d270e02e2df80c1411db1f96e524237979b",
+    "cuerpo": "ae15a6709ca0af6a23016b103277c84b6f6168cffeff6a7ed7fcd59be67d56e9"
+  }
+}

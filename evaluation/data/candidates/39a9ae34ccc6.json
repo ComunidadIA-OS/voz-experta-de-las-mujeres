@@ -1,0 +1,26 @@
+{
+  "id": "39a9ae34ccc6",
+  "url": "https://www.agenciasinc.es/Noticias/La-reserva-hidrica-desciende-hasta-el-69-6-de-su-capacidad",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-08-05T10:00:00+02:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:02+00:00",
+  "campos": {
+    "titular": "La reserva hídrica desciende hasta el 69,6 % de su capacidad",
+    "entradilla": "Los embalses españoles almacenan 39 016 hectómetros cúbicos de agua tras perder 969 en una semana marcada por la escasez de lluvias. Pese al descenso generalizado, las reservas se mantienen por encima de las registradas el año pasado y de la media de la última década.",
+    "cuerpo": "La reserva hídrica sigue bajando y esta semana ha perdido 1,7 puntos porcentuales respecto a la anterior hasta quedar en el 69,6 % de su capacidad con 39 016 hectómetros cúbicos (hm³) de agua, según datos facilitados este martes por el Ministerio para la Transición Ecológica y el Reto Demográfico.\nLos embalses perdieron 969 hm³ durante los últimos días debido a que las precipitaciones han sido muy escasas en la vertiente Atlántica y prácticamente nulas en la vertiente Mediterránea, con el registro más importante en Gijón, que recogió 2,9 litros por metro cuadrado, tal y como ha detallado el ministerio.\nEl descenso generalizado no afectó en este período únicamente a las cuencas internas del País Vasco, de nuevo al 85,7% de su capacidad.\nLas más deficitarias en este caso han sido las cuencas del Ebro, con un descenso registrado de un 3,3 % respecto a la semana anterior; del Cantábrico Oriental, con un descenso de un 2,8 %; y del Duero, con una pérdida de un 2,6 %.\nLa mayoría de las cuencas han perdido entre un 1 y un 2 % del recurso almacenado: las del Cantábrico Occidental (1,7 %), Miño-Sil (1,9 %), Galicia Costa (1,8 %), Tajo (1,6 %), Guadalquivir (1,2 %), Mediterránea Andaluza (1 %) y Júcar (1,2 %).\nFinalmente, han descendido por debajo de un 1 % las de Guadiana (0,8 %); Tinto, Odiel y Piedras (0,9 %); Guadalete-Barbate (0,8 %); Segura (0,5 %); y cuencas internas de Cataluña (0,3 %).\nLos embalses españoles han comenzado agosto con una cantidad de agua cómoda para estas fechas: el porcentaje más bajo es el del Segura, que registra una capacidad del 55,3 %, mientras que 10 cuencas disponen de un mínimo del 70 % de recurso almacenado.\nRespecto a la diferencia frente a registros de temporadas anteriores sigue siendo positiva: hay 2.220 hm³ más de agua embalsada que el año pasado por estas fechas (cuando los pantanos acumulaban 36.796) y 8.861 hm³ más que la media de los últimos diez años (con 30.155)."
+  },
+  "sha256": {
+    "titular": "9dfee2260180345d33d1bbe591c5e65463386715dadec15fc48e8e0bf3e624ab",
+    "entradilla": "dcfe6d3fc18f5e931b673ababed6f73562856fe91e4ee08d96934274d7bb6a9b",
+    "cuerpo": "6b15b7955b5f494f5f8b924dd690efb25c8774490c61f7ebbc5cd71db717d925"
+  }
+}

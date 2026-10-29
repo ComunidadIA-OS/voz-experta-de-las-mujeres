@@ -1,0 +1,26 @@
+{
+  "id": "788bef899e7d",
+  "url": "https://www.agenciasinc.es/Noticias/Un-estudio-evaluara-como-predecir-el-riesgo-individual-de-cancer-de-mama",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-21T09:55:00+02:00",
+  "fuente_y_derechos": "Fuente: CNIO | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Medicina preventiva"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:38:43+00:00",
+  "campos": {
+    "titular": "Un estudio evaluará cómo predecir el riesgo individual de cáncer de mama",
+    "entradilla": "MamoRisk recabará datos de 10 000 mujeres seleccionadas entre los programas de detección precoz de 14 comunidades autónomas. En el proyecto participan varios centros españoles y la primera fase acaba de comenzar en Galicia.",
+    "cuerpo": "Las mamografías que ofrece el Sistema Nacional de Salud según la edad y los antecedentes familiares son actualmente la mejor herramienta para detectar de forma precoz el cáncer de mama. Sin embargo, ya se ensayan métodos más precisos que incorporan otros factores relacionados con la probabilidad de desarrollar la enfermedad.\nMamoRisk, un proyecto liderado por el Instituto de Investigación Sanitaria de Santiago de Compostela (IDIS), el Centro Nacional de Investigaciones Oncológicas (CNIO) y el Instituto de Investigación Sanitaria Galicia Sur (IISGS), busca validar en España un modelo estadístico que combina información genética, familiar, clínica, epidemiológica y mamográfica.\n“El uso del modelo de riesgo, tras su validación con MamoRisk, podría mejorar sustancialmente la detección precoz del cáncer de mama”, señala el equipo del proyecto.\n“MamoRisk proporciona el equivalente a ‘una calculadora’ donde se introducen los factores de riesgo de cada mujer y se obtiene una clasificación de riesgo bajo, intermedio y alto, a dos y cinco años vista”, explica el equipo investigador.\nLa validación es un paso imprescindible antes de plantear la incorporación del modelo a los programas de cribado poblacional.\nEl estudio ha comenzado en Galicia, donde mujeres diagnosticadas de cáncer de mama y mujeres sanas han empezado a recibir invitaciones para participar. También se desarrollará en Madrid, Cantabria, Castilla-La Mancha, Murcia, Extremadura, Asturias, Castilla y León, Andalucía, Aragón, Cataluña, La Rioja, Comunidad Valenciana y Canarias.\nEn total, participarán 4 000 mujeres diagnosticadas de cáncer de mama y a 6 000 sanas. Las voluntarias se seleccionarán de forma aleatoria entre mujeres con al menos seis años de seguimiento en los programas de detección precoz de las 14 comunidades autónomas.\nEl equipo recopilará sus datos clínicos y epidemiológicos y obtendrá información genética a partir de una muestra de saliva. Después aplicará el modelo y comparará sus predicciones con lo ocurrido durante los años de seguimiento.\nSi la herramienta demuestra su eficacia y se incorpora a los programas de cribado, las mujeres con mayor probabilidad de desarrollar cáncer podrían recibir un seguimiento más estrecho. El objetivo sería detectar antes la enfermedad o, cuando fuera posible, aplicar medidas preventivas específicas.\nMamoRisk comienza con la recogida de datos clínicos y epidemiológicos y de muestras biológicas. Las siguientes fases incluyen el análisis genético y el estudio de las mamografías mediante inteligencia artificial. Por último, se evaluará la eficacia del modelo.\nManuela Gago, del IDIS, coordina la selección y el reclutamiento de las participantes y la recogida de los datos clínicos. Anna González-Neira y Guillermo Pita, del CNIO, se encargan del estudio genético y de estimar el riesgo genético de desarrollar cáncer de mama. José Esteban Castelao, del IISGS, aplica la inteligencia artificial al análisis de las mamografías.\nEl proyecto cuenta también con la colaboración de Antonis Antoniou, catedrático de Predicción de Riesgo de Cáncer de la Universidad de Cambridge.\nEl modelo que validará MamoRisk utiliza el algoritmo BOADICEA, que combina información genética, familiar, clínica y epidemiológica para calcular las probabilidades individuales de desarrollar cáncer de mama y ovario.. Entre ellas se encuentran las localizadas en los genes BRCA1 y BRCA2, asociadas a un riesgo alto, junto con otras de efecto moderado o menor impacto, pero presentes en una proporción amplia de la población.\nTambién influyen factores no genéticos. Un estilo de vida con bajo consumo de alcohol, actividad física y prevención de la obesidad tras la menopausia se ha relacionado con una reducción del 20 % del riesgo de desarrollar cáncer de mama.\nEl Ministerio de Ciencia, Innovación y Universidades financia MamoRisk con 1,2 millones de euros procedentes del programa europeo NextGenerationEU, a través de la convocatoria de Medicina Personalizada de Precisión del Instituto de Salud Carlos III."
+  },
+  "sha256": {
+    "titular": "0e586d31a9cdecf8ce4bd1d05760d8e35c42d34565d482f7abb7bef1bea86f30",
+    "entradilla": "52c0412d20b773f467daa8407273e7debb1995519abec5aff3b4ab80faa0f4c5",
+    "cuerpo": "751834313a79b94c67f4ac5d2f01e05b22fbc4a8cdda144241b83dc4c8b63148"
+  }
+}

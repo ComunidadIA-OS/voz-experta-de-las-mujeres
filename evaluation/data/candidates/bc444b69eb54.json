@@ -1,0 +1,26 @@
+{
+  "id": "bc444b69eb54",
+  "url": "https://www.agenciasinc.es/Noticias/Una-conexion-defectuosa-entre-el-intestino-y-el-cerebro-puede-danar-la-memoria",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-03-12T10:50:00+01:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:23+00:00",
+  "campos": {
+    "titular": "Una conexión defectuosa entre el intestino y el cerebro puede dañar la memoria",
+    "entradilla": "Un nuevo estudio en ratones revela cómo los cambios en el aparato digestivo influyen en el deterioro cognitivo y apunta a posibles vías de intervención, como la estimulación del nervio vago o la restauración del microbioma mediante antibióticos.",
+    "cuerpo": "El deterioro de la memoria puede comenzar en el aparato digestivo. Así lo ha constatado un experimento con ratones en el que los investigadores han comprobado que la inflamación gastrointestinal y los cambios que conlleva son un factor directo del daño cognitivo.\nLa revista Nature recoge esta semana un estudio elaborado por un equipo internacional de investigadores de centros estadounidenses y europeos, que podría explicar, en parte, por qué entre personas de la misma edad unas presentan más deterioro de la memoria que otras.\nEl descubrimiento detecta un camino en tres hitos hacia la pérdida de memoria. El primer cambio surge con el envejecimiento gastrointestinal y las alteraciones microbianas y metabólicas que aparecen a continuación.\nLas células mieloides del intestino detectan estos cambios y su respuesta inflamatoria perjudica la conexión entre el intestino y el cerebro a través del nervio vago.\nLa buena noticia es que los investigadores han comprobado en ratones que, al restaurar la actividad del nervio vago, se recupera también la función de la memoria: un animal viejo logra volver a niveles propios de uno joven, una observación que abre prometedoras expectativas para futuros tratamientos.\nLa estimulación del nervio vago en humanos, de hecho, ya está aprobada en muchos países para tratar los síntomas de enfermedades como la epilepsia.\n“Nuestra esperanza es que, en última instancia, estos hallazgos puedan trasladarse a la clínica para combatir el deterioro cognitivo relacionado con la edad en las personas”, afirma uno de los autores, Christoph Thaiss, del Instituto de Investigación Arc de California.\nPara comprobar su teoría de que la microbiota intestinal influye en el envejecimiento cerebral, los investigadores alojaron a ratones jóvenes (de 2 meses) junto con ratones viejos (de 18 meses).\nAl vivir y defecar juntos, los ratones jóvenes quedaron expuestos a la microbiota intestinal de los ratones viejos y viceversa.\nTras pasar un mes en convivencia, los investigadores examinaron la composición de los microbiomas de los animales viejos y jóvenes. Descubrieron que compartir espacio hizo que los microbiomas de los jóvenes se asemejaran más a los de los animales mayores.\nCuando compararon la capacidad de los ratones para reconocer un objeto nuevo o encontrar la salida de un laberinto, los jóvenes con microbiomas envejecidos obtuvieron malos resultados en estas pruebas, igual que sus homólogos viejos.\nSin embargo, al restaurar su microbioma mediante antibióticos, el efecto se invirtió y los ratones recuperaron niveles juveniles de función cognitiva.\nPor su parte, los ratones libres de gérmenes mostraban un deterioro cognitivo más lento con la edad, en comparación con los ratones normales con microbiomas típicos del envejecimiento, lo que respalda la existencia de algún componente del microbioma envejecido que impulsa la pérdida de memoria.\nLos autores creen que ese componente es la bacteria Parabacteroides goldsteinii. Su producción aumenta con la edad y provoca una inflamación que desactiva las funciones del nervio vago y contribuye al deterioro cognitivo.\nSi colonizaban los intestinos de ratones jóvenes con esta especie bacteriana, estos perdían capacidades en las tareas de reconocimiento de objetos y escape del laberinto.\nSin embargo, cuando trataron a los ratones viejos con una molécula que activa el nervio vago, el rendimiento cognitivo de los animales resultó indistinguible del de los ejemplares jóvenes.\n“Nuestro trabajo demuestra que la correcta señalización del intestino al cerebro, a través del nervio vago, protege a los ratones contra el deterioro cognitivo relacionado con la edad”, subrayan los autores."
+  },
+  "sha256": {
+    "titular": "330886ab04bccba0d3d1f8e39eedd1c33318768f6bcfded065a957b07dfa4e4e",
+    "entradilla": "cea84e916f10bda4c6e853df1b7d668e54b130a3881bdadabe80e1e58f80ff8c",
+    "cuerpo": "d608bbf4e753744ef9b539be68b917c8e6e0889dbf96e8635f838259287150cb"
+  }
+}

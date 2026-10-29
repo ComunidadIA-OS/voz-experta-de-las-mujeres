@@ -1,0 +1,26 @@
+{
+  "id": "a5e7065b5534",
+  "url": "https://www.agenciasinc.es/Noticias/El-envejecimiento-de-la-poblacion-impulsara-las-infecciones-resistentes-a-los-antibioticos-en-Europa",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2025-11-05T09:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:59:38+00:00",
+  "campos": {
+    "titular": "El envejecimiento de la población impulsará las infecciones resistentes a los antibióticos en Europa",
+    "entradilla": "Un nuevo estudio advierte que los cambios demográficos podrían aumentar las infecciones bacterianas resistentes en la sangre, especialmente entre las personas mayores, de aquí a 2030.",
+    "cuerpo": "Las infecciones del torrente sanguíneo causadas por bacterias resistentes a los antibióticos aumentarán de forma sustancial en Europa durante los próximos años, impulsadas principalmente por el envejecimiento de la población, según un estudio publicado esta semana en la revista PLOS Medicine por investigadores de la London School of Hygiene & Tropical Medicine (Reino Unido).\nLa resistencia a los antimicrobianos es una de las principales amenazas para la salud pública global. Para diseñar políticas eficaces e implementar estrategias de prevención, resulta esencial anticipar cómo evolucionará esta carga en las próximas décadas.\nEl equipo de investigadores, liderado por Gwenan Knight, analizó más de 12 millones de pruebas rutinarias de sangre realizadas en 29 países europeos entre 2010 y 2019 para determinar la susceptibilidad bacteriana. A partir de estos datos, generaron modelos que predicen la evolución de las infecciones resistentes hasta el año 2050, teniendo en cuenta las proyecciones demográficas.\nLos resultados muestran que las tasas de infecciones del torrente sanguíneo aumentarán, con variaciones significativas entre países y combinaciones de bacterias y antibióticos. El incremento será más pronunciado entre los hombres y en personas mayores de 74 años, mientras que podría estabilizarse o disminuir entre los grupos más jóvenes.\nSegún los autores, los modelos que no incorporan edad y sexo podrían subestimar en gran medida la carga futura de la resistencia antimicrobiana. Incluso bajo escenarios optimistas con fuertes intervenciones sanitarias, solo dos tercios de las combinaciones estudiadas alcanzarían una reducción del 10 % en las infecciones resistentes para 2030, objetivo marcado por Naciones Unidas.\n“La carga futura de las infecciones resistentes no será uniforme: variará entre países, grupos de edad y entre hombres y mujeres”, señala Knight. “Vemos los mayores incrementos en los grupos de mayor edad, especialmente en mayores de 65 años, lo que indica que evitar un aumento adicional ya sería un logro considerable de salud pública”.\nPor su parte, Catrin Moore, coautora del estudio, subraya que estos hallazgos “ayudarán a diseñar intervenciones centradas en las poblaciones más vulnerables, reduciendo la mortalidad y la morbilidad asociadas a las infecciones resistentes en Europa”."
+  },
+  "sha256": {
+    "titular": "56a158e39e4f838b55bf20b1fcc147cd09e8352e852ed20742b2bdde333bfa43",
+    "entradilla": "4eeb27c6d0bcf2f5ad02606ab1f9a9d661847d93a52702135fe1a3f219544a77",
+    "cuerpo": "ef837ebfe5e2ff9d323291d7c0ca141ad05bdeff85056bbe241279e0a467ac40"
+  }
+}

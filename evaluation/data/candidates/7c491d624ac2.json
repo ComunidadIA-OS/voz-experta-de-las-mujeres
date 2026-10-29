@@ -1,0 +1,26 @@
+{
+  "id": "7c491d624ac2",
+  "url": "https://www.agenciasinc.es/Noticias/Un-nuevo-modelo-basado-en-IA-aprende-a-neutralizar-amenazas-digitales",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-13T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: UPM | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Tecnología de los ordenadores"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:47:58+00:00",
+  "campos": {
+    "titular": "Un nuevo modelo basado en IA aprende a neutralizar amenazas digitales",
+    "entradilla": "Esta nueva herramienta es capaz de identificar técnicas específicas de ciberataques y sugerir automáticamente las medidas de protección más adecuadas en cada situación.",
+    "cuerpo": "La tecnología se convierte en una parte cada vez más intrínseca de lo cotidiano. La expansión de redes corporativas, la interconexión de infraestructuras y la digitalización de servicios facilitan el flujo de comunicación, pero también presentan una amenaza ante la constante exposición en el ciberespacio.\nLa automatización de los procesos de detección y respuesta de dichas amenazas se convierte en un elemento clave para reforzar la resiliencia de redes empresariales, infraestructuras industriales y servicios esenciales.\nUn grupo de investigadores de Redes y Servicios de Telecomunicación en Internet de la Universidad Politécnica de Madrid ha elaborado un modelo para mejorar la detección y mitigación de ciberataques.\nCon la inteligencia artificial en el centro, el modelo es capaz de identificar patrones asociados a comportamientos maliciosos, relacionarlos con técnicas concretas de ataque y sugerir respuestas adecuadas para cada caso individual.\nLa investigación combina aprendizaje automático con el marco de referencia MITRE ATT&CK, que consiste en una base de conocimiento internacional que organiza las tácticas, técnicas y procedimientos que se emplean en casos de ciberataques.\nEl modelo que propone el equipo está compuesto por un algoritmo de aprendizaje automático entrenado para identificar técnicas en incidentes de registro de tráfico. Su integración con sistemas de toma de decisiones permite ejecutar una respuesta individualizada para el incidente detectado según sus características.\nLos sistemas tradicionales de protección frente a ataques informáticos se basan en firmas y reglas estáticas, que a veces son menos eficaces, sobre todo cuando se trata de amenazas nuevas y avanzadas.\nEl primer paso que da el nuevo modelo, en cambio, es analizar el comportamiento del atacante. Esta etapa permite mejorar la caracterización de los incidentes y facilita una respuesta más rápida y precisa, de tal forma que reduce el impacto potencial sobre los sistemas afectados.\nEl nuevo modelo también tiene impacto social. “Las implicaciones sociales de esta investigación son relevantes, ya que soluciones basadas en inteligencia artificial contribuyen a mejorar la protección de datos, servicios esenciales y sistemas estratégicos”, destaca Carmen Sánchez Zas, investigadora que ha formado parte del equipo de trabajo.\nLa inteligencia artificial ocupa un lugar determinante en el desarrollo de estrategias de defensa adaptativas y proactivas en un ecosistema digital de complejidad creciente."
+  },
+  "sha256": {
+    "titular": "20932c120b309e5649ddf83eac8672d18344bfbe2b0467dee3714452937b2e99",
+    "entradilla": "56973f94c78e45ef18801b658ef5e877f879e8f3516c767996cb549e9e2d60f1",
+    "cuerpo": "59578be7b3f8208584d90c7d2ed32250fb2e4a2d5aa102dd45d57d071b583ee9"
+  }
+}

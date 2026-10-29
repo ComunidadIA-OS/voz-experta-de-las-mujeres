@@ -1,0 +1,266 @@
+{
+  "article_id": "3fce6f4efcdd",
+  "url": "https://www.agenciasinc.es/Noticias/Una-fosa-comun-de-la-Edad-de-Hierro-muestra-un-episodio-de-violencia-dirigida-a-mujeres-y-ninos",
+  "group": "calibration",
+  "source_type": "sinc_newsroom",
+  "annotator": "Eva_Mar",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-27T04:15:23+00:00",
+  "article_sha256": {
+    "titular": "872493cf6ce33579fb4441bf86cb1043e9cb687a64e878b46bbd312a668b1665",
+    "entradilla": "1b639a3ed609ca457fa29e1092c579b443e708d565afa0eaa6febfa61ba9c8a7",
+    "cuerpo": "b59ec5c00f42223c2919856523ce1651ccb48ae90181f6dff1c167b26ae40cf9"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Miren Iraeta – Orbegozo",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "la coautora del trabajo y genetista de la Universidad de Copenhague",
+      "gender_representation": "woman",
+      "gender_evidence": "la coautora",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Linda Fibiger",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "compañera e investigadora de la Universidad de Edimburgo,",
+      "gender_representation": "woman",
+      "gender_evidence": "compañera e investigadora",
+      "work_role": "mentioned",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "este yacimiento revela que la violencia masiva no se limitaba a los campos de batalla.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Atacar a mujeres y niños era una estrategia empleada para romper las líneas familiares y desestabilizar el tejido social”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "En este sentido, al impedir que las nuevas generaciones tuviesen un futuro, se anulaba la continuidad del grupo. En un contexto previo a la modernidad, donde existía mucha competencia por tierras y recursos, esta forma de violencia pudo ser una vía para imponer dominio absoluto.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“No usamos la palabra ‘genocidio’ por ser un término contemporáneo con connotaciones de intencionalidad difíciles de probar, aunque su función y el resultado son similares: acabar con una parte específica del grupo y frenar su continuidad”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“No fue un combate cuerpo a cuerpo ni una ejecución sistemática donde todos tienen la misma lesión”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La diversidad de los impactos sugiere un escenario caótico, y que las heridas se localizasen en la parte superior de la nuca indica que los atacantes podrían haber golpeado desde una posición elevada, quizás a caballo”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La violencia de las muertes fue extrema pero el entierro fue relativamente cuidadoso y respetuoso. Se invirtió mucha energía y recursos: hay cerámica, trabajos metalúrgicos y restos animales”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Había mucha movilidad y convivían grupos seminómadas, sedentarios y agrícolas”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793070838756",
+        "nombre": "Miren Iraeta – Orbegozo",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 442,
+            "fin16": 465,
+            "texto": "Miren Iraeta – Orbegozo",
+            "inicio": 442,
+            "fin": 465
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1756,
+            "fin16": 1773,
+            "texto": "Iraeta – Orbegozo",
+            "inicio": 1756,
+            "fin": 1773
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 373,
+          "fin16": 384,
+          "texto": "la coautora",
+          "inicio": 373,
+          "fin": 384
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 467,
+            "fin16": 553,
+            "texto": "este yacimiento revela que la violencia masiva no se limitaba a los campos de batalla.",
+            "tipo": "indirecta",
+            "inicio": 467,
+            "fin": 553
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 554,
+            "fin16": 677,
+            "texto": "“Atacar a mujeres y niños era una estrategia empleada para romper las líneas familiares y desestabilizar el tejido social”,",
+            "tipo": "directa",
+            "inicio": 554,
+            "fin": 677
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 687,
+            "fin16": 966,
+            "texto": "En este sentido, al impedir que las nuevas generaciones tuviesen un futuro, se anulaba la continuidad del grupo. En un contexto previo a la modernidad, donde existía mucha competencia por tierras y recursos, esta forma de violencia pudo ser una vía para imponer dominio absoluto.",
+            "tipo": "indirecta",
+            "inicio": 687,
+            "fin": 966
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 967,
+            "fin16": 1207,
+            "texto": "“No usamos la palabra ‘genocidio’ por ser un término contemporáneo con connotaciones de intencionalidad difíciles de probar, aunque su función y el resultado son similares: acabar con una parte específica del grupo y frenar su continuidad”,",
+            "tipo": "directa",
+            "inicio": 967,
+            "fin": 1207
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1648,
+            "fin16": 1748,
+            "texto": "“No fue un combate cuerpo a cuerpo ni una ejecución sistemática donde todos tienen la misma lesión”,",
+            "tipo": "directa",
+            "inicio": 1648,
+            "fin": 1748
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1775,
+            "fin16": 1995,
+            "texto": "“La diversidad de los impactos sugiere un escenario caótico, y que las heridas se localizasen en la parte superior de la nuca indica que los atacantes podrían haber golpeado desde una posición elevada, quizás a caballo”,",
+            "tipo": "directa",
+            "inicio": 1775,
+            "fin": 1995
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2533,
+            "fin16": 2725,
+            "texto": "“La violencia de las muertes fue extrema pero el entierro fue relativamente cuidadoso y respetuoso. Se invirtió mucha energía y recursos: hay cerámica, trabajos metalúrgicos y restos animales”",
+            "tipo": "directa",
+            "inicio": 2533,
+            "fin": 2725
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3219,
+            "fin16": 3299,
+            "texto": "“Había mucha movilidad y convivían grupos seminómadas, sedentarios y agrícolas”,",
+            "tipo": "directa",
+            "inicio": 3219,
+            "fin": 3299
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 373,
+          "fin16": 440,
+          "texto": "la coautora del trabajo y genetista de la Universidad de Copenhague",
+          "inicio": 373,
+          "fin": 440
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793070908456",
+        "nombre": "Linda Fibiger",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1295,
+            "fin16": 1308,
+            "texto": "Linda Fibiger",
+            "inicio": 1295,
+            "fin": 1308
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1237,
+          "fin16": 1262,
+          "texto": "compañera e investigadora",
+          "inicio": 1237,
+          "fin": 1262
+        },
+        "citas": [],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1237,
+          "fin16": 1294,
+          "texto": "compañera e investigadora de la Universidad de Edimburgo,",
+          "inicio": 1237,
+          "fin": 1294
+        },
+        "participacion": "aparece"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 316
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a9ba9b5047f6",
+  "url": "https://www.agenciasinc.es/Noticias/Un-biomaterial-que-se-fortalece-con-el-agua-podria-ser-una-alternativa-al-plastico",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-18T12:10:00+01:00",
+  "fuente_y_derechos": "Fuente: IBEC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Tecnología de materiales"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:52:17+00:00",
+  "campos": {
+    "titular": "Un biomaterial que se fortalece con el agua podría ser una alternativa al plástico",
+    "entradilla": "Un equipo internacional ha desarrollado un polímero derivado de desechos de crustáceos que aumenta su resistencia al entrar en contacto con el agua. El avance abre una vía para desarrollar materiales biodegradables capaces de sustituir a algunos plásticos de un solo uso.",
+    "cuerpo": "Un estudio liderado por el Instituto de Bioingeniería de Cataluña (IBEC) demuestra que el quitosano —un polímero natural obtenido de las cáscaras de gambas— puede transformarse en un material más robusto cuando se moja. El hallazgo revierte una de las grandes limitaciones de los biomateriales, que suelen debilitarse con la hidratación, y plantea una vía para crear alternativas sostenibles a los plásticos convencionales.\nLos investigadores incorporaron níquel, un oligoelemento presente en la naturaleza, a la estructura del quitosano. Tras formar láminas delgadas, comprobaron que el material incrementa su resistencia hasta un 50 % tras la inmersión en agua. El mecanismo se basa en una red dinámica de enlaces reversibles que se reorganizan gracias a los iones de níquel y a las moléculas de agua. Esa reconfiguración permite absorber tensiones mecánicas imitando el comportamiento de ciertos tejidos biológicos.\n“El material sigue siendo biológicamente puro; es esencialmente la misma molécula que existe en los caparazones de insectos y hongos”, explica Javier G. Fernández, investigador del IBEC y líder del trabajo, publicado en Nature Communications. Esa pureza facilita su reintegración en los ciclos naturales sin generar residuos persistentes.\nEl descubrimiento se inspira en la cutícula de los artrópodos y en observaciones previas sobre la acción de metales en estructuras naturales. Según los autores, el agua se convierte aquí en un componente activo del sistema y deja de ser un enemigo de los biopolímeros. Fernández resume el principio como “un material en el que ser ‘blando’ a escala molecular lo hace más fuerte”.\nEl proceso de fabricación también incorpora un ciclo cerrado de níquel: el metal que no participa en la estructura se recupera durante la hidración inicial y se reutiliza para producir nuevas tandas de material. El método logra así un uso del níquel del 100 %, sin generar residuos y con costes reducidos.\nLa escalabilidad es uno de los argumentos clave del trabajo. La quitina —de la que deriva el quitosano— se produce en la naturaleza a gran escala. “Cada año, el mundo genera unas cien mil millones de toneladas de quitina, el equivalente a tres siglos de producción de plástico”, señala Akshayakumar Kompa, investigador posdoctoral del grupo de Fernández y primer autor del estudio. Esa abundancia permitiría una fabricación distribuida y adaptada a recursos locales, desde restos de marisco hasta residuos orgánicos o subproductos fúngicos.\nLas primeras aplicaciones podrían darse en agricultura, artes de pesca y embalaje, especialmente en contextos relacionados con el agua, donde se necesitan materiales biodegradables y resistentes. Además, tanto el níquel como el quitosano cuentan ya con el aval de la FDA para ciertos usos médicos, lo que abre la posibilidad de desarrollar recubrimientos impermeables para dispositivos sanitarios.\nEl equipo también ha demostrado que el material puede formar recipientes estancos, como vasos o láminas de gran tamaño, lo que refuerza su potencial como sustituto de plásticos de un solo uso. Los investigadores creen que otros metales podrían generar efectos similares y ampliar la gama de biomateriales reforzados por hidratación.\n“Este es solo el primer estudio. Ahora que sabemos que este efecto existe, podemos buscar nuevas combinaciones y nuevos materiales”, apunta Fernández. Para los autores, el hallazgo marca un cambio de mentalidad: en lugar de aislar los materiales del entorno, se trata de diseñarlos para que trabajen con él y formen parte de ciclos ecológicos sin dejar huella."
+  },
+  "sha256": {
+    "titular": "5aa19956de3a59d30ec6ba6ccd1061c5f75e50605adbbad4ed1f7904a89b3bc7",
+    "entradilla": "6ebd848a70850b7f7b350f5e3ded061ee71b2904f941a59e32cdad119124b3a5",
+    "cuerpo": "be6ad606e377a8e2508e890c6508906fb3e577e73a80f25bd0d74cf931218626"
+  }
+}

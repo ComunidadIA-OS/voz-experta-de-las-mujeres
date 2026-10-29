@@ -1,0 +1,26 @@
+{
+  "id": "156920605d96",
+  "url": "https://www.agenciasinc.es/Noticias/La-superbacteria-que-vino-del-hielo-5-000-anos-y-resistente-a-10-antibioticos-modernos",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-02-17T07:40:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:52:26+00:00",
+  "campos": {
+    "titular": "La superbacteria que vino del hielo: 5 000 años y resistente a 10 antibióticos modernos",
+    "entradilla": "El análisis de una cepa de Psychrobacter recuperada del hielo profundo de una cueva en Rumanía revela que la resistencia microbiana evolucionó de forma natural mucho antes del uso clínico de fármacos. El hallazgo alerta sobre el riesgo de que el deshielo libere estos genes, pero también abre la puerta al descubrimiento de nuevas moléculas antimicrobianas.",
+    "cuerpo": "Los ambientes extremos de la Tierra, desde las profundidades abisales hasta los hielos perpetuos, funcionan como cápsulas del tiempo biológicas. Ahora, un equipo de investigadores de la Academia Rumana ha logrado ‘despertar’ y analizar una cepa bacteriana que permaneció oculta durante cinco milenios en la cueva de hielo de Scărișoara, en Rumanía. Los resultados, publicados esta semana en la revista Frontiers in Microbiology, revelan una paradoja inquietante: a pesar de su origen antiguo, el microorganismo es resistente a diez clases de antibióticos modernos.\nLa cepa, denominada Psychrobacter SC65A.3, fue aislada a partir de un testigo de hielo de 25 metros de profundidad extraído de la zona conocida como la Gran Sala de la cueva. Este bloque de hielo representa una línea temporal de 13 000 años de historia ambiental. Tras secuenciar su genoma, los científicos descubrieron que la bacteria posee más de 100 genes relacionados con la resistencia.\n“Estudiar microbios recuperados de depósitos de hielo milenarios revela cómo la resistencia a los antibióticos evolucionó de forma natural en el medio ambiente, mucho antes de que se utilizaran los antibióticos modernos”, explica Cristina Purcarea, investigadora principal del Instituto de Biología de Bucarest y autora del estudio.\nLos investigadores pusieron a prueba la resistencia de la bacteria frente a 28 antibióticos utilizados habitualmente en la práctica clínica. Los resultados mostraron que la cepa SC65A.3 es capaz de neutralizar fármacos empleados para tratar enfermedades graves como la tuberculosis, la colitis o las infecciones urinarias, incluyendo la rifampicina, la vancomicina y el ciprofloxacino.\nSe trata de la primera vez que se detecta en el género Psychrobacter una resistencia específica a compuestos como el trimetoprim, la clindamicina y el metronidazol. Según los autores, esto sugiere que las bacterias adaptadas al frío extremo actúan como ‘reservorios’ de genes de resistencia que podrían ser transferidos a bacterias modernas si el deshielo provocado por el cambio climático las libera al exterior.\nSin embargo, el hallazgo no es solo una señal de alarma. El genoma de esta bacteria antigua contiene casi 600 genes con funciones desconocidas y 11 genes con capacidad potencial para inhibir el crecimiento de otros patógenos, hongos y virus.\n“Por un lado, si el deshielo libera estos microbios, sus genes podrían propagarse a las bacterias actuales, agravando la crisis de resistencia”, advierte Purcarea. “Pero por otro, producen enzimas únicas y compuestos antimicrobianos que podrían inspirar la creación de nuevos antibióticos e innovaciones biotecnológicas”.\nEl estudio concluye que estos genomas antiguos son esenciales para entender la evolución de la vida, aunque subraya la necesidad de medidas de bioseguridad estrictas en los laboratorios para evitar cualquier escape incontrolado de estas capacidades genéticas ancestrales."
+  },
+  "sha256": {
+    "titular": "12c57c8e02f325e48608bf9425fd788fbd5946f278dce3f67c1d00af41089808",
+    "entradilla": "3a2c9109deb27f98a3960b228b5c8a158f4f07ce99961d6a0939e7fcca09878d",
+    "cuerpo": "903997afa281878789cc9879154857c3a82c3dd0174dd9e11832dc90bfc6fdd1"
+  }
+}

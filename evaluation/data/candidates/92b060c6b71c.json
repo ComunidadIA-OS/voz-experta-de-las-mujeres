@@ -1,0 +1,26 @@
+{
+  "id": "92b060c6b71c",
+  "url": "https://www.agenciasinc.es/Noticias/El-calor-extremo-aumenta-las-emisiones-de-CO-al-acelerar-la-respiracion-de-los-ecosistemas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-30T11:31:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:39+00:00",
+  "campos": {
+    "titular": "El calor extremo aumenta las emisiones de CO₂ al acelerar la ‘respiración’ de los ecosistemas",
+    "entradilla": "La combinación de calor y humedad en 2024 favoreció la actividad de los microorganismos y la respiración de las plantas, y provocó que la naturaleza aumentase la liberación de carbono a través de la respiración.",
+    "cuerpo": "En condiciones normales, los ecosistemas terrestres actúan como ‘pulmones’ que compensan nuestras emisiones: las plantas captan CO2 mediante la fotosíntesis y lo almacenan en troncos, raíces y suelos.\nSin embargo, un nuevo artículo publicado en la revista Nature Communications alerta que este equilibrio se ha roto a escala global.\nEl equipo de investigación ha observado que, durante 2024, el primer año en que la temperatura media global superó los 1,55 ºC respecto a la era preindustrial, el calor extremo combinado con una alta humedad alteró drásticamente este balance.\nEn concreto, los resultados indican que el 2024 registró el mayor pico de CO2 en la atmósfera desde que comenzaron las mediciones en 1958.\nLo más preocupante es que la mayor parte de este aumento neto no se debió únicamente a la actividad humana, sino a que los ecosistemas perdieron su capacidad de actuar como sumideros. La causa principal fue un aumento sin precedentes de la respiración ecosistémica: el calor y la humedad vinculados a un episodio prolongado de El Niño aceleró la respiración de las plantas, activaron a los microorganismos del suelo y aceleraron la descomposición de la materia orgánica, liberando masivamente CO2.\n“El estudio confirma que puede generarse un círculo vicioso: eventos extremos combinados, como una primavera muy lluviosa seguida de un verano extremadamente cálido, disparan la respiración de los ecosistemas. Esto libera más CO2 a la atmósfera, lo que a su vez intensifica aún más el calentamiento global”, destaca Josep Peñuelas, investigador del CSIC en el CREAF y coautor del estudio.\nPara realizar la investigación, el equipo utilizó datos satelitales de última generación (como el sistema OCO-2) y estimaciones globales de fotosíntesis y emisiones por incendios, comparando los datos de 2024 con los de 2022, un año considerado como referencia de ‘normalidad’ climática.\nAunque el fenómeno fue global, el efecto fue especialmente intenso en pastizales y matorrales, que contribuyeron al 49 % de la anomalía de emisiones, seguidos de los bosques (33 %) y las tierras agrícolas (18 %).\n“En matorrales y pastos, el calor y la humedad inciden de manera más directa en el suelo y la vegetación baja. Así que los microorganismos se activan más y la respiración de las plantas se acelera”, explica Peñuelas.\nEl estudio matiza que, si bien la respiración fue el factor dominante, los grandes incendios en regiones como Canadá y Siberia, y las sequías en zonas tropicales, también mermaron la capacidad de sumidero biológico del CO2.\nLa pérdida de capacidad de absorción de carbono fue generalizada, y afectó particularmente al este de Estados Unidos, Europa, Siberia occidental, el Sudeste Asiático y grandes áreas de Sudamérica y África. Además, Peñuelas alerta de que la zona mediterránea es especialmente vulnerable: “Nuestros bosques de interior y matorrales corren el riesgo de pasar de sumideros a emisores netos debido a las olas de calor consecutivas que sufren cada vez con más frecuencia”.\nPara revertir esta tendencia, los autores proponen soluciones urgentes. Por un lado, gestión forestal adaptativa con el objetivo de reducir el riesgo de grandes incendios que liberan picos masivos de carbono. También apostar por la agricultura regenerativa que implementen prácticas que mantengan y aumenten la materia orgánica almacenada en el suelo.\nPor último, señalan que se deben reducir de manera drástica las emisiones fósiles. “Si los ecosistemas naturales están perdiendo su capacidad para absorber el CO2 que emitimos, es todavía más imprescindible reducir las emisiones que generamos nosotros”, añade Peñuelas.\nEl estudio se enmarca en el proyecto europeo CONCERTO, que busca entender cómo interactúan el clima y los ecosistemas. Los resultados demuestran que, para predecir el futuro del clima, ya no basta con mirar las chimeneas y los tubos de escape; es vital entender cómo responde la naturaleza a los nuevos extremos climáticos para mejorar los modelos de predicción y las estrategias de mitigación."
+  },
+  "sha256": {
+    "titular": "eb556fb91aa30035030a1bf64e6bc515a7f08b02b6d545cecfad9704b8a6b7ae",
+    "entradilla": "72408a946d97dcd2596dc9a15887a3b4824a01a8f762a7a760fbcff140875e6a",
+    "cuerpo": "c91eef1cf150bc6b0237ac14471aa4e50fcdba0e652e36872726bf88b62a50b7"
+  }
+}

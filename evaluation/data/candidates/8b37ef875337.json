@@ -1,0 +1,26 @@
+{
+  "id": "8b37ef875337",
+  "url": "https://www.agenciasinc.es/Noticias/Las-galaxias-retienen-mejor-el-gas-y-forman-estrellas-durante-mas-tiempo-en-vacios-cosmicos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-28T11:00:00+02:00",
+  "fuente_y_derechos": "Fuente: IAA-CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:50+00:00",
+  "campos": {
+    "titular": "Las galaxias retienen mejor el gas y forman estrellas durante más tiempo en vacíos cósmicos",
+    "entradilla": "Una nueva investigación del Instituto de Astrofísica de Andalucía ha analizado cómo influyen los vacíos cósmicos en la evolución de doscientas galaxias. Estas regiones se caracterizan por tener una densidad de materia muy baja, lo que permite que sean entornos ideales para el estudio de la actividad estelar.",
+    "cuerpo": "El universo se organiza en una gran estructura conocida como red cósmica, formada por cúmulos de galaxias conectados mediante filamentos entre los que se extienden regiones sin actividad. Estas zonas ‘desérticas’ se denominan vacíos cósmicos, y hasta la fecha, la mayoría de los estudios sobre las galaxias que habitaban en ellas analizaban su luz como si procediera de un único punto sin valorar lo que había a su alrededor.\nAhora, un estudio liderado por el Instituto de Astrofísica de Andalucía (IAA-CSIC), ha utilizado datos de espectroscopia de campo integral para analizar, por primera vez, cómo influye el entorno cósmico en la evolución de más de doscientas galaxias. Los resultados se han publicado en la revista Astronomy & Astrophysics.\n“Las galaxias situadas en vacíos cósmicos conservan mejor su gas y mantienen un formación estelar más activa, especialmente en regiones externas y galaxias en transición entre espirales y elípticas”, señala la investigadora del IAA-CSIC y primera autora del trabajo, Ana Conrado.\nEn concreto, los vacíos cósmicos son regiones extensas con una densidad de materia muy baja –aunque no inexistente–, por lo que estas condiciones extremas permiten estudiar cómo influye el entorno en la evolución de los conjuntos estelares.\nHasta ahora, la mayoría de las investigaciones sobre galaxias en estas zonas se habían centrado en sus propiedades integradas.\n“Es como estudiar una ciudad observando su brillo desde el espacio: no podríamos distinguir barrios, calles u otras zonas”, expresa el segundo autor del trabajo, Rubén García Benito. “Las galaxias son sistemas complejos y para comprender cómo evolucionan es necesario entender cómo cambian estas propiedades dentro de cada una de ellas”, añade.\nPara saberlo, el equipo científico utilizó datos de espectroscopia de campo integral del proyecto CAVITY, una iniciativa pionera liderada por la Universidad de Granada que busca comprender cómo la estructura del universo influye en la formación y evolución de las galaxias. Este proyecto tiene su base en el Observatorio de Calar Alto (CAHA), en Almería.\nGracias a sus datos, los investigadores pudieron analizar con detalle el gas ionizado de doscientas galaxias que habitan en vacíos cósmicos y compararlos con el de galaxias de otros entornos.\n“Nuestros resultados revelan que las galaxias de los vacíos presentan una formación estelar más intensa y una menor extinción relacionada con una menor cantidad de polvo”, señala la investigadora del IAA-CSIC, Rosa González.\nEstos efectos son especialmente evidentes en galaxias que se encuentran en transición entre espirales y elípticas, lo que sugiere que el proceso evolutivo ocurre de forma más lenta en los vacíos cósmicos. Además, los investigadores observaron que las partes más influenciadas eran las regiones externas, es decir, los discos de las galaxias espirales.\nPor otro lado, a partir de mediciones indirectas, el trabajo apunta a que las galaxias situadas en vacíos galácticos contienen una mayor cantidad de gas debido a que lo conservan mejor o porque reciben un aporte más continuo del entorno que las rodea.\n“Esto podría deberse a que las galaxias en vacíos evolucionan de forma más lenta y menos perturbada, lo que les permite conservar su gas y mantener la formación estelar durante más tiempo”, señala Conrado.\nLa investigadora destaca que los resultados coinciden con su trabajo previo sobre las propiedades de las estrellas en galaxias en vacíos, lo que refuerza la idea de que el entorno cósmico desempeña un papel clave en la evolución de estas estructuras."
+  },
+  "sha256": {
+    "titular": "078eaaa415a1e185dd6eb7672b928de2e437dbe29214607ae12ebe376a3685e7",
+    "entradilla": "ca295781d5868cf821a78032b102349c1c2a5c0e71b0193dc7e15cacd26186a0",
+    "cuerpo": "daf8cfb0a8e3db8556dbd45b9e2f0178d8a37dcfac8d45f37129d103c1e3cee2"
+  }
+}

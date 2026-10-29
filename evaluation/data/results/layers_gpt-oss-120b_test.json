@@ -1,0 +1,32 @@
+{
+  "annotator": "Elena",
+  "group": "test",
+  "articles": 40,
+  "human_share_women": 0.3508771929824561,
+  "layers": {
+    "LLM only": {
+      "people_matched": 65,
+      "same_gender": 46,
+      "unknown_gender": 29,
+      "people_found": 71,
+      "share_women": 0.30952380952380953,
+      "error_points": -4.135338345864659
+    },
+    "LLM + grammar rules": {
+      "people_matched": 65,
+      "same_gender": 61,
+      "unknown_gender": 12,
+      "people_found": 71,
+      "share_women": 0.3559322033898305,
+      "error_points": 0.5055010407374383
+    },
+    "LLM + grammar + name (INE, WIPO)": {
+      "people_matched": 65,
+      "same_gender": 55,
+      "unknown_gender": 0,
+      "people_found": 71,
+      "share_women": 0.39436619718309857,
+      "error_points": 4.348900420064244
+    }
+  }
+}

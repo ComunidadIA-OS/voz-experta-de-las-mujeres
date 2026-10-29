@@ -1,0 +1,26 @@
+{
+  "id": "b427e3cef58f",
+  "url": "https://www.agenciasinc.es/Noticias/Secuenciado-el-genoma-completo-del-hantavirus-vinculado-al-brote-del-crucero-MV-Hondius",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-05-11T16:50:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Epidemiología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:45:29+00:00",
+  "campos": {
+    "titular": "Secuenciado el genoma completo del hantavirus vinculado al brote del crucero MV Hondius",
+    "entradilla": "El análisis genético del patógeno detectado en un paciente suizo confirma que se trata de una cepa estable, la de los Andes, similar a la que causó el brote de 2018 en Argentina. Por ahora se descartan mutaciones inusuales o híbridos virales.",
+    "cuerpo": "Un equipo internacional de investigadores, liderado por el Centro Nacional de Referencia para Infecciones Virales Emergentes de Suiza y la Universidad de Zúrich, ha publicado la primera secuencia completa del genoma del hantavirus responsable del actual clúster de casos vinculados al crucero MV Hondius. El hallazgo, compartido a través de la plataforma Virological.org, ofrece una radiografía detallada de la estructura del virus y sus posibles orígenes.\nLos resultados preliminares confirman que el virus pertenece a la estirpe de los virus Andes (ANDV), un tipo de hantavirus endémico de América del Sur. Al analizar los segmentos que componen su material genético, los científicos han comprobado que no existen señales de ‘reordenamiento’, un proceso por el cual diferentes cepas intercambian fragmentos de su genoma para crear una variante nueva.\nEsta estabilidad sugiere que el brote actual surge de un linaje viral ya conocido y no de un evento de mezcla genética reciente.\nLa comparación de esta secuencia con las bases de datos globales ha revelado que los parientes más cercanos de este virus son los que protagonizaron el brote de 2018 y 2019 en Argentina. Según los expertos, el grado de variación genética respecto a aquellas muestras es mínimo, situándose dentro de los márgenes esperados para un virus que evoluciona de forma natural en su reservorio animal. Este dato es crucial, ya que refuerza la hipótesis de que estamos ante un evento de ‘derrame’ (spillover) desde roedores silvestres hacia humanos, en lugar de la aparición de una cepa radicalmente alterada.\n“La secuencia es ampliamente consistente con lo que esperaríamos de un salto del virus desde su reservorio natural”, explica al Science Media Center (SMC) de Reino Unido Damien Tully, profesor asociado en el London School of Hygiene & Tropical Medicine. Para el experto, la ausencia de cambios drásticos es una señal tranquilizadora, aunque advierte que todavía existen lagunas importantes: “Con un solo genoma no podemos saber aún si el brote presenta múltiples introducciones independientes en humanos o si los casos actuales se deben a un único evento seguido de transmisión persona a persona”.\nA diferencia de otros hantavirus, el virus Andes es conocido por su capacidad de transmitirse entre seres humanos, un factor que complica la gestión de los brotes. Los datos genómicos actuales muestran que el virus detectado en el paciente suizo es un linaje típico de las regiones de Chile y Argentina, asociado frecuentemente con infecciones humanas. Sin embargo, los científicos subrayan que el código genético por sí solo tiene límites para explicar el comportamiento epidemiológico del brote en el crucero.\nPiet Maes, presidente electo de la Sociedad Internacional de Hantavirus, señala al SMC que las longitudes de las ramas en el árbol filogenético confirman un evento de transmisión reciente.\n“Aunque los hallazgos no indican la aparición de una cepa fundamentalmente nueva, los datos genómicos por sí solos no pueden distinguir entre una adquisición directa desde un animal y una transmisión secundaria entre personas”, afirma Maes. Ambos escenarios siguen siendo biológicamente plausibles para este tipo de patógeno.\nMás allá de la evolución del virus, la secuenciación completa tiene una utilidad práctica inmediata: validar las pruebas diagnósticas. Al conocer con precisión la secuencia de nucleótidos del virus actual, los laboratorios pueden confirmar que las pruebas de PCR utilizadas actualmente siguen siendo eficaces. Si el virus mutara en las regiones que estas pruebas deben detectar, podrían producirse falsos negativos, algo que el análisis actual descarta por el momento.\nLa comunidad científica coincide en que la rapidez con la que se han compartido estos datos es un hito para la respuesta de salud pública, pero insiste en la necesidad de obtener más secuencias de otros pacientes y de posibles reservorios animales. Solo así se podrá reconstruir con exactitud la cadena de transmisión y determinar si el virus está sufriendo algún cambio funcional mientras se propaga por el nuevo clúster de infectados."
+  },
+  "sha256": {
+    "titular": "bd3b60e0066f107d736247d85074b41f33afafcfc3612234003ae87246ad2f64",
+    "entradilla": "b0e7a22d382e505aa11242e74261a69f5d5089c0929dabad2ce8b91e5db433ec",
+    "cuerpo": "3654b019a548ef1f8d855eb62fc1616a2ba619502e26e4b8a8b86b29bab741c9"
+  }
+}

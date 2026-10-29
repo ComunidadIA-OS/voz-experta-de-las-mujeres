@@ -1,0 +1,26 @@
+{
+  "id": "f69faf356abb",
+  "url": "https://www.agenciasinc.es/Noticias/El-cancer-colorrectal-se-protege-de-la-inmunoterapia-con-una-doble-barrera",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-11-07T11:00:00+01:00",
+  "fuente_y_derechos": "Fuente: IRB Barcelona | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:59:22+00:00",
+  "campos": {
+    "titular": "El cáncer colorrectal se protege de la inmunoterapia con una doble barrera",
+    "entradilla": "Un estudio publicado en Nature Genetics ha identificado a la proteína osteopontina como responsable de frenar las defensas del organismo dentro del tumor. Este hallazgo podría servir para desarrollar terapias combinadas más eficaces en un mayor número de pacientes.",
+    "cuerpo": "El tumor colorrectal es una de las principales causas de muerte por cáncer en el mundo. En los últimos años, las inmunoterapias, que son tratamientos que reactivan el sistema inmunitario para que ataque las células tumorales, han transformado el tratamiento de muchos tipos de cáncer. Sin embargo, la mayoría de los pacientes con cáncer colorrectal metastásico no responden a estos tratamientos.\nUn estudio del Instituto de Investigación Biomédica (IRB)) y el Centro Nacional de Análisis Genómico (CNAG), ambos en Barcelona, arroja nueva información sobre los mecanismos que limitan la eficacia de estos tratamientos y propone estrategias para mejorarla.\nEl trabajo, publicado en Nature Genetics, revela cómo, a través de una hormona llamada TGF-β, los tumores colorrectales generan una doble barrera que impide que las células del sistema inmunitario actúen contra el cáncer.\nPor un lado, el TGF-β evita que lleguen al tumor suficientes linfocitos T (las células encargadas de eliminar las células cancerosas) desde la sangre. Por otro, bloquea la expansión de las pocas células T que consiguen infiltrarse en el tumor.\nLa investigación ha estado liderada por Eduard Batlle y Alejandro Prados, del IRB Barcelona, junto con Holger Heyn, del CNAG,\n“Nuestro trabajo demuestra que los tumores se protegen frente a las terapias inmunológicas manipulando su entorno para frenar la respuesta del sistema inmunitario desde dos frentes. Comprender este lenguaje de comunicación entre el tumor y las defensas abre la puerta a diseñar estrategias que desactiven esas barreras y mejoren la eficacia de la inmunoterapia”, explica Batlle.\n“Gracias a la secuenciación de células individuales dentro del microambiente tumoral, hemos identificado a los principales actores afectados por el TGF-β”, señala Heyn. “Con tecnologías de vanguardia, observamos cómo esta molécula bloquea la eficacia de la inmunoterapia e identificamos nuevas dianas terapéuticas para optimizar los tratamientos contra el cáncer colorrectal”.\nLa experiencia del equipo del CNAG en análisis de célula única, inmunología celular y procesamiento de datos fue clave para desentrañar cómo el TGF-β inhibe el sistema inmunitario en el cáncer colorrectal metastásico.\nEl estudio combina modelos experimentales de metástasis en ratón con análisis de tumores humanos. El objetivo era entender cómo el TGF-β articula la resistencia a la inmunoterapia, un fenómeno que ya habían observado previamente.\nLos investigadores descubrieron que el TGF-β actúa como una señal de “prohibido el paso”: impide que las células T circulantes, capaces de atacar el tumor, accedan a la metástasis. Al mismo tiempo, modifica los macrófagos para que produzcan osteopontina, una proteína que frena la proliferación de las pocas células T que logran entrar. Esta doble acción convierte al tumor en prácticamente invisible para el sistema inmunitario.\n“En nuestros modelos experimentales, cuando bloqueamos el TGF-β, las células inmunitarias pudieron infiltrarse masivamente en el tumor y recuperar su capacidad de ataque”, explica Ana Henriques, primera autora del trabajo. “Además, al combinar este bloqueo con inmunoterapia, observamos respuestas antitumorales muy potentes”, añade Maria Salvany, también coprimera autora.\nAunque existen ensayos clínicos con inhibidores de TGF-β, su uso en pacientes sigue limitado por los efectos secundarios. Este estudio sugiere estrategias alternativas, como bloquear los mecanismos activados por el TGF-β —entre ellos la producción de osteopontina— para lograr un efecto similar. “En cualquier caso, estas aproximaciones deberán evaluarse en ensayos clínicos y siempre en combinación con inmunoterapia”, comenta Eduard Batlle.\n“Comprender este circuito nos permite buscar soluciones más seguras y selectivas. El objetivo final es que las inmunoterapias, que hoy benefician solo a un pequeño grupo de pacientes, puedan llegar también a la mayoría con cáncer colorrectal metastásico”, concluye Prados, anteriormente en el IRB Barcelona y ahora investigador en la Universidad de Granada."
+  },
+  "sha256": {
+    "titular": "4c410edc53166cc10ff929a5ecdd405814f7b509088c66cffc567bdbdbca6336",
+    "entradilla": "c3fa8707f02920afd5fcac607c4b2e758cb4403dbf0116bedf41d683459ac310",
+    "cuerpo": "72d884cf470639fe0bddce4db1bb08282b2936fc8e445fe66c0565a0333c8535"
+  }
+}

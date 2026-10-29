@@ -1,0 +1,26 @@
+{
+  "id": "764aa6d50c3b",
+  "url": "https://www.agenciasinc.es/Noticias/Los-microorganismos-muestran-un-potencial-casi-universal-para-degradar-plasticos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-16T09:20:00+02:00",
+  "fuente_y_derechos": "Fuente: UAB | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:47:32+00:00",
+  "campos": {
+    "titular": "Los microorganismos muestran un potencial casi universal para degradar plásticos",
+    "entradilla": "Un equipo de investigación ha identificado más de 600 000 proteínas microbianas con capacidad para degradar plásticos naturales y sintéticos, mostrando una capacidad mucho mayor de lo que se conocía.",
+    "cuerpo": "La contaminación por plásticos supone una amenaza ambiental creciente, especialmente cuando partículas de microplásticos y nanoplásticos se acumulan en ecosistemas marinos, de agua dulce, terrestres e incluso polares. Aunque se conocen cientos de enzimas degradadoras en especies concretas, su distribución global y conservación evolutiva seguían siendo poco conocidas.\nUn nuevo estudio de investigadores de la Universitat Autònoma de Barcelona (UAB), La Salle-URL, la Universidad de Turku (UTU, Finlandia) y el Institute of Science Tokyo (IST, Japón) muestra que más del 95 % de las especies procariotas contienen al menos un gen capaz de degradar polímeros plásticos naturales o sintéticos, lo que revela una capacidad ecológica extraordinariamente extendida para responder a la contaminación por plásticos.\n\"Nuestros resultados muestran que el potencial de biodegradación del plástico no está limitado a unos pocos microbios especializados; es casi universal\", explica Pere Puigbò, investigador de la UAB y coautor del estudio. \"Esto sugiere que las comunidades microbianas de todo el mundo ya poseen las herramientas moleculares necesarias para responder a la contaminación plástica\".\nEl proyecto MicroWorld, en el que se enmarca el estudio, ha creado el recurso más completo hasta la fecha sobre biodegradación microbiana de plásticos: los Plastic‑Degrading Clusters of Orthologous Groups (PDCOG), una base de datos con 625.616 proteínas potencialmente degradadoras de plástico, clasificadas en 51 grupos ortólogos.\nEste catálogo global permite comprender mejor cómo bacterias y arqueas contribuyen a la degradación de microplásticos y nanoplásticos en distintos ecosistemas.\nLos PDCOG agrupan proteínas relacionadas con la degradación de 11 polímeros naturales y 28 sintéticos. La distribución global de estos polímeros en 23 tipos de ambientes, —desde sedimentos oceánicos profundos hasta suelos, fuentes termales o regiones polares—muestra que el potencial de biodegradación está fuertemente influido por las condiciones ecológicas locales.\nAlgunos hábitats, como los suelos o los ecosistemas endolíticos, presentan un notable enriquecimiento en enzimas degradadoras, lo que sugiere procesos de adaptación ecológica local.\n\"La capacidad microbiana de degradar plásticos no solo es amplia, sino que está claramente moldeada por el entorno\", afirma Kari Saikkonen (UTU), coautor del artículo.\nDesde el punto de vista de los materiales y las aplicaciones, estos resultados muestran cómo la adaptación microbiana puede inspirar nuevas soluciones tecnológicas. Identificar qué enzimas prosperan en determinados hábitats y bajo presiones ecológicas concretas aporta una guía para diseñar materiales y tecnologías optimizados para condiciones ambientales locales.\n\"Este recurso ofrece una visión global del potencial de biodegradación que existe en la naturaleza. Entender cómo los microbios se adaptan a sus entornos permitirá diseñar materiales y soluciones biotecnológicas que estén alineados con los procesos naturales\", afirma Miho Nakamura (La Salle-URL /UTU / IST), coautora del trabajo."
+  },
+  "sha256": {
+    "titular": "54be6e4d318da849a5473cad557ac2841c58abc3c53d94c0aa15c5131a1114b5",
+    "entradilla": "6d460e43767e8d9e80096ab1ad822d0298be63fa5be855e81b86c399345edbd7",
+    "cuerpo": "15adb30b10b48794fc037c2f099ebbe727392e256d0002313b669614d840f8fd"
+  }
+}

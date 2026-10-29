@@ -1,0 +1,26 @@
+{
+  "id": "a2d448208160",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-un-posible-sistema-binario-de-supernovas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-21T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:38:38+00:00",
+  "campos": {
+    "titular": "Descubren un posible sistema binario de supernovas",
+    "entradilla": "Un equipo científico ha hallado el primer sistema estelar binario candidato conocido en el que ambas estrellas han experimentado eventos de supernova. El descubrimiento tiene el potencial de aportar nuevos conocimientos sobre nuestra comprensión de los sistemas estelares.",
+    "cuerpo": "Un equipo de astrónomos ha detectado lo que podrían ser los restos de una estrella compañera de la que explotó para formar el remanente de supernova llamado IC 443 (también conocida como la nebulosa Medusa). Los hallazgos, publicados en Nature Communications, indican que este es el primer sistema estelar binario candidato conocido en el que ambas estrellas han experimentado eventos de supernova.\nEn la investigación, liderada por científicos de la Universidad de Stanford (EE UU), se combinaron 16 años de observaciones de rayos gamma del Telescopio de Gran Área Fermi con datos de rayos X de eROSITA y registros complementarios de múltiples longitudes de onda.\nCon ellos, pudieron establecer que el remanente de supernova llamado G189.6+3.3, descubierto recientemente, ocupa el mismo entorno físico que IC 443, lo que indica que ambos existen muy cerca y aproximadamente a la misma distancia de la Tierra. Este hallazgo tiene el potencial de aportar nuevos conocimientos sobre nuestra comprensión de los sistemas estelares tanto de supernovas como de sistemas binarios.\nLos remanentes de supernova son nubes de escombros en expansión que quedan tras una supernova (explosión estelar). Si bien se conocen cientos de estos restos en nuestra galaxia, identificar las relaciones entre ellos es difícil, especialmente en las regiones densamente pobladas de la Vía Láctea.\nUn ejemplo bien estudiado es IC 443, un remanente ubicado en la constelación de Géminis, a unos 6 000 años luz de la Tierra. Se encuentra cerca de otras estructuras astronómicas y dentro de una compleja nube de gas y polvo, lo que dificulta el estudio de la región circundante.\nLas estimaciones de edad sugieren que la estrella progenitora de G189.6+3.3 explotó entre 20 y 100 000 años antes de la explosión que creó IC 443. La validación de estas mediciones mediante análisis estadísticos y simulaciones sugiere que es muy improbable que esta configuración sea una alineación casual, lo que indica que las dos estrellas que precedieron a estos remanentes nacieron juntas en un sistema binario."
+  },
+  "sha256": {
+    "titular": "9a5bcc9e126dc7e67faa61124951fe6124502e3574f820e6c1566cfe96b9c1d2",
+    "entradilla": "211b9a1c2e8cd22fa520516ca15968d0af97ac9be7028834a6d49cedbbaaa185",
+    "cuerpo": "77a4589a7fb5714acb6127788f0922c659d328275941ab05b7addd2e6c3d197b"
+  }
+}

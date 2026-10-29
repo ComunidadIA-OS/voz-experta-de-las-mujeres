@@ -1,0 +1,26 @@
+{
+  "id": "fde004a8f9c8",
+  "url": "https://www.agenciasinc.es/Noticias/Desvelan-el-mecanismo-que-permite-a-una-de-las-bacterias-hospitalarias-mas-peligrosas-causar-infecciones",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-21T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: IQF-CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Epidemiología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:11+00:00",
+  "campos": {
+    "titular": "Desvelan el mecanismo que permite a una de las bacterias hospitalarias más peligrosas causar infecciones",
+    "entradilla": "Un equipo internacional liderado por el CSIC ha descubierto la estructura molecular que hace de ‘despertador’ de Clostridioides difficile y activa la germinación de sus esporas desencadenando las infecciones. El hallazgo podría permitir la formulación de nuevos fármacos.",
+    "cuerpo": "Una investigación liderada por un equipo de investigadores del Instituto de Química Física Blas Cabrera (IQF-CSIC) y la Universidad de Notre Dame (Estados Unidos) ha descrito por primera vez la maquinaria que permite a la bacteria Clostridioides difficile causar infecciones.\nEl trabajo, publicado en la revista Nature Communications, aporta una visión sin precedentes de los mecanismos que le permiten abandonar su estado latente y transformarse en una célula infecciosa. Esto podría llevar a nuevos fármacos contra esta bacteria, una de las principales amenazas infecciosas asociadas a hospitales y al uso de antibióticos.\nClostridioides difficile es una bacteria considerada de las más peligrosas que causa infección del colon. Los síntomas pueden incluir desde diarrea hasta colitis potencialmente mortales. Las personas son más propensas a sufrir una infección por C. diff mientras toman antibióticos, poco después de tomarlos o si tienen el sistema inmunitario debilitado. Desafortunadamente, tiene una incidencia cada vez mayor y es responsable de cientos de miles de hospitalizaciones cada año.\nSu éxito como patógeno se debe en gran medida a la capacidad de formar esporas extremadamente resistentes, capaces de sobrevivir durante largos periodos en el ambiente y resistir a antibióticos y procedimientos habituales de desinfección. Una vez que germinan, la forma vegetativa de C. diff coloniza e inflama los intestinos, provocando una diarrea grave.\nSin embargo, para iniciar la infección, estas esporas deben detectar determinadas señales químicas presentes en el intestino y activar el complejo proceso de germinación. Hasta ahora se desconocía cómo ocurría este paso crítico.\n“Por primera vez hemos podido visualizar la maquinaria molecular que reconoce la señal química que desencadena la germinación de las esporas de C. difficile”, nos explica Juan Hermoso, autor del estudio e investigador del IQF-CSIC. Este trabajo combina aproximaciones de biología estructural, biofísica y microscopía crioelectrónica para desentrañar la base de este proceso.\nSi las esporas no pueden activarse, la bacteria no alcanza el estado vegetativo responsable de la producción de toxinas y del desarrollo de la enfermedad. “Impedir la germinación de las esporas constituye una estrategia terapéutica especialmente atractiva”, explica Hermoso.\nEl estudio demuestra que una proteína denominada CspA actúa como receptor directo del taurocolato, una sal biliar presente en el intestino humano que funciona como señal para que la espora comience a germinar.\nMediante una combinación de cristalografía de rayos X, microscopía crioelectrónica de alta resolución y técnicas biofísicas avanzadas, los investigadores determinaron la estructura tridimensional de las proteínas CspA, CspB y CspC, así como del complejo formado por CspA y CspC unido al taurocolato.\n“Las estructuras obtenidas permiten plantear estrategias racionales para desarrollar moléculas que interfieran en la activación de las esporas antes de que la bacteria pueda causar daño”, señala Martín Alcorlo, coautor del estudio, también investigador del IQF-CSIC.\nLos resultados revelan que CspA y CspC forman un complejo extremadamente estable que reconoce la molécula señal mediante varios sitios de unión específicos. “La identificación de los sitios de reconocimiento del taurocolato proporciona nuevas dianas moleculares para el diseño de compuestos capaces de bloquear este proceso y prevenir el inicio de la infección”, concluye Hermoso. Este hallazgo permite comprender, a nivel atómico, cómo las esporas detectan que han alcanzado un entorno adecuado para convertirse en bacterias activas."
+  },
+  "sha256": {
+    "titular": "6a3ee5b048d792f2ebaefa109921fdf5500a4795f0946c8377671c0e461e229e",
+    "entradilla": "b9e99bf43302431be2d15f945403c6c24c5200ecdc81a58e35885beb6a680420",
+    "cuerpo": "445ae7be1eecd57f1c6a20c4716f2285c6d02767a62bc935a9202bc6c6132780"
+  }
+}

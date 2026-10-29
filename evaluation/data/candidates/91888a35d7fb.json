@@ -1,0 +1,26 @@
+{
+  "id": "91888a35d7fb",
+  "url": "https://www.agenciasinc.es/Noticias/El-Hospital-12-de-Octubre-desarrolla-mascarillas-nasales-en-3D-para-ayudar-a-respirar-a-bebes-prematuros",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-09-02T10:45:00+02:00",
+  "fuente_y_derechos": "Fuente: Hospital 12 de Octubre | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:34:44+00:00",
+  "campos": {
+    "titular": "El Hospital 12 de Octubre desarrolla mascarillas nasales en 3D para ayudar a respirar a bebés prematuros",
+    "entradilla": "Un ensayo clínico evalúa estas mascarillas personalizadas para mejorar la ventilación no invasiva de bebés prematuros de menos de 1 500 gramos. El estudio analizará si permiten mantener más estables los niveles de oxígeno y reducir las lesiones asociadas a los dispositivos convencionales.",
+    "cuerpo": "El Hospital Universitario 12 de Octubre de Madrid ha desarrollado mascarillas nasales personalizadas mediante impresión 3D para bebés prematuros que necesitan ayuda para respirar. La tecnología está pensada sobre todo para los recién nacidos de menor peso, en los que incluso las tallas comerciales más pequeñas pueden resultar demasiado grandes.\nEl proyecto forma parte de un ensayo clínico financiado por el Instituto de Salud Carlos III que estudiará la eficacia, la seguridad y el impacto clínico de estas mascarillas en la ventilación no invasiva.\nUno de los principales objetivos es comprobar si los dispositivos personalizados permiten mantener más estables los niveles de oxígeno en sangre que las mascarillas convencionales. Para ello, los investigadores analizarán cuántas veces por hora cae la saturación por debajo del 85 % con cada tipo de mascarilla.\nTambién evaluarán si un mejor ajuste permite transmitir de forma más eficaz el soporte respiratorio y reducir las lesiones en la piel y en el tabique nasal que pueden aparecer con las mascarillas convencionales.\nUn estudio piloto realizado anteriormente en el mismo hospital y publicado en 2022 mostró que las mascarillas personalizadas eran seguras y apuntó a una posible mejora de los parámetros respiratorios. Esos resultados han dado paso al actual ensayo clínico, que permitirá comprobar su funcionamiento en un grupo más amplio de pacientes.\nLa mayoría de los recién nacidos que pesan menos de 1500 gramos, sobre todo aquellos por debajo de los 1 000, necesitan algún tipo de ayuda para respirar. Cuando su estado clínico lo permite, se utiliza ventilación no invasiva, que aporta soporte respiratorio sin necesidad de intubación.\nEl problema es que las mascarillas comerciales más pequeñas, de tallas S y XS, pueden seguir siendo demasiado grandes para los bebés prematuros de menor tamaño, especialmente para quienes nacen con menos de 750 gramos.\nLas mascarillas personalizadas se diseñan para ajustarse a la anatomía facial concreta de cada recién nacido. Un mejor encaje puede favorecer la transmisión del soporte respiratorio y reducir la presión sobre zonas especialmente delicadas de la nariz y la piel.\nEn el Servicio de Neonatología del 12 de Octubre nacen cada año entre 100 y 120 niños con un peso inferior a 1 500 gramos. Aproximadamente 20 pesan menos de 750 gramos y algunos pueden llegar a nacer con apenas 500.\nEl proceso comienza con un escaneado tridimensional de la cara del bebé, una técnica indolora que se realiza con protección ocular. Siempre que es posible, el escaneado se lleva a cabo mientras el prematuro permanece en contacto con sus padres mediante el método canguro o dentro de la incubadora.\nCon ese modelo digital, los ingenieros de la Unidad de Tecnologías Avanzadas en Diseño e Impresión 3D del hospital diseñan la mascarilla y fabrican un molde personalizado mediante impresión 3D.\nEl molde se utiliza después para producir la mascarilla definitiva mediante la inyección de una silicona biocompatible para uso clínico. Antes de colocársela al bebé, el dispositivo se desinfecta y esteriliza con luz ultravioleta.\nDesde el escaneado de la cara hasta la fabricación final transcurren actualmente entre tres y siete días. Este plazo permite elaborar nuevas mascarillas a medida que cambia la anatomía de los bebés durante sus primeras semanas de vida."
+  },
+  "sha256": {
+    "titular": "6e8411de1c529b3e1cfa10a15407896e99a98010811f3980885e72992a1a882a",
+    "entradilla": "4ec808958f21d4b29b133038cd7e86f4b204c6a915270e76c1cf38ae6f39b23d",
+    "cuerpo": "269f8d061003fbf01404e734ec7ede8b0d2f1e988d6b5f68993dfbfe06aa4e4a"
+  }
+}

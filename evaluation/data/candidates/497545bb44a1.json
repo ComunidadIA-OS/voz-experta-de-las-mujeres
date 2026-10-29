@@ -1,0 +1,26 @@
+{
+  "id": "497545bb44a1",
+  "url": "https://www.agenciasinc.es/Noticias/El-Ministerio-de-Ciencia-lanza-un-visor-web-para-localizar-y-disfrutar-del-eclipse-solar-con-seguridad",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-06T12:30:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:40:14+00:00",
+  "campos": {
+    "titular": "El Ministerio de Ciencia lanza un visor web para localizar y disfrutar del eclipse solar con seguridad",
+    "entradilla": "La plataforma facilita la planificación de la observación al mostrar la posición del Sol y ayudar a elegir un emplazamiento sin obstáculos, tanto cerca del lugar de residencia como del destino de vacaciones.",
+    "cuerpo": "El Ministerio de Ciencia, Innovación y Universidades (MICIU), en colaboración con la Fundación Española para la Ciencia y la Tecnología (FECYT), ha lanzado hoy un visor web. La herramienta accesible e inclusiva ayuda a localizar el mejor sitio posible para ver el eclipse solar del próximo 12 de agosto desde el lugar donde cada uno esté en el momento de este hito histórico.\nCon el objetivo de evitar desplazamientos y hacer más accesible a la población el eclipse total solar del próximo 12 de agosto, la aplicación online facilita que las personas puedan buscar el mejor sitio, próximo a su lugar de residencia o de vacaciones, donde acudir con familiares y amistades a disfrutar de este hito histórico, y así prevenir desplazamientos innecesarios hacia zonas saturadas, con los consiguientes problemas de tráfico.\nEl visor cumple con los estándares de accesibilidad gracias a su diseño inclusivo analizado con la herramienta TAW (Test de Accesibilidad Web) de referencia para la Administración Pública. También garantiza el standard WCAG 2.1 nivel AA, y permite la legibilidad bajo condiciones lumínicas extremas y la navegación asistida para que personas con visión reducida o ceguera puedan usar la herramienta gracias a su función auditiva y multisensorial. Además, es de alcance global con el soporte en español y en inglés para permitir que las instrucciones de seguridad lleguen tanto a la población residente como visitante.\nEste desarrollo pretende dar respuesta a las necesidades de la sociedad en general, que busca información clara e inmediata sobre si podrá ver el eclipse desde su ubicación exacta. También está pensado para los ayuntamientos y administraciones locales, que necesitan ubicar posibles puntos de observación y garantizar la seguridad de su población. Por último, beneficiará al sector turístico y hostelería que demanda un servicio oficial que confirme si su zona es apta para la observación.\nLa Comisión Interministerial para el Trío de Eclipses ha trabajado para mitigar la incertidumbre geográfica y el riesgo logístico a través del diseño de esta herramienta accesible directamente desde cualquier navegador móvil o mediante el escaneo de un código QR. Asimismo, se ha priorizado la privacidad del usuario por defecto con un acceso sin registro, lo que facilitará su adopción masiva y fluida tanto en los días previos al evento del 12 de agosto, como el propio día del Eclipse Solar Total.\nLa Península Ibérica será el mejor lugar del mundo donde podrá disfrutarse el Eclipse Total Solar el próximo 12 de agosto, el primero de estas características que se puede ver en nuestro país desde hace más de 100 años, en concreto en 1912. Se trata del primero del Trío de Eclipses que se sucederán en España en 2026, 2027 y 2028, y representa un hito astronómico y social de una magnitud histórica.\nSin embargo, su observación plantea retos críticos que la administración debe liderar, ya que tendrá lugar cuando el Sol esté muy cerca del horizonte con una baja altitud (entre 2,5 y 12 grados), limitando los lugares desde donde se puede observar a aquellos con una vista completamente despejada en dirección oeste-noroeste.\nEl Gobierno de España, a través del Ministerio de Ciencia, Innovación y Universidades (MICIU) en colaboración con la Fundación Española para la Ciencia y la Tecnología (FECYT), también ha puesto al servicio de la ciudadanía la web www.trioeclipses.es. Este portal ofrece información útil para la ciudadanía, los medios de comunicación, la comunidad científica y los organismos colaboradores."
+  },
+  "sha256": {
+    "titular": "07ce81ea370d2abe69bc71f8f67245c4397020ed2879f056f36c6b44ac62b12d",
+    "entradilla": "1af4502bc120a47cd4abb0c47e3a08b419a2e38f7a5fc6ac93d1c3c06557809f",
+    "cuerpo": "0ac52c17f251328712b53740e1bf375ea5f956348c8e8416876d71a7cf95d1ad"
+  }
+}

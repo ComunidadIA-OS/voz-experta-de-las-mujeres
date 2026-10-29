@@ -1,0 +1,179 @@
+{
+  "article_id": "2cd3d64e06fc",
+  "url": "https://www.agenciasinc.es/Noticias/La-carrona-influye-sobre-la-ecologia-las-epidemias-y-la-evolucion-humana",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T11:00:18+00:00",
+  "article_sha256": {
+    "titular": "535454b4af6bbad629463a1e333c05ed471f44d3d2fb0cc2f3341dcabded0d40",
+    "entradilla": "852bcb27294d56c280ed9fafa605c1fa41823f2c684e91e9e58b6a5e5e6d9911",
+    "cuerpo": "5253e83bf9022c9e1620c25ca6416d89a9f5b502b421a1e1e2d6e9f5e070fdda"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Marcos Moleón",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "profesor del Departamento de Zoología de la UGR e investigador de este trabajo.",
+      "gender_representation": "man",
+      "gender_evidence": "profesor",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Eneko Arrondo",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigador de la Universidad de Granada que coordina este trabajo",
+      "gender_representation": "man",
+      "gender_evidence": ", investigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La ecología de la carroña aporta nuevas herramientas para interpretar yacimientos arqueológicos y fósiles, comprender la evolución de los animales y replantear algunas hipótesis sobre el consumo de carne por parte de los primeros humanos”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Los cadáveres animales generan puntos de concentración de nutrientes, organismos e interacciones biológicas que influyen fuertemente en la estructura y el funcionamiento de los ecosistemas terrestres y acuáticos”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Estamos descubriendo que muchos procesos ecológicos no pueden comprenderse plenamente si se ignora el papel de la carroña”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793120323828",
+        "nombre": "Marcos Moleón",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1033,
+            "fin16": 1046,
+            "texto": "Marcos Moleón",
+            "inicio": 1033,
+            "fin": 1046
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1048,
+          "fin16": 1056,
+          "texto": "profesor",
+          "inicio": 1048,
+          "fin": 1056
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2989,
+            "fin16": 3229,
+            "texto": "“La ecología de la carroña aporta nuevas herramientas para interpretar yacimientos arqueológicos y fósiles, comprender la evolución de los animales y replantear algunas hipótesis sobre el consumo de carne por parte de los primeros humanos”,",
+            "tipo": "directa",
+            "inicio": 2989,
+            "fin": 3229
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 810,
+            "fin16": 1024,
+            "texto": "“Los cadáveres animales generan puntos de concentración de nutrientes, organismos e interacciones biológicas que influyen fuertemente en la estructura y el funcionamiento de los ecosistemas terrestres y acuáticos”,",
+            "tipo": "directa",
+            "inicio": 810,
+            "fin": 1024
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1048,
+          "fin16": 1127,
+          "texto": "profesor del Departamento de Zoología de la UGR e investigador de este trabajo.",
+          "inicio": 1048,
+          "fin": 1127
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793120360278",
+        "nombre": "Eneko Arrondo",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2139,
+            "fin16": 2152,
+            "texto": "Eneko Arrondo",
+            "inicio": 2139,
+            "fin": 2152
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2152,
+          "fin16": 2166,
+          "texto": ", investigador",
+          "inicio": 2152,
+          "fin": 2166
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2006,
+            "fin16": 2129,
+            "texto": "“Estamos descubriendo que muchos procesos ecológicos no pueden comprenderse plenamente si se ignora el papel de la carroña”",
+            "tipo": "directa",
+            "inicio": 2006,
+            "fin": 2129
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2154,
+          "fin16": 2221,
+          "texto": "investigador de la Universidad de Granada que coordina este trabajo",
+          "inicio": 2154,
+          "fin": 2221
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 113
+  }
+}

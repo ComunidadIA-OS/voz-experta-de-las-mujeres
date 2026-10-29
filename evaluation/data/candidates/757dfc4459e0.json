@@ -1,0 +1,26 @@
+{
+  "id": "757dfc4459e0",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-una-onda-decagonal-alrededor-del-polo-sur-de-Saturno",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-09-03T10:24:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:34:37+00:00",
+  "campos": {
+    "titular": "Descubren una onda decagonal alrededor del polo sur de Saturno",
+    "entradilla": "Con imágenes de la sonda Voyager en los años 80, se halló una onda atmosférica hexagonal en el polo norte de Saturno. Décadas después, un equipo liderado por la Universidad del País Vasco ha encontrado una onda decagonal en el polo sur del planeta.",
+    "cuerpo": "A diferencia de la atmósfera de la Tierra, en constante cambio, muchas de las espectaculares tormentas y ondas atmosféricas de Saturno se mantienen estables durante décadas o siglos.\nEn imágenes tomadas durante los sobrevuelos de la sonda Voyager en 1980-1981, los investigadores descubrieron una onda atmosférica estable, hexagonal, de gran tamaño y larga duración alrededor del polo norte de Saturno.\nAhora, un equipo internacional dirigido por la Universidad del País Vasco (EHU/UPV) ha descubierto una onda decagonal en el polo sur, gracias a observaciones desde el telescopio espacial Hubble y telescopios terrestres. Los detalles se publican en la revista Science Advances.\nSegún el análisis, el decágono parece haberse desarrollado entre 2023 y 2025 y podría seguir evolucionando, en contraste con los más de 40 años de estabilidad que ha mostrado el hexágono.\nSegún explica Teresa del Río Gaztelurrutia, catedrática en la universidad vasca pero ajena al estudio, las atmósferas de Júpiter y Saturno, planetas gaseosos que giran rápidamente con periodos de aproximadamente 10 horas, se caracterizan por la presencia de rápidos vientos zonales, en dirección paralela al ecuador.\n“El hexágono [que observó la sonda Voyager] resulta visible debido a que un rápido chorro de corriente cercano al polo se desvía meridionalmente formando una onda estable que arrastra con ella a las nubes que trazan el movimiento de los vientos”, dice en declaraciones a SMC España.\nEn el nuevo trabajo se muestra cómo, desde 2023, una estructura análoga ha aparecido en la zona subpolar del hemisferio sur, esta vez en forma de decágono. En este caso, las longitudes de los vértices del decágono oscilan en un período de 32 días, y sus movimientos sugieren que la forma de diez lados podría ser una onda serpenteante atrapada por la curvatura de una corriente atmosférica dominante.\nPara el trabajo, el equipo utilizó simulaciones con modelos de aguas poco profundas del decágono para conocer mejor la mecánica que subyace a su origen, y concluyeron que podría haberse creado a raíz de una perturbación espacialmente periódica en el pico de la corriente en chorro o impulsado por un vórtice anticiclónico situado al norte, posiblemente una Mancha Roja cercana.\n“Estas propiedades del movimiento del decágono indican la existencia de un comportamiento dinámico complejo, nunca observado en el hexágono, lo que lo convierte en un tema que merece atención en el futuro”, dicen los autores en un comunicado.\nPara Del Río, el trabajo proporciona nuevas claves “para entender por qué los gigantes gaseosos tienden a sostener estructuras periódicas en sus regiones polares”.\n“Futuras observaciones nos permitirán conocer si el decágono generado ahora es tan estable como el hexágono en el norte. En cualquier caso, de momento este estudio abre el camino a nuevos análisis que nos permitirán comprender mejor la interesante dinámica de estas atmósferas”, concluye la investigadora."
+  },
+  "sha256": {
+    "titular": "dce9572ced3e4da49eaef46a0ae47c48c923f7ec1b72e1b6fd6a4f18818a1486",
+    "entradilla": "000be7caf23d96bf9e24fa4c81e4cf9dddd480e157d80a5f9beb64c3a82201f7",
+    "cuerpo": "00cbeaf33704c7e3f445276c230ad02254fe71bfcf3230f1fc9ae249aef6ac29"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "article_id": "c37f07811c3a",
+  "url": "https://www.agenciasinc.es/Noticias/El-sabor-del-cafe-ya-puede-medirse-con-precision-molecular",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:26+00:00",
+  "article_sha256": {
+    "titular": "8449788573aefb3963891596470196204bf319f6a2adc9695e526e65cff46099",
+    "entradilla": "8b5cbff23704d92d47683173e140ecfce95232fba0ae383a3a55bb3eecf78330",
+    "cuerpo": "6aa438088e0cfa9ce52bce5d46e4b597406cce1fc405c32bd19c82e8561369ad"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Christopher Hendon",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "el primer autor del estudio e investigador de la universidad estadounidense",
+      "gender_representation": "man",
+      "gender_evidence": "autor",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "la voltamperometría cíclica es una técnica en la que se emplea una fuente de alimentación eléctrica para aplicar un voltaje controlado y medir la corriente que pasa por el circuito.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Al aplicarse en el café, las diferentes partículas reaccionaron a los voltajes y permitieron separar las distintas familias moleculares. Dado que la diferencia de sabores procedía de la composición, la respuesta eléctrica fue sensible a cambios mínimos en las moléculas que le conferían ese sabor concreto”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Según explica Hendon, el sentido del gusto se describe como la interacción de las moléculas con los receptores de la lengua, por lo que, en el caso del café, su composición química dependerá tanto del tipo de tostado y como de su preparación.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“El tueste afectará a las moléculas disponibles que contiene el grano, y el método determinará si dichas partículas terminan por disolverse en el agua”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "No existe algo así como la ‘taza de café perfecta’”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "Lo que hemos descubierto es que podemos reproducir el sabor de una taza concreta. Así, si encontramos uno que nos guste, podremos recrearlo y disfrutarlo de nuevo”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Por eso nuestra herramienta y técnica son tan valiosas: nos permiten expresar numéricamente el sabor del café al cuantificar las similitudes y diferencias que se derivan de los dos factores principales que determinan su palatabilidad: la concentración y el color del tueste”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“A corto plazo, esperamos que esto marque la diferencia en cafeterías y en la industria del café”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "Este es el primer paso para comprender por qué disfrutamos tanto del café con una precisión a nivel molecular”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793122982088",
+        "nombre": "Christopher Hendon",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 906,
+            "fin16": 924,
+            "texto": "Christopher Hendon",
+            "inicio": 906,
+            "fin": 924
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 839,
+          "fin16": 844,
+          "texto": "autor",
+          "inicio": 839,
+          "fin": 844
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 926,
+            "fin16": 1107,
+            "texto": "la voltamperometría cíclica es una técnica en la que se emplea una fuente de alimentación eléctrica para aplicar un voltaje controlado y medir la corriente que pasa por el circuito.",
+            "tipo": "indirecta",
+            "inicio": 926,
+            "fin": 1107
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1108,
+            "fin16": 1416,
+            "texto": "“Al aplicarse en el café, las diferentes partículas reaccionaron a los voltajes y permitieron separar las distintas familias moleculares. Dado que la diferencia de sabores procedía de la composición, la respuesta eléctrica fue sensible a cambios mínimos en las moléculas que le conferían ese sabor concreto”,",
+            "tipo": "directa",
+            "inicio": 1108,
+            "fin": 1416
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2213,
+            "fin16": 2455,
+            "texto": "Según explica Hendon, el sentido del gusto se describe como la interacción de las moléculas con los receptores de la lengua, por lo que, en el caso del café, su composición química dependerá tanto del tipo de tostado y como de su preparación.",
+            "tipo": "indirecta",
+            "inicio": 2213,
+            "fin": 2455
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2456,
+            "fin16": 2608,
+            "texto": "“El tueste afectará a las moléculas disponibles que contiene el grano, y el método determinará si dichas partículas terminan por disolverse en el agua”,",
+            "tipo": "directa",
+            "inicio": 2456,
+            "fin": 2608
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3045,
+            "fin16": 3097,
+            "texto": "No existe algo así como la ‘taza de café perfecta’”,",
+            "tipo": "directa",
+            "inicio": 3045,
+            "fin": 3097
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3115,
+            "fin16": 3279,
+            "texto": "Lo que hemos descubierto es que podemos reproducir el sabor de una taza concreta. Así, si encontramos uno que nos guste, podremos recrearlo y disfrutarlo de nuevo”.",
+            "tipo": "directa",
+            "inicio": 3115,
+            "fin": 3279
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3303,
+            "fin16": 3579,
+            "texto": "“Por eso nuestra herramienta y técnica son tan valiosas: nos permiten expresar numéricamente el sabor del café al cuantificar las similitudes y diferencias que se derivan de los dos factores principales que determinan su palatabilidad: la concentración y el color del tueste”.",
+            "tipo": "directa",
+            "inicio": 3303,
+            "fin": 3579
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4817,
+            "fin16": 4915,
+            "texto": "“A corto plazo, esperamos que esto marque la diferencia en cafeterías y en la industria del café”,",
+            "tipo": "directa",
+            "inicio": 4817,
+            "fin": 4915
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4987,
+            "fin16": 5098,
+            "texto": "Este es el primer paso para comprender por qué disfrutamos tanto del café con una precisión a nivel molecular”.",
+            "tipo": "directa",
+            "inicio": 4987,
+            "fin": 5098
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 829,
+          "fin16": 904,
+          "texto": "el primer autor del estudio e investigador de la universidad estadounidense",
+          "inicio": 829,
+          "fin": 904
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 85
+  }
+}

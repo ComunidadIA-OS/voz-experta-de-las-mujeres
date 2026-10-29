@@ -1,0 +1,26 @@
+{
+  "id": "a85eaeefc0f7",
+  "url": "https://www.agenciasinc.es/Noticias/La-OMS-publica-una-guia-global-sobre-el-uso-de-medicamentos-GLP-1-para-tratar-la-obesidad",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-02T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: OMS | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Farmacología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:56+00:00",
+  "campos": {
+    "titular": "La OMS publica una guía global sobre el uso de medicamentos GLP-1 para tratar la obesidad",
+    "entradilla": "Por primera vez, la Organización Mundial de la Salud ha emitido recomendaciones sobre el uso de terapias basadas en péptido similar al glucagón tipo 1 para tratar la obesidad como una enfermedad crónica y recurrente en adultos.",
+    "cuerpo": "Más de mil millones de personas viven con obesidad en todo el mundo, una condición que causó 3,7 millones de muertes en 2024 y cuyo impacto económico podría alcanzar los 3 billones de dólares anuales en 2030.\n“La obesidad es un gran desafío global que la OMS está comprometida a abordar apoyando a países y personas para controlarla de manera efectiva y equitativa. Nuestra nueva guía reconoce que se trata de una enfermedad crónica que puede tratarse con cuidados integrales y de por vida”, afirmó el director general de la organización Tedros Adhanom Ghebreyesus.\n“Aunque la medicación por sí sola no resolverá esta crisis sanitaria, las terapias GLP-1 pueden ayudar a millones a superar la obesidad y reducir sus daños asociados”, señaló\nLa OMS incluyó en septiembre las terapias GLP-1 en su Lista de Medicamentos Esenciales para la diabetes tipo 2 en grupos de alto riesgo. Ahora, el organismo emite dos recomendaciones condicionales: por un lado, que estos fármacos puedan utilizarse en adultos —excepto embarazadas— para el tratamiento prolongado de la obesidad, dado que su eficacia para reducir peso y mejorar parámetros metabólicos es evidente, aunque persisten dudas sobre seguridad y mantenimiento a largo plazo, costes elevados, preparación insuficiente de los sistemas sanitarios y posibles implicaciones de equidad.\nPor otro, que se ofrezcan intervenciones conductuales intensivas, como dietas saludables y actividad física estructurada, junto con GLP-1, ya que la evidencia, aunque limitada, sugiere que mejora los resultados del tratamiento.\nLa OMS subraya que los fármacos no bastan para revertir la epidemia de obesidad, que requiere una estrategia integral basada en tres pilares: crear entornos más saludables mediante políticas poblacionales robustas para prevenir la obesidad, proteger a personas con alto riesgo mediante cribados y acciones tempranas, y garantizar acceso a cuidados personalizados y continuos.\nEl organismo advierte que, sin políticas deliberadas, el acceso a GLP-1 podría agravar desigualdades sanitarias. Incluso con una rápida expansión de la producción, se estima que en 2030 menos del 10 % de quienes podrían beneficiarse tendrán acceso. Por ello, la OMS insta a considerar mecanismos como compras conjuntas, precios escalonados y licencias voluntarias.\nLa guía, elaborada tras consultas con expertos y personas con experiencia directa, forma parte del plan acelerador para frenar la obesidad y se actualizará conforme surja nueva evidencia. En 2026, la OMS trabajará con socios para definir un marco transparente que priorice a quienes más lo necesitan."
+  },
+  "sha256": {
+    "titular": "c2f852545ab8ce3e308fec3a7cb332d938bd0e2db63240747ab97ee7e7e3b5da",
+    "entradilla": "a45f8760ecad4ed401d9a2ef8666b39572ce679e54ce60ee7ac31f4e4fc6ea8c",
+    "cuerpo": "7c2cdda6a23873e17186ea1544e2cad12b0b5f93ee5599a168fb7ccec26ddddf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4713b253cb8c",
+  "url": "https://www.agenciasinc.es/Noticias/Si-los-arboles-compiten-por-la-luz-como-sobreviven-los-mas-pequenos-en-los-bosques",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-08T12:56:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:39:56+00:00",
+  "campos": {
+    "titular": "Si los árboles compiten por la luz, ¿cómo sobreviven los más pequeños en los bosques?",
+    "entradilla": "En las masas forestales más viejas no solo influye la altura de estos ejemplares vegetales, sino también la eficiencia en el uso de la luz. Un nuevo estudio nipón explica por qué algunos árboles pequeños pueden vivir a la sombra de las especies más grandes.",
+    "cuerpo": "El tamaño sí que importa, al menos en los bosques. Los árboles más altos son los que tienen acceso a una mayor cantidad de luz solar, por lo que la sombra se convierte en un entorno inhóspito para la vegetación más pequeña. No obstante, un nuevo estudio, publicado en Journal of Ecology, revela que en los conjuntos más antiguos pueden existir especies más tolerantes a la falta de luz.\nInvestigadores de la Universidad de Kioto (Japón) han acometido el reto de comprender cómo coexisten árboles de distintas alturas en los bosques maduros. Para ello, tuvieron que cuantificar la competencia por la luz entre los especímenes aunque sus complejas estructuras dificultaran su evaluación.\nSegún explica el primer autor del estudio e investigador de la institución nipona, Yusuke Onoda, la competencia por la luz entre los árboles se suele describir como una carrera armamentística evolutiva, “pero en los bosques maduros conviven con éxito árboles de tamaños muy diferentes”, puntualiza.\nEl equipo optó por analizar la tasa de crecimiento relativa de los árboles –la velocidad a la que crecen en relación con su tamaño– y la dividió en dos factores importantes: la eficiencia de interceptación de la luz y su capacidad de uso. Para poner a prueba su experimento, los expertos cartografiaron las formas de las copas y los perfiles de luz en 3D de cada árbol en 12 parcelas forestales de diversas edades, lo que supuso un total de 2 000 árboles individuales de 50 especies distintas.\nLos resultados mostraron cómo la competencia por la luz impulsa de forma cuantitativa la sucesión forestal. En los bosques más jóvenes, los árboles más altos tienen una mayor ventaja en la captura de luz, lo que obliga a una rápida estratificación por altura. Sin embargo, en las masas más viejas las plantas pequeñas son tolerantes a la sombra gracias a que su consumo de la luz es más eficiente, lo que les permite prosperar.\nEste estudio desvela los mecanismos ocultos de la sucesión forestal y ofrece nuevas perspectivas sobre cómo los árboles hacen frente a la competencia por la luz. Además, establecen un nuevo principio que explica cómo cambian los bosques a lo largo del tiempo. Ahora, los investigadores están aplicando este enfoque a otros parajes forestales de diferentes edades y zonas climáticas."
+  },
+  "sha256": {
+    "titular": "23e4525dcb0d0aa44ed0267563123db399e1ab3ba07afbb9ab97198d8b3405c1",
+    "entradilla": "e60d9077862edd10eb0584e048b6be800b4c84cfc08b952b8e1e76b2737f6167",
+    "cuerpo": "adbf73b88b981fe7186d27bd3b67a6c4bd11892ae2b93ac6bae6ab08ff718519"
+  }
+}

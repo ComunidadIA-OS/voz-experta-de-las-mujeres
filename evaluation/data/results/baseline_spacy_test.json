@@ -1,0 +1,23 @@
+{
+  "annotator": "Elena",
+  "group": "test",
+  "articles": 40,
+  "spacy_model": "es_core_news_md",
+  "spacy_seconds_per_article": 0.12,
+  "detection": {
+    "spaCy": {
+      "found": 62,
+      "missed": 3,
+      "extra": 61,
+      "women": 20,
+      "women_found": 19
+    },
+    "LLM": {
+      "found": 65,
+      "missed": 0,
+      "extra": 6,
+      "women": 20,
+      "women_found": 20
+    }
+  }
+}

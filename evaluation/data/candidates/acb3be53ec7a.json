@@ -1,0 +1,26 @@
+{
+  "id": "acb3be53ec7a",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-un-mecanismo-clave-que-impulsa-la-metastasis-en-el-cancer",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-02T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: CIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Patología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:58+00:00",
+  "campos": {
+    "titular": "Descubren un mecanismo clave que impulsa la metástasis en el cáncer",
+    "entradilla": "Un estudio aporta evidencias sobre cómo la pérdida de una proteína llamada ZC3H13 favorece la metástasis de las células tumorales, lo que agrava el avance de la enfermedad en cáncer de próstata, vejiga, cérvix, y útero, entre otros.",
+    "cuerpo": "Un equipo del Centro de Investigación del Cáncer (Universidad de Salamanca-CSIC-FICUS) ha identificado un nuevo regulador crítico en la progresión metastásica del cáncer. El avance, publicado recientemente en la revista Cancer Research, aporta una comprensión más profunda de las modificaciones del ADN y del ARN en el cáncer metastásico. Los resultados permitirán futuras terapias dirigidas que puedan mejorar los resultados clínicos en pacientes con cáncer de próstata avanzado.\nEn concreto, en esta investigación demostró que la proteína ZC3H13 forma parte de un complejo de las células cancerosas que se encarga de añadir pequeñas marcas químicas sobre el ARN mensajero (que lleva instrucciones copiadas del ADN para fabricar proteínas). Cuando ZC3H13 se pierde, esta marca (llamada metilación m6A) disminuye en ciertos ARN mensajeros.\nComo resultado, esos mensajes se vuelven más estables y por tanto se expresan más en estas células. Entre esos mensajeros se ha identificado el que da lugar a la proteína MYB, la cual promueve la movilidad de las células cancerosas que acaban infiltrándose más en otros tejidos, es decir, metastatizan mucho más.\nPor tanto, la ausencia de ZC3H13 disminuye la metilación m6A en ARN mensajeros y favorece que las células tumorales tengan más facilidad para invadir y migrar, lo que ayuda a la formación de metástasis.\nEn muestras de pacientes con cáncer de próstata avanzado y otros tipos como vejiga, útero, cervix y hepatocarcinoma, se ha observado que la pérdida de la proteína ZC3H13 suele presentarse junto con la pérdida de otros genes supresores de tumores importantes, como RB1 y BRCA2. Esta combinación está relacionada con un pronóstico clínico más desfavorable.\nEl equipo ha investigado cómo reducir significativamente el potencial metastásico en células deficientes en ZC3H13. Para ello, ha trabajo con modelos celulares y en modelos animales que permitían restaurar la función de ZC3H13 o aumentar la metilación m6A.\nEspecíficamente, han probado como posible estrategia terapéutica para reducir la formación de metástasis inhibidores ya aprobados por la FDA (el organismo encargado de regular y aprobar medicamentos y otros productos sanitarios en Estados Unidos) que bloquean enzimas que eliminan la metilación m6A. De esta forma, se contrarresta la pérdida que ya ocurre en las células deficientes en ZC3H13.\nEl análisis del gen ZC3H13 se ha realizado con muestras de pacientes con cáncer de próstata avanzado. Además, mediante esta investigación se ha validado la mutación de ZC3H13 en cáncer de vejiga, en cáncer escamoso de cérvix, en hepatocarcinoma y en cáncer de útero. Esta validación puede abrir la posibilidad de extender la relevancia clínica de estos resultados a dichos tumores.\nEste trabajo ha sido posible gracias a la financiación proporcionada por el Ministerio de Ciencia e Innovación de España, la Fundación Científica AECC, la Universidad de Salamanca, la Fundación Memoria de Samuel Solórzano Barruso, y programas de apoyo a la investigación como los planes estratégicos de Castilla y León con fondos europeos, además de becas para formación y movilidad otorgadas por la Junta de Castilla y León y el Ministerio de Ciencia, Innovación y Universidades."
+  },
+  "sha256": {
+    "titular": "2776958d713e16bbe13145618ba429bb811faa31d534e7c63410cbd373966470",
+    "entradilla": "8a449161c057b9be829ed6dedd0594d69cdc48c35bd7e40054979e57f7e999b9",
+    "cuerpo": "d7d1a56dec50018c695e6d341714023560e51478b9bbeed319466151bff22db8"
+  }
+}

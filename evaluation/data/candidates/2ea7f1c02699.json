@@ -1,0 +1,26 @@
+{
+  "id": "2ea7f1c02699",
+  "url": "https://www.agenciasinc.es/Noticias/Observan-el-entrelazamiento-cuantico-entre-particulas-reales-y-virtuales-por-primera-vez",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-01T10:35:00+02:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Física"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:48:43+00:00",
+  "campos": {
+    "titular": "Observan el entrelazamiento cuántico entre partículas ‘reales’ y ‘virtuales’ por primera vez",
+    "entradilla": "Una colaboración internacional ha estudiado el entrelazamiento de bosones Z a partir de la desintegración de un bosón de Higgs gracias al gran colisionador de hadrones. Es la primera vez que se obtiene evidencia del entrelazamiento entre qutrits elementales.",
+    "cuerpo": "Un estudio internacional ha observado por primera vez el entrelazamiento entre partículas reales y virtuales. El experimento ATLAS del CERN ha empleado el gran colisionador de hadrones (LHC) para estudiar el entrelazamiento cuántico de dos bosones Z producidos en el proceso de desintegración de un bosón de Higgs. El equipo investigador que ha liderado el análisis está compuesto por miembros de las universidades de Yale y Michigan (EEUU) y Oxford (Reino Unido), con la participación del Consejo Superior de Investigaciones Científicas (CSIC).\n“Las partículas virtuales son partículas que no cumplen la relación relativista entre masa, energía y momento. Y, por eso, nunca existen de forma real y medible, aunque sus efectos sí que son reales y medibles”, explica Juan Antonio Aguilar Saavedra, investigador del CSIC en el Instituto de Física Teórica (IFT) y participante en el estudio. Bosones W virtuales son, por ejemplo, responsables de las desintegraciones nucleares, que podemos observar aunque nunca podamos medir los bosones virtuales directamente.\nEsta medida de ATLAS también presenta otra novedad única: es la primera vez que se obtiene evidencia del entrelazamiento entre qutrits elementales. Un qutrit es una unidad básica de información cuántica que posee tres estados posibles. Esto permite mayor capacidad de procesamiento y almacenamiento por unidad de lo que posibilita un cúbit (con dos estados).\nLa colaboración ATLAS ha presentado por primera vez evidencia del entrelazamiento cuántico entre partículas reales y virtuales usando datos obtenidos en el gran colisionador de hadrones (LHC). Concretamente, se ha estudiado el entrelazamiento de espín entre dos bosones Z (mediadores de la interacción electrodébil) producidos en la desintegración de un bosón de Higgs. La interacción electrodébil unifica el electromagnetismo y la fuerza nuclear débil, y es responsable por ejemplo de las desintegraciones nucleares.\n“La teoría de la relatividad prohíbe que en una desintegración las partículas finales sumen mayor masa que la partícula inicial. En la desintegración del bosón de Higgs a dos dos bosones Z, uno de ellos debe por tanto tener una ‘masa’ menor que la que le corresponde, y es por tanto virtual”, expone Aguilar.\nLos bosones Z, junto con los bosones W, son las únicas partículas elementales con tres posibles estados de polarización (qutrits). Este estudio, el primero con qutrits, es un paso adelante clave en la investigación de la mecánica cuántica en la frontera de la energía.\nLa desintegración del bosón de Higgs (espín cero) produce dos bosones Z con espines altamente entrelazados. Pero uno de los bosones no es real, y el otro tiene un tiempo de vida media de unos 10-25 segundos. ¿Cómo es posible entonces obtener evidencia de este entrelazamiento de espín?\n“La respuesta es estudiar la huella del entrelazamiento cuántico en los productos finales de desintegración. Ambos bosones se desintegran casi de inmediato dando lugar a parejas de leptones o quarks, que son detectables en el experimento.Concretamente, la colaboración ATLAS ha estudiado las desintegraciones a 4 leptones cargados, electrones o muones. Mediante el análisis de la distribución espacial de estas partículas, es posible inferir las propiedades de los bosones Z que las produjeron, incluido el bosón Z virtual que nunca se podría observar directamente”, señala Aguilar."
+  },
+  "sha256": {
+    "titular": "aee9e73521fd05087d5bcdf7eeaa34c952c58d9aba1dd020dc326d4212108f4f",
+    "entradilla": "c3ec252936b792854f1999b007ba465cd7098cdd15062e19429f0bf095b1d8ca",
+    "cuerpo": "ba8793b0ddcbfa9b9ad7c09b5889a420fca7cf5fa373cb1102ab6122b06c26de"
+  }
+}

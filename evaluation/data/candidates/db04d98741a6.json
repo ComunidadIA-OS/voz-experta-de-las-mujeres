@@ -1,0 +1,26 @@
+{
+  "id": "db04d98741a6",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-como-son-los-sistemas-volcanicos-del-interior-de-Marte",
+  "autoria": "Marcos D. Oliveros",
+  "fecha_publicacion": "2026-06-30T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:41:00+00:00",
+  "campos": {
+    "titular": "Descubren cómo son los sistemas volcánicos del interior de Marte",
+    "entradilla": "Los expertos pensaban que el planeta rojo poseía un vulcanismo mucho más simple que el de la Tierra al carecer de tectónica de placas, pero un nuevo estudio sugiere que tuvo una corteza igual de compleja, lo que pudo influir en la formación de una atmósfera y en su habitabilidad.",
+    "cuerpo": "Investigadores de la Universidad de Oxford han descubierto que Marte albergó sistemas magmáticos similares a los de la Tierra en las profundidades de su superficie a pesar de que el planeta rojo carece de tectónica de placas, una característica que se consideraba necesaria para este tipo de vulcanismo complejo.\nLos hallazgos se han publicado en Nature Astronomy y revelan cómo la geología podría influir en la habitabilidad exoplanetaria.\n“Debido a que Marte carece de una tectónica de placas global se creía que no podía generar composiciones de cortezas tan complejas como las de la Tierra”, cuenta a SINC el primer autor e investigador de la Universidad de Oxford, Tobermory Mackay – Champion. “Nuestro estudio sugiere que este planeta produjo una corteza igual de compleja a través de sistemas magmáticos prolongados”, afirma.\nEl estudio se basó en los datos recogidos por la misión InSight de la NASA para investigar las ondas sísmicas de los impactos de meteoros y los 'martemotos', los equivalentes marcianos a los terremotos en la Tierra.\n“A diferencia de los nuestros –que se generan por el movimiento de las placas tectónicas–, los 'martemotos' ocurren debido al enfriamiento y la contracción del interior marciano”, cuenta el experto. “Hasta el momento, se han medido sismos marcianos de hasta una magnitud de 4,7”, puntualiza.\nDurante su investigación, los expertos utilizaron grabaciones para investigar un misterioso límite geológico a 24 kilómetros por debajo de la superficie del planeta rojo y demostraron que existía una transición entre dos tipos de rocas diferentes.\nEn este sentido, revelaron que las rocas ultramáficas (ricas en hierro y magnesio, pero bajas en sílice) coincidían con las propiedades físicas por debajo del límite de 24 km; mientras que las propiedades por encima eran rocas máficas, con una mayor proporción de este mineral.\nLos expertos creen que Marte acumuló un grueso de residuos de cristales densos en la base de la corteza, mientras que los magmas más ligeros y evolucionados ascendieron a capas más superficiales. Estos procesos también suelen verse en la Tierra bajo los arcos volcánicos y se vinculan a la formación de continentes.\n“Tradicionalmente hemos asumido que el vulcanismo en Marte era simple en comparación con el de la Tierra, pero este hallazgo sugiere que el planeta rojo pudo albergar sistemas grandes y duraderos donde la roca fundida evolucionase y se extendiera a lo largo de toda la corteza”, expone Mackay-Champion. “Esto plantea posibilidades emocionantes sobre la complejidad tectónica de los planetas rocosos más allá del sistema solar”, advierte.\nEl trabajo expone que esta capa se extiende de forma lateral cientos o miles de kilómetros alrededor del hemisferio norte marciano, lo que muestra que el planeta rojo albergó grandes sistemas magmáticos conectados entre sí, en vez de volcanes aislados.\nEste proceso se denomina magmatismo transcortical que, en palabras del experto, describe el movimiento, almacenamiento y evolución del magma a lo largo de la corteza planetaria, lo que influye a cómo estos cuerpos celestes generan atmósferas, océanos y entornos habitables.\nEn la Tierra, por ejemplo, el reciclaje geológico permite regular el clima y favorece el ciclo hídrico. “El vulcanismo libera CO₂, H₂O, SO₂ y otras sustancias volátiles que contribuyen a la formación y al mantenimiento de la atmósfera”, apunta el autor. “En Marte, los sistemas magmáticos antiguos pudieron crear condiciones más favorables para la vida que las que se observan en la actualidad”, opina.\nEstos hallazgos concluyen que los planetas podrían carecer de una tectónica igual a la terrestre para construir cortezas complejas y mantener las condiciones de habitabilidad. Según explica el coautor del trabajo e investigador en la misma institución, Jon Wade, esto resuelve una duda muy importante en la geología exoplanetaria: ¿La Tierra es única?"
+  },
+  "sha256": {
+    "titular": "172b21cacf7062619af32899b76b20ee8f338cbb7e500971a88a883be9f76e0d",
+    "entradilla": "b1dc330ae5bcda3d5639dc77e3b67bbcc2cbc22da3741efd2b823484ccbc32b8",
+    "cuerpo": "8979abe522defc4400337d8b0358f7cef8cf1b0906b31631ba129e13839d9f90"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d0c608a685b4",
+  "url": "https://www.agenciasinc.es/Noticias/Un-genoma-de-alta-calidad-del-jaguar-abre-nuevas-posibilidades-para-su-conservacion",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-09-23T10:16:00+02:00",
+  "fuente_y_derechos": "Fuente: CNAG | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:33:10+00:00",
+  "campos": {
+    "titular": "Un genoma de alta calidad del jaguar abre nuevas posibilidades para su conservación",
+    "entradilla": "El mayor felino de América cuenta ahora con un mapa genético a escala cromosómica que permitirá estudiar con mayor precisión sus poblaciones, afectadas por la pérdida de hábitat y la actividad humana.",
+    "cuerpo": "La lucha por evitar la extinción de los grandes felinos salvajes es una historia muy conocida en nuestro país, aunque en esta ocasión nos hace viajar a otro continente. Como todos sabemos, los recursos genómicos ayudaron a la conservación del lince ibérico, especie endémica de España que estuvo al borde de la extinción. Ahora, es el momento de aplicar estrategias similares en el continente americano para la conservación del jaguar.\nY es que, a pesar de que el felino es un gran depredador, la pérdida de su hábitat ha provocado un descenso de sus poblaciones y ha llevado a la especie a ser clasificada como “Casi Amenazada” en la Lista Roja de la UICN. En respuesta a esta situación, el Centro Nacional de Análisis Genómico (CNAG) en colaboración con el Barcelona Supercomputing Center (BSC), el IRB Barcelona y el Institute of Biology and Experimental Medicine (IBYME-CONICET, Argentina) han generado un genoma de referencia mejorado de la Panthera onca, que constituye un recurso valioso para la gestión de la especie y su conservación.\nEl nuevo ensamblaje y anotación del genoma del jaguar a escala cromosómico, con el 99,85 % de la secuencia asignada a los cromosomas y 25 267 genes codificantes de proteínas, se han publicado en BMC Genomic Data. El estudio, liderado por Toni Gabaldón, investigador ICREA en el Barcelona Supercomputing Center-Centro Nacional de Supercomputación (BSC-CNS) y el IRB Barcelona, ha contado con las plataformas de secuenciación de CNAG y con la experiencia de su Unidad de Secuenciación, dirigida por Marta Gut, y del equipo de Ensamblaje y Anotación del Genoma, liderado por Tyler Alioto.\nMediante la combinación de datos obtenidos mediante lecturas cortas y largas con datos públicos de Hi-C, el equipo de CNAG ha podido reconstruir la estructura cromosómica del jaguar y mejorar la anotación de sus genes. El resultado es un genoma de referencia de alta calidad que mejora considerablemente los ensamblajes anteriores.\n“Guiada por una visión One Health, nuestra misión en CNAG es avanzar en el análisis genómico tanto para la mejora de nuestra salud como para la conservación de los ecosistemas en todo el mundo. Al generar este genoma de referencia de alta calidad del jaguar, ponemos a disposición de la comunidad científica una herramienta esencial para contribuir a la conservación de esta especie amenazada y favorecer su supervivencia a largo plazo en la naturaleza”, destaca Fernando Cruz, primer autor del estudio y analista de datos en CNAG.\nEl estudio ha sido posible gracias también a la colaboración del Institute of Biology and Experimental Medicine (IBYME-CONICET, Argentina). “Este es el primer ensamblaje del genoma del jaguar generado a partir de muestras argentinas, lo que proporciona un recurso genómico especialmente valioso para estudiar la diversidad genética de esta especie clave para el ecosistema en Sudamérica y apoyar investigaciones de conservación adaptadas al contexto local”, explica Patricia Saragüeta, autora del estudio en el IBYME-CONICET.\nEste genoma de referencia de alta calidad presenta una mayor continuidad que las versiones anteriores, más fragmentadas, cumpliendo además con los estándares del Earth BioGenome Project. El nuevo mapa genético proporciona una base esencial para desarrollar estrategias de conservación y, al mismo tiempo, amplía nuestro conocimiento sobre la biología evolutiva del jaguar.\n“Los estudios en curso que utilizan este genoma de referencia ya están aportando nuevos datos sobre la estructura genética de las distintas poblaciones de este importante depredador”, concluye Gabaldón."
+  },
+  "sha256": {
+    "titular": "ac8964bd42604ad316fd3c8dfdc3c15a15576590d4017343a6087060cc2978b8",
+    "entradilla": "546423dff2c0b0498ff3f3f2c8f7171b5c1c74330a52d23e5ffd8eae7ab297eb",
+    "cuerpo": "c2a56b9b4391947611ba7204d1d29914047e1a54f8b65eabe16722bd29923add"
+  }
+}

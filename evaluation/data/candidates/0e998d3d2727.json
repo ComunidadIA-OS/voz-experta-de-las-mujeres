@@ -1,0 +1,26 @@
+{
+  "id": "0e998d3d2727",
+  "url": "https://www.agenciasinc.es/Noticias/El-ADN-oculto-de-las-plantas-revela-las-instrucciones-maestras-de-su-evolucion-durante-300-millones-de-anos",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-03-12T19:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:19+00:00",
+  "campos": {
+    "titular": "El ADN ‘oculto’ de las plantas revela las instrucciones maestras de su evolución durante 300 millones de años",
+    "entradilla": "Un nuevo algoritmo identifica 2,3 millones de secuencias reguladoras que han sobrevivido a siglos de reordenamientos genéticos, abriendo la puerta a una edición de cultivos mucho más precisa.",
+    "cuerpo": "Durante mucho tiempo se pensó que las plantas, a diferencia de los animales, carecían de un sistema de control genético antiguo y profundamente conservado. La complejidad de sus genomas, marcados por constantes duplicaciones y pérdidas de genes, parecía haber borrado las huellas del pasado. Sin embargo, un consorcio internacional de científicos ha logrado desenterrar un enorme ‘atlas’ de más de 2,3 millones de secuencias de ADN no codificante que han permanecido prácticamente inalteradas durante cientos de millones de años.\nEl estudio, publicado este jueves en la revista Science, presenta Conservatory, una plataforma de genómica comparativa a gran escala diseñada para rastrear la evolución vegetal a lo largo del tiempo profundo. Gracias a esta herramienta, investigadores del Laboratorio Cold Spring Harbor (CSHL por sus siglas en inglés), la Universidad de Cambridge y la Universidad Hebrea de Jerusalén han identificado elementos reguladores que son anteriores incluso a la aparición de las plantas con flores, las angiospermas.\n“Estas secuencias estaban escondidas a plena vista”, afirma el profesor Idan Efroni, diseñador del algoritmo. “La complejidad de los genomas vegetales hacía muy difícil rastrear el ADN regulador en el tiempo. Lo que mostramos es que estos programas reguladores profundamente conservados existen y están, de hecho, muy extendidos”.\nLas secuencias identificadas, denominadas CNS (secuencias no codificantes conservadas), actúan como interruptores que determinan cuándo y dónde se activan los genes. Aunque las plantas suelen duplicar su genoma completo —un proceso que suele ‘confundir’ la lectura del ADN—, el estudio revela que estas instrucciones maestras persisten.\nUna de las sorpresas del hallazgo es la ubicación de estos ‘interruptores’. El equipo descubrió que el 25 % de las CNS se encuentran a más de 25 kilobases de distancia de los genes que regulan, saltándose a veces genes vecinos. “Esto sugiere que los métodos tradicionales de estudio podrían estar pasando por alto regiones reguladoras críticas”, advierte la coautora Anat Hendelman.\nPara demostrar la importancia de estas secuencias, los científicos analizaron genes clave para el desarrollo, como el promotor WUSCHEL, un regulador esencial para el mantenimiento de las células madre. Descubrieron que sus elementos de control se han mantenido durante 300 millones de años.\n“No son reliquias congeladas”, explica Kirk R. Amundson, coautor principal del estudio. “Pueden moverse, duplicarse y diversificarse, pero conservan la lógica regulatoria necesaria para el desarrollo de la planta”.\nEste descubrimiento cambia las reglas del juego para la biotecnología agrícola. Hasta ahora, la edición genética de cultivos se centraba mayoritariamente en eliminar o duplicar genes. Con este nuevo mapa de secuencias antiguas, los científicos podrán ahora apuntar directamente a los ‘centros de control’ para ajustar rasgos como la resistencia a la sequía o la productividad de forma mucho más predecible.\n“Identificar las secuencias que han resistido la prueba del tiempo evolutivo abre la puerta a una ingeniería dirigida y precisa de los rasgos de las plantas”, concluye la profesora Madelaine Bartlett, de la Universidad de Cambridge."
+  },
+  "sha256": {
+    "titular": "a8637d4e26bd0f83319602c00e511cb29ae93375a01e7fafd201eee0194c82f2",
+    "entradilla": "e80036201c0fb30761a2dfacb8df5624746dfab36bb80f51e4c6200a310ccf49",
+    "cuerpo": "f64928afbf3e3f5857fc4d5fba0d765508308a681d8dfec2003f066d5d3182c2"
+  }
+}

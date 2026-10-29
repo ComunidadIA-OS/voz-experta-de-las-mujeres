@@ -1,0 +1,26 @@
+{
+  "id": "07ea4f0ba41b",
+  "url": "https://www.agenciasinc.es/Noticias/Las-herramientas-de-IA-para-generar-texto-homogenizan-el-lenguaje",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-24T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Tecnología de los ordenadores"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:35:28+00:00",
+  "campos": {
+    "titular": "Las herramientas de IA para generar texto homogenizan el lenguaje",
+    "entradilla": "Un análisis de más de 880 000 textos sugiere que la escritura a partir de grandes modelos de lenguaje como ChatGPT o Gemini borra las peculiaridades individuales a la hora de redactar. Según los investigadores, esto podría dificultar las evaluaciones basadas en el lenguaje, como en el ámbito de la salud mental.",
+    "cuerpo": "Los grandes modelos de lenguaje (LLM, por sus siglas en inglés) basados en inteligencia artificial están haciendo que los estilos de redacción sean más similares. Esta es la conclusión de un análisis de más de 880 000 textos publicado en la revista Nature Human Behaviour.\nLos resultados de la investigación, liderada por la Universidad del Sur de California (EE UU), indican que el uso de estos modelos podría dificultar la identificación de pistas importantes sobre aspectos de la identidad, la personalidad y la salud mental de una persona a partir de su lenguaje.\nLas personas expresan ideas similares de formas distintas, y estas diferencias proporcionan información sobre ellas. En muchas disciplinas, como en la psicología o la psiquiatría, se utilizan los patrones lingüísticos para estudiar a los individuos y las sociedades. Pero esto podría estar en peligro por el uso generalizado de los grandes modelos de lenguaje de IA.\nEn el trabajo, el equipo dirigido por el investigador Zhivar Sourati analizó más de 880 000 textos, entre los que se incluían historias de Reddit, artículos de prensa, trabajos académicos, ensayos, publicaciones en redes sociales y discursos políticos.\nTambién pidieron a GPT-3.5, Llama 3 70B y Gemini Pro que reescribieran miles de textos redactados por humanos. Se observó que la reescritura realizada por los LLM reducía la variación en la complejidad de la redacción entre un 21 % y un 50 %.\nEn el 87 % de los casos, los textos originales y los reescritos obtuvieron puntuaciones de similitud semántica superiores a 0,95, lo que indica que los LLM conservaron en gran medida el significado original.\nTras la reescritura, los modelos informáticos utilizados para analizar los textos generados por los LLM también mostraron una precisión media seis puntos porcentuales menor a la hora de identificar las características personales de los autores a partir de la redacción.\nEntre estos rasgos diferenciales, los modelos de lenguaje atenuaron algunos patrones lingüísticos como el uso de pronombres y la extroversión, las palabras relacionadas con los amigos y la lealtad, y las palabras centradas en el futuro y la edad.\nSin embargo, se mantuvieron otras asociaciones, como las existentes entre las palabras relacionadas con emociones negativas y el neuroticismo, las palabras relacionadas con la religión y la pureza, y las palabras sociales y el género.\nSegún los investigadores, los resultados sugieren que la redacción asistida por los modelos basados en IA podría reducir la fiabilidad de las evaluaciones basadas en el lenguaje en ámbitos como la psicología, la atención de la salud mental, la selección de personal y los servicios personalizados."
+  },
+  "sha256": {
+    "titular": "b75cf75cb6b7e5a742d9adc76cd1b37c258359551c1902873cef14c4fb62c02b",
+    "entradilla": "65a49d34e7746e23df562a810088551615e49820b0c2e2e4b952c5836b0e08c7",
+    "cuerpo": "1a7dfa7ea99ebc5610ecc29615d368088f036228770588a38383d92781129734"
+  }
+}

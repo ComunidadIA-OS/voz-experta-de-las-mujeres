@@ -1,0 +1,26 @@
+{
+  "id": "597668d301a7",
+  "url": "https://www.agenciasinc.es/Noticias/Tomar-omeprazol-no-se-asocia-a-un-mayor-riesgo-de-cancer-de-estomago",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-22T15:40:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:54:46+00:00",
+  "campos": {
+    "titular": "Tomar omeprazol no se asocia a un mayor riesgo de cáncer de estómago",
+    "entradilla": "La ingesta de inhibidores de la bomba de protones o medicamentos como el omeprazol a largo plazo no se relaciona con la posibilidad de desarrollar tumores gástricos. Una investigación poblacional en cincos países nórdicos demuestra que la asociación preexistente es incierta.",
+    "cuerpo": "El cáncer de estómago es la quinta neoplasia maligna más común en todo el mundo, y desde 1980 se ha relacionado el consumo de medicamentos contra el reflujo gástrico con la posibilidad de desarrollar este tipo de enfermedad tumoral.\nUn reciente estudio publicado en The British Medical Journal desmiente que una ingesta frecuente pueda degenerar en un mayor riesgo de padecer adenocarcinoma gástrico, la forma más frecuente de este tipo cáncer.\nLas observaciones previas apuntaban a que estos inhibidores inducían una producción elevada de gastrina –una hormona que regula la secreción de ácidos estomacales– y la proliferación resultante de pólipos gástricos potencialmente malignos.\nSin embargo, aquellas investigaciones se vieron obstaculizadas por limitaciones metodológicas, como el bajo valor estadístico, un seguimiento incompleto, la exposición del omeprazol poco antes de que se diagnosticara el carcinoma y otros puntos de confusión relevantes.\nLos investigadores de este nuevo estudio basaron sus hallazgos en la población y utilizaron datos procedentes de Dinamarca, Finlandia, Islandia, Noruega y Suecia entre 1994 y el año 2000.\nEmplearon registros diferentes en cada uno de estos países: información sobre la población total, los medicamentos recetados, los casos de cáncer, los diagnósticos realizados y causas de muerte.\nEl estudio incluyó 17 232 casos de adenocarcinoma gástrico (no cardiaco) y 72 297 controles. Además, la exposición al inhibidor de la bomba de protones fue superior a un 1 año y excluyeron los 12 meses anteriores a la fecha del diagnóstico o la fecha de inclusión. El uso a largo plazo de omeprazol y derivados se observó en el 10,2 % de los casos y en el 9,5 % controles.\nEl resultado fue que no encontraron una asociación directa entre el uso de este inhibidor y el desarrollo de cáncer de estómago entre los participantes. El riesgo fue parecido para el uso de antagonistas del receptor de histamina-2.\nLos autores del proyecto identificaron múltiples fuentes de error que condujeron a una asociación falsa entre estos medicamentos y el cáncer gástrico.\nEntre ellos, observaron la inclusión del uso de inhibidores de la bomba de protones poco antes del diagnóstico de adenocarcinoma gástrico, el uso a corto plazo de omeprazol y la falta de ajuste de variables relacionadas como el Helicobacter pylori\nSegún expone al SMC España el gastroenterólogo del Hospital Universitario de Galdakao (Bizkaia), Iago Rodríguez- Lago, los resultados aclaran esta situación al demostrar que, una vez que se ajustan factores determinantes como la infección por la bacteria Helicobacter pylori, el tabaquismo, la obesidad y la diabetes, la supuesta asociación desaparece.\n“Tanto para todo el personal sanitario como pacientes, este hallazgo es de gran valor e interés, ya que aporta tranquilidad y reafirma la seguridad de los inhibidores de la bomba de protones a largo plazo, unos de los fármacos más prescritos en España”, expone.\nPese a ello , el experto añade que se trata de un estudio observacional, por lo que no se puede establecer una relación de causa y efecto definitiva. A su juicio, “existen factores que no pudieron ser medidos, como la dieta de los pacientes, sus antecedentes familiares de cáncer de estómago, o la predisposición variable a este tipo de tumor en ciertas áreas geográficas”, concluye."
+  },
+  "sha256": {
+    "titular": "11f1072e038e2fefcc4d2768dd805ca685c3d4165d7c150ea70bf00607d4a106",
+    "entradilla": "83a03dc1e8d6198a2548c6d20cf28a04045f2aacf4b9d9e0aade264c6d45e8d7",
+    "cuerpo": "0af4c2188e103b4ae5ee708ccf46bfd4de5c8ca660d6fbdfb33adb1f26b79c12"
+  }
+}

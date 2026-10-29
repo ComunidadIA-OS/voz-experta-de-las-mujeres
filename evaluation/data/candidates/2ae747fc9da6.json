@@ -1,0 +1,26 @@
+{
+  "id": "2ae747fc9da6",
+  "url": "https://www.agenciasinc.es/Noticias/Esta-es-la-tacoclina-una-capa-del-Sol-esencial-para-la-creacion-de-su-campo-magnetico",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-10T12:03:00+01:00",
+  "fuente_y_derechos": "Fuente: IAC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:35+00:00",
+  "campos": {
+    "titular": "Esta es la tacoclina, una capa del Sol esencial para la creación de su campo magnético",
+    "entradilla": "Esta fina estructura se localiza a doscientos mil kilómetros bajo la superficie del astro, donde se alcanzan temperaturas superiores a dos millones de grados. Un estudio internacional emplea técnicas heliosismológicas para comprender su naturaleza y su función en la creación de tormentas solares.",
+    "cuerpo": "Un equipo internacional de la Universidad de La Laguna y el Instituto de Astrofísica de Canarias, ha publicado un estudio destinado a mejorar la comprensión de la estructura interna del Sol.\nEl trabajo, descrito en The Astrophysical Journal, destaca por el uso de series temporales heliosismológicas largas, que superan los veinticinco años de observaciones continuas, para analizar las capas más profundas del Sol.\nEn concreto, la heliosismología estudia los patrones de oscilación en la superficie solar a lo largo del tiempo. Al igual que cualquier instrumento musical, las características de estas vibraciones dependen de las propiedades físicas del interior del Sol.\nLa investigación se centra en la tacoclina solar, una capa delgada situada a unos doscientos mil kilómetros bajo la superficie del astro, donde las temperaturas alcanzan aproximadamente los dos millones de grados Celsius.\nDentro de esta estructura tiene lugar la transición entre dos regímenes de rotación distintos, un fenómeno clave para comprender procesos fundamentales como la generación del campo magnético y los mecanismos que impulsan el ciclo de actividad del Sol. Al caracterizar esta capa de transición con una precisión sin precedentes, la investigación aborda uno de los desafíos clásicos de la física solar.\nPara lograr esta precisión, se analizaron datos de tres instrumentos complementarios: la red terrestre GONG, operada por el Observatorio Solar Nacional que cuenta con seis instrumentos; el instrumento MDI a bordo del satélite espacial Observatorio Solar Heliosférico –SOHO por sus siglas en inglés– y el instrumento HMI a bordo del satélite Observatorio de Dinámica Solar (SDO) de la NASA.\nEl procesamiento de este volumen de información supuso el uso de técnicas numéricas innovadoras diseñadas específicamente para este estudio, entre ellas el método de reconstrucción algebraica simultánea y la implementación de mallas computacionales con una densidad radial mucho mayor de lo habitual.\nEstas metodologías permitieron mejorar la resolución de los resultados y mantener bajo control la amplificación del ruido observacional, un aspecto esencial al estudiar estructuras tan sutiles y profundas como la tacoclina.\nSegún explica el investigador de la Universidad de La Laguna y el Instituto de Astrofísica de Canarias, Antonio Eff-Darwich, “todavía me resulta increíble que podamos explorar lo que sucede a cientos de miles de kilómetros bajo la superficie del Sol, que a su vez se encuentra a unos 150 millones de kilómetros de la Tierra”.\nMás allá de su relevancia para la física fundamental, estudios de este tipo son esenciales para seguir mejorando el conocimiento de la meteorología espacial, es decir, el seguimiento del impacto de la actividad magnética del Sol sobre la Tierra.\nLa tacoclina está estrechamente vinculada a los procesos responsables del magnetismo solar que, al emerger a la superficie, dan lugar a tormentas solares y eyecciones de masa coronal que pueden afectar a nuestra infraestructura tecnológica.\nEntre otras cosas, el estudio sugiere que la posición de la tacoclina muestra una discontinuidad entre bajas y altas latitudes, lo que revela una estructura interna más compleja de lo que se suponía anteriormente.\nLos resultados del trabajo indican también que esta capa podría ser extremadamente delgada, posiblemente inferior al uno por ciento del radio solar.\nEl trabajo concluye que, aunque los datos disponibles aún no permiten detectar de manera definitiva cambios asociados a la actividad solar, es necesario continuar desarrollando estas herramientas analíticas para profundizar en la comprensión de la dinámica interna del y, por tanto, anticipar los efectos de su actividad sobre la Tierra.\nPor su parte, el investigador del Centro de Astrofísica Harvard & Smithsonian, Syvain G. Korzennik expresa que esta nueva medición desconcertará aún más a los teóricos y modelizadores cuando intenten explicar por qué la tacoclina es como es."
+  },
+  "sha256": {
+    "titular": "6b39976c703cfcc6d494610fe26bdde48fc181c0f67c8b1c7c71d95683c2e649",
+    "entradilla": "2e66875296deb4867f1ad698a65084945d969ba73b65cffe2f9b52cb4f820755",
+    "cuerpo": "f4ebf13a4d479fa5029d13a0a7272911917464b45d0504d2b19deb4d305f02a8"
+  }
+}

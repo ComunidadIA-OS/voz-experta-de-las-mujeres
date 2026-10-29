@@ -1,0 +1,259 @@
+{
+  "article_id": "732950a561a9",
+  "url": "https://www.agenciasinc.es/Noticias/Cultivar-garbanzos-en-tierra-lunar",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:15+00:00",
+  "article_sha256": {
+    "titular": "f685b65b67781e8123cd93510412b25886543e1de0915fbd437244c111ac87d8",
+    "entradilla": "f35549df3fa67a094bd8330ddeba4c2617f6295fd1991c2d72e7ff6b8518907a",
+    "cuerpo": "0ad2d54e58d0b034dab78cd02b72049fb0473a45aac4c826e5f7c0131546d4b5"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Sara Santos",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "autora principal del estudio en el Instituto de Geofísica de la Universidad de Texas",
+      "gender_representation": "woman",
+      "gender_evidence": "autora",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Jessica Atkin",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "primera autora del estudio y doctoranda en ciencias del suelo en Texas A&M",
+      "gender_representation": "woman",
+      "gender_evidence": "primera autora del estudio",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“El mayor desafío es que el regolito lunar realmente no es suelo. Es roca triturada sin materia orgánica ni microbios vivos. Al añadir material orgánico y hongos beneficiosos, empezamos a introducir los elementos que hacen que el suelo funcione en la Tierra”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La pregunta es cómo podemos transformar el regolito en un suelo capaz de sostener plantas y qué mecanismos naturales pueden facilitar esa conversión”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“En general, las plantas eran más pequeñas y crecían más lentamente en las mezclas con regolito, lo que indica que el entorno sigue siendo estresante para ellas. Pero el hecho de que pudieran crecer y producir semillas demuestra que las plantas pueden adaptarse cuando cuentan con el apoyo biológico adecuado”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Las micorrizas arbusculares podrían desempeñar un papel importante en la futura agricultura espacial porque ayudan de forma natural a las raíces de las plantas a acceder a nutrientes y agua, y también a reducir la absorción de metales. Los riesgos son relativamente bajos porque estos hongos son beneficiosos y no patógenos, pero cualquier sistema biológico debe gestionarse cuidadosamente para mantener el equilibrio microbiano y evitar cambios no deseados en el sistema”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Una parte importante de esta investigación es asegurarnos de que el cultivo sea seguro para el consumo. Para ello analizamos las semillas para determinar su contenido de nutrientes y metales, y comparamos los resultados con los estándares de seguridad alimentaria”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Hemos probado diferentes genotipos de garbanzo con colaboradores del Departamento de Agricultura de Estados Unidos (USDA) para identificar las variedades que mejor se desempeñan en el regolito. Además, con financiación de la NASA, ahora estamos realizando cultivos multigeneracionales para aprender cómo optimizar el sistema para la producción de alimentos a largo plazo”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Queremos entender su viabilidad como fuente de alimento”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Necesitamos saber qué tan saludables son, si contienen los nutrientes que necesitan los astronautas y si han acumulado metales potencialmente tóxicos”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793121546095",
+        "nombre": "Sara Santos",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1004,
+            "fin16": 1015,
+            "texto": "Sara Santos",
+            "inicio": 1004,
+            "fin": 1015
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1017,
+          "fin16": 1023,
+          "texto": "autora",
+          "inicio": 1017,
+          "fin": 1023
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 729,
+            "fin16": 987,
+            "texto": "“El mayor desafío es que el regolito lunar realmente no es suelo. Es roca triturada sin materia orgánica ni microbios vivos. Al añadir material orgánico y hongos beneficiosos, empezamos a introducir los elementos que hacen que el suelo funcione en la Tierra”",
+            "tipo": "directa",
+            "inicio": 729,
+            "fin": 987
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1334,
+            "fin16": 1485,
+            "texto": "“La pregunta es cómo podemos transformar el regolito en un suelo capaz de sostener plantas y qué mecanismos naturales pueden facilitar esa conversión”,",
+            "tipo": "directa",
+            "inicio": 1334,
+            "fin": 1485
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1883,
+            "fin16": 2193,
+            "texto": "“En general, las plantas eran más pequeñas y crecían más lentamente en las mezclas con regolito, lo que indica que el entorno sigue siendo estresante para ellas. Pero el hecho de que pudieran crecer y producir semillas demuestra que las plantas pueden adaptarse cuando cuentan con el apoyo biológico adecuado”,",
+            "tipo": "directa",
+            "inicio": 1883,
+            "fin": 2193
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3210,
+            "fin16": 3684,
+            "texto": "“Las micorrizas arbusculares podrían desempeñar un papel importante en la futura agricultura espacial porque ayudan de forma natural a las raíces de las plantas a acceder a nutrientes y agua, y también a reducir la absorción de metales. Los riesgos son relativamente bajos porque estos hongos son beneficiosos y no patógenos, pero cualquier sistema biológico debe gestionarse cuidadosamente para mantener el equilibrio microbiano y evitar cambios no deseados en el sistema”,",
+            "tipo": "directa",
+            "inicio": 3210,
+            "fin": 3684
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4755,
+            "fin16": 5021,
+            "texto": "“Una parte importante de esta investigación es asegurarnos de que el cultivo sea seguro para el consumo. Para ello analizamos las semillas para determinar su contenido de nutrientes y metales, y comparamos los resultados con los estándares de seguridad alimentaria”,",
+            "tipo": "directa",
+            "inicio": 4755,
+            "fin": 5021
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5376,
+            "fin16": 5749,
+            "texto": "“Hemos probado diferentes genotipos de garbanzo con colaboradores del Departamento de Agricultura de Estados Unidos (USDA) para identificar las variedades que mejor se desempeñan en el regolito. Además, con financiación de la NASA, ahora estamos realizando cultivos multigeneracionales para aprender cómo optimizar el sistema para la producción de alimentos a largo plazo”,",
+            "tipo": "directa",
+            "inicio": 5376,
+            "fin": 5749
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1017,
+          "fin16": 1101,
+          "texto": "autora principal del estudio en el Instituto de Geofísica de la Universidad de Texas",
+          "inicio": 1017,
+          "fin": 1101
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793121599462",
+        "nombre": "Jessica Atkin",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 5132,
+            "fin16": 5145,
+            "texto": "Jessica Atkin",
+            "inicio": 5132,
+            "fin": 5145
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 5147,
+          "fin16": 5173,
+          "texto": "primera autora del estudio",
+          "inicio": 5147,
+          "fin": 5173
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 5049,
+            "fin16": 5106,
+            "texto": "“Queremos entender su viabilidad como fuente de alimento”",
+            "tipo": "directa",
+            "inicio": 5049,
+            "fin": 5106
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5223,
+            "fin16": 5374,
+            "texto": "“Necesitamos saber qué tan saludables son, si contienen los nutrientes que necesitan los astronautas y si han acumulado metales potencialmente tóxicos”",
+            "tipo": "directa",
+            "inicio": 5223,
+            "fin": 5374
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 5147,
+          "fin16": 5221,
+          "texto": "primera autora del estudio y doctoranda en ciencias del suelo en Texas A&M",
+          "inicio": 5147,
+          "fin": 5221
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 119
+  }
+}

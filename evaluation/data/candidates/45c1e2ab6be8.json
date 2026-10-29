@@ -1,0 +1,26 @@
+{
+  "id": "45c1e2ab6be8",
+  "url": "https://www.agenciasinc.es/Noticias/Un-estudio-vincula-cercania-a-centrales-nucleares-y-mortalidad-por-cancer-pero-la-comunidad-cientifica-es-esceptica",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-02-23T11:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:51:51+00:00",
+  "campos": {
+    "titular": "Un estudio vincula cercanía a centrales nucleares y mortalidad por cáncer, pero la comunidad científica es escéptica",
+    "entradilla": "Una investigación de Harvard señala una correlación estadística en centrales estadounidenses, pero expertos independientes advierten de que el diseño del estudio es incapaz de demostrar causalidad y que los niveles de radiación reales son insignificantes.",
+    "cuerpo": "La relación entre la ubicación de las centrales nucleares y la salud pública vuelve al primer plano del debate científico. Un estudio liderado por la Escuela de Salud Pública T.H. Chan de Harvard, publicado este lunes en la revista Nature Communications, señala una correlación entre la proximidad a estas instalaciones y un aumento en las tasas de mortalidad por cáncer en Estados Unidos. Sin embargo, el trabajo ha sido recibido con severas críticas por parte de expertos independientes, que cuestionan su metodología y la ausencia de mecanismos biológicos plausibles.\nLa investigación es la primera del siglo XXI en analizar globalmente todos los condados estadounidenses y sus plantas nucleares operativas. Según los autores, los condados más cercanos a las centrales presentan índices de mortalidad oncológica más elevados, incluso tras ajustar variables socioeconómicas y ambientales. El equipo estima que unos 115 000 fallecimientos durante el periodo 2000-2018 podrían estar asociados a esta cercanía.\nA pesar de estas cifras, el propio autor principal, Petros Koutrakis, reconoce que los hallazgos “no son suficientes para establecer una relación de causa y efecto”. Una cautela que la comunidad científica internacional ha elevado a una crítica directa.\nExpertos externos coinciden, en declaraciones al Science Media Center, en que el estudio comete una omisión fundamental: no mide la exposición real a la radiación. Jim Smith, profesor de Ciencias Ambientales de la Universidad de Portsmouth, es tajante: “Este estudio no aporta ninguna prueba de una relación causal. No hay evidencia de que las dosis de radiación sean significativas para quienes viven cerca de las centrales ni de que cambien con la distancia estudiada”.\nSmith recuerda que las emisiones de las plantas en funcionamiento normal son “minúsculas” y mucho menores que la radiación natural de los rayos cósmicos o el suelo. “Es muy probable que la asociación se deba a la incapacidad del estudio para tener en cuenta todos los factores de confusión, como el grado de urbanización”, añade.\nEn la misma línea, Richard Wakeford, epidemiólogo de la Universidad de Mánchester, califica el artículo de “sorprendente” por su diseño. El experto señala que utilizar condados —áreas geográficas muy extensas— para medir la proximidad es problemático. “Los datos de cualquier comunidad realmente cercana a una central se ven inundados por el resto del condado. Es un estudio ‘ecológico’ con problemas de interpretación bien conocidos”, advierte.\nPara la comunidad científica, los resultados no solo fallan en la medición del riesgo, sino que contradicen lo que se sabe sobre cómo la radiación afecta al cuerpo humano. Amy Berrington de González, catedrática de Epidemiología Clínica del Cáncer en el Instituto de Investigación del Cáncer de Londres, destaca dos inconsistencias clave: en primer lugar, la edad de los afectados. El riesgo por radiación suele ser mayor en personas jóvenes, pero este estudio encuentra la asociación más fuerte en adultos mayores.\nAdemás, el estudio analiza la mortalidad general por cáncer sin desglosar por tipos. “Sabemos que algunos cánceres son más sensibles a la radiación que otros; si esos no aumentaron específicamente, hay pocas pruebas de que la causa sea la radiación”, explica la investigadora.\nEl debate surge en un momento clave en el que la energía nuclear se postula como solución de bajas emisiones ante el cambio climático. No obstante, los críticos alertan sobre el peligro de generar alarma social con estudios basados en correlaciones geográficas generales.\nWakeford compara este caso con investigaciones pasadas que, por no ajustar correctamente factores como el tabaquismo a escala individual, llegaron a conclusiones erróneas sobre el gas radón. Por su parte, Smith considera “especulativo e irresponsable” intentar calcular un número de muertes en exceso basándose en un modelo que no presenta un mecanismo biológico plausible."
+  },
+  "sha256": {
+    "titular": "ca2faa742407f60c35cb257e196dcb4afded5660b9ce2726aa4e138e159c25a0",
+    "entradilla": "4d23c14e31cc78ba23b961f781388cdbb386595605b827ae5eb41ade707157a5",
+    "cuerpo": "a6aeefe0fda792806726d62d348ffa1cc627cf59d142f694e95cc782ff74378f"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bbbb147cfb0b",
+  "url": "https://www.agenciasinc.es/Noticias/La-estimulacion-cognitiva-temprana-muestra-un-efecto-protector-duradero-frente-al-alzheimer",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-02-11T12:01:00+01:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Medicina preventiva"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:53:02+00:00",
+  "campos": {
+    "titular": "La estimulación cognitiva temprana muestra un efecto protector duradero frente al alzhéimer",
+    "entradilla": "Un equipo del Instituto de Neurociencias de la Universidad de Barcelona ha llevado a cabo un estudio que explora vías preventivas para fortalecer la reserva cognitiva y permitir al cerebro resistir mejor la enfermedad.",
+    "cuerpo": "La estimulación cognitiva iniciada de forma temprana y mantenida en el tiempo puede preservar la memoria y la conectividad cerebral en la enfermedad de Alzheimer, incluso en fases avanzadas, según un estudio del Instituto de Neurociencias de la Universidad de Barcelona (UBneuro).\nLa investigación, publicada en la revista científica iScience y basada en modelos animales, ha demostrado que esta intervención no farmacológica “retrasa el deterioro cognitivo”.\nAdemás, ha revelado diferencias entre sexos que apuntan a la necesidad de adaptar las estrategias terapéuticas con perspectiva de género.\nLa enfermedad de Alzheimer, principal causa de demencia en el mundo, se caracteriza por un deterioro progresivo e irreversible de la memoria y otras funciones cognitivas y actualmente carece de tratamientos curativos eficaces.\nAnte esta situación, la comunidad científica ha explorado “estrategias preventivas” que fortalezcan la llamada “reserva cognitiva”, la capacidad del cerebro para mantener su funcionamiento pese a la presencia de enfermedades o lesiones neuropatológicas.\nEl estudio ha analizado si la estimulación cognitiva sostenida, iniciada antes de la aparición de la patología amiloide típica del alzhéimer, podría aumentar la “resiliencia cerebral” frente a la enfermedad.\nPara ello, los investigadores han sometido a modelos animales a un entrenamiento cognitivo repetido a lo largo de toda la vida y han evaluado posteriormente su función cerebral mediante resonancia magnética en reposo, pruebas conductuales de memoria y análisis moleculares y celulares.\nLos resultados han demostrado que “los animales entrenados preservaron mejor la memoria y la conectividad funcional” entre regiones clave como la corteza entorrinal y el hipocampo, áreas especialmente vulnerables en el alzhéimer.\nLa investigadora que ha liderado el trabajo, Guadalupe Soria, ha explicado que “la preservación de la conectividad cerebral (en los animales entrenados) se asocia a un mejor rendimiento de la memoria en edades más avanzadas”.\nEste descubrimiento refuerza la idea de que la estimulación cognitiva temprana puede tener “efectos protectores duraderos sobre la función cerebral”."
+  },
+  "sha256": {
+    "titular": "4bce2c55755c64931ffa9e875d149ff17d3272786600b3f0cc6179f2160982ae",
+    "entradilla": "5fc32ad058f148536e2fc1c931dcfac1bcac31141ab692d75fe2a5003bd30e46",
+    "cuerpo": "fd24e11b3beec7ee21fa546ba4653722bba2004a40d5f86d91a77cf92d77e579"
+  }
+}

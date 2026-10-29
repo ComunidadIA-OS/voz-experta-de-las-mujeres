@@ -1,0 +1,26 @@
+{
+  "id": "2cf60c4a4a9e",
+  "url": "https://www.agenciasinc.es/Noticias/El-mundo-se-acerca-al-pico-de-extincion-de-glaciares-hasta-4-000-al-ano-podrian-desaparecer-a-mitad-de-siglo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-15T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:03+00:00",
+  "campos": {
+    "titular": "El mundo se acerca al ‘pico de extinción de glaciares’: hasta 4 000 al año podrían desaparecer a mitad de siglo",
+    "entradilla": "Un estudio advierte que el número de glaciares que desaparecen cada año llegará a un máximo de entre 2 000 y 4 000 anuales debido al calentamiento global. Según los autores, si se limita el calentamiento a 1,5 ºC por encima de los niveles preindustriales, se podría conservar más del doble de glaciares que si se llega a un aumento de 2,7 ºC.",
+    "cuerpo": "El deshielo global avanza hacia un punto crítico. Un nuevo estudio publicado en Nature Climate Change advierte de que el número de glaciares que desaparecen cada año en el planeta aumentará de forma abrupta en las próximas décadas, hasta alcanzar un máximo —el llamado pico de extinción de glaciares— de entre 2 000 y 4 000 glaciares anuales hacia mediados de siglo, en función del nivel de calentamiento global.\nLa diferencia entre ambos escenarios depende directamente de las decisiones climáticas actuales. Según los autores, limitar el calentamiento a 1,5 °C permitiría conservar más del doble de glaciares en 2100 en comparación con un escenario de 2,7 °C, y evitaría una pérdida casi total en un mundo que se caliente 4 °C respecto a la era preindustrial.\nEl equipo liderado por Lander Van Tricht, de la Escuela Politécnica Federal de Zúrich (Suiza) ha analizado más de 200 000 glaciares a partir de datos satelitales, utilizando tres modelos globales bajo cuatro escenarios climáticos distintos. El concepto central del trabajo es el de peak glacier extinction, el año en el que el número de glaciares que desaparecen alcanza su máximo histórico.\nLos resultados muestran que, incluso en el escenario más optimista, el pico llegará pronto. Con un calentamiento de 1,5 °C, la desaparición de glaciares alcanzaría su máximo alrededor de 2041, con unos 2 000 glaciares perdidos cada año. En un escenario de 4 °C, el proceso sería más prolongado pero mucho más devastador, con hasta 4 000 glaciares extinguiéndose anualmente a mediados de la década de 2050.\nLas regiones dominadas por glaciares pequeños, como los Alpes europeos o los Andes subtropicales, sufrirán las pérdidas más tempranas: hasta la mitad de sus glaciares podría desaparecer en apenas dos décadas. En cambio, zonas con grandes masas de hielo, como Groenlandia o los márgenes de la Antártida, verán su pico más adelante en el siglo.\nMás allá de su impacto en el nivel del mar, la desaparición de glaciares implica pérdidas culturales, espirituales y económicas, además de poner en riesgo el suministro de agua en regiones que dependen de su deshielo periódico. El estudio subraya que el número de glaciares que se perderán cada año no es solo una proyección científica, sino una consecuencia directa de las políticas climáticas que se adopten hoy."
+  },
+  "sha256": {
+    "titular": "d7c98e4ab450248e83f8fa388d572de471786860579a0e023974b7a2e20ad81b",
+    "entradilla": "8423b01d325731638d83dc06a02cd8b836bb31064f69de5b5e349d50224eda3b",
+    "cuerpo": "1e4c0162994b58be6398e3724b8df4babdbdb381db3625ee7f601923b5354f1f"
+  }
+}

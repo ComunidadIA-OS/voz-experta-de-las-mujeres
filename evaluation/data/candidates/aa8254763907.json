@@ -1,0 +1,26 @@
+{
+  "id": "aa8254763907",
+  "url": "https://www.agenciasinc.es/Noticias/Asi-es-como-este-diminuto-brazo-robotico-funciona-con-algas-y-con-luz",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-23T12:30:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades tecnológicas"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:30:54+00:00",
+  "campos": {
+    "titular": "Así es como este diminuto brazo robótico funciona con algas y con luz",
+    "entradilla": "Un dispositivo desarrollado por investigadores holandeses integra una microalga con un hidrogel que responde al PH, por lo que cuando se expone a la luz y realiza la fotosíntesis obliga a que el pequeño apéndice se doble.",
+    "cuerpo": "Quien iba a decir que unas diminutas algas submarinas podrían formar parte de brazos parecidos a los de un robot, recoger pequeños fragmentos de piedra y colocarlos en cestas flotantes al darles la luz.\nSí, parece ciencia ficción, pero investigadores de la Universidad Tecnológica de Delft (en Países Bajos) han diseñado un brazo robótico blando recubierto de este tipo de plantas que tiene la capacidad de agarrar y levantar objetos. Los resultados se han publicado en Nature Communications.\nEste diminuto apéndice realiza movimientos de flexión reversibles que se pueden controlar mediante la luz. Se trata de una tira compuesta por dos capas diferentes de hidrogel con microalgas que crecen en su superficie. Mide 2 centímetros de largo y un 1 milímetro de grosor pero cuando se expone a fuentes de luz variables puede doblarse hacia adelante y hacia atrás.\nSegún explican los autores, el movimiento de este robot puede usarse para realizar tareas sencillas como agarrar y manipular objetos pequeños, sobre todo en entornos submarinos donde son tareas complicadas.\nA modo de demostración, lo utilizaron para atrapar y levantar un aro de goma y para agarrar una pequeña esfera de metal.\nEste pequeño dispositivo puede reproducir los movimientos que se dan en la naturaleza, por lo que podría incorporarse a persianas o dispositivos agrícolas que cambien su forma u orientación según la luz. Los investigadores querían explorar las posibilidades de integrar células vivas en materiales funcionales.\nEn concreto, las microalgas actúan sobre el dispositivo a través de su metabolismo (el cual depende de la luz).\nCuando se exponen a ella, estas plantas ionizan de forma local la red de polímeros, lo que hace que el actuador de doble capa se doble. En la oscuridad, a través de la respiración, liberan CO₂ que revierte la deformación.\nEstos procesos aumentan el pH de las capas de hidrogel de forma diferente, lo que hace que la tira se doble, según explica el primer autor del estudio e investigador en las universidad holandesa, Fan Jiang.\n“Cuando se apaga la luz, el combustible celular se “quema” liberando CO₂, lo que hace que el pH vuelva a bajar. En 10 segundos, el apéndice ya empieza a doblarse en la dirección opuesta”, apunta.\nEsta nueva tecnología podría contribuir a la creación de sistemas robóticos blandos que sean más autónomos y sensibles al entorno a largo plazo.\nLas microalgas son organismos similares a las plantas que se ‘autosustentan’ porque utilizan la luz como fuente de energía a través de la fotosíntesis, lo que confiere al dispositivo el potencial de funcionar a largo plazo con un aporte externo mínimo. “Por ello, no se necesitaría mucha energía para hacer funcionar un sistema basado en esta tecnología”, argumenta la líder del trabajo e investigadora en la misma universidad Mari-Eve Aubin Tam.\n“Resulta apasionante poder vislumbrar la actividad metabólica de los microorganismos de esta manera y ver cómo los materiales sintéticos traducen las respuestas biológicas de las algas en movimiento”, expresa. “"
+  },
+  "sha256": {
+    "titular": "cb3fc5e78bf09b7f2ceecca824a9fabb69d55818a4acea9de85efcbe34f695b9",
+    "entradilla": "18b7b1426b183ce0c2e4bdef48af77a750429b42c90938e59c854c99fa9d5666",
+    "cuerpo": "af5fad0f24fc08d566776bc955016f91f629744c19fa8d6ead9db5e7b065d4d3"
+  }
+}

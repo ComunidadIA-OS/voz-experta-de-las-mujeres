@@ -1,0 +1,26 @@
+{
+  "id": "5255ffc03a0f",
+  "url": "https://www.agenciasinc.es/Noticias/Los-quimicos-sinteticos-estan-muy-extendidos-en-los-ecosistemas-marinos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-16T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:08+00:00",
+  "campos": {
+    "titular": "Los químicos sintéticos están muy extendidos en los ecosistemas marinos",
+    "entradilla": "Un análisis internacional revela que pesticidas, medicamentos y otros compuestos creados por el ser humano constituyen una fracción notable de la materia orgánica disuelta en el agua marina. Esto es más evidente en zonas cercanas a la costa, y persisten incluso en océanos abiertos, lo que plantea riesgos para la biodiversidad y la salud de los ecosistemas.",
+    "cuerpo": "Pesticidas, fármacos y otros compuestos creados por el ser humano constituyen una parte significativa de la materia orgánica disuelta en el océano, según un estudio publicado en Nature Geoscience.\nLas zonas costeras son las más afectadas, donde hasta una quinta parte de esta materia está formada por químicos sintéticos.\nLos resultados indican que es posible medir estos compuestos de forma fiable, lo que permitirá evaluar con mayor precisión sus efectos sobre los ecosistemas marinos.\nLos productos químicos destinados a la agricultura, la industria y la medicina están alcanzando los océanos, pero hasta ahora los estudios sobre su magnitud se habían limitado a escalas regionales. La comprensión de su distribución y persistencia a nivel global sigue siendo escasa.\nDaniel Petras, Universidad de California, Riverside (EE UU) y su equipo recopilaron 21 conjuntos de datos públicos de carbono orgánico disuelto que incluían 2 315 muestras de agua de mar de zonas costeras, arrecifes de coral y mar abierto en los océanos Pacífico, Índico y Atlántico Norte. En estas muestras identificaron directamente 248 químicos fabricados por el ser humano, con un nivel medio del 2 % de la intensidad de señal detectada.\nLas muestras cercanas a las costas mostraron los niveles medianos más altos (hasta 20 %), mientras que en el océano abierto los valores fueron mucho menores (alrededor de 1 %).\nEn general, la abundancia de estos compuestos disminuye a medida que aumenta la distancia de la tierra y la profundidad del agua. Los químicos industriales, como los usados en plásticos y productos de cuidado personal, se encontraron en todos los ambientes marinos, mientras que pesticidas y fármacos eran más frecuentes cerca de las costas.\nEstos resultados evidencian la amplia distribución de contaminantes humanos en los océanos, desde la costa hasta aguas profundas. Los autores destacan que la presencia de químicos industriales lejos de su fuente indica una alta persistencia ambiental y subrayan la necesidad de un monitoreo global para evaluar su extensión y efectos sobre los ecosistemas marinos."
+  },
+  "sha256": {
+    "titular": "4eb578f08623aef29fa4a11c2ab38a741a196e2caa76e945bd101601222d188b",
+    "entradilla": "0e02b3a213fe15141f53d5982493c8284cd041e8e83825310e664129c6b8bb4c",
+    "cuerpo": "c46e6fdbfd0e13592facbe75586430b39e844b665825a6d36c1caf3fdc3cc454"
+  }
+}

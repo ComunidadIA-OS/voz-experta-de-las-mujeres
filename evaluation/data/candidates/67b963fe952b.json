@@ -1,0 +1,26 @@
+{
+  "id": "67b963fe952b",
+  "url": "https://www.agenciasinc.es/Noticias/Una-supernova-emite-extranas-ondulaciones-de-luz-debido-a-un-magnetar-en-su-interior",
+  "autoria": "Marcos D. Oliveros",
+  "fecha_publicacion": "2026-03-11T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:24+00:00",
+  "campos": {
+    "titular": "Una supernova emite extrañas ondulaciones de luz debido a un magnetar en su interior",
+    "entradilla": "Cuando los grandes astros se quedan sin energía, sus núcleos colapsan y perecen mediante una gran explosión denominada supernova. Un estudio revela que la luz de uno de estos fenómenos cósmicos, denominado SN 2024afav, presenta modulaciones en su brillo debido a la posible presencia de una estrella de neutrones.",
+    "cuerpo": "Durante décadas, los astrónomos han utilizado las supernovas como una especie de faro cósmico para poner a prueba la física fundamental y medir el universo. Ahora, una nueva investigación, publicada en Nature, emplea los principios de la relatividad general para desentrañar el comportamiento inusual de una de ellas.\nLos autores vieron que el brillo de uno estos objetos espaciales, denominado SN 2024afav, se comportaba de forma errática con ondulaciones de luz que desafiaban toda expectativa, por lo que apuntaron a una ‘física oculta’ dentro de la supernova.\nNormalmente, cuando una estrella se queda sin combustible, su núcleo colapsa y el astro muere a través de una gran explosión. Tras ello, la mayoría de las supernovas siguen una evolución predecible y dejan una estela suave; pero algunas superluminosas –como SN 2024afav –pueden sufrir cambios en su brillo.\nSegún cuenta a SINC el primer autor del trabajo e investigador en el Observatorio de La Cumbres y la Universidad de California (EE UU), Joseph Farah, valoraron varias teorías que explicaban este fenómeno luminoso. “La primera era que un magnetar del interior de la supernova la alimentaran como si fuera una batería y, la segunda fue que la supernova chocara con materia en el momento de la explosión”, apunta el experto.\nSi bien las supernovas son algunos de los fenómenos más brillantes del universo, en los últimos años se ha descubierto un grupo poco común de diez a cien veces más brillantes que el resto.\nLa fuente de energía detrás de estos objetos superluminosos es un misterio, según explican los investigadores, y creen que un colapso violento del astro progenitor puede formar una estrella de neutrones y generar un campo magnético con su rotación.\n“El núcleo de la estrella se comprime y la gravedad la aplasta con tanta fuerza que los protones y electrones se fusionan para formar neutrones”, señala Farah. “Si la masa es demasiado grande se forma un agujero negro, pero si las condiciones son adecuadas, la estrella de neutrones sobrevive al colapso”.\nLos magnetares suelen contar con más masa que el Sol, pero miden 16 kilómetros de ancho; y a medida que el giran, depositan energía en la supernova en expansión e incrementan su brillo. “La estrella de neutrones hereda el momento angular y el campo magnético de su astro progenitor y se comporta como una patinadora de hielo que encoge los brazos para girar más rápido. El núcleo de la estrella ha reducido tanto su tamaño que ahora es capaz de girar cientos de veces por segundo”, informa el experto.\nLos científicos observaron que SN 2024afav, situada a unos mil millones de años luz de distancia, mostraba una extraña secuencia o modulaciones en su brillo que ninguna interacción aleatoria podía explicar: las ondulaciones tenían una forma claramente sinusoidal y periódica, y ese período se acortaba rápidamente, añaden los expertos.\nLa teoría de Farah señalaba cómo el magnetar alimentaba la supernova desde su interior, pero no explicaba los altibajos de potencia y luminosidad. Los científicos concluyeron que parte del material de la explosión cayó de nuevo hacia la estrella de neutrones, lo que formó un disco de materia denominado disco de acreción.\n“Creemos que el disco se formó a partir de material de la estrella progenitora que no llegó a ser expulsado durante la explosión; volvió a caer y se acumuló alrededor del magnetar para formar un halo circular denso”, argumenta el autor.\nDebido a un efecto de la relatividad general conocido como precesión de Lense-Thirring, la propia estructura del espacio-tiempo, retorcida por el giro del magnetar, provocó que el disco se tambaleara. A medida que el disco giraba, bloqueaba y reflejaba periódicamente la luz del magnetar, por lo que convertía todo el sistema en un faro cósmico estroboscópico.\n“Probamos varias ideas, incluidos los efectos puramente newtonianos y la precesión impulsada por los campos magnéticos del magnetar, pero solo la precesión de Lense-Thirring coincidió perfectamente con la sincronización”, concluye Farah."
+  },
+  "sha256": {
+    "titular": "58de685bc80f6cf52209148a773fcb55364b2cce3588e83d0a3d81c9f049865e",
+    "entradilla": "c27283bd7d3c6f66d9d552dc8693d081a547633bd6f4a92e466c04e3f560a1b3",
+    "cuerpo": "8c95836029e39a270e02031242aa708fc9710f4f83f60efa5743e3cb89f99850"
+  }
+}

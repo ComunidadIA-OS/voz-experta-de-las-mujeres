@@ -1,0 +1,26 @@
+{
+  "id": "1012d86a7daf",
+  "url": "https://www.agenciasinc.es/Noticias/No-hay-pruebas-claras-de-que-los-medicamentos-con-cannabis-alivien-el-dolor-neuropatico-cronico",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-19T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: Cochrane | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Farmacología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:55:14+00:00",
+  "campos": {
+    "titular": "No hay pruebas claras de que los medicamentos con cannabis alivien el dolor neuropático crónico",
+    "entradilla": "El análisis de 21 ensayos clínicos con más de 2.100 pacientes no encuentra beneficios clínicamente relevantes frente al placebo y señala importantes limitaciones en la calidad y duración de los estudios disponibles.",
+    "cuerpo": "Una nueva revisión Cochrane indica que no existe evidencia científica clara de que los medicamentos con cannabis proporcionen un alivio del dolor neuropático crónico.\nEste tipo de dolor está causado por un daño de los nervios. La medicación actual ayuda solo a una minoría de los pacientes, lo que aumenta el interés en alternativas, como los fármacos con cannabis. Estos pueden incluir hierba de cannabis o ingredientes aislados de la planta del cannabis como el tetrahidrocannabinol (THC) por inhalación, espráis bucales, pastillas, cremas y parches para la piel.\nLos investigadores revisaron 21 ensayos clínicos con más de 2 100 adultos, que compararon medicamentos con cannabis con placebo durante períodos de 2 a 26 semanas.\nLos fármacos derivados del cannabis se clasificaron en tres categorías: los que contienen principalmente THC, el compuesto psicoactivo; los basados sobre todo en cannabidiol (CBD), sin efecto intoxicante; y los preparados combinados de THC y CBD, con proporciones similares de ambos.\nLa revisión no encontró evidencia de calidad alta o moderada de que los medicamentos con cannabis reduzcan el dolor neuropático más que el placebo en los tres tipos de medicamentos. Aunque los pacientes comunicaron pequeñas mejorías al utilizar productos con THC y CBD, estos cambios no fueron lo suficientemente grandes como para considerarse clínicamente significativos.\nLa información sobre los eventos adversos no fue consistente entre los ensayos incluidos, por lo que la certeza acerca de los efectos secundarios fue baja o muy baja en todos los tipos de medicamentos con cannabis.\nLos productos que contenían THC se asociaron con aumentos de síntomas como mareos y somnolencia, con un posible aumento del número de personas retiradas de los ensayos debido a los efectos secundarios. “Necesitamos estudios más grandes y bien diseñados con una duración del tratamiento de al menos 12 semanas que incluyan a personas con enfermedades concurrentes físicas y mentales para comprender completamente los efectos beneficiosos y perjudiciales de los medicamentos con cannabis”, afirma la autora principal de la revisión, Winfried Häuser, médica e investigadora de la Universidad Técnica de Múnich y el Centro Médico de Medicina del Dolor y Salud Mental de Saarbrücken, en Alemania.\nSegún Häuser, “en la actualidad, la calidad de la mayoría de los ensayos es demasiado baja para establecer conclusiones firmes”. Los autores concluyen que la evidencia sigue siendo débil e incierta, lo que subraya la necesidad de estudios de investigación de mayor calidad antes de poder recomendar medicamentos con cannabis para el dolor neuropático crónico."
+  },
+  "sha256": {
+    "titular": "d29c1adc1f86033effcf27833f15c57dec1f8e458b57f7229d983b79b5b565b4",
+    "entradilla": "14782d62b938ed8f778563fc05a18098dbfc92263eb0daae781abf1a42c2587f",
+    "cuerpo": "dddb23775d57fa17796a2179f501600d32a0145570f5a3121262ed2a9c24c05d"
+  }
+}

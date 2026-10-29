@@ -1,0 +1,37 @@
+{
+  "id": "5791d990fb5b",
+  "url": "https://www.agenciasinc.es/Noticias/La-clonacion-en-serie-genera-mutaciones-en-el-ADN-y-reduce-la-tasa-de-natalidad-en-ratones",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-24T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias clínicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:49:20+00:00",
+  "campos": {
+    "titular": "La clonación en serie genera mutaciones en el ADN y reduce la tasa de natalidad en ratones",
+    "entradilla": "Algunas plantas y animales pueden reproducirse sin sexo de forma exitosa, pero los mamíferos necesitan esta actividad para asegurar la calidad de los genes y su supervivencia a largo plazo. Un estudio demuestra que la clonación en ratones no puede extenderse más de 25 generaciones sin impactar contra la salud de la descendencia.",
+    "cuerpo": "La clonación no debe mantenerse de forma indefinida en mamíferos, ya que se acumulan mutaciones en el ADN después de varias generaciones. Una investigación, publicada en Nature Communications, revela que el apareamiento sigue siendo esencial para asegurar la integridad genómica de la descendencia.\nPese a que algunas plantas y animales pueden reproducirse de forma asexual, mamíferos como los ratones siguen necesitando el sexo. Según investigadores de la Universidad de Yamanashi (Japón), la clonación es interesante para la investigación científica, pero su baja tasa de éxito limita mucho su utilidad.\nAnteriormente, el equipo de Teruhiko Wakayama demostró que la clonación en serie podía llevarse a cabo hasta 25 veces sin perjudicar la salud de los descendientes, pero no determinaron si existía un límite a este sistema.\nPor ello, continuaron con sus experimentos y descubrieron que, a largo plazo, provoca una acumulación de mutaciones génicas letales y reduce la tasa de natalidad después de la 27ª generación.\nLos investigadores observaron que podían clonar a los ratones hasta la 57ª generación sin influir sobre la esperanza de vida.\nLas primeras generaciones gozaban de buena salud, pero las últimas no sobrevivían al nacimiento. Esto se debe a que las variaciones génicas se acumulaban en generaciones posteriores y conducían a una reducción de la tasa de natalidad a partir de la 40ª.\nPor otro lado, descubrieron que la clonación alteraba la estructura de la placenta, algo que ya se había observado previamente y que se confirmó en clones de todas las generaciones.\nCuando los roedores replicados se reproducían de forma natural, sus nietos presentaban una formación placentaria normal y una mejora en la fertilidad, lo que indicó que el apareamiento sigue siendo relevante para el mantenimiento de la integridad genómica.\nHoy en día, estos hallazgos arrojan luz sobre el límite tecnológico de la clonación en mamíferos y proporcionan información sobre la reparación del ADN gracias al apareamiento natural."
+  },
+  "sha256": {
+    "titular": "a534124d2a99928d75d71a84c59b2d3dbd462b8bf58600178e84b1adc3aa285e",
+    "entradilla": "57b58e847307998a6f2dcb75da83be651b0b714d2217e856b3d6c407ca2a6375",
+    "cuerpo": "a418584ee06d8c8782f37b34ea44ad5ac0382338ac93b1343e68dbbe3fe842b9"
+  },
+  "article": {
+    "headline": "La clonación en serie genera mutaciones en el ADN y reduce la tasa de natalidad en ratones",
+    "introduction": "Algunas plantas y animales pueden reproducirse sin sexo de forma exitosa, pero los mamíferos necesitan esta actividad para asegurar la calidad de los genes y su supervivencia a largo plazo. Un estudio demuestra que la clonación en ratones no puede extenderse más de 25 generaciones sin impactar contra la salud de la descendencia.",
+    "body": "La clonación no debe mantenerse de forma indefinida en mamíferos, ya que se acumulan mutaciones en el ADN después de varias generaciones. Una investigación, publicada en Nature Communications, revela que el apareamiento sigue siendo esencial para asegurar la integridad genómica de la descendencia.\nPese a que algunas plantas y animales pueden reproducirse de forma asexual, mamíferos como los ratones siguen necesitando el sexo. Según investigadores de la Universidad de Yamanashi (Japón), la clonación es interesante para la investigación científica, pero su baja tasa de éxito limita mucho su utilidad.\nAnteriormente, el equipo de Teruhiko Wakayama demostró que la clonación en serie podía llevarse a cabo hasta 25 veces sin perjudicar la salud de los descendientes, pero no determinaron si existía un límite a este sistema.\nPor ello, continuaron con sus experimentos y descubrieron que, a largo plazo, provoca una acumulación de mutaciones génicas letales y reduce la tasa de natalidad después de la 27ª generación.\nLos investigadores observaron que podían clonar a los ratones hasta la 57ª generación sin influir sobre la esperanza de vida.\nLas primeras generaciones gozaban de buena salud, pero las últimas no sobrevivían al nacimiento. Esto se debe a que las variaciones génicas se acumulaban en generaciones posteriores y conducían a una reducción de la tasa de natalidad a partir de la 40ª.\nPor otro lado, descubrieron que la clonación alteraba la estructura de la placenta, algo que ya se había observado previamente y que se confirmó en clones de todas las generaciones.\nCuando los roedores replicados se reproducían de forma natural, sus nietos presentaban una formación placentaria normal y una mejora en la fertilidad, lo que indicó que el apareamiento sigue siendo relevante para el mantenimiento de la integridad genómica.\nHoy en día, estos hallazgos arrojan luz sobre el límite tecnológico de la clonación en mamíferos y proporcionan información sobre la reparación del ADN gracias al apareamiento natural."
+  },
+  "published": "2026-03-24T17:00:00+01:00",
+  "cc_licence": true,
+  "source_type": "sinc_newsroom",
+  "sections": [
+    "Salud"
+  ]
+}

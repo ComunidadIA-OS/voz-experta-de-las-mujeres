@@ -1,0 +1,26 @@
+{
+  "id": "8cd4ea71a2f4",
+  "url": "https://www.agenciasinc.es/Noticias/Los-macacos-son-capaces-de-seguir-el-ritmo-de-la-musica",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-11-28T11:40:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:58:04+00:00",
+  "campos": {
+    "titular": "Los macacos son capaces de seguir el ritmo de la música",
+    "entradilla": "Un estudio muestra que los macacos, si son entrenados con metrónomo, pueden seguir el ritmo de la música. El hallazgo contradice la antigua hipótesis de que solo los animales con aprendizaje vocal podían moverse según un compás musical.",
+    "cuerpo": "Según un nuevo estudio, los macacos pueden seguir el ritmo de la música, lo que contradice la creencia de que solo los animales con capacidad para aprender a vocalizar pueden encontrar el ritmo y moverse al compás. Los detalles de la investigación, liderada por Universidad Nacional Autónoma de México (UNAM), se publican en la revista Science.\nSegún los autores, el descubrimiento ofrece nuevos datos que sugieren que las raíces del ritmo pueden ser mucho más profundas en nuestro pasado evolutivo de lo que se creía anteriormente.\nLos seres humanos tienen una capacidad única para percibir y moverse al compás de un ritmo musical constante. Se trata de una habilidad que se desarrolla en las primeras etapas de la vida y que requiere un complejo reconocimiento de patrones, predicción y coordinación motora.\nFuera del ámbito humano, la capacidad de sincronizar el movimiento con el ritmo —isocronismo— es muy poco frecuente en el reino animal y solo se ha observado en algunas aves y en individuos excepcionales de otras especies, lo que deja un vacío en nuestra comprensión de sus raíces evolutivas y neurobiológicas.\nUna de las principales teorías, la hipótesis del aprendizaje vocal, sugiere que la sincronización rítmica depende de circuitos cerebrales especializados que vinculan estrechamente la audición y el movimiento, y que evolucionaron para apoyar el aprendizaje vocal complejo.\nSin embargo, investigaciones anteriores muestran que los macacos, a pesar de no tener capacidad de aprendizaje vocal, pueden ser entrenados para sincronizar sus golpes de forma predictiva con los latidos del metrónomo.\nEn el estudio que se publica ahora, los autores investigaron si los macacos entrenados para sincronizar sus golpes con los latidos del metrónomo podían extender sus habilidades de golpear al metrónomo a la música real en toda su complejidad acústica.\nEn el experimento, dos macacos entrenados con el metrónomo escuchaban una de tres canciones seleccionadas por humanos y eran recompensados cuando golpeaban al ritmo de cada canción.\nSorprendentemente, ambos animales desarrollaron ritmos de golpeteo consistentes en todas las canciones, y cuando los autores cambiaron el tempo de la música, las fases de golpeteo de los macacos también cambiaron, lo que demostró que se sincronizaban con la estructura musical en lugar de responder de forma refleja a las señales.\nEste comportamiento se observó incluso cuando se presentó a los monos una canción que no habían escuchado antes y cuando ya no se les recompensaba por golpear al ritmo.\nSegún los autores, los hallazgos sugieren que, aunque los monos no experimentan la música tan plenamente como los humanos y requieren un entrenamiento considerable, la percepción del ritmo puede abarcar un continuo evolutivo más amplio de lo que se creía anteriormente y no se limita únicamente a las especies que aprenden a vocalizar."
+  },
+  "sha256": {
+    "titular": "b57369e0ce0625eac2d8bb3cabad390dec04663918d2cf79402014e4a976cc53",
+    "entradilla": "1602f470f8ca06f4c1aaf3e7361f90a22fa52637c179a20faa24f391afabbe92",
+    "cuerpo": "4d853d3345c08316a573d9e52d9362f7ace82891c52a67f77398ac7cde18360f"
+  }
+}

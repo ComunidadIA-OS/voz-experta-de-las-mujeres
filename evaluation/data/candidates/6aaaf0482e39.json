@@ -1,0 +1,26 @@
+{
+  "id": "6aaaf0482e39",
+  "url": "https://www.agenciasinc.es/Noticias/La-geometria-de-los-arboles-influye-en-la-difusion-del-polen-y-en-el-incremento-de-las-alergias",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-11T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:32+00:00",
+  "campos": {
+    "titular": "La geometría de los árboles influye en la difusión del polen y en el incremento de las alergias",
+    "entradilla": "El cambio climático alarga la temporada de polinización cada vez más, lo que conlleva que las personas alérgicas sufran sus efectos durante periodos más prolongados. Un estudio asegura que comprender los flujos de aire en zonas urbanas mejoraría la planificación de las zonas verdes en ciudades.",
+    "cuerpo": "La crisis climática prolonga la temporada polinizadora de las plantas, y en consecuencia, alarga la exposición alérgena cada año. Un estudio, publicado en Physics of Fluids, desarrolla un modelo matemático para investigar el flujo del aire en entornos urbanos y poner solución a este problema de salud pública.\nLos investigadores de la Universidad Aeronáutica Embry – Riddle (Estados Unidos), la Universidad de Ruan y la Universidad de Lille (Francia) crearon un sistema computacional avanzado para observar cómo la geometría de un árbol influye en la dispersión del polen.\nSegún afirma el primer autor del trabajo, Talib Dbouk, la estela de un árbol es muy compleja, y dentro de ella, existen múltiples parámetros que modifican el flujo del polen, como sus características biológicas, la densidad del follaje –depende de la estación– y la velocidad del viento.\n“Estos parámetros son esenciales para evaluar riesgos y futuras políticas de mitigación destinadas a limitar la exposición a los granos de polen alérgenos que se transportan por el aire”, declara el experto.\nEn el trabajo, los investigadores utilizaron técnicas avanzadas de simulación de fluidos, modelaron la porosidad de un árbol e incorporaron un algoritmo sensible al viento. La mayoría de los granos son invisibles a simple vista, por lo que este sistema permite que los expertos estudien el polen de una forma que no sería posible a través de mediciones experimentales.\nAplicaron sus técnicas a varias familias arbóreas como el roble, y compararon los resultados con datos reales. Una vez que confirmaron que las simulaciones eran fiables, emplearon el método para estudiar otros ejemplares como el tilo –Tilia cordata– que suele localizarse en la región francesa de Normandía.\nLos autores observaron la formación de remolinos cerca de este tipo de árbol, lo cual es muy habitual cuando el viento atraviesa estructuras con forma de dosel. La comparación entre el tilo y el roble mostró que la tipología, es decir su forma, follaje o porosidad, generan dinámicas de dispersión del polen diferente en el entorno que los rodea.\nActualmente, tienen previsto ampliar y mejorar sus modelos para predecir la dinámica de los granos de polen a mayor escala en entornos urbanos. “Este trabajo proporciona información cuantitativa que puede servir de base para las decisiones de planificación urbana y para que las autoridades orienten mejor la gestión de los espacios verdes en zonas urbanas”, señala Dbouk.\nEl trabajo contribuye a reducir los riesgos asociados a la exposición al polen alergénico en el aire y, por tanto, puede orientar futuras directrices y políticas de salud pública en zonas densamente pobladas."
+  },
+  "sha256": {
+    "titular": "a6b9411553b380b23f5a83524877ab4aed2f7a2ace76c258b8903cb46cfe68a3",
+    "entradilla": "d581e6de41ab2d8657aebf475fbca2666bfbbb2adc1db07e350548a3b644f02b",
+    "cuerpo": "630c6bae79442e8a8bcf75d985f8a1684e8599bacaa5b5fa0faf31f95b76d1ad"
+  }
+}

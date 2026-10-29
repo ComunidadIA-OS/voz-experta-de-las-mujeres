@@ -1,0 +1,179 @@
+{
+  "article_id": "3988fd0d6229",
+  "url": "https://www.agenciasinc.es/Noticias/En-Espana-se-preven-300-000-nuevos-casos-de-cancer-en-2026-pero-con-mejor-supervivencia",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:11+00:00",
+  "article_sha256": {
+    "titular": "3658c3a40632b633f999a2a13b592ec35d05a0dee2909ce53f8072031cf04cb4",
+    "entradilla": "072a290b3f19d4a069a6a3c5888b20d5163feffe305cb704c967262ef9a3d5c4",
+    "cuerpo": "8e803a75c68605314bd529a4d109ceebcd27d2fcc81357a7caceb2afe9da3b5d"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Javier de Castro",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "presidente de SEOM,",
+      "gender_representation": "man",
+      "gender_evidence": "presidente",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Jaume Galceran",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "el presidente de REDECAN",
+      "gender_representation": "man",
+      "gender_evidence": "presidente",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "el objetivo actual no es sólo vivir más, sino mejor, con menos toxicidad, más atención a los efectos a largo plazo y más apoyo a los supervivientes. La prevención, el diagnóstico precoz y la investigación siguen siendo claves para reducir la mortalidad por cáncer”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La supervivencia de los pacientes con cáncer de España es similar a la de los países de nuestro entorno. Se estima que se ha duplicado en los últimos 40 años y es probable que, aunque lentamente, continúe aumentando en los próximos años relacionado con la aplicación de nuevos tratamientos y una mayor implantación del cribado, por ejemplo, del cáncer colorrectal en los últimos años”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“En los últimos años existe una preocupación creciente por el incremento en la incidencia del cáncer en adultos jóvenes. Entre los tumores que más están creciendo en esta población destacan los de colon, mama, páncreas, estómago, testículo o endometrio, entre otros, con posibles factores de riesgo como las dietas inadecuadas, las disfunciones de la microbiota, la obesidad o el uso excesivo de antibióticos”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793120611125",
+        "nombre": "Javier de Castro",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 978,
+            "fin16": 994,
+            "texto": "Javier de Castro",
+            "inicio": 978,
+            "fin": 994
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 958,
+          "fin16": 968,
+          "texto": "presidente",
+          "inicio": 958,
+          "fin": 968
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1015,
+            "fin16": 1279,
+            "texto": "el objetivo actual no es sólo vivir más, sino mejor, con menos toxicidad, más atención a los efectos a largo plazo y más apoyo a los supervivientes. La prevención, el diagnóstico precoz y la investigación siguen siendo claves para reducir la mortalidad por cáncer”",
+            "tipo": "directa",
+            "inicio": 1015,
+            "fin": 1279
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5826,
+            "fin16": 6212,
+            "texto": "“La supervivencia de los pacientes con cáncer de España es similar a la de los países de nuestro entorno. Se estima que se ha duplicado en los últimos 40 años y es probable que, aunque lentamente, continúe aumentando en los próximos años relacionado con la aplicación de nuevos tratamientos y una mayor implantación del cribado, por ejemplo, del cáncer colorrectal en los últimos años”,",
+            "tipo": "directa",
+            "inicio": 5826,
+            "fin": 6212
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 958,
+          "fin16": 977,
+          "texto": "presidente de SEOM,",
+          "inicio": 958,
+          "fin": 977
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793120667625",
+        "nombre": "Jaume Galceran",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4602,
+            "fin16": 4616,
+            "texto": "Jaume Galceran",
+            "inicio": 4602,
+            "fin": 4616
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 4561,
+          "fin16": 4571,
+          "texto": "presidente",
+          "inicio": 4561,
+          "fin": 4571
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4139,
+            "fin16": 4548,
+            "texto": "“En los últimos años existe una preocupación creciente por el incremento en la incidencia del cáncer en adultos jóvenes. Entre los tumores que más están creciendo en esta población destacan los de colon, mama, páncreas, estómago, testículo o endometrio, entre otros, con posibles factores de riesgo como las dietas inadecuadas, las disfunciones de la microbiota, la obesidad o el uso excesivo de antibióticos”",
+            "tipo": "directa",
+            "inicio": 4139,
+            "fin": 4548
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 4558,
+          "fin16": 4582,
+          "texto": "el presidente de REDECAN",
+          "inicio": 4558,
+          "fin": 4582
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 128
+  }
+}

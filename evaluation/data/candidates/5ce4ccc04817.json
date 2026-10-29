@@ -1,0 +1,26 @@
+{
+  "id": "5ce4ccc04817",
+  "url": "https://www.agenciasinc.es/Noticias/Deisseroth-Hegemann-y-Nagel-ganan-el-Nobel-de-Medicina-por-sus-descubrimientos-de-optogenetica",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-05T11:44:00+02:00",
+  "fuente_y_derechos": "Fuente: Nobel Prize. | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:32:16+00:00",
+  "campos": {
+    "titular": "Deisseroth, Hegemann y Nagel ganan el Nobel de Medicina por sus descubrimientos de optogenética",
+    "entradilla": "La Real Academia Sueca de las Ciencias ha concedido el Premio Nobel de Fisiología a Karl Deisseroth, de la Universidad de Stanford, Peter Hegemann, de la Universidad Humboldt de Berlín, y Georg Nagel, de la Universidad de Würzburg, “por sus descubrimientos relativos a los canales iónicos activados por luz y la optogenética”.",
+    "cuerpo": "El Premio Nobel de 2026 en Fisiología o Medicina ha sido otorgado a los alemanes Karl Deisseroth, Peter Hegemann y el estadounidense Georg Nagel “por sus descubrimientos relativos a los canales iónicos activados por luz y la optogenética”, según ha explicado el comité sueco esta mañana.\nLa optogenética es un método que permite demostrar cómo las células nerviosas dan forma a los recuerdos, las emociones y los comportamientos en el cerebro vivo. Peter Hegemann y Georg Nagel descubrieron una proteína extraordinaria, la canalrodopsina, en un alga unicelular.\nKarl Deisseroth transformó la proteína en un interruptor controlado por la luz para las células nerviosas. Así, según apunta la academia sueca en un comunicado, “los galardonados han sentado las bases de una nueva era en la neurociencia”.\nLa forma en que el cerebro regula las emociones, los comportamientos y las funciones corporales ha sido durante mucho tiempo un misterio. En el siglo XX, en ciencia se comenzó a estudiar qué áreas del cerebro influyen en qué funciones, pero los métodos utilizados no les permitían demostrar relaciones causales. La imagen que se desarrolló del cerebro era como un croquis, lleno de interrogantes e incógnitas. Ahora todo esto está cambiando.\n“La optogenética ofrece oportunidades para cartografiar el cerebro de una forma con la que antes solo podíamos soñar”, afirma Per Svenningsson, presidente del Comité Nobel de Fisiología o Medicina.\nTodo comenzó con la curiosidad de Peter Hegemann. Se preguntaba cómo la Chlamydomonas, un alga unicelular, es capaz de nadar hacia una fuente de luz. A principios de la década de 2000, él y Georg Nagel descubrieron la canalrodopsina, una proteína de las algas con propiedades únicas, presente en la superficie de la célula.\nCuando se ilumina con luz azul, se abre un canal a través de la proteína. A continuación, los iones cargados fluyen hacia el interior de la célula, generando un impulso eléctrico. Descubrieron que, independientemente de la célula en la que introdujeran la proteína, dichas células se volvían sensibles a la luz.\nTreas esto, Karl Deisseroth introdujo el gen de la canalrodopsina en neuronas de ratas. Al iluminar las células con luz azul, logró desencadenar una señal nerviosa. Publicó este avance en 2005.\nDos años más tarde, consiguió que este interruptor controlado por luz para las neuronas funcionara en los cerebros de ratones vivos. Este método para controlar las señales nerviosas con luz se denomina ahora optogenética y ha adquirido rápidamente relevancia mundial.\nGracias a la optogenética, los investigadores han podido revelar los circuitos neuronales que regulan recuerdos, emociones y comportamientos específicos relacionados con trastornos neurológicos y psiquiátricos. En medicina clínica, los investigadores están utilizando este método para intentar restaurar la vista en personas con discapacidad visual.\nLa optogenética ha transformado radicalmente nuestra comprensión del cerebro, dice el comité sueco. “Cada día surgen nuevos descubrimientos que contribuyen a resolver uno de los grandes misterios de la humanidad: cómo funciona nuestro increíble cerebro”."
+  },
+  "sha256": {
+    "titular": "d6f65a116f210227f5ab017d3eea90a365b92081d036390d53c5ff8c7e6e9667",
+    "entradilla": "7d74fb1b1e9b8ed656ac87c73fa49a5aff91a54e7c21107f5bffedcad7cbf82e",
+    "cuerpo": "1c5c5aeab4fe9f49c9cf54d3848d33092d76a3330b9dec4cd687f5a682322de6"
+  }
+}

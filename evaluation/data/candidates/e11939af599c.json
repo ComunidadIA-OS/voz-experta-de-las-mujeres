@@ -1,0 +1,26 @@
+{
+  "id": "e11939af599c",
+  "url": "https://www.agenciasinc.es/Noticias/Un-nuevo-metodo-con-IA-puede-predecir-erupciones-volcanicas-con-hasta-12-horas-de-antelacion",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-11-06T09:02:00+01:00",
+  "fuente_y_derechos": "Fuente: UGR | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades tecnológicas"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:59:29+00:00",
+  "campos": {
+    "titular": "Un nuevo método con IA puede predecir erupciones volcánicas con hasta 12 horas de antelación",
+    "entradilla": "Investigadores de la Universidad de Granada lideran un estudio para el desarrollo de una técnica probada en volcanes de varios países del mundo, que permite también confirmar el final de una erupción en apenas tres horas, mejorando significativamente los protocolos de seguridad ciudadana.",
+    "cuerpo": "Una investigación internacional liderada por la Universidad de Granada (UGR) ha conseguido desarrollar un procedimiento basado en Inteligencia Artificial y Teoría de la Señal capaz de predecir erupciones volcánicas con al menos doce horas de antelación y confirmar su finalización en tan solo tres, un avance crucial para la gestión de riesgos y la protección civil.\nEsta metodología, que ya ha sido validada con éxito en las erupciones del volcán Tajogaite en La Palma (2021) y el Volcán de Fuego de Colima (México), analiza en tiempo real parámetros sísmicos para anticipar eventos eruptivos y caracterizar su comportamiento.\nEl estudio, recientemente publicado en la revista Journal of Volcanology and Geothermal Research, en el que participan también investigadores de la Universidad de Colima (México), el centro INVOLCAN de Tenerife y la Universidad de Canterbury (Christchurch, Nueva Zelanda), sienta las bases para una nueva generación de herramientas de pronóstico volcánico.\nEste novedoso enfoque se basa en el análisis conjunto de tres parámetros sísmicos específicos: la entropía de Shannon, el índice de frecuencia y la curtosis. La entropía mide el grado de desorden de las señales sísmicas, y su disminución indica que los sismos se están organizando, un patrón que suele ocurrir justo antes de una erupción.\nEl índice de frecuencia, por su parte, identifica cambios en las frecuencias dominantes asociadas a diferentes tipos de actividad magmática, mientras que la curtosis es eficaz para detectar eventos sísmicos impulsivos.\nEsta técnica ha sido probada ya con éxito en volcanes de España, México, Grecia, Italia, Estados Unidos (Hawaii, Alaska y Oregón), Perú y Rusia. En el caso de la erupción de La Palma en 2021, este método logró pronosticar el evento con más de nueve horas de anticipación.\nAsimismo, el análisis permitió determinar el final del proceso eruptivo casi en tiempo real, registrando un cambio claro en la entropía de Shannon que coincidió con la última evidencia visual de actividad. Para el Volcán de Colima, el análisis de una década de datos (2013-2022) ha demostrado la utilidad de esta técnica para identificar el inicio de fases eruptivas intensas, el crecimiento de domos de lava y la transición del volcán a estados de reposo.\nLa utilidad de este sistema trasciende el ámbito de la propia investigación. Durante la reciente crisis volcánica en la isla griega de Santorini, el equipo de la UGR, dirigido por el profesor del Departamento de Física Teórica y del Cosmos y el Instituto Andaluz de Geofísica Jesús Ibáñez, y por la profesora del departamento de Teoría de la Señal, Telemática y Comunicaciones Carmen Benítez, actuó como asesor del gobierno griego y de los servicios de protección civil, aplicando su conocimiento para el seguimiento e identificación de la naturaleza de la actividad sísmica.\nLa implementación de esta metodología en los sistemas de monitorización volcánica representa un salto cualitativo en la seguridad. Una alerta temprana con 12 horas de margen, como la que hubiera sido posible en La Palma, permitiría a las autoridades activar con tiempo realista los protocolos de evacuación y aviso a la población, salvaguardando vidas y minimizando el impacto social de las emergencias volcánicas."
+  },
+  "sha256": {
+    "titular": "a09626317856182f099adcaab4e7e7dc139e32588b3b0279effda83dab09ce8f",
+    "entradilla": "beab1b472df4f13f462950d1f57e2000a65b2e9d24e68435be521ad1a3cd4b83",
+    "cuerpo": "9c1e80328e3f21b77e9396cce5e3a0aced5bb7d6771dd256f198f874e65a1809"
+  }
+}

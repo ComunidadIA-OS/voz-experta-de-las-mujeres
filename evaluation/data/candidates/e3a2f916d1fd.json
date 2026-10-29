@@ -1,0 +1,26 @@
+{
+  "id": "e3a2f916d1fd",
+  "url": "https://www.agenciasinc.es/Noticias/NeuMap-un-atlas-de-los-neutrofilos-que-redefine-su-papel-en-la-salud-infeccion-e-inflamacion",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-03T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: CNIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:45+00:00",
+  "campos": {
+    "titular": "NeuMap, un atlas de los neutrófilos que redefine su papel en la salud, infección e inflamación",
+    "entradilla": "Un consorcio internacional de centros en España, Estados Unidos y China presenta el primer mapa que ordena la enorme diversidad de los neutrófilos a lo largo de tejidos, etapas de vida y patologías. El recurso abre una vía inédita para estudiar la inmunidad y diseñar nuevas estrategias diagnósticas y terapéuticas.",
+    "cuerpo": "Un equipo científico internacional ha dado a conocer NeuMap, el primer atlas global que describe con precisión la arquitectura de los neutrófilos, las células inmunitarias más abundantes y la “primera línea de defensa” frente a infecciones y daños en el organismo. El trabajo, publicado en Nature, redefine la comprensión de estas células y sugiere nuevas posibilidades para abordar enfermedades inflamatorias, cardiovasculares, infecciosas y cáncer.\nLos responsables del proyecto proceden del Centro Nacional de Investigaciones Cardiovasculares (CNIC, España), la Universidad Carlos III de Madrid (España), la Universidad de Yale (Estados Unidos) y la Universidad de Westlake (China), instituciones que han liderado un análisis sin precedentes de más de un millón de neutrófilos mediante tecnologías avanzadas de secuenciación.\nPese a su relevancia biológica, hasta ahora se conocía poco sobre cómo funcionan realmente los neutrófilos, cómo se organizan en cada tejido o por qué desempeñan papeles tan distintos: desde salvar la vida ante una infección hasta agravar la inflamación en cuadros como la covid-19. NeuMap ofrece, por primera vez, una guía que ordena esta heterogeneidad, señalan los autores.\n“Lo más sorprendente —explica Iván Ballesteros, profesor de la UC3M e investigador del CNIC— es que cada neutrófilo vive apenas unas horas, pero juntos mantienen una arquitectura estable durante toda la vida. Es un patrón que emerge del caos. Comprender esta lógica abre nuevas vías para aprender a guiar la inmunidad hacia la curación”.\nHasta ahora, la falta de un marco de referencia había dificultado interpretar el papel real de los neutrófilos. Los estudios previos se centraban con frecuencia en enfermedades concretas y ofrecían una imagen fragmentada. El investigador Andrés Hidalgo, con afiliación Yale-CNIC, subraya: “Aquí hemos reunido una variedad enorme de condiciones, desde el embarazo y el desarrollo fetal hasta infecciones, cáncer, infarto o envejecimiento”.\nLa integración masiva de datos ha permitido identificar patrones comunes que subyacen a la aparente diversidad de estas células. Daniela Cerezo-Wallis, investigadora de la Universidad de Yale y coprimera autora, señala: “Al integrar todos estos datos hemos podido observar cómo los neutrófilos siguen patrones comunes a pesar de su aparente diversidad”.\nLos análisis comparativos entre especies añaden otra capa de relevancia. Andrea Rubio-Ponce, co-primera autora e investigadora del CNIC, detalla que muchos de los programas celulares observados son “sorprendentemente similares en ratón y humano”, lo que facilita trasladar los hallazgos a estudios clínicos. En la misma línea, Laiguan Ng, de la Universidad de Westlake, destaca que esta conservación acelera el desarrollo de biomarcadores y potenciales terapias.\nHerramienta práctica\nAdemás de ofrecer una comprensión estructural de estas células, NeuMap constituye una herramienta práctica: permitirá identificar qué tipos de neutrófilos participan en una patología concreta y qué función podrían desempeñar, algo que puede resultar clave para enfermedades donde la inflamación es determinante.\nEl atlas será de libre acceso para investigadores de todo el mundo y aspira a convertirse en una referencia fundamental en inmunología, biología de sistemas y medicina traslacional."
+  },
+  "sha256": {
+    "titular": "f383820aab216b9a7063bb405b29452805567fb94f68be91fd0e90071f5daa3f",
+    "entradilla": "a6390fae3aabb5427ff38780007e9631134c5d7ae37a53b05fad0f93d939aae8",
+    "cuerpo": "7e480c3d8898658709c551f4ce94569437ea121139722f9fdb0bafea30a56cc0"
+  }
+}

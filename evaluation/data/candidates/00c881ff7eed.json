@@ -1,0 +1,26 @@
+{
+  "id": "00c881ff7eed",
+  "url": "https://www.agenciasinc.es/Noticias/Revelan-que-la-parte-menos-conocida-de-la-proteina-Spike-del-coronavirus-es-vital-para-la-infeccion",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-09T10:55:00+01:00",
+  "fuente_y_derechos": "Fuente: UV | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias clínicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:27+00:00",
+  "campos": {
+    "titular": "Revelan que la parte menos conocida de la proteína Spike del coronavirus es vital para la infección",
+    "entradilla": "Un equipo liderado por el CSIC y la Universidad de Valencia ha descubierto que una región poco estudiada de la proteína Spike del coronavirus SARS-CoV-2 no es una simple ‘ancla’ que sujeta a la proteína a la membrana del virus, sino que es clave para el proceso de infección.",
+    "cuerpo": "Un equipo del Consejo Superior de Investigaciones Científicas (CSIC) y la Universitat de València (UV) ha descubierto que una región hasta ahora poco estudiada de la proteína Spike del coronavirus SARS-CoV-2 resulta vital para que el virus pueda entrar en las células humanas.\nEl trabajo, que aparece publicado en la revista Communications Biology, demuestra que el llamado dominio transmembrana no es una simple ancla que sujeta la proteína a la membrana del virus, como se pensaba hasta el momento. Esta pieza está activa y es básica en el proceso de infección.\nLa proteína Spike es la clave que utiliza el coronavirus para reconocer y fusionarse con las células humanas. “Comprender todos los engranajes de la maquinaria del coronavirus es primordial si queremos estar preparados frente a futuras variantes o incluso ante otros virus similares”, puntualiza Luis Martínez Gil, investigador principal y coordinador del estudio, además de profesor del Departamento de Bioquímica y Biología Molecular de la UV.\nEl trabajo ha sido efectuado por el Laboratorio de Proteínas de Membrana (dirigido por Ismael Mingarro) de la Facultad de Ciencias Biológicas del Instituto Universitario de Biotecnología y Biomedicina (Biotecmed) de la UV, en colaboración con investigadoras del Instituto de Biología Integrativa de Sistemas (I2SysBio, centro mixto del CSIC y la UV).\nDesde el inicio de la pandemia de covid en 2020, las partes externas del coronavirus habían sido analizadas al detalle, pero el papel de su tramo final, que atraviesa la membrana viral, no había sido aclarado. “Nuestros resultados muestran que la secuencia y estructura de esta región son críticas: pequeños cambios bastan para que el virus pierda gran parte de su capacidad de infectar”, explica Juan Ortiz Mateu (Biotecmed), primer autor del trabajo.\nAdemás, la investigación ha concluido que esta región presenta pocas alteraciones en las diferentes variantes del coronavirus. Por lo tanto, se refuerza la idea de que este dominio transmembrana de la proteína Spike no es una región que solo inserta la proteína en la membrana, sino que es un elemento importante que modula interacciones de las que depende la eficiencia infectiva.\nDurante la exploración científica, los investigadores introdujeron mutaciones en los lugares concretos de las proteínas, y observaron la reducción de la efectividad con que la que el virus conseguía introducirse en las células. También se ha revelado que el dominio transmembrana ayuda a que la proteína Spike se una en grupos de tres, la estructura necesaria para la correcta fusión del virus a la célula.\nLos autores defienden que esta investigación, además de entender mejor cómo actúa y se desarrolla el virus, permite que se ponga el foco en el descubrimiento de nuevos fármacos y tratamientos relacionados con esta parte de la proteína. Es decir, se abre la puerta a experimentar con nuevos enfoques terapéuticos que no se habían estudiado previamente, puesto que se podría utilizar el dominio transmembrana para intervenir y bloquear la proteína Spike, y conseguir frenar la infección.\nEl trabajo ha contado con la financiación de varios programas públicos, dentro de los proyectos del Ministerio de Ciencia, Innovación y Universidades, la Agencia Estatal de Investigación y la Unión Europea. También del proyecto de investigación Prometeo de la Generalitat Valenciana."
+  },
+  "sha256": {
+    "titular": "f87137898f37899a9677e1a9e5c45fcac858d6cee2f82254d4c6dc41e0d51b95",
+    "entradilla": "1378c38fb226806790f32a33f0f6a27a01ad1caf63c3c0b4f9de7ea01ca79d3d",
+    "cuerpo": "c4655786bec365dbe507760395634bb97cef8c37bfe8bd994b766348bb27cf90"
+  }
+}

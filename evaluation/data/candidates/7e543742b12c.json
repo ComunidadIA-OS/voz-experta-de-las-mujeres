@@ -1,0 +1,26 @@
+{
+  "id": "7e543742b12c",
+  "url": "https://www.agenciasinc.es/Noticias/DeepSeek-presenta-su-nuevo-modelo-de-IA-y-lo-situa-a-la-altura-de-Anthropic-o-Google",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-04-24T10:53:00+02:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:46:41+00:00",
+  "campos": {
+    "titular": "DeepSeek presenta su nuevo modelo de IA y lo sitúa a la altura de Anthropic o Google",
+    "entradilla": "La compañía china de inteligencia artificial vuelve a tensar la competencia global en el sector tecnológico. Su nuevo modelo, V4‑Pro‑Max, de carácter abierto, reivindica avances técnicos con los que aspira a situar al desarrollador entre los referentes internacionales del momento.",
+    "cuerpo": "DeepSeek presentó este viernes la versión preliminar y de código abierto de su nuevo modelo de inteligencia artificial, el V4, del que asegura que ofrece un rendimiento comparable a rivales de EE UU. en ámbitos como el razonamiento, el conocimiento general y las capacidades para agentes.\nLa compañía china indicó en un comunicado publicado en su cuenta oficial en la red social WeChat que el sistema se divide en V4-Pro y V4-Flash, y afirmó que su versión de máximo razonamiento alcanza posiciones de liderazgo global.\nEsta firma ya causó un considerable impacto en los mercados a comienzos de 2025 con su modelo R1, capaz de competir con sus pares estadounidenses a una fracción de su coste.\nSegún los datos técnicos publicados, el V4-Pro-Max supera a Claude-Opus-4.6-Max (Anthropic) y a GPT-5.4-xHigh (OpenAI) en pruebas de conocimiento, y se sitúa en niveles similares en tareas de ingeniería de software.\nDeepSeek sostuvo asimismo que su nuevo modelo queda solo ligeramente por debajo de Gemini-3.1-Pro-High, de Google, en determinados apartados de razonamiento.\nLa firma señaló asimismo que V4 incorpora una ventana de contexto de hasta un millón de tokens —las unidades mínimas de texto que procesan los modelos lingüísticos—, una capacidad que atribuye a una nueva arquitectura de atención que, según su explicación, reduce las necesidades de cómputo y memoria frente a los métodos tradicionales.\nDeepSeek aseguró además que V4 ha sido optimizado para marcos de agentes como Claude Code, OpenClaw, OpenCode o CodeBuddy, con mejoras en tareas de codificación y de generación de documentos.\nDeepSeek no detalló el hardware empleado para entrenar el V4, tras la irrupción de su anterior modelo en 2025, que tuvo un fuerte impacto precisamente por su estrategia de entrenamiento.\nLa empresa aseguró entonces que R1 había sido entrenado en 55 días con un presupuesto de 5,57 millones de dólares, muy por debajo de las cifras que manejan competidores estadounidenses, lo que alimentó el debate sobre si era posible desarrollar modelos avanzados con menos potencia de cálculo y menor coste.\nEn los últimos meses, la compañía había seguido ampliando su catálogo con nuevas versiones de R1 y con sistemas como DeepSeek-OCR o V3.2, este último también presentado por la empresa como comparable a rivales de OpenAI y Google en algunos apartados.\nEl anuncio de V4 se enmarca además en una fase de intensa competencia en el sector chino de la IA, donde firmas como Baidu, Alibaba, Tencent, ByteDance o MiniMax han acelerado el lanzamiento de modelos y agentes, en un contexto marcado por la rivalidad tecnológica con EE UU., las restricciones al acceso chino a semiconductores avanzados y la apuesta oficial de Pekín por reforzar la autosuficiencia en este sector."
+  },
+  "sha256": {
+    "titular": "42413a35bc01e22e88b2504d6f30efdb7beb58affd8c078bcbbee449f1d6ab36",
+    "entradilla": "7d3f1d8bc197d0e0409b811c93fee31a9852c46d7ba05c75565a295629712a25",
+    "cuerpo": "0fcefeb795cc3c0df83195451e091001ab5a1b00fdc41957d075b0207bcd7508"
+  }
+}

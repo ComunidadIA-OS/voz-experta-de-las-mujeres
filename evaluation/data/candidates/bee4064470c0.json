@@ -1,0 +1,26 @@
+{
+  "id": "bee4064470c0",
+  "url": "https://www.agenciasinc.es/Noticias/La-IA-y-la-computacion-cuantica-aceleran-el-diseno-de-nuevos-materiales",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-15T11:50:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:42:14+00:00",
+  "campos": {
+    "titular": "La IA y la computación cuántica aceleran el diseño de nuevos materiales",
+    "entradilla": "Un equipo de la Universidad de Washington demuestra que combinar inteligencia artificial con ordenadores cuánticos permite simular sistemas complejos y descubrir propiedades inéditas en estos materiales. Este avance podría impulsar el desarrollo de nuevos dispositivos de computación y electrónica más eficientes.",
+    "cuerpo": "Los materiales cuánticos —aquellos cuyas propiedades emergen de la mecánica cuántica y no de la física clásica— están en el centro de tecnologías como la computación y la electrónica de bajo consumo. Investigadore de la Universidad de Washington (EE UU) han explorado nuevas formas de analizarlos mediante inteligencia artificial y ordenadores cuánticos.\nPropiedades como la superconductividad, el entrelazamiento o formas inusuales de magnetismo “suelen originarse en patrones atómicos muy pequeños, pero pueden amplificarse y controlarse a escalas mayores”, explican los autores, que firman dos estudios recientes en PNAS y Nature Communications.\nDiseñar estos materiales desde cero es, sin embargo, un proceso costoso y complejo: requiere simular cómo se comportan grandes conjuntos de átomos, algo que hasta ahora dependía de superordenadores. Incluso así, “algunos materiales parecen ordinarios en pequeños grupos de átomos, pero revelan propiedades nuevas cuando sus estructuras se repiten a gran escala”, señalan.\nEn uno de los trabajos, el equipo emplea inteligencia artificial para reproducir el comportamiento de sistemas mucho mayores de lo habitual. El modelo actúa como “un sustituto rápido y relativamente barato de un superordenador”, capaz de extrapolar el comportamiento de grandes estructuras a partir de datos más reducidos.\nCon esta herramienta, los investigadores simularon capas de átomos apiladas de forma repetida. El resultado fue la aparición de “fenómenos completamente nuevos que no aparecían a pequeña escala y que habrían sido impracticables de modelar con técnicas tradicionales”.\nA partir de ahí, pueden seleccionar los casos más prometedores e intentar validarlos experimentalmente.\nEl segundo estudio, también liderado por investigadores de la Universidad de Washington, aborda un tipo distinto de problema. Los ordenadores cuánticos, basados en los mismos principios físicos que estos materiales, resultan especialmente útiles para analizar sistemas difíciles de abordar con métodos clásicos.\nEn este trabajo, el equipo utilizó un procesador cuántico para estudiar un estado exótico de la materia conocido como estado de Laughlin, relevante en fenómenos como el efecto Hall cuántico fraccional.\n“Lo emocionante es que la IA y la computación cuántica están empezando a cambiar no solo qué problemas podemos resolver, sino cómo hacemos investigación”, afirma Ting Cao, profesor de ciencia de materiales e ingeniería en este centro y autor principal de ambos estudios.\nAmbas técnicas cumplen funciones distintas: la inteligencia artificial permite explorar configuraciones complejas de forma rápida, mientras que los ordenadores cuánticos pueden describir con mayor precisión ciertos fenómenos.\n“El siguiente paso es combinar estas herramientas”, señala Cao. “Podemos usar la IA para guiar simulaciones cuánticas, y los ordenadores cuánticos para generar nuevos datos que mejoren los modelos de IA”.\nEl objetivo es integrar ambos métodos en sistemas híbridos que permitan avanzar más deprisa en la identificación de nuevos materiales.\nPara los autores, estos resultados reflejan una transformación en la disciplina. “Estamos al inicio de una nueva era”, sostiene Di Xiao, coautor del estudio. “Nuestro campo está cambiando de manera fundamental. Cosas que literalmente eran imposibles hace unos años ahora se están volviendo rutinarias”.\nAunque muchas aplicaciones siguen en desarrollo, los trabajos muestran cómo la combinación de estas tecnologías permite estudiar fenómenos que hasta ahora quedaban fuera del alcance de la simulación."
+  },
+  "sha256": {
+    "titular": "0a695ba737f4932720d911b7eb87e32f781cb379cc598f57dd1566e82849f865",
+    "entradilla": "2a54ffafc2cf4da050ebab1fb64de8571e3cba08b51b5220c9a365554c9a7313",
+    "cuerpo": "e01fdf0988bfce67b4b50fd60f277c6bab77100f53f974f90b37615207968ae7"
+  }
+}

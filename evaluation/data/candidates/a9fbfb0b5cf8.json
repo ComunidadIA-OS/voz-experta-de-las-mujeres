@@ -1,0 +1,26 @@
+{
+  "id": "a9fbfb0b5cf8",
+  "url": "https://www.agenciasinc.es/Noticias/Cambios-geneticos-en-un-norovirus-explican-el-aumento-de-brotes-de-gastroenteritis-en-el-mundo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-04T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: ISCIII | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Epidemiología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:40+00:00",
+  "campos": {
+    "titular": "Cambios genéticos en un norovirus explican el aumento de brotes de gastroenteritis en el mundo",
+    "entradilla": "Una investigación publicada en Nature Communications detalla cómo una variante del genotipo GII.17 ha logrado reemerger y expandirse desde 2023 gracias a mutaciones que refuerzan su capacidad de transmisión y le permiten esquivar mejor la respuesta inmunitaria. El trabajo sitúa a la proteína VP1 como pieza central en la adaptación del virus y en el diseño de futuras vacunas.",
+    "cuerpo": "Un estudio internacional con participación del Instituto de Salud Carlos III (ISCIII) ha identificado los cambios genéticos que explican la reemergencia y rápida expansión del norovirus GII.17, responsable del aumento de brotes de gastroenteritis registrado entre 2023 y 2025 en diferentes países.\nLa investigación, liderada por equipos de Estados Unidos y Alemania y publicada en Nature Communications, confirma que detrás del repunte está una nueva variante del genotipo GII.17 que ha logrado adaptarse con eficacia a la población humana.\nEl norovirus es uno de los principales agentes causantes de gastroenteritis aguda en todas las edades. Muy contagioso, se transmite por alimentos, agua o superficies contaminadas y a través del contacto directo, especialmente en entornos cerrados. Aunque la enfermedad suele ser leve, puede complicarse en menores y personas mayores. Tradicionalmente, los brotes más frecuentes estaban vinculados al genotipo GII.4, pero el GII.17 ya había mostrado un aumento puntual en Asia entre 2013 y 2016, cuando aparecieron las variantes C y D. Tras años de circulación discreta, el resurgir del GII.17 en Europa —incluida España— y América despertó el interés científico.\nEl nuevo estudio analiza más de 1 400 genomas de norovirus GII.17, con muestras recientes y datos procedentes de bases de referencia internacionales. Entre ellos figuran genomas completos obtenidos en España mediante la caracterización molecular de brotes coordinada por el Centro Nacional de Microbiología del ISCIII, cuya participación permitió integrar la información nacional en la evolución global del virus.\nLos resultados apuntan a que la variante responsable del aumento de infecciones está más emparentada con la antigua variante C, pero presenta un patrón propio de mutaciones que afectan especialmente a la proteína VP1, encargada de conformar la cápside viral.\nEstos cambios le confieren una identidad genética distinta y han favorecido su éxito reciente. El trabajo muestra que, en 2023, la variante presentaba una elevada diversidad genética que se fue reduciendo durante 2024, señal de que el virus estaba afinando su adaptación para transmitirse con mayor eficiencia.\nLos investigadores comprobaron que las mutaciones en VP1 mejoraron la capacidad del virus para unirse a determinados azúcares que actúan como factores de adherencia necesarios para iniciar la infección.\nEstas alteraciones modificaron además sus propiedades antigénicas, lo que permitió al virus evadir mejor el sistema inmunitario. Según los autores, esta combinación habría ampliado el espectro de personas susceptibles, impulsando la rápida expansión de la variante en Europa y América. El análisis intraindividual reveló incluso que algunas mutaciones clave empezaron a seleccionarse dentro de los propios pacientes antes de propagarse a la población.\n“La nueva variante del norovirus GII.17 ha seguido un proceso evolutivo dinámico, adaptándose para infectar con mayor eficacia a los seres humanos”, explica María Dolores Fernández-García, responsable del grupo de Gastroenteritis Víricas del Centro Nacional de Microbiología (ISCIII) y miembro del CIBER-ISCIII. Subraya que el caso del GII.17 evidencia “la importancia de la colaboración internacional y de la vigilancia genómica para entender cómo los virus emergen y encuentran nuevas oportunidades de infección”.\nAdemás, el estudio destaca el valor de la proteína VP1 como diana para vacunas en desarrollo frente al norovirus. “Conocer cómo pequeñas mutaciones en VP1 afectan la unión del virus a las células y su capacidad de escapar a la inmunidad natural puede ayudar a diseñar vacunas más efectivas y a anticiparnos a futuras variantes”, añade Fernández-García.\nLa investigación ha contado con financiación del ISCIII a través de la Acción Estratégica en Salud Intramural. Su publicación refuerza la necesidad de mantener activa la vigilancia genómica para detectar de forma temprana variantes virales que puedan alterar los patrones globales de infección."
+  },
+  "sha256": {
+    "titular": "29765a9911e385a221547341c44a9119de878fe397d2968d8c76a00dec8749a6",
+    "entradilla": "8a32507d46eef6e44595f7a20690fcbc37d540f1b5d721281364e4e573e1ce5d",
+    "cuerpo": "815608f3cdd753c9db6e1f760179b91aa0a2abec9b3689ec4b114584cd6ad14f"
+  }
+}

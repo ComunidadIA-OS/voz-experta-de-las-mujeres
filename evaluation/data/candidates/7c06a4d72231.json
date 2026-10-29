@@ -1,0 +1,26 @@
+{
+  "id": "7c06a4d72231",
+  "url": "https://www.agenciasinc.es/Noticias/Crean-organoides-de-pancreas-cyborg-capaces-de-estimular-la-secrecion-de-insulina",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-02-19T20:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias clínicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:52:02+00:00",
+  "campos": {
+    "titular": "Crean organoides de páncreas ‘cyborg’ capaces de estimular la secreción de insulina",
+    "entradilla": "El uso de electrónica flexible integrada en miniórganos derivados de células madre permite medir y estimular la actividad eléctrica de hormonas como la insulina o el glucagón para mejorar su respuesta a la glucosa.",
+    "cuerpo": "Un equipo de investigación liderado por Qiang Li, de la Universidad de Harvard, ha desarrollado una nueva generación de organoides pancreáticos ‘cyborg’. Estos dispositivos combinan electrónica flexible en miniatura con islotes pancreáticos derivados de células madre humanas, lo que permite por primera vez monitorizar en tiempo real la actividad eléctrica relacionada con la regulación de la glucosa en las células alfa y beta mientras estas maduran.\nLas células de los islotes pancreáticos son responsables de secretar hormonas fundamentales: el glucagón (célula alfa) y la insulina (célula beta). Este proceso ocurre como respuesta directa a cambios eléctricos en la membrana celular. Gracias a la electrónica implantada, los científicos no solo han podido observar estos cambios, sino también estimular las células para potenciar su capacidad de respuesta ante el azúcar en sangre.\nSegún explican los autores en el estudio publicado esta semana en la revista Science, “implantar y distribuir esta nanoelectrónica en los cuerpos de los organoides en desarrollo nos permite estudiar la dinámica de la electrofisiología a escala celular durante la organogénesis”. Este enfoque supera las limitaciones de las técnicas actuales, que a menudo son invasivas o no permiten un seguimiento prolongado en el tiempo.\nLa integración de sensores flexibles en tejidos biológicos ofrece una vía inédita para estudiar la biología del páncreas con una precisión sin precedentes. Los investigadores señalan que estos organoides “proporcionan una plataforma para el seguimiento continuo y con resolución de célula única de la maduración eléctrica de las células alfa y beta dentro de un tejido 3D intacto”.\nLa investigación también vincula esta actividad eléctrica con la expresión genética de las células, analizando cómo les afectan diferentes compuestos químicos y los ritmos circadianos. Para el equipo científico, este avance es un paso crítico hacia la medicina personalizada y el trasplante de tejidos: “Esta plataforma potencia el descubrimiento de reguladores de los islotes derivados de células madre y proporciona una ruta hacia la ingeniería de islotes humanos totalmente funcionales y ajustables”.\nEn un artículo de perspectiva que acompaña al estudio, Jochen Lang (Universidad de Ottawa, Canadá) y Matthieu Raoux (Universidad de Burdeos, Francia), investigadores en este campo, destacan que estos sistemas ‘cyborg’ podrían servir de guía para cultivar organoides humanos plenamente funcionales. Esta capacidad de monitorización asegura que los tejidos creados en el laboratorio alcancen el grado de madurez necesario antes de cualquier aplicación clínica en pacientes con diabetes."
+  },
+  "sha256": {
+    "titular": "42db03e27be390709e25218a21991b56f2caf9ad1ed6040e611146c0927dd165",
+    "entradilla": "2dc82d0483012f0b98ec58d1e5bb7d7bc42ace17228c934048c2dffbedc0f746",
+    "cuerpo": "4efdc9c0277f9c24274c8c85f85ec896405ada56320c1748b13c2d085d8b955b"
+  }
+}

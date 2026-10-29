@@ -1,0 +1,26 @@
+{
+  "id": "ce7f6a6919f7",
+  "url": "https://www.agenciasinc.es/Noticias/Nueva-terapia-contra-el-VIH-revierte-el-desequilibrio-del-microbioma-intestinal-en-fases-avanzadas",
+  "autoria": "Marcos D. Oliveros",
+  "fecha_publicacion": "2026-03-04T11:00:00+01:00",
+  "fuente_y_derechos": "Fuente: IrsiCaixa | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:51:06+00:00",
+  "campos": {
+    "titular": "Nueva terapia contra el VIH revierte el desequilibrio del microbioma intestinal en fases avanzadas",
+    "entradilla": "A diferencia de otros tratamientos antirretrovirales, el dolutegravir restaura la salud intestinal de las personas seropositivas en estadios avanzados de la infección. Un estudio demuestra que este medicamento conduce a una respuesta inflamatoria leve y reduce la activación del sistema inmunitario.",
+    "cuerpo": "El 50 % de los diagnósticos de VIH se detecta en etapas avanzadas de la infección cuando el sistema inmunitario está comprometido y el microbioma intestinal –las bacterias que habitan en el intestino– se encuentra alterado.\nUn nuevo estudio, publicado en Nature Communications, revela que algunas terapias antirretrovirales, en las que se emplea dolutegravir, pueden regular este ecosistema bacteriano en personas con un diagnóstico tardío, al mismo tiempo que reducen la respuesta inflamatoria y la activación inmunitaria.\nSegún cuenta a SINC el primer autor del trabajo e investigador de IrsiCaixa, Francesc Català-Moll, este inhibidor de la integrasa presenta una mejor penetración en el intestino en comparación con otros fármacos que se asocian a daños colaterales en la barrera intestinal.\nLos resultados proceden de un ensayo clínico en el que todos los participantes recibieron el mismo tratamiento de base al que, según el grupo asignado, se añadió dolutegravir o una combinación de darunavir y ritonavir. Estos hallazgos identifican nuevas estrategias que permiten una recuperación completa de la salud en personas seropositivas.\nPara saberlo, los investigadores trataron a 88 personas que fueron diagnosticadas con VIH en fases avanzadas. Asimismo, les recetaron aleatoriamente dolutegravir o la combinación de dos inhibidores de la proteasa junto a dos fármacos antirretrovirales, y les hicieron un seguimiento durante dos años.\nAmbas terapias lograron bloquear el virus y recuperar el número de células CD4+ debilitadas por la infección, pero el tratamiento que incluía dolutegravir se asoció con un aumento de la diversidad del microbioma intestinal.\n“Además estas personas mostraron una mejor recuperación inmunitaria, una menor sobreactivación del sistema inmunitario y menos inflamación”, explica el investigador principal de IrsiCaixa y jefe del Servicio de Enfermedades Infecciosas del Hospital Germans Trias i Pujol, Roger Paredes. “Dos años después de iniciar el tratamiento, su barrera intestinal se parecía mucho más a la de personas sin VIH”, añade.\nLa infección avanzada por VIH se asocia con un desequilibrio del microbioma intestinal, un exceso de inflamación, una activación persistente del sistema inmunitario y un aumento del paso de bacterias del intestino al resto del cuerpo.\nTodos estos factores contribuyen al desarrollo de problemas de salud a largo plazo, y en concreto, favorecen el envejecimiento prematuro e incrementan el riesgo de padecer enfermedades cardiovasculares y alteraciones neurocognitivas.\n“En fases tardías, el virus ataca de forma severa al tejido linfoide asociado al intestino, que es donde se encuentra la mayor parte de células inmunitarias CD4+”, describe Català-Moll. “Esta destrucción provoca un deterioro de la barrera intestinal y permite que las bacterias pasen al torrente sanguíneo y generen inflamación sistémica crónica”.\nEste fenómeno altera el ecosistema del intestino, lo que reduce el número de bacterias beneficiosas a cambio de otras más “generalistas” adaptadas al estrés oxidativo. “En resumen, el ecosistema intestinal colapsa y entra en un estado de disbiosis persistente” argumenta el primer autor.\nLos investigadores señalan que no todos los tratamientos contra el VIH impactan de la misma forma sobre la salud intestinal y que la elección de un tratamiento u otro influye en la inflamación crónica y en la calidad de vida de personas seropositivas.\n“Esta investigación refuerza la importancia de considerar el microbioma intestinal como un elemento clave en el abordaje global del VIH y de avanzar hacia una recuperación más completa tras una infección avanzada”, concluye Paredes."
+  },
+  "sha256": {
+    "titular": "b5dd9434868d776e9534fdd797335a2d64c261560de1665ef437a07d2727c494",
+    "entradilla": "14d7f3d79b0d6504915d664d55aa10b415b232fd0c7513968b0ae5b483bfc15c",
+    "cuerpo": "18371d34712034e9e0b80a916641d7334756425dccc227feba07d7b86db2a35b"
+  }
+}

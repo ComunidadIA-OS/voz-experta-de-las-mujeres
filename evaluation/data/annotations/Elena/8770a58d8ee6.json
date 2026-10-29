@@ -1,0 +1,159 @@
+{
+  "article_id": "8770a58d8ee6",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-aranas-marinas-de-patas-peludas-y-ojos-rojos-en-un-mar-de-Canada",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:16+00:00",
+  "article_sha256": {
+    "titular": "ea0572b86d4b8fd4a1458102099153335388f5c7e7942cb3a82628055917fd64",
+    "entradilla": "09888faf4cb40ef9eff6528d0e88bec93f3bd4e72450cda95f08eec8cce560b5",
+    "cuerpo": "0b13afa84dce39bf39521e31a0d767c2e94023420e509185fdaf954025d52d35"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Cormac Toler – Scott",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "l investigador de la institución canadiense y primer autor del trabajo",
+      "gender_representation": "man",
+      "gender_evidence": "investigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "Estos dos ejemplares son los primeros que se describen en la zona desde hace casi un siglo. Su documentación y, análisis genético, permitió que los expertos estudiaran cómo les afectaban el cambio climático y la intervención humana, ya que estos animales están especialmente en peligro”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Han conservado algunos rasgos muy extraños”, apunta Scott.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "Debido al tamaño de sus víctimas, emplean su probóscide para succionar sus fluidos”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Las dos especies se registraron en una base de datos mundial, pero aún quedan más por descubrir, afirma Toler-Scott.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "Solo he estado fuera un tiempo, pero todavía queda mucha diversidad allí que no hemos documentado”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793121766410",
+        "nombre": "Cormac Toler – Scott",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 680,
+            "fin16": 700,
+            "texto": "Cormac Toler – Scott",
+            "inicio": 680,
+            "fin": 700
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 610,
+          "fin16": 622,
+          "texto": "investigador",
+          "inicio": 610,
+          "fin": 622
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 312,
+            "fin16": 599,
+            "texto": "Estos dos ejemplares son los primeros que se describen en la zona desde hace casi un siglo. Su documentación y, análisis genético, permitió que los expertos estudiaran cómo les afectaban el cambio climático y la intervención humana, ya que estos animales están especialmente en peligro”,",
+            "tipo": "directa",
+            "inicio": 312,
+            "fin": 599
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2237,
+            "fin16": 2296,
+            "texto": "“Han conservado algunos rasgos muy extraños”, apunta Scott.",
+            "tipo": "directa",
+            "inicio": 2237,
+            "fin": 2296
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2298,
+            "fin16": 2382,
+            "texto": "Debido al tamaño de sus víctimas, emplean su probóscide para succionar sus fluidos”,",
+            "tipo": "directa",
+            "inicio": 2298,
+            "fin": 2382
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3117,
+            "fin16": 3233,
+            "texto": "Las dos especies se registraron en una base de datos mundial, pero aún quedan más por descubrir, afirma Toler-Scott.",
+            "tipo": "indirecta",
+            "inicio": 3117,
+            "fin": 3233
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3235,
+            "fin16": 3334,
+            "texto": "Solo he estado fuera un tiempo, pero todavía queda mucha diversidad allí que no hemos documentado”,",
+            "tipo": "directa",
+            "inicio": 3235,
+            "fin": 3334
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 608,
+          "fin16": 678,
+          "texto": "l investigador de la institución canadiense y primer autor del trabajo",
+          "inicio": 608,
+          "fin": 678
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 76
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "11783b8d0ddb",
+  "url": "https://www.agenciasinc.es/Noticias/Las-mitocondrias-controlan-la-activacion-de-las-celulas-inmunitarias-y-la-eficacia-de-la-inmunoterapia",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-25T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: Centro Nacional de Investigaciones Cardiovasculares | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:44:22+00:00",
+  "campos": {
+    "titular": "Las mitocondrias controlan la activación de las células inmunitarias y la eficacia de la inmunoterapia",
+    "entradilla": "Una investigación del CNIC identifica un interruptor metabólico clave en células dendríticas que potencia la respuesta de los linfocitos T frente a virus y tumores, con potencial para mejorar tratamientos contra el cáncer.",
+    "cuerpo": "Un estudio liderado por investigadores del Centro Nacional de Investigaciones Cardiovasculares identifica un “punto de control” en las mitocondrias (la central energética de las células) que permite a las células dendríticas activar con eficacia a los linfocitos T frente a virus y tumores.\nEl hallazgo, publicado en la revista Science Immunology, podría abrir nuevas vías para mejorar la inmunoterapia contra el cáncer. Las células dendríticas son células del sistema inmunitario que detectan amenazas y activan las defensas del cuerpo, y funcionan como “centinelas” que muestran a los linfocitos T qué deben atacar.\nLa investigación, dirigida por David Sancho, investigador del CNIC, y Michel Enamorado, del Icahn School of Medicine at Mount Sinai (Nueva York), muestra que restaurar el desequilibrio químico interno generado por la función deficiente de las mitocondrias en las células dendríticas recupera la capacidad de respuesta de las células inmunitarias, es decir, la capacidad de defender al organismo de patógenos externos.\nEl estudio revela que la capacidad de las células dendríticas de activar a los linfocitos T depende de un mecanismo inesperado: el buen estado del complejo I mitocondrial en las células dendríticas. El complejo I es una pieza clave de las mitocondrias y actúa como un “interruptor metabólico” indispensable para que las células dendríticas transformen los restos de virus o tumores en señales eficaces y activen con fuerza a los linfocitos T.\nEl trabajo identifica así un nuevo punto de control metabólico que condiciona la eficacia de esta “enseñanza” inmunitaria. “Hemos descubierto que el complejo I mitocondrial actúa como un auténtico interruptor metabólico. Sin su correcto funcionamiento, las células dendríticas pierden gran parte de su capacidad de activar a los linfocitos T para combatir amenazas como tumores o virus”, explica Sancho.\nLas co‑primeras autoras del estudio, Sofía C. Khouili y Elena Priego (CNIC), destacan que la función del complejo I mitocondrial es clave para que las células dendríticas activen a los linfocitos T. “Cuando el complejo I funciona peor, las células dendríticas tienen dificultades para presentar suficiente antígeno a los linfocitos T, lo que reduce su activación y su capacidad de respuesta frente a virus o tumores”, señala Khouili.\nSegún Elena Priego, “la clave reside en el aumento de NADH respecto a NAD+ que aparece cuando hay deficiencia del complejo I. Si recuperamos ese equilibrio químico con intervenciones farmacológicas, se restaura la capacidad de las células dendríticas para activar a los linfocitos T frente a infecciones virales o en respuestas antitumorales”.\nDavid Sancho y Michel Enamorado aseguran que, en ciertos contextos, como el microambiente tumoral, la actividad mitocondrial de las células dendríticas puede verse alterada, lo que limita su capacidad para activar linfocitos T.\n“Identificamos el complejo I mitocondrial en la célula dendrítica como un punto de control clave y demostramos que corregir el desequilibrio químico interno asociado a su mal funcionamiento puede restaurar la respuesta inmunitaria en modelos experimentales”. Estos resultados, concluyen, “muestran nuevas vías para potenciar vacunas e inmunoterapias”."
+  },
+  "sha256": {
+    "titular": "e95e94563610afc7423278ca9d421907795e429cd3ed9632b1207bf4c852806f",
+    "entradilla": "365eb7c1930ebfb31e50f256acff0c4615fde247494f2661cc08355da2bf23ad",
+    "cuerpo": "6638e14712b1d38da70774e76822b6778a38d79f9b6cdcc80fd306a55d163c4d"
+  }
+}

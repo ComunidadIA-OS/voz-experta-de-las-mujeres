@@ -1,0 +1,26 @@
+{
+  "id": "9939c70560d0",
+  "url": "https://www.agenciasinc.es/Noticias/La-biopsia-liquida-ultrasensible-puede-predecir-y-monitorizar-la-respuesta-a-la-inmunoterapia",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-17T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: VHIO | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:56:55+00:00",
+  "campos": {
+    "titular": "La biopsia líquida ultrasensible puede predecir y monitorizar la respuesta a la inmunoterapia",
+    "entradilla": "Un estudio en pacientes con cáncer avanzado demuestra que el análisis del ADN tumoral circulante en sangre permite anticipar la respuesta a la inmunoterapia. La técnica también facilita el seguimiento de la evolución de la enfermedad.",
+    "cuerpo": "Un equipo del investigadores del Vall d’Hebron Instituto de Oncología demuestra que el análisis ultrasensible del ADN tumoral circulante (ADNct) en sangre permite predecir de forma temprana la respuesta a la inmunoterapia en pacientes con cáncer avanzado.\nEl trabajo, desarrollado en el contexto de ensayos clínicos de fase 1, también anticipa la progresión de la\nLa investigación analiza la utilidad de la biopsia líquida como herramienta no invasiva para evaluar la evolución del tumor durante el tratamiento inmunoterápico. A partir del seguimiento seriado del ADNct, los investigadores identificaron patrones asociados tanto a la respuesta clínica como a la resistencia al tratamiento.\nLa inmunoterapia ha supuesto un avance decisivo en el tratamiento del cáncer al activar el sistema inmunitario del propio paciente contra el tumor. Sin embargo, solo una parte de los pacientes obtiene beneficios duraderos. “Las tasas de respuesta siguen siendo limitadas, en torno al 10 % o el 20 %, lo que hace imprescindible disponer de biomarcadores más precisos que ayuden a seleccionar mejor a los pacientes”, explica Elena Garralda, del VHIO, colíder del estudio.\nEn este contexto, la biopsia líquida permite detectar en sangre fragmentos de ADN liberados por las células tumorales. Su análisis antes de iniciar el tratamiento y a lo largo del tiempo ofrece información dinámica sobre la evolución molecular del tumor sin necesidad de procedimientos invasivos.\n“Aplicamos técnicas de secuenciación de alta sensibilidad para seguir cómo cambia el ADN tumoral circulante durante la inmunoterapia”, señala Rodrigo Toledo, colíder del trabajo (VHIO). “En este primer estudio hemos observado que determinados patrones del ADNct se asocian de forma clara con la respuesta o la resistencia al tratamiento”.\nEl análisis incluyó 1 455 muestras obtenidas de forma longitudinal de 136 pacientes con tumores metastásicos refractarios pertenecientes a 24 tipos distintos de cáncer, tratados con una a tres líneas de inmunoterapia en ensayos clínicos de fase 1. Los resultados se validaron posteriormente en una cohorte prospectiva independiente de 66 pacientes.\nLos datos muestran que niveles bajos de ADNct al inicio del tratamiento se relacionan con una mayor supervivencia libre de progresión y una mayor supervivencia global. Además, los cambios detectados en las primeras semanas tras iniciar la inmunoterapia se asociaron con un mejor control de la enfermedad.\nLa desaparición completa del ADNct en sangre, en cualquier momento del seguimiento, se vinculó de forma muy consistente con la respuesta radiológica y una supervivencia prolongada.\nEl estudio también demuestra que la dinámica del ADNct ayuda a diferenciar entre progresión real del tumor y pseudoprogresión, una situación en la que las lesiones parecen aumentar de tamaño en las pruebas de imagen pese a que el tratamiento está siendo eficaz. Asimismo, permitió anticipar la evolución de pacientes que continuaron con inmunoterapia más allá de una progresión inicial.\n“Este sistema ofrece una herramienta muy valiosa para estratificar a los pacientes de forma temprana y monitorizar la respuesta al tratamiento”, subraya Toledo. “Nuestro objetivo es que la biopsia líquida pueda complementar, e incluso reducir en algunos casos, el uso de técnicas de imagen convencionales”.\nPor su parte, Garralda destaca el potencial clínico de estos resultados: “Disponer de esta información en fases muy precoces puede ser clave para decidir si un paciente debe continuar en un ensayo clínico o si es preferible plantear un cambio de estrategia terapéutica”."
+  },
+  "sha256": {
+    "titular": "1cf711ee9619d3c8e063c6cd3ed8711c448cba8e8feebc503fb1bb54887f5fd3",
+    "entradilla": "e68ba90a6a701672bed50ac35821ff43c633cfade24e15786127fdd57bf5987c",
+    "cuerpo": "53afead0b3eccd9318e43eb0f46653bcf5e6a07b3e418be9a3c1b46b02193fc0"
+  }
+}

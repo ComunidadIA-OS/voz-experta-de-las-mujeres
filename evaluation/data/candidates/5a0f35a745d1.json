@@ -1,0 +1,26 @@
+{
+  "id": "5a0f35a745d1",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-un-nuevo-mecanismo-implicado-en-el-control-de-la-inflamacion",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-28T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: CNIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:54:21+00:00",
+  "campos": {
+    "titular": "Descubren un nuevo mecanismo implicado en el control de la inflamación",
+    "entradilla": "Investigadores del CNIC han identificado cómo una señal antiviral ajusta el metabolismo de los macrófagos y favorece la limpieza del tejido dañado. El hallazgo revela una vía clave para evitar inflamaciones prolongadas o descontroladas.",
+    "cuerpo": "Cuando nuestro organismo combate una infección, el sistema inmunitario debe activar defensas con rapidez y causar una inflamación que es beneficiosa. Pero es igualmente importante resolver dicha inflamación para volver a la normalidad. En ese equilibrio son esenciales los macrófagos, células especializadas en fagocitar o engullir células que han muerto por la infección viral y en reparar el daño tisular asociado a la infección o la reacción inflamatoria.\nUn estudio realizado en el Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC) y publicado en la revista Immunity desvela el mecanismo por el que una señal asociada a la respuesta inflamatoria y antiviral, el interferón de tipo I (IFN-I), ajusta las mitocondrias de los macrófagos para impulsar la limpieza del daño tisular y evitar una inflamación descontrolada.\nEl IFN‑I es una citoquina capaz de impulsar respuestas inflamatorias o antiinflamatorias según el contexto de la enfermedad. Activa un programa específico de genes estimulados por interferón que permite a los macrófagos eliminar con mayor eficacia las células muertas y reparar el daño tisular asociado, por ejemplo, a infecciones víricas. El estudio recién publicado aborda cómo el IFN‑I modula la función de estas células para favorecer la resolución de la inflamación.\nEl equipo del CNIC demuestra que, cuando los macrófagos detectan ácidos nucleicos vinculados a infecciones víricas en su interior, ajustan su metabolismo. Sus mitocondrias reducen el potencial de membrana sin perder funcionalidad. Este cambio se desencadena por la producción de interferón tipo I (IFN‑I) en respuesta a la infección, que se une a su receptor en la superficie del macrófago y activa la síntesis de la proteína ISG15.\n“Hemos visto que una proteína específica estimulada por IFN‑I, llamada ISG15, se une a proteínas mitocondriales y provoca dos modificaciones coordinadas: un aumento en la producción de ATP y una reducción del potencial de membrana mitocondrial. Estos cambios metabólicos mejoran la capacidad de los macrófagos para retirar células muertas, lo que facilita la resolución de la inflamación”, explica la primera autora, Gillian Dunphy, investigadora del grupo de Inmunobiología dirigido por David Sancho.\nDunphy añade: “Además, la bajada del potencial de la membrana mitocondrial activa una proteasa que incrementa la fragmentación de la mitocondria. Este proceso modifica el metabolismo y reduce la expresión de genes inflamatorios, de modo que el propio IFN‑I contribuye a poner fin a la inflamación”.\nPara alcanzar estas conclusiones, los investigadores combinaron análisis metabólicos, microscopía avanzada y modelos experimentales celulares y animales. Observaron que el tratamiento con IFN‑I potencia la captación de células apoptóticas por los macrófagos y que esta ventaja desaparece en ausencia de ISG15. También comprobaron que los cambios en la forma y la dinámica de las mitocondrias actúan como un regulador natural que evita un exceso de señalización por interferón, fenómeno asociado a autoinflamación en otros contextos.\nDavid Sancho, director del laboratorio de Inmunobiología del CNIC, señala: “Este hallazgo dibuja un nuevo mapa de cómo las señales antivirales dialogan con el metabolismo celular para equilibrar defensa y reparación. Comprender y modular este eje podría inspirar estrategias para acelerar la resolución de la inflamación en diversas patologías o ajustar tratamientos basados en interferón, maximizando beneficios y minimizando efectos indeseados”.\nEl estudio se ha llevado a cabo en colaboración con los equipos de Susana Guerra, de la Universidad Autónoma de Madrid, y Francisco Sánchez‑Madrid, del Hospital Universitario La Princesa.\nEl trabajo ha contado con financiación del Ministerio de Ciencia, Innovación y Universidades, la Agencia Estatal de Investigación, la Comunidad de Madrid, la Fundación Científica de la Asociación Española Contra el Cáncer, Worldwide Cancer Research, la Unión Europea‑ERC, la Organización Europea de Biología Molecular (acciones Marie Skłodowska‑Curie), la Fundación CRIS contra el cáncer y la Fundación “la Caixa”."
+  },
+  "sha256": {
+    "titular": "71491e5d008443e484cb816f83093402984ec60dd16047cdbccacd6f961bc54a",
+    "entradilla": "32ae5264a08be3c585e252e440f4a9897887a41978dd79cdea5c02ed82af7f1f",
+    "cuerpo": "552aa3932ff719b1fe7e16e7ec26ed3c38d802f019cd5a30195bd92361aae5d1"
+  }
+}

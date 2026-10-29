@@ -1,0 +1,26 @@
+{
+  "id": "ee51fdb38855",
+  "url": "https://www.agenciasinc.es/Noticias/Mas-alla-del-limite-un-millon-de-satelites-y-espejos-amenazan-la-oscuridad-del-cielo-nocturno",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-01T14:00:00+02:00",
+  "fuente_y_derechos": "Fuente: ESO | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:40:43+00:00",
+  "campos": {
+    "titular": "Más allá del límite: un millón de satélites y espejos amenazan la oscuridad del cielo nocturno",
+    "entradilla": "Un estudio del Observatorio Europeo Austral concluye que las propuestas actuales para lanzar más de 1,7 millones de satélites tendrían consecuencias devastadoras para la astronomía. Según sus cálculos, la cifra no debería superar los 100 000, siempre que sean invisibles a simple vista, para preservar las observaciones con telescopios modernos.",
+    "cuerpo": "Desde 2019, el número de satélites en órbita terrestre ha crecido con rapidez hasta superar los 14.000, impulsado sobre todo por las constelaciones de telecomunicaciones. Sin embargo, las propuestas actuales contemplan el lanzamiento de más de 1,7 millones de nuevos satélites, una cifra que, según un estudio del Observatorio Europeo Austral (ESO), tendría consecuencias devastadoras para la astronomía.\nLos autores concluyen que, para preservar las observaciones con telescopios modernos, no deberían orbitar la Tierra más de 100 000 satélites lo suficientemente tenues como para resultar invisibles a simple vista.\nEl estudio, aceptado para su publicación en Astronomy & Astrophysics, es el primero que cuantifica el efecto combinado de las grandes constelaciones de satélites sobre el brillo del cielo nocturno.\nAdemás de las estelas luminosas que dejan al atravesar el campo de visión de los telescopios, también analiza cómo la luz reflejada por estos objetos incrementa el brillo de fondo del cielo y dificulta la detección de galaxias lejanas, exoplanetas similares a la Tierra o asteroides potencialmente peligrosos.\n“Hasta ahora lo hemos conseguido, pero está empeorando”, afirma Olivier Hainaut, astrónomo de ESO y autor principal del trabajo. Aunque algunas empresas, como SpaceX, han reducido el brillo de sus satélites, considera que las propuestas actuales van “más allá del límite” de lo que la astronomía puede soportar.\nLas simulaciones muestran que una exposición de dos horas realizada con el Very Large Telescope (VLT) de ESO registraría decenas de estelas de satélites por imagen, con pérdidas de hasta un 28 % del campo de visión. En instrumentos de gran campo, como la cámara del Observatorio Vera C. Rubin, gran parte de las imágenes podrían quedar inutilizadas durante varias horas cada noche.\nLos satélites, iluminados por el Sol, son mucho más brillantes que las galaxias lejanas. Cuando uno de ellos cruza el campo que observamos, deja una estela brillante en la imagen y arruina la observación del objeto situado detrás”, explica Hainau\nEl estudio presta especial atención a los planes de la empresa Reflect Orbital, que pretende desplegar una constelación de satélites con espejos para reflejar luz solar durante la noche. La compañía prevé lanzar un satélite de prueba este año y alcanzar una flota de 50 000 unidades en 2035.\nSegún los cálculos del equipo, estos serían los satélites más brillantes jamás puestos en órbita. Desde el interior de uno de sus haces reflejados, un satélite llegaría a verse cuatro veces más brillante que la Luna llena.\nIncluso fuera del haz directo, cada uno brillaría tanto como Venus y elevaría entre tres y cuatro veces el brillo general del cielo nocturno. En esas condiciones, una sola estela bastaría para estropear determinadas observaciones y, con la constelación completa, muchas imágenes resultarían inutilizables.\nLos investigadores sostienen que los impactos podrían reducirse si el número total de satélites visibles se limitara a unos 100000 y todos ellos fueran más débiles que la magnitud visual 7, de modo que no pudieran distinguirse a simple vista. “No es un número fijo; claramente preferiría 50 000”, señala Hainaut. “Pero 100 000 causa pérdidas a un nivel similar a otras pérdidas técnicas, como fallos de equipamiento”.\nLas solicitudes de SpaceX y Reflect Orbital se encuentran actualmente en evaluación por parte de la Comisión Federal de Comunicaciones de Estados Unidos (FCC). ESO, junto con la Royal Astronomical Society y la Unión Astronómica Internacional, ha presentado alegaciones basadas en este estudio.\n“Para la astronomía óptica esto es una amenaza existencial”, afirma Betty Kioko, responsable de coordinar la respuesta de ESO.\nEl trabajo recuerda, además, que las megaconstelaciones no solo afectan a la investigación astronómica, sino también a la calidad del aire, los ecosistemas y los ritmos biológicos debido tanto a los lanzamientos como a la reentrada de los satélites al final de su vida útil."
+  },
+  "sha256": {
+    "titular": "5b7c3982fa98beb835faccc7ae02e6d6cada720b691ade3e60c5ca62ff8691f4",
+    "entradilla": "5f81e00c28b683da694c1d657ca9b66bd0e1aaa6668be5065f183281a7359b6c",
+    "cuerpo": "85e9bd298422f3cd44553522ac0a7e0ee80c64d1a5193dd0a4bccd646f6bdf63"
+  }
+}

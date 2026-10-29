@@ -1,0 +1,26 @@
+{
+  "id": "c697f05f8980",
+  "url": "https://www.agenciasinc.es/Noticias/El-genoma-de-unas-momias-chilenas-prueba-que-la-colonizacion-europea-llevo-la-viruela-a-America",
+  "autoria": "María G. Dionis",
+  "fecha_publicacion": "2026-07-30T20:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:37:30+00:00",
+  "campos": {
+    "titular": "El genoma de unas momias chilenas prueba que la colonización europea llevó la viruela a América",
+    "entradilla": "El análisis del ADN antiguo de dos individuos momificados del norte de Chile ha permitido identificar la cepa de viruela más antigua conocida de América. El hallazgo aporta la evidencia genética más sólida hasta la fecha de que el virus llegó al Nuevo Mundo con la colonización europea.",
+    "cuerpo": "La viruela fue una de las enfermedades más mortíferas que se introdujeron en América durante la colonización europea. Se estima que la rápida propagación de la enfermedad por América del Norte, Central y del Sur provocó la muerte de millones de personas, especialmente entre las poblaciones indígenas que carecían de inmunidad previa.\nPero se conoce poco sobre qué cepas del virus de la viruela fueron las responsables. Ahora, un nuevo estudio que se publica en la revista Science despeja esta incógnita gracias a la recuperación del ADN antiguo de dos momias procedentes del norte de Chile.\n“Es la primera evidencia molecular directa de que la viruela se introdujo en América a través de la colonización europea”, asegura a SINC Shigeki Nakagome, investigador del Trinity College de Dublín (Irlanda) y uno de los líderes del trabajo.\nEn la investigación, un equipo de la Universidad de Chile tomó muestras de dos individuos de una comunidad local enterrados en el norte de Chile entre finales del siglo XV y principios del XVII, es decir, durante la época inca y en los inicios de la colonización.\nLuego, el equipo del Trinity College analizó esos datos, identificó patógenos antiguos y reconstruyó los genomas de la viruela que se encontraron en las momias. Después, realizaron análisis evolutivos para situar estos virus en el contexto más amplio de la evolución de la viruela.\nLos resultados mostraron que los genomas virales encontrados en ambas momias eran casi idénticos, lo que indica que los individuos probablemente se infectaron durante el mismo brote o por la misma cepa.\nAsí, este hallazgo constituye una evidencia molecular directa de una cepa de viruela que circulaba en América del Sur en la época colonial. Según los autores, este linaje extinto, al que han llamado CAM9, es el genoma de viruela más antiguo conocido de América.\nAl comparar los genomas de viruela chilenos con virus de la viruela antiguos y modernos, los autores descubrieron que este linaje ocupa una posición evolutiva entre las cepas europeas de la Alta Edad Media y los que más tarde dieron lugar a la viruela moderna. Esta es la prueba molecular de que la viruela llegó a América a través de la colonización europea.\nLos investigadores también descubrieron que el virus experimentó un largo periodo de cambios genéticos hasta el siglo XVI, pero que su evolución se ralentizó notablemente durante el apogeo de la expansión colonial y las grandes epidemias de viruela de los siglos XVII y XVIII.\n“Esto sugiere que el virus pudo haber alcanzado un óptimo evolutivo, lo que le permitió propagarse con éxito sin necesidad de una mayor adaptación —posiblemente favorecido por la falta de inmunidad de las poblaciones indígenas recién expuestas—“, dice Lara Cassidy, de la Facultad de Genética y Microbiología del Trinity College de Dublín y otra de las autoras del trabajo.\nPor su parte, Nakagome señala que, curiosamente, este periodo coincide en líneas generales con el apogeo de la expansión colonial europea, mientras que el repunte de la tasa de evolución se produjo en torno a la aparición de la vacunación a finales del siglo XVIII.\n“Aunque estas asociaciones temporales no demuestran una relación causal, plantean la posibilidad de que los cambios en la demografía y la epidemiología humanas alteraran las presiones selectivas que actuaban sobre el virus, y configuraron así su historia evolutiva”, añade.\nEl equipo también encontró indicios de que este periodo de estabilidad evolutiva pudo haber finalizado en el siglo XIX, cuando la vacunación se generalizó cada vez más.\n“En conjunto, los hallazgos muestran cómo es probable que acontecimientos históricos importantes —como la colonización, los cambios demográficos y la vacunación— hayan moldeado la evolución de una de las enfermedades infecciosas más devastadoras de la humanidad”, apunta Bruno Romero González, también investigador de la universidad dublinesa y primer autor del trabajo."
+  },
+  "sha256": {
+    "titular": "b9788efc48f7befa4c09d51f9af795fba8cbf9f147bf72dd7e73bcf5a7178626",
+    "entradilla": "a13d4fd7cdbacd08cd2e41deaadc75035f4ffe8d7e668787c53f16896da68df9",
+    "cuerpo": "fdf18be71d987d9f05911a1725c6527bc3aaca054cc24427170eae929bda4bf1"
+  }
+}

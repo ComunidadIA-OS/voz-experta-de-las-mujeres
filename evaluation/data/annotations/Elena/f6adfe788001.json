@@ -1,0 +1,168 @@
+{
+  "article_id": "f6adfe788001",
+  "url": "https://www.agenciasinc.es/Noticias/Las-plantas-ajustan-su-crecimiento-espiando-el-aroma-de-sus-vecinas",
+  "group": "calibration",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:00+00:00",
+  "article_sha256": {
+    "titular": "f4e9e1c21237db8602dd0818b376e2ec32fae929f96197a2f8a6544a1e84257a",
+    "entradilla": "e1460825f4268ee5b0a81d17c5d1201cbbd6ce7d03e1824a901f837e0377bf76",
+    "cuerpo": "adda836bc5cac0499efa0569d7bc9d35198e611a78f17371d723fa18cd8a1017"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Velemir Ninkovic",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "de la universidad suecas",
+      "gender_representation": "unknown",
+      "gender_evidence": "",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Las plantas sanas liberan de forma constante su propia ‘huella química’ al aire, y sus vecinas interpretan esas señales para ajustar no solo sus defensas, sino toda su estrategia de crecimiento”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "Es como una conversación continua entre vecinas. Además, comprobar que estos compuestos orgánicos volátiles pueden modificar el crecimiento y la actividad genética abre una nueva perspectiva sobre la comunicación vegetal”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Las plantas receptoras de compuestos orgánicos volátiles ajustaron su crecimiento para adaptarse a la presión competitiva que les indicaba el olor de sus vecinas: crecieron más cuando estaban expuestas a una vecina de crecimiento rápido y menos cuando estaban expuestas a una de crecimiento lento”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Este efecto se observó de forma consistente en todas las partes de la planta: hojas, tallos y raíces, en lugar de que la planta simplemente redistribuyera los recursos entre sus partes”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Las plantas liberan de forma natural una mezcla de compuestos volátiles, y tiene sentido que hayan desarrollado la capacidad de detectar estas señales tras millones de años de coexistencia”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Creemos que este tipo de interacción está muy extendida en el reino vegetal, aunque su intensidad varía entre especies”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793119308304",
+        "nombre": "Velemir Ninkovic",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1328,
+            "fin16": 1344,
+            "texto": "Velemir Ninkovic",
+            "inicio": 1328,
+            "fin": 1344
+          }
+        ],
+        "genero": "desconocido",
+        "indicio_genero": null,
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1124,
+            "fin16": 1320,
+            "texto": "“Las plantas sanas liberan de forma constante su propia ‘huella química’ al aire, y sus vecinas interpretan esas señales para ajustar no solo sus defensas, sino toda su estrategia de crecimiento”,",
+            "tipo": "directa",
+            "inicio": 1124,
+            "fin": 1320
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1373,
+            "fin16": 1594,
+            "texto": "Es como una conversación continua entre vecinas. Además, comprobar que estos compuestos orgánicos volátiles pueden modificar el crecimiento y la actividad genética abre una nueva perspectiva sobre la comunicación vegetal”",
+            "tipo": "directa",
+            "inicio": 1373,
+            "fin": 1594
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2177,
+            "fin16": 2476,
+            "texto": "“Las plantas receptoras de compuestos orgánicos volátiles ajustaron su crecimiento para adaptarse a la presión competitiva que les indicaba el olor de sus vecinas: crecieron más cuando estaban expuestas a una vecina de crecimiento rápido y menos cuando estaban expuestas a una de crecimiento lento”,",
+            "tipo": "directa",
+            "inicio": 2177,
+            "fin": 2476
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2495,
+            "fin16": 2682,
+            "texto": "“Este efecto se observó de forma consistente en todas las partes de la planta: hojas, tallos y raíces, en lugar de que la planta simplemente redistribuyera los recursos entre sus partes”.",
+            "tipo": "directa",
+            "inicio": 2495,
+            "fin": 2682
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3346,
+            "fin16": 3536,
+            "texto": "“Las plantas liberan de forma natural una mezcla de compuestos volátiles, y tiene sentido que hayan desarrollado la capacidad de detectar estas señales tras millones de años de coexistencia”",
+            "tipo": "directa",
+            "inicio": 3346,
+            "fin": 3536
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3555,
+            "fin16": 3675,
+            "texto": "“Creemos que este tipo de interacción está muy extendida en el reino vegetal, aunque su intensidad varía entre especies”",
+            "tipo": "directa",
+            "inicio": 3555,
+            "fin": 3675
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1346,
+          "fin16": 1370,
+          "texto": "de la universidad suecas",
+          "inicio": 1346,
+          "fin": 1370
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 104
+  }
+}

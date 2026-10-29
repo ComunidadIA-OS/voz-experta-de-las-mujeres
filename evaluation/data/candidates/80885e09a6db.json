@@ -1,0 +1,26 @@
+{
+  "id": "80885e09a6db",
+  "url": "https://www.agenciasinc.es/Noticias/Los-neutrofilos-son-menos-agresivos-por-la-noche-lo-que-reduce-el-dano-de-los-infartos-nocturnos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-15T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: CNIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:07+00:00",
+  "campos": {
+    "titular": "Los neutrófilos son menos agresivos por la noche, lo que reduce el daño de los infartos nocturnos",
+    "entradilla": "Un equipo del CNIC ha descubierto que los neutrófilos, células clave en la inflamación, siguen un reloj interno que regula su comportamiento a lo largo del día. Este mecanismo circadiano influye en el daño que sufre el corazón tras un infarto y abre una vía a terapias que limiten la agresividad celular.",
+    "cuerpo": "Los infartos que tienen lugar durante la noche resultan menos severos que los que ocurren en horas diurnas. Un estudio del Centro Nacional de Investigaciones Cardiovasculares (CNIC), publicado en Journal of Experimental Medicine, desvela que un tipo de glóbulo blanco, los neutrófilos, posee un reloj interno que regula su agresividad a lo largo del día y determina el grado de daño que provocan en el corazón tras un infarto.\nEl grupo de Andrés Hidalgo ha demostrado que estos ritmos circadianos influyen en la capacidad destructiva de los neutrófilos. Por la noche, estas células muestran un comportamiento más ordenado y selectivo, lo que reduce el daño colateral sobre el tejido sano del corazón.\nLos investigadores también han desarrollado una estrategia farmacológica en modelos experimentales para bloquear el reloj molecular de los neutrófilos. Con ello buscan mantener a estas células en un estado \"nocturno\" que limita su potencial dañino durante un infarto. Según Hidalgo, el compuesto empleado \"imita un factor que el cuerpo produce principalmente por la noche\" y consigue que los neutrófilos reduzcan su actividad tóxica.\nLa primera autora del estudio, Alejandra Aroca-Crevillén, explica que la protección observada se basa en un cambio en la conducta celular. Durante la noche, los neutrófilos se dirigen de forma más precisa hacia la zona dañada por el infarto, respetando el tejido sano. En cambio, durante el día pierden esa direccionalidad y generan más inflamación y destrucción en áreas circundantes.\nEl trabajo confirma que cerca de la mitad del daño cardíaco tras un infarto puede atribuirse a la acción de los neutrófilos. La variación natural de este daño a lo largo del día concuerda con la existencia de mecanismos circadianos que limitan la actividad de estas células y protegen frente a daños excesivos.\nPara validar estos resultados, el CNIC analizó datos de miles de pacientes en colaboración con el grupo de Héctor Bueno en el Hospital 12 de Octubre. Los registros clínicos mostraban que los infartos nocturnos cursan con menor gravedad, coincidiendo con una actividad neutrofílica reducida. A partir de esta observación, los investigadores desarrollaron la citada estrategia farmacológica que bloquea el reloj circadiano de los neutrófilos, reforzando su efecto protector.\nSegún Aroca-Crevillén, esta aproximación no solo protege el corazón, sino que también mejora la respuesta frente a algunos microorganismos y reduce las embolias asociadas a la anemia falciforme, lo que amplía el potencial terapéutico de este mecanismo.\nLos autores describen la existencia de un checkpoint circadiano de los neutrófilos que actúa como barrera natural frente a la inflamación excesiva. Activarlo de forma farmacológica podría proteger al organismo sin comprometer la defensa frente a infecciones.\nLos resultados abren el camino a terapias basadas en la biología del tiempo, capaces de modular la inflamación y preservar la función cardíaca y la integridad de otros órganos en situaciones de estrés."
+  },
+  "sha256": {
+    "titular": "0e3dadb500db731daeb02d8eea0280320b4a3d74a6d35c8646cca00e6b9656b6",
+    "entradilla": "a025412c6aa83c9b3b61d73ed4edb6ae5098691615f599edd37de813627c897c",
+    "cuerpo": "ff8d2328555e66903a72849e2ff319a78663a8e6f4de64aebd0117046a1efcae"
+  }
+}

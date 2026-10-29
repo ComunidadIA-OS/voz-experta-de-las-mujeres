@@ -1,0 +1,26 @@
+{
+  "id": "fd13320fcae9",
+  "url": "https://www.agenciasinc.es/Noticias/La-sequia-favorece-la-resistencia-a-los-antibioticos-de-microorganismos-en-el-suelo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-23T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:49:27+00:00",
+  "campos": {
+    "titular": "La sequía favorece la resistencia a los antibióticos de microorganismos en el suelo",
+    "entradilla": "Con datos de 116 países, un estudio asocia el aumento de la sequedad del suelo con un mayor crecimiento de bacterias resistentes a antibióticos. La relación también se ha observado entre niveles locales de sequía y resistencia antibiótica en hospitales.",
+    "cuerpo": "Las condiciones de sequía pueden aumentar la concentración de antibióticos naturales en el suelo y favorecer el crecimiento de bacterias resistentes a los ellos, según un estudio publicado en la revista Nature Microbiology.\nEl equipo investigador, liderado por el Instituto Tecnológico de California (EE UU), analizó datos clínicos de 116 países. Según los resultados, los autores señalan una relación entre los niveles locales de sequía y la frecuencia media de resistencia a los antibióticos en los hospitales, lo que sugiere otra forma en que el cambio climático puede afectar a la salud pública.\nLos suelos son una rica fuente de compuestos antibióticos naturales, y muchos microbios del suelo han desarrollado mecanismos para sobrevivir a la exposición a ellos.\nSin embargo, no estaba claro cómo las sequías más frecuentes y prolongadas provocadas por el cambio climático pueden afectar al equilibrio entre microorganismos productores de antibióticos y los resistentes a ellos en el suelo, ni si esto tendría alguna implicación para la salud humana.\nEl equipo científico liderado por la investigadora Dianne Newman combinó análisis computacionales con experimentos de laboratorio para examinar cómo la sequía afecta a la dinámica de los antibióticos en el suelo.\nEn total recopilaron cinco conjuntos de datos metagenómicos de estudios anteriores, que incluían suelos de tierras de cultivo y pastizales de California, bosques de Valais (Suiza) y humedales de Nanchang (China). A continuación, los investigadores evaluaron cómo variaban las cantidades de genes microbianos productores de antibióticos y de resistencia a los antibióticos en función de la sequedad del suelo.\nLos resultados mostraron que la abundancia de genes productores de antibióticos aumentaba significativamente en condiciones de sequía en los cinco conjuntos de datos, incluyendo las clases de antibióticos β-lactámicos (como la penicilina) y macrólidos.\nEn experimentos de laboratorio con muestras de suelo representativas, en condiciones de sequía, los niveles de antibióticos se concentraron más y se produjo una reducción del 99 % en la aptitud relativa de algunas cepas de bacterias sensibles a los antibióticos.\nAl comparar los datos de resistencia a los antibióticos de hospitales de 116 países con la precipitación anual local y la temperatura media, los autores también descubrieron una asociación entre una mayor aridez con una mayor frecuencia media de resistencia a los antibióticos entre las cepas clínicas.\nLos investigadores del estudio reconocen que se necesita más investigación para demostrar la causalidad. Aun así, señalan que estos resultados muestran el riesgo que plantea el aumento de la sequedad del suelo provocado por el cambio climático hacia la resistencia a los antibióticos."
+  },
+  "sha256": {
+    "titular": "b316951036a8a0b04dce56f29491a986a0b48af53af7c0c2f06bdcbd1d749309",
+    "entradilla": "94fbb762344576ada724ffc2fa94c156539015a6580765feddccb69744d55bb9",
+    "cuerpo": "3fb56d69033ffa10fbdebefd57fd1fc55622c18e598c8afd1f04481e59e6376a"
+  }
+}

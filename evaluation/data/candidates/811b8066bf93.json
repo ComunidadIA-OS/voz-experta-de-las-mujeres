@@ -1,0 +1,26 @@
+{
+  "id": "811b8066bf93",
+  "url": "https://www.agenciasinc.es/Noticias/Asi-benefician-las-aves-de-Espana-a-las-personas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-19T10:25:00+01:00",
+  "fuente_y_derechos": "Fuente: SeoBirdLife | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:52:07+00:00",
+  "campos": {
+    "titular": "Así benefician las aves de España a las personas",
+    "entradilla": "Este trabajo, publicado en la revista Ardeola, analiza doce tipos de servicios ecosistémicos que las aves ofrecen a la sociedad entre los que se incluyen el control de plagas, la dispersión de semillas, el reciclaje de materia orgánica, el valor estético, artístico y ecoturístico, así como su importancia como especies cinegéticas o simbólicas.",
+    "cuerpo": "Investigadores de la Universidad de Alicante (UA), en colaboración con investigadores de la Universidad Miguel Hernández de Elche (UMH) y del Centre de Ciència i Tecnologia Forestal de Catalunya (CTFC) han desarrollado la primera base de datos que cuantifica los servicios ecosistémicos que las aves nativas de España proporcionan a las personas y al medio ambiente.\nEl estudio, publicado en Ardeola: International Journal of Ornithology, presenta ServiBirds, una herramienta pionera que evalúa el papel ecológico, cultural y económico de 378 especies de aves pertenecientes a 73 familias.\nEl trabajo, liderado por Esther Sebastián-González, del departamento de Ecología de la UA, analiza doce tipos de servicios ecosistémicos —de provisión, regulación y culturales— que las aves ofrecen a la sociedad. Entre ellos se incluyen el control de plagas, la dispersión de semillas, el reciclaje de materia orgánica, el valor estético, artístico y ecoturístico, así como su importancia como especies cinegéticas o simbólicas.\nEl análisis muestra que todas las especies de aves aportan algún tipo de servicio ecosistémico, y que más del 60 % contribuye a cuatro o más servicios distintos.\nEntre las especies más relevantes destacan la urraca común (Pica pica) y el mirlo común (Turdus merula), que proporcionan múltiples servicios de regulación, y el buitre leonado (Gyps fulvus), que sobresale por su papel en la eliminación de carroña.\nEn el ámbito cultural, especies como la perdiz roja (Alectoris rufa), el águila real (Aquila chrysaetos) o el jilguero europeo (Carduelis carduelis) destacan por su relevancia estética, artística y ecoturística.\nEl estudio subraya que el valor de las aves va más allá de la biodiversidad: también tiene repercusiones económicas y sociales, especialmente en el turismo ornitológico."
+  },
+  "sha256": {
+    "titular": "230de09432b4b4b085f8a5f5dc102888147dcbf18a26e1c6e8993b2c3a5163df",
+    "entradilla": "0b6ffaaee19655e01b58fada77f9eb05e3b39607882d87cc01e1556e5ea4c057",
+    "cuerpo": "e734eeb15ae433847c6ad39cae157fd66139cae0021c5af3a90a7a8751a1cad7"
+  }
+}

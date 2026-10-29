@@ -1,0 +1,163 @@
+{
+  "article_id": "a675a845affa",
+  "url": "https://www.agenciasinc.es/Noticias/Identifican-un-farmaco-que-rejuvenece-las-celulas-madre-sanguineas",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:21+00:00",
+  "article_sha256": {
+    "titular": "c8d98b0ba786d5f499b3cdb760d7f36eeb2c8506f3be731cc9256217d847522c",
+    "entradilla": "ff8c22148a8d3e78fa5a71591ab787c1245ff1927afa6c16c05fcb99bb53e018",
+    "cuerpo": "f8d346c8d611ab001d1e0cf179bdc6dfce8829ddeb36dd85a11fcde17602daf7"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Carolina Florian",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigadora principal del IDIBELL y el ICREA",
+      "gender_representation": "woman",
+      "gender_evidence": "investigadora",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Eva Mejía-Ramírez",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigadora del IDIBELL y coautora del estudio,",
+      "gender_representation": "woman",
+      "gender_evidence": "investigadora",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“estas medidas no pueden calificarse como rejuvenecimiento porque combaten los efectos del envejecimiento en lugar de actuar sobre el proceso en sí. Nosotros, por el contrario, nos dirigimos a la base del proceso de envejecimiento: al revertir las células madre sanguíneas a un estado más joven, las hacemos más capaces de regenerarse y producir nuevas células sanguíneas sanas, lo que mejora la salud de todo el organismo. Por eso hablamos de rejuvenecimiento de células madre”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "Nuestros experimentos muestran que la Rhosina rejuvenece las células madre sanguíneas, aumenta la capacidad regenerativa del sistema inmunitario y mejora la producción de células sanguíneas una vez trasplantadas en la médula ósea”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793122313909",
+        "nombre": "Carolina Florian",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 722,
+            "fin16": 738,
+            "texto": "Carolina Florian",
+            "inicio": 722,
+            "fin": 738
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 740,
+          "fin16": 753,
+          "texto": "investigadora",
+          "inicio": 740,
+          "fin": 753
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3487,
+            "fin16": 3966,
+            "texto": "“estas medidas no pueden calificarse como rejuvenecimiento porque combaten los efectos del envejecimiento en lugar de actuar sobre el proceso en sí. Nosotros, por el contrario, nos dirigimos a la base del proceso de envejecimiento: al revertir las células madre sanguíneas a un estado más joven, las hacemos más capaces de regenerarse y producir nuevas células sanguíneas sanas, lo que mejora la salud de todo el organismo. Por eso hablamos de rejuvenecimiento de células madre”.",
+            "tipo": "directa",
+            "inicio": 3487,
+            "fin": 3966
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 740,
+          "fin16": 786,
+          "texto": "investigadora principal del IDIBELL y el ICREA",
+          "inicio": 740,
+          "fin": 786
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793122343542",
+        "nombre": "Eva Mejía-Ramírez",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2392,
+            "fin16": 2409,
+            "texto": "Eva Mejía-Ramírez",
+            "inicio": 2392,
+            "fin": 2409
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2342,
+          "fin16": 2355,
+          "texto": "investigadora",
+          "inicio": 2342,
+          "fin": 2355
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2412,
+            "fin16": 2643,
+            "texto": "Nuestros experimentos muestran que la Rhosina rejuvenece las células madre sanguíneas, aumenta la capacidad regenerativa del sistema inmunitario y mejora la producción de células sanguíneas una vez trasplantadas en la médula ósea”.",
+            "tipo": "directa",
+            "inicio": 2412,
+            "fin": 2643
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2342,
+          "fin16": 2391,
+          "texto": "investigadora del IDIBELL y coautora del estudio,",
+          "inicio": 2342,
+          "fin": 2391
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 75
+  }
+}

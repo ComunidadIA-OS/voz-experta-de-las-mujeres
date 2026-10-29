@@ -1,0 +1,26 @@
+{
+  "id": "a01e3010ae18",
+  "url": "https://www.agenciasinc.es/Noticias/Las-cubiertas-blancas-y-los-parques-urbanos-reducen-el-calor-en-la-ciudad-pero-no-compensan-el-calentamiento-extremo-del-planeta",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-17T10:18:00+02:00",
+  "fuente_y_derechos": "Fuente: UAB | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:42:00+00:00",
+  "campos": {
+    "titular": "Las cubiertas blancas y los parques urbanos reducen el calor en la ciudad, pero no compensan el calentamiento extremo del planeta",
+    "entradilla": "Mediante simulaciones de alta resolución en el área metropolitana de Barcelona, un equipo científico ha evaluado la eficacia de distintas intervenciones sobre tejados y espacios verdes para proteger a la población durante las olas de calor.",
+    "cuerpo": "La creación de cubiertas blancas reflectantes y de nuevos parques urbanos puede reducir significativamente las temperaturas en las ciudades y disminuir la vulnerabilidad de la población frente a olas de calor, aunque no son suficientes para contrarrestar el aumento de más de 6 °C proyectado para el año 2100. Así lo demuestra un estudio reciente liderado por el Instituto de Ciencia y Tecnología Ambientales de la Universitat Autònoma de Barcelona (ICTA-UAB).\nLa investigación, realizada en colaboración con el Servicio Meteorológico de Cataluña, utilizó simulaciones meteorológicas de alta resolución y el método de pseudo calentamiento global (PGW, por sus siglas en inglés) para proyectar futuras olas de calor en el área metropolitana de Barcelona.\nLos investigadores evaluaron tres estrategias de adaptación urbana a las altas temperaturas en las ciudades: pintar las cubiertas de blanco para aumentar el albedo, instalar azoteas verdes irrigadas y ampliar los parques urbanos y la agricultura periurbana, ajustando al mismo tiempo la cobertura forestal urbana según lo previsto en el Plan general metropolitano de Barcelona.\nEn cuanto a las estrategias analizadas, las cubiertas blancas aumentan mucho el albedo y reflejan gran parte de la radiación solar, lo que enfría los tejados. Sin embargo, pueden ser contraproducentes si se aplican en las fachadas, ya que podrían incrementar la temperatura en la calle.\nLas azoteas verdes actúan como aislamiento y refrescan el aire circundante mediante la evapotranspiración, además de mejorar la biodiversidad y servir de refugio para aves e insectos, aunque su capacidad para reducir la temperatura depende del tipo de vegetación y de sus necesidades de riego.\nEn cuanto a los parques urbanos y las zonas de agricultura, aportan sombra y refrescan el ambiente gracias a la evapotranspiración, reducen las superficies impermeables y favorecen la infiltración de lluvia. El efecto de la agricultura depende del espacio que se transforme: sustituir una zona boscosa por campos agrícolas puede tener más impactos negativos que positivos en términos de temperatura, mientras que transformar zonas urbanas en espacios agrícolas puede aportar beneficios, aunque este tipo de vegetación no sea la más eficaz para reducir el calor.\nLos resultados del estudio concluyen que las cubiertas blancas son la estrategia más efectiva durante el día, ya que pueden reducir las temperaturas hasta 1,75 °C en las zonas más vulnerables.\nLa creación de nuevos parques urbanos y la expansión periurbana logran efectos de enfriamiento moderados (−0,26 °C) y un ligero aumento de las temperaturas nocturnas, mientras que las azoteas verdes reducen modestamente el calor diurno (−0,37 °C) pero contribuyen a un aumento nocturno de 0,24 °C.\n\"De noche, la vegetación libera lentamente el calor almacenado durante el día y limita la pérdida de calor por radiación hacia la atmósfera\", indica Sergi Ventura, investigador del ICTA-UAB y autor principal del estudio. De este modo, la combinación de cubiertas blancas y parques urbanos aparece como la medida más prometedora para mitigar los impactos del calor en las zonas más sensibles.\nA pesar de los beneficios aportados en diferente medida por las tres estrategias, la vulnerabilidad al calor podría duplicarse en áreas densamente pobladas y de bajos ingresos hacia el año 2100. En el clima actual, las estrategias de adaptación pueden reducir la vulnerabilidad entre un 43 % y un 47 %, pero su eficacia disminuye con el tiempo y alcanza un discreto 16 % en escenarios proyectados para el año 2100.\nLos investigadores subrayan que, aunque ninguna intervención por sí sola puede contrarrestar el calentamiento extremo, el hecho de focalizar las estrategias en los barrios más vulnerables puede reducir significativamente los riesgos para la salud. Los hallazgos, aunque centrados en Barcelona, pueden aplicarse a otras ciudades con climas similares para ofrecer soluciones urbanas de bajo coste que ayuden a proteger a la población frente al calor extremo."
+  },
+  "sha256": {
+    "titular": "85af9419d633854717e6e87cffc8efa4f9e318de402705e4bbf93683225941b9",
+    "entradilla": "4981778c4966d818825596f7cd8daade4d459573d0181c8e9615c00db33e85f0",
+    "cuerpo": "9456cab37c7699909f69ff9de21b9a305af9437389345f3508cd3735224af01c"
+  }
+}

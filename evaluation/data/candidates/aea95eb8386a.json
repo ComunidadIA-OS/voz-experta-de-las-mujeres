@@ -1,0 +1,26 @@
+{
+  "id": "aea95eb8386a",
+  "url": "https://www.agenciasinc.es/Noticias/Un-mapa-virtual-reconstruye-como-se-forma-el-corazon-de-los-mamiferos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-22T09:03:00+02:00",
+  "fuente_y_derechos": "Fuente: CNIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:38:33+00:00",
+  "campos": {
+    "titular": "Un mapa virtual reconstruye cómo se forma el corazón de los mamíferos",
+    "entradilla": "Investigadores del CNIC han creado un método computacional que permite seguir los movimientos y cambios de forma del tejido cardíaco durante las primeras etapas del desarrollo embrionario. El modelo identifica varias regiones con patrones de deformación distintos, pero coordinados con precisión.",
+    "cuerpo": "El corazón es el primer órgano que se forma y comienza a funcionar en los mamíferos. Durante el desarrollo embrionario, un grupo plano de células precursoras, denominado primordio cardíaco, se desplaza y cambia de forma hasta convertirse en un tubo tridimensional capaz de bombear sangre.\nUn equipo del Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC) ha desarrollado una herramienta que permite analizar este proceso de forma cuantitativa. El estudio, publicado en eLife, combina la microscopía en directo de modelos experimentales con técnicas avanzadas de análisis de imágenes y aprendizaje automático.\nComprender estas primeras etapas puede ayudar a explicar cómo se desarrolla normalmente el corazón y de qué manera algunas alteraciones pueden dar lugar a cardiopatías congénitas. Su estudio resulta complejo porque el tejido cambia rápidamente de forma al mismo tiempo que el corazón embrionario empieza a latir.\n“La microscopía en directo nos permite observar el desarrollo del corazón, pero convertir estas imágenes complejas en información cuantitativa ha supuesto un gran reto. Nuestro mapa virtual permite ahora seguir cómo cada región del tejido cardíaco inicial contribuye al tubo cardíaco primitivo”, explica Morena Raiola, primera autora del estudio e investigadora del CNIC.\nEl equipo desarrolló un método computacional para rastrear el movimiento de los tejidos a partir de imágenes de microscopía tomadas a lo largo del tiempo. Para comprobar su precisión, comparó sus resultados con los desplazamientos de células individuales cuyo seguimiento se había realizado de forma experimental.\nLos investigadores recurrieron después al aprendizaje automático para alinear los datos de distintos embriones y reunirlos en un único modelo del desarrollo cardíaco. La reconstrucción muestra dónde y cuándo el tejido se estira, crece o modifica la dirección de su movimiento durante la transformación del primordio cardíaco en el tubo cardíaco lineal.\nUno de los principales resultados es un mapa virtual de destino que permite seguir la trayectoria de cualquier punto del tejido inicial y predecir dónde se situará en el tubo cardíaco primitivo. De este modo, relaciona la posición inicial de una célula o región con la parte del futuro corazón a la que contribuirá.\nEl análisis muestra que las células vecinas suelen desplazarse juntas, aunque no todas las zonas se deforman del mismo modo. El primordio cardíaco se divide en regiones diferenciadas, cada una con su propio patrón de movimiento y crecimiento. La coordinación entre estos comportamientos transforma una estructura inicialmente plana y bilateral en un tubo tridimensional de orientación longitudinal.\n“El principal avance es que ahora podemos describir la formación del tubo cardíaco de forma cuantitativa y demostrar que el corazón primitivo se forma a partir de distintas regiones de tejido que siguen patrones de deformación específicos, pero coordinados con precisión”, señala Miguel Torres, jefe del Grupo de Control Genético del Desarrollo y Regeneración de Órganos del CNIC y autor principal del trabajo.\nEl estudio también aporta información sobre la formación de la cámara ventricular primitiva. En la zona destinada a convertirse en la curva externa del tubo cardíaco, el tejido se expande hasta adquirir una forma semejante a medio barril.\nDos regiones con forma de cinturón, situadas en los polos arterial y venoso, limitan esta expansión en ambos extremos. Según los autores, estas zonas guían el crecimiento del tejido y contribuyen a conferir al ventrículo en desarrollo su forma característica.\nEl método podría aplicarse al estudio de otros órganos y tejidos que atraviesan transformaciones tridimensionales complejas durante el desarrollo embrionario. A largo plazo, los conocimientos obtenidos podrían servir de base para investigar las cardiopatías congénitas y desarrollar estrategias de ingeniería tisular."
+  },
+  "sha256": {
+    "titular": "572161b79e794a291e764c9e927e4b01278800694948c70fd67fad49bb19ed5d",
+    "entradilla": "0045471d777d896475e532df3de52c999e8d5ebc0e442fc20b4e8190e9f7b2b8",
+    "cuerpo": "c3a96db3f2cfbb84d4f349bf51d97a1473c874f5bb3876e018b376ec3fe859a0"
+  }
+}

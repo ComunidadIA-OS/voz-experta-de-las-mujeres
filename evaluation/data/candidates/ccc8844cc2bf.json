@@ -1,0 +1,26 @@
+{
+  "id": "ccc8844cc2bf",
+  "url": "https://www.agenciasinc.es/Noticias/Una-IA-detecta-silbidos-de-cetaceos-en-zonas-de-gran-actividad-marina-como-el-Estrecho-de-Gibraltar",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-06T11:21:00+02:00",
+  "fuente_y_derechos": "Fuente: UCA | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:48:33+00:00",
+  "campos": {
+    "titular": "Una IA detecta silbidos de cetáceos en zonas de gran actividad marina como el Estrecho de Gibraltar",
+    "entradilla": "Muchos animales emiten sonidos para orientarse, comunicarse, e incluso localizar fuentes de alimento. Un nuevo estudio ofrece una IA capaz de detectar estos silbidos en el Estrecho de Gibraltar, por el que transitan numerosas especies al ser un corredor natural entre el Atlántico y el Mediterráneo.",
+    "cuerpo": "Investigadores de la Universidad de Cádiz han desarrollado un sistema de inteligencia artificial capaz de detectar silbidos de cetáceos en el Estrecho de Gibraltar, uno de los entornos marinos más complejos debido a la intensa actividad marítima y a la superposición de sonidos naturales y humanos.\nEl trabajo, publicado en la revista Engineering Applications of Artificial Intelligence, ha sido realizado por Alba Márquez, Neus Pérez, Daniel Benítez, Gonzalo Arroyo y Andrés de la Cruz, pertenecientes al Instituto Universitario de Investigación Marina (INMAR) de la Universidad de Cádiz y a sus áreas de Ingeniería Acústica y Biología.\nEsta investigación se ha centrado en uno de los retos más relevantes para la conservación marina, ya que muchos cetáceos dependen del sonido para orientarse, comunicarse o localizar alimento, por lo que estudiar sus vocalizaciones permite conocer su presencia y su comportamiento.\nSin embargo, analizar dichas señales en lugares como el Estrecho de Gibraltar resulta difícil, ya que se trata de un corredor natural entre el Atlántico y el Mediterráneo por el que transitan numerosas especies y en el que confluyen ferris, embarcaciones recreativas y otras fuentes de ruido submarino.\nPara abordar este problema, el equipo de la UCA ha diseñado una metodología que combina aprendizaje profundo, adaptación progresiva del modelo a las condiciones reales del entorno y validación experta.\nDe este modo, el sistema no se limita a aprender con grabaciones limpias o tomadas en condiciones ideales, sino que se entrena para reconocer silbidos en escenarios acústicos complejos, parecidos a los que se encuentran en mar abierto y en zonas con tráfico marítimo intenso.\nEsta investigación se apoya en registros acústicos de la isla de Tarifa, a diez metros de profundidad, a lo largo de tres despliegues realizados entre mayo de 2024 y marzo de 2025 que suman más de 1 300 horas de grabación. Esta diversidad temporal ha permitido comprobar cómo responde el sistema en distintas estaciones del año bajo diferentes niveles de ruido ambiental.\nUno de los resultados más relevantes del trabajo es que los modelos convencionales ofrecen un rendimiento muy alto cuando se prueban con datos limpios, pero su eficacia cae de forma notable al enfrentarse a grabaciones reales con ruido.\nFrente a ello, el modelo ajustado con datos locales y validación iterativa alcanzó un rendimiento claramente superior, lo que refuerza la importancia de adaptar estas herramientas al contexto acústico específico en el que van a utilizarse.\nEsta investigación ofrece una herramienta útil para el seguimiento pasivo de cetáceos y el estudio de la fauna marina a partir de los sonidos sin interferir en su comportamiento.\nSegún explican los investigadores, automatizar parte de ese proceso podría facilitar el análisis de grandes volúmenes de datos y mejorar la vigilancia de zonas marinas de especial valor ecológico. Y además, en el Estrecho de Gibraltar se reforzaría el conocimiento científico sobre la biodiversidad marina y el apoyo a futuras estrategias de conservación.\nEl trabajo de la Universidad de Cádiz plantea una base reproducible para futuras aplicaciones en monitorización acústica marina, con el propósito de incorporar nuevos datos, ampliar la detección a otras vocalizaciones y avanzar hacia sistemas de análisis más ágiles y precisos en entornos reales."
+  },
+  "sha256": {
+    "titular": "c3b755093f27805609af12f85e812ae6a53b09e765fe7f996972677886748dd8",
+    "entradilla": "09f7e365afbadb76ac04e3a6c8f6ef9971afb31e43279a1307278858de4a24bd",
+    "cuerpo": "bc0bf495af685e2a8532ed33b6a852295fa3597375a1c94e958038c795bf2b3b"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "19f0412c50c6",
+  "url": "https://www.agenciasinc.es/Noticias/El-planeta-Theia-que-formo-la-Luna-viene-del-interior-del-sistema-solar",
+  "autoria": "María G. Dionis",
+  "fecha_publicacion": "2025-11-20T20:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:58:37+00:00",
+  "campos": {
+    "titular": "El planeta Theia que formó la Luna viene del interior del sistema solar",
+    "entradilla": "Un análisis de isótopos de rocas lunares y terrestres, publicado en Science, revela que el hipotético planeta que chocó contra la Tierra y dio lugar a nuestro satélite hace 4 500 millones de años viene de más cerca del Sol de lo esperado.",
+    "cuerpo": "Theia es un cuerpo celeste hipotético que, según la teoría del gran impacto, habría chocado con la Tierra hace 4 500 millones de años y, de los materiales que salieron de esta colisión, se formó la Luna y empezó a girar alrededor de nuestro planeta.\nEl origen de Theia es un misterio, pero ahora, un estudio internacional liderado por la Universidad de Chicago (EE UU) y el Instituto Max-Planck (Alemania), revela algunas pistas.\nSegún la investigación, publicada en Science, este gigante planetario se habría formado en el sistema solar interior, y probablemente más cerca del Sol de lo que se formó la Tierra.\nEl grupo científico analizó rocas lunares y terrestres y examinó las huellas isotópicas del hierro en su composición, es decir, las diferentes versiones del hierro según su número de neutrones.\n“Utilizamos análisis de alta precisión de isótopos de hierro de muestras de la Luna recogidas por las misiones Apolo. Estas mediciones se utilizan para discriminar entre el material que se formó en el sistema solar interior y el que se creó en el exterior”, explica a SINC Timo Hopp, primer autor del estudio.\nEl estudio muestra que la proto-Tierra y la Luna tienen composiciones isotópicas de hierro similares entre sí y correspondientes a la de los meteoritos no carbonáceos, un tipo de cuerpos celestes formados en el interior del sistema solar.\nAdemás, los autores integraron estos resultados con datos isotópicos previos de otros elementos y realizaron cálculos de balance de masa para Theia y la proto-Tierra.\n“Así fue como concluimos que Theia se formó con material incluso más cercano al Sol que la Tierra”, señala Hopp.\nEl hallazgo esclarece un poco más el origen de nuestro satélite, pero los autores subrayan que serán necesarios más análisis para corroborar el papel de Theia en el proceso."
+  },
+  "sha256": {
+    "titular": "5b257c486fba2974925318587a09fde895d67d4f9227e5663cd458ae1c8a5b8d",
+    "entradilla": "858644555c51893469ad4f18af072035adfb1e37b7cd292d5a1556d00e742fd2",
+    "cuerpo": "786788cbd08bd3d065175fd3dbf089e1315c2b2273684a3b009fd401b2266bb0"
+  }
+}

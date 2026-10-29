@@ -1,0 +1,26 @@
+{
+  "id": "1b65475c91ab",
+  "url": "https://www.agenciasinc.es/Noticias/Un-diminuto-rover-transformable-opera-de-forma-autonoma-en-la-Luna",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-11T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ingeniería espacial"
+  ],
+  "secciones": [
+    "Tecnologia"
+  ],
+  "fecha_consulta": "2026-10-27T01:42:37+00:00",
+  "campos": {
+    "titular": "Un diminuto rover transformable opera de forma autónoma en la Luna",
+    "entradilla": "SORA‑Q es un pequeño robot de apenas ocho centímetros de diámetro que formó parte de la misión japonesa SLIM. La nave llegó a la superficie lunar en enero de 2024 y, tras el aterrizaje, el dispositivo se desplegó desde una esfera compacta hasta convertirse en un vehículo con ruedas capaz de desplazarse por el terreno y enviar imágenes a la Tierra.",
+    "cuerpo": "Un equipo liderado por Daichi Hirano, de la Agencia Japonesa de Exploración Aeroespacial (JAXA), ha demostrado que un diminuto rover transformable puede operar de forma autónoma en la Luna. El dispositivo, llamado SORA‑Q, formó parte de la misión japonesa SLIM y ha sido descrito ahora en la revista Science Robotics.\nUna vez activo, el rover se desplazó por el terreno, tomó imágenes del módulo de aterrizaje y de su entorno y envió los datos a la Tierra a través de otro robot, LEV‑1, encargado de las comunicaciones. Funcionó durante algo más de 100 minutos antes de perder contacto.\nEsta operación no fue una simulación ni una prueba en laboratorio, sino una demostración real en condiciones lunares. El sistema completó las tareas previstas sin intervención directa desde la Tierra, lo que supone un avance relevante en autonomía para sistemas robóticos con recursos muy limitados.\nEl equipo de Hirano explica que, tras el aterrizaje, el dispositivo ejecutó por sí mismo una secuencia de acciones: desplegarse, orientarse, alejarse del módulo, capturar imágenes y seleccionar cuáles transmitir. El proceso se realizó con algoritmos de control y visión artificial a bordo, adaptados a una capacidad computacional muy reducida.\nAdemás de la miniaturización, el trabajo aborda los principales desafíos de este tipo de plataformas: poca potencia, limitaciones en sensores y dificultades para moverse en el regolito lunar. Para superarlos, el rover utiliza ruedas excéntricas que mejoran la tracción y un diseño transformable inspirado en mecanismos de juguetes.\nA pesar del éxito, el sistema presenta limitaciones claras. Solo transporta cámaras como carga científica, depende de otro robot para comunicarse con la Tierra y su tiempo de operación es reducido. También se registraron pérdidas de datos y problemas de conexión, posiblemente relacionados con los saltos del rover de comunicaciones o con el agotamiento de la batería.\n“Aunque las capacidades de un rover tan pequeño son limitadas, los resultados ponen de manifiesto el potencial de estas plataformas como exploradores independientes, capaces de acceder a entornos fuera del alcance de una nave principal de gran tamaño”, señala Hirano.\nMás allá de esta prueba concreta, la principal aportación es conceptual. Los investigadores plantean que este tipo de robots puede complementar a los grandes vehículos actuales. Su tamaño permite incluirlos como carga secundaria en misiones y desplegarlos en zonas de difícil acceso, como grietas, pendientes pronunciadas o tubos de lava.\nEl equipo también apunta a un futuro en el que múltiples robots pequeños trabajen de forma coordinada. En ese escenario, los vehículos ligeros podrían explorar áreas amplias o peligrosas, mientras sistemas más grandes se encargan del procesamiento de datos o de tareas complejas.\nLa misión SLIM tenía como objetivo principal demostrar aterrizajes de alta precisión en la Luna. En ese contexto, los pequeños rovers LEV‑1 y SORA‑Q aportaron información clave sobre la posición y el estado del módulo tras el alunizaje, además de validar el uso de plataformas robóticas miniaturizadas.\nLos resultados indican que, aunque estos dispositivos no sustituyen a los grandes rovers, sí pueden ampliar las capacidades de exploración. El estudio concluye que su bajo coste, su tamaño reducido y su autonomía los convierten en candidatos prometedores para futuras misiones en la Luna y otros cuerpos del sistema solar."
+  },
+  "sha256": {
+    "titular": "d44da5e7d5d63357f5e08fda28bc3263a275733aa8054b0843ec5a1ecde8f96f",
+    "entradilla": "1b8ab6ef09c3e1f3c6a4815fd1d31b4e312494ded2c26127d80c38154e3ed903",
+    "cuerpo": "7f9e549e5a002994bebfce9dba3903455936cf3129913f0e86a1cb0f1417eceb"
+  }
+}

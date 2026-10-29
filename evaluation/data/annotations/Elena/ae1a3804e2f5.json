@@ -1,0 +1,323 @@
+{
+  "article_id": "ae1a3804e2f5",
+  "url": "https://www.agenciasinc.es/Noticias/Los-simios-comparten-con-los-humanos-la-capacidad-de-imaginar-y-fingir",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:22+00:00",
+  "article_sha256": {
+    "titular": "bd4d028c7a3af85727e1c61158cc8e687fab71760db2a346283e5bf8048a28d2",
+    "entradilla": "28f09278a0710645cc4ee601f1318696981c82115596f5d11d533d6e2dab8ee6",
+    "cuerpo": "a4520d71768249cd24000284f1633807a4abdc78edc624fa6399a0485e323bd0"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Amalia Pinkusfeld Medeiros Bastos",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "científica de la Escuela de Psicología y Neurociencia de la Universidad de St. Andrews (Reino Unido) y coautora del estudio",
+      "gender_representation": "woman",
+      "gender_evidence": "científica",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Christopher Krupenye",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "coautor y profesor asistente en la Universidad Johns Hopkins (EE UU)",
+      "gender_representation": "man",
+      "gender_evidence": "coautor",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“El entrenamiento lingüístico de Kanzi fue extremadamente útil para los investigadores porque nos permite formular preguntas que son mucho más difíciles de plantear a otros simios”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Se le podía dar a Kanzi una instrucción verbal, como una pregunta, con una expectativa razonable de que comprendía lo que intentábamos comunicar. Esto no ocurre con la gran mayoría de los simios en cautividad, y desde luego ningún otro se acerca al nivel de comprensión del inglés hablado que tenía Kanzi”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "En cautividad, ha habido relatos anecdóticos de simios que muestran comportamientos similares al juego simbólico, como manipular y arrastrar aparentemente bloques ‘imaginarios’. Pero ¿y si estos simios se comportaban así por otras razones? Podrían parecer que ‘fingen’ cuando en realidad están confundidos sobre la realidad o simplemente imitan las acciones de un investigador”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Según Medeiros, con Kanzi ‘apostaban sobre seguro’:",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Nos ofrecía la mejor oportunidad de estudiar este fenómeno de una manera comparable a como se ha hecho con niños humanos, ya que las tareas utilizadas con niños solo necesitaban una adaptación mínima para él. Por tanto, aunque otros simios bien podrían ser capaces de comprender la simulación, este individuo nos facilitó poner a prueba esta capacidad”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“En este caso, Kanzi eligió de forma consistente el zumo, lo que demuestra que podía distinguir entre lo real y lo ficticio”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Este proceso cognitivo sustenta la forma en que tanto los humanos como los animales no humanos piensan sobre aquello que no está presente en el aquí y ahora”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La simulación es solo una pequeña parte del rompecabezas dentro del ámbito de las representaciones secundarias. Se suma a un creciente cuerpo de evidencia que indica que los animales no humanos poseen vidas mentales internas más ricas de lo que a veces se supone”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Existe un creciente cuerpo de evidencia que sugiere que las representaciones secundarias ya están presentes en animales no humanos. Esto ocurre tanto a través de su desempeño en otras tareas, como las relacionadas con la teoría de la mente - razonar sobre lo que otros individuos pueden percibir o creer-, como las tareas de viaje mental en el tiempo. Por ejemplo, considerar el pasado y planificar el futuro”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Si Kanzi siguiera con nosotros, nos habría encantado intentar estudios en los que pudiera participar activamente en la simulación, en lugar de limitarse a observar al investigador realizar acciones fingidas”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Jane Goodall descubrió que los chimpancés fabrican herramientas y eso llevó a un cambio en la definición de lo que significa ser humano; y esto también nos invita a reconsiderar qué nos hace especiales y qué tipo de vida mental existe entre otras criaturas”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Estos hallazgos deberían impulsarnos a cuidar de estas criaturas con mentes ricas y hermosas y a asegurar que sigan existiendo”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793122429791",
+        "nombre": "Amalia Pinkusfeld Medeiros Bastos",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 812,
+            "fin16": 845,
+            "texto": "Amalia Pinkusfeld Medeiros Bastos",
+            "inicio": 812,
+            "fin": 845
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 847,
+          "fin16": 857,
+          "texto": "científica",
+          "inicio": 847,
+          "fin": 857
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 618,
+            "fin16": 799,
+            "texto": "“El entrenamiento lingüístico de Kanzi fue extremadamente útil para los investigadores porque nos permite formular preguntas que son mucho más difíciles de plantear a otros simios”,",
+            "tipo": "directa",
+            "inicio": 618,
+            "fin": 799
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1002,
+            "fin16": 1309,
+            "texto": "“Se le podía dar a Kanzi una instrucción verbal, como una pregunta, con una expectativa razonable de que comprendía lo que intentábamos comunicar. Esto no ocurre con la gran mayoría de los simios en cautividad, y desde luego ningún otro se acerca al nivel de comprensión del inglés hablado que tenía Kanzi”,",
+            "tipo": "directa",
+            "inicio": 1002,
+            "fin": 1309
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1581,
+            "fin16": 1959,
+            "texto": "En cautividad, ha habido relatos anecdóticos de simios que muestran comportamientos similares al juego simbólico, como manipular y arrastrar aparentemente bloques ‘imaginarios’. Pero ¿y si estos simios se comportaban así por otras razones? Podrían parecer que ‘fingen’ cuando en realidad están confundidos sobre la realidad o simplemente imitan las acciones de un investigador”,",
+            "tipo": "directa",
+            "inicio": 1581,
+            "fin": 1959
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2188,
+            "fin16": 2239,
+            "texto": "Según Medeiros, con Kanzi ‘apostaban sobre seguro’:",
+            "tipo": "indirecta",
+            "inicio": 2188,
+            "fin": 2239
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2240,
+            "fin16": 2594,
+            "texto": "“Nos ofrecía la mejor oportunidad de estudiar este fenómeno de una manera comparable a como se ha hecho con niños humanos, ya que las tareas utilizadas con niños solo necesitaban una adaptación mínima para él. Por tanto, aunque otros simios bien podrían ser capaces de comprender la simulación, este individuo nos facilitó poner a prueba esta capacidad”.",
+            "tipo": "directa",
+            "inicio": 2240,
+            "fin": 2594
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3314,
+            "fin16": 3439,
+            "texto": "“En este caso, Kanzi eligió de forma consistente el zumo, lo que demuestra que podía distinguir entre lo real y lo ficticio”,",
+            "tipo": "directa",
+            "inicio": 3314,
+            "fin": 3439
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3912,
+            "fin16": 4071,
+            "texto": "“Este proceso cognitivo sustenta la forma en que tanto los humanos como los animales no humanos piensan sobre aquello que no está presente en el aquí y ahora”,",
+            "tipo": "directa",
+            "inicio": 3912,
+            "fin": 4071
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4321,
+            "fin16": 4586,
+            "texto": "“La simulación es solo una pequeña parte del rompecabezas dentro del ámbito de las representaciones secundarias. Se suma a un creciente cuerpo de evidencia que indica que los animales no humanos poseen vidas mentales internas más ricas de lo que a veces se supone”,",
+            "tipo": "directa",
+            "inicio": 4321,
+            "fin": 4586
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4847,
+            "fin16": 5258,
+            "texto": "“Existe un creciente cuerpo de evidencia que sugiere que las representaciones secundarias ya están presentes en animales no humanos. Esto ocurre tanto a través de su desempeño en otras tareas, como las relacionadas con la teoría de la mente - razonar sobre lo que otros individuos pueden percibir o creer-, como las tareas de viaje mental en el tiempo. Por ejemplo, considerar el pasado y planificar el futuro”,",
+            "tipo": "directa",
+            "inicio": 4847,
+            "fin": 5258
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5486,
+            "fin16": 5694,
+            "texto": "“Si Kanzi siguiera con nosotros, nos habría encantado intentar estudios en los que pudiera participar activamente en la simulación, en lugar de limitarse a observar al investigador realizar acciones fingidas”",
+            "tipo": "directa",
+            "inicio": 5486,
+            "fin": 5694
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 847,
+          "fin16": 970,
+          "texto": "científica de la Escuela de Psicología y Neurociencia de la Universidad de St. Andrews (Reino Unido) y coautora del estudio",
+          "inicio": 847,
+          "fin": 970
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793122482058",
+        "nombre": "Christopher Krupenye",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2863,
+            "fin16": 2883,
+            "texto": "Christopher Krupenye",
+            "inicio": 2863,
+            "fin": 2883
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2885,
+          "fin16": 2892,
+          "texto": "coautor",
+          "inicio": 2885,
+          "fin": 2892
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2595,
+            "fin16": 2854,
+            "texto": "“Jane Goodall descubrió que los chimpancés fabrican herramientas y eso llevó a un cambio en la definición de lo que significa ser humano; y esto también nos invita a reconsiderar qué nos hace especiales y qué tipo de vida mental existe entre otras criaturas”,",
+            "tipo": "directa",
+            "inicio": 2595,
+            "fin": 2854
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5822,
+            "fin16": 5951,
+            "texto": "“Estos hallazgos deberían impulsarnos a cuidar de estas criaturas con mentes ricas y hermosas y a asegurar que sigan existiendo”,",
+            "tipo": "directa",
+            "inicio": 5822,
+            "fin": 5951
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2885,
+          "fin16": 2953,
+          "texto": "coautor y profesor asistente en la Universidad Johns Hopkins (EE UU)",
+          "inicio": 2885,
+          "fin": 2953
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 134
+  }
+}

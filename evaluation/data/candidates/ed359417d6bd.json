@@ -1,0 +1,26 @@
+{
+  "id": "ed359417d6bd",
+  "url": "https://www.agenciasinc.es/Noticias/Nereida-podria-ser-una-de-las-lunas-originales-de-Neptuno-y-no-una-captura-del-cinturon-de-Kuiper",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-21T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:44:42+00:00",
+  "campos": {
+    "titular": "Nereida podría ser una de las lunas originales de Neptuno, y no una captura del cinturón de Kuiper",
+    "entradilla": "Un nuevo análisis refuta que Nereida, una de las 16 lunas de Neptuno, fuese tomada desde fuera de la órbita del planeta como el resto de satélites. Según los resultados, su composición es diferente a la de otros objetos del cinturón de Kuiper, lo que la convertiría en el único resto del sistema original de lunas.",
+    "cuerpo": "Nereida, la tercera luna más grande de Neptuno, podría ser el único satélite intacto que sobrevive del sistema original de este planeta, según sugiere un nuevo análisis de datos del Telescopio Espacial James Webb, un proyecto internacional liderado por la NASA.\nLos hallazgos, publicados en Science Advances, desafían una teoría muy arraigada que propone que Nereida, al igual que otras lunas importantes de Neptuno, fue capturada desde fuera de la órbita del planeta, en concreto, desde una región que rodea el sistema solar llamada cinturón de Kuiper. Esta hipótesis surgió, en parte, porque las lunas poseen órbitas irregulares y excéntricas, que rara vez ocurren en sistemas de satélites originales aún intactos.\nAhora, los autores del trabajo liderado por el Instituto Tecnológico de California (EE UU) presentan evidencias que indican que Nereida podría ser en realidad un satélite original de Neptuno. Sus análisis de datos espectroscópicos de infrarrojo cercano revelaron que la composición de Nereida es diferente a la de otros objetos del cinturón de Kuiper.\nSe piensa que los objetos helados del cinturón de Kuiper son restos de la formación del sistema solar. De un modo similar a la relación que existe entre el cinturón principal de asteroides y Júpiter, esta es una región de objetos que podrían haberse unido para formar un planeta si Neptuno no hubiera estado allí.\nEn cambio, la gravedad de Neptuno agitó tanto esta región del espacio que los pequeños objetos helados no pudieron unirse y formar un gran planeta.\nEl equipo de investigación exploró cómo Nereida pudo haber desarrollado su órbita altamente excéntrica si no fuera una luna capturada. Las simulaciones indicaron que la órbita surgió como respuesta a la llegada de Tritón, la luna más grande de Neptuno, cuando fue capturada del cinturón de Kuiper. Esta es la única luna grande del sistema solar que orbita alrededor de su planeta en dirección opuesta a la rotación del planeta (una órbita retrógrada), lo que confirma que este sí es un objeto independiente capturado por Neptuno.\nPor eso, se creía que los satélites entrantes, como Tritón, habían aniquilado todos los satélites originales del planeta. El nuevo estudio refuta estas afirmaciones. “Nuestra propuesta de génesis de satélites regulares para la luna deja a Nereida como el único satélite original intacto de Neptuno”, explican los autores. “Las lunas más internas de este planeta, como Proteo, son fragmentos reacumulados de satélites destruidos por la captura de Tritón”, añaden."
+  },
+  "sha256": {
+    "titular": "cc4d6a8da5360d03940a2d078551b7479642e18965efee8d43a6dc1e19b95ac0",
+    "entradilla": "8f8e02271c1d508cb8827617270a32886509efcd8ad714ee458c0ec2086b5898",
+    "cuerpo": "6bb39c0882a1f6bbefae003375132d8257f3f3b3446158b5d98531a7985852f4"
+  }
+}

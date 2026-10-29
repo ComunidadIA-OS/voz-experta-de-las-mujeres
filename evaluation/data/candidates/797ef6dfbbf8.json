@@ -1,0 +1,26 @@
+{
+  "id": "797ef6dfbbf8",
+  "url": "https://www.agenciasinc.es/Noticias/Tratar-el-cancer-de-pulmon-por-la-manana-mejora-el-efecto-de-la-inmunoterapia",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-02T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:54:01+00:00",
+  "campos": {
+    "titular": "Tratar el cáncer de pulmón por la mañana mejora el efecto de la inmunoterapia",
+    "entradilla": "Las personas con este tipo de tumor que recibieron tratamiento antes de las 15:00 presentaron una progresión más lenta de la enfermedad que los demás pacientes. Una investigación de 210 participantes señala que programar la terapia a primera hora mejoraría su pronóstico.",
+    "cuerpo": "Los ritmos circadianos influyen en el comportamiento de las células inmunitarias y las respuestas a los tratamientos. Un estudio, publicado hoy en Nature Medicine, revela que las terapias a primera hora son más eficaces para frenar el avance de determinados tipos de cáncer como el de pulmón.\nUna investigación, liderada por la Universidad de Hong Kong (China), muestra que los pacientes con cáncer de pulmón avanzado que recibieron inmunoquimioterapia antes de las 15:00 presentaron una progresión más lenta de la enfermedad que aquellos que la recibieron más tarde ese mismo día.\nLos resultados sugieren que los tratamientos matutinos podrían ser una forma sencilla y sin coste adicional de mejorar el pronóstico de este tipo de tumores.\nEstudios previos de cáncer de riñón y melanoma maligno sugerían que la administración de inhibidores de puntos de control inmunitario a primera hora del día podría ser más eficaz. No obstante, faltaban ensayos controlados para validar los hallazgos.\nPara saberlo, los investigadores llevaron a cabo un estudio aleatorizado de fase III en el que participaron 210 pacientes con cáncer de pulmón no microcítico avanzado sin tratar.\nAlgunos de ellos fueron asignados para recibir quimioterapia antes de las 15:00 y otros después de esa hora durante los primeros cuatro ciclos de medicación. Los pacientes tratados temprano permanecieron sin progresión de la enfermedad durante una media de 11,3 meses, frente a 5,7 meses en el grupo tratado más tarde.\nAsimismo, tras un seguimiento aproximado de 28,7 meses, el grupo matutino no experimentó un empeoramiento de la enfermedad y la mediana de supervivencia global fue de 28 meses, mientras que en el vespertino fue de 16,8 meses.\nLas tasas de respuesta a la terapia fueron del 69,5 % en el grupo temprano y del 56,2 % en el grupo tardío, y no hubo diferencias significativas en los acontecimientos adversos relacionados con el sistema inmunitario.\nEn un análisis adicional, los autores también observaron mayor cantidad en sangre de T CD8+ circulantes –un tipo de célula inmunitaria– y una mayor proporción de células T CD8+ activadas en el grupo matutino que en el vespertino, lo que explicaría la mayor eficacia del tratamiento en este grupo.\nSin embargo, los autores señalan que es necesario seguir investigando para determinar los resultados de supervivencia a largo plazo, además de analizar las vías mecánicas que relacionan el ritmo circadiano con la eficacia en los pacientes de cáncer."
+  },
+  "sha256": {
+    "titular": "c8f996be606f53a36233d3d9affe8fceb6d7f0829ad63831277e19fd4d899d40",
+    "entradilla": "e4c8735f0b84a2d7c0d619a269d7e12e503c581c05d2b330cb97d3515de4ee1e",
+    "cuerpo": "ed60ec9e27054261e52dfd0496ff651fff5234588c01ab5f82e1c741344710c1"
+  }
+}

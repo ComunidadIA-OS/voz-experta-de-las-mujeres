@@ -1,0 +1,263 @@
+{
+  "article_id": "c26f5d4e06f6",
+  "url": "https://www.agenciasinc.es/Noticias/El-mayor-estudio-hasta-la-fecha-sobre-arteritis-de-celulas-gigantes-identifica-cuatro-perfiles-de-riesgo",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:25+00:00",
+  "article_sha256": {
+    "titular": "c7f4a2b2301178b297c317c8f0468ccc9324ff9cd8b8a444a80045e533974e44",
+    "entradilla": "b277de3f09a39f23647cc4be4ee551b6a4ee6977117a1051c2edebad29b3644a",
+    "cuerpo": "3bf9fa452579a9eedabdafbd631c72dc780925449e730b0353cef5fd947c64f7"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Gonzalo Borrego",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigador predoctoral del IPBLN-CSIC y primer autor del estudio",
+      "gender_representation": "man",
+      "gender_evidence": "investigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Ana Márquez",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "científica titular del IPBLN-CSIC y autora principal del estudio.",
+      "gender_representation": "woman",
+      "gender_evidence": "científica titular",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p3",
+      "name": "Javier Martín",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "profesor de investigación del IPBLN-CSIC y coautor principal del trabajo.",
+      "gender_representation": "man",
+      "gender_evidence": "profesor",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "\"Este trabajo demuestra que la genética no solo influye en el riesgo de desarrollar la enfermedad, sino también en la forma en que esta se manifiesta en cada paciente\",",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "\"La identificación de este último grupo es especialmente relevante porque podría permitir reconocer desde fases muy tempranas a los pacientes con mayor riesgo de desarrollar complicaciones irreversibles\",",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "\"Aunque todavía será necesario validar estos resultados en estudios de investigación donde se analicen datos a lo largo de un periodo de tiempo, también llamados estudios prospectivos, nuestros datos muestran que la información genética puede aportar un valor añadido para mejorar la estratificación clínica de los pacientes\",",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "direct",
+      "text": "\"Este estudio supone un paso importante para comprender esa heterogeneidad y sienta las bases para desarrollar estrategias diagnósticas y terapéuticas más individualizadas\",",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "direct",
+      "text": "\"Durante años hemos sabido que la arteritis de células gigantes es una enfermedad muy heterogénea, pero desconocíamos gran parte de las bases biológicas que explican esa diversidad clínica\"",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793122873539",
+        "nombre": "Gonzalo Borrego",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2205,
+            "fin16": 2220,
+            "texto": "Gonzalo Borrego",
+            "inicio": 2205,
+            "fin": 2220
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2222,
+          "fin16": 2234,
+          "texto": "investigador",
+          "inicio": 2222,
+          "fin": 2234
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2028,
+            "fin16": 2196,
+            "texto": "\"Este trabajo demuestra que la genética no solo influye en el riesgo de desarrollar la enfermedad, sino también en la forma en que esta se manifiesta en cada paciente\",",
+            "tipo": "directa",
+            "inicio": 2028,
+            "fin": 2196
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2222,
+          "fin16": 2288,
+          "texto": "investigador predoctoral del IPBLN-CSIC y primer autor del estudio",
+          "inicio": 2222,
+          "fin": 2288
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793122893805",
+        "nombre": "Ana Márquez",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2957,
+            "fin16": 2969,
+            "texto": "Ana Márquez,",
+            "inicio": 2957,
+            "fin": 2969
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2970,
+          "fin16": 2988,
+          "texto": "científica titular",
+          "inicio": 2970,
+          "fin": 2988
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2745,
+            "fin16": 2949,
+            "texto": "\"La identificación de este último grupo es especialmente relevante porque podría permitir reconocer desde fases muy tempranas a los pacientes con mayor riesgo de desarrollar complicaciones irreversibles\",",
+            "tipo": "directa",
+            "inicio": 2745,
+            "fin": 2949
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3036,
+            "fin16": 3362,
+            "texto": "\"Aunque todavía será necesario validar estos resultados en estudios de investigación donde se analicen datos a lo largo de un periodo de tiempo, también llamados estudios prospectivos, nuestros datos muestran que la información genética puede aportar un valor añadido para mejorar la estratificación clínica de los pacientes\",",
+            "tipo": "directa",
+            "inicio": 3036,
+            "fin": 3362
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2970,
+          "fin16": 3035,
+          "texto": "científica titular del IPBLN-CSIC y autora principal del estudio.",
+          "inicio": 2970,
+          "fin": 3035
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793122935421",
+        "nombre": "Javier Martín",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3896,
+            "fin16": 3909,
+            "texto": "Javier Martín",
+            "inicio": 3896,
+            "fin": 3909
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 3911,
+          "fin16": 3919,
+          "texto": "profesor",
+          "inicio": 3911,
+          "fin": 3919
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3985,
+            "fin16": 4158,
+            "texto": "\"Este estudio supone un paso importante para comprender esa heterogeneidad y sienta las bases para desarrollar estrategias diagnósticas y terapéuticas más individualizadas\",",
+            "tipo": "directa",
+            "inicio": 3985,
+            "fin": 4158
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3697,
+            "fin16": 3886,
+            "texto": "\"Durante años hemos sabido que la arteritis de células gigantes es una enfermedad muy heterogénea, pero desconocíamos gran parte de las bases biológicas que explican esa diversidad clínica\"",
+            "tipo": "directa",
+            "inicio": 3697,
+            "fin": 3886
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 3911,
+          "fin16": 3984,
+          "texto": "profesor de investigación del IPBLN-CSIC y coautor principal del trabajo.",
+          "inicio": 3911,
+          "fin": 3984
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 113
+  }
+}

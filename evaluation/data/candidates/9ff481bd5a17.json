@@ -1,0 +1,26 @@
+{
+  "id": "9ff481bd5a17",
+  "url": "https://www.agenciasinc.es/Noticias/Las-mariposas-despistan-a-las-aves-con-ilusiones-opticas-en-pleno-vuelo",
+  "autoria": "Alejandro Muñoz",
+  "fecha_publicacion": "2026-09-30T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:32:33+00:00",
+  "campos": {
+    "titular": "Las mariposas despistan a las aves con ilusiones ópticas en pleno vuelo",
+    "entradilla": "Las rayas y manchas de las mariposas en vuelo confundirían a las aves, que calculan mal la velocidad y la dirección de la presa y fallarían su ataque. Así lo sugiere un estudio publicado en Nature que ha analizado casi 400 especies europeas.",
+    "cuerpo": "Las mariposas son de los insectos más fáciles de ver en el campo. Sin embargo, muy pocas aves se especializan en cazarlas al vuelo. Un estudio de las universidades de Exeter y Essex (Reino Unido), publicado hoy en Nature, ofrece parte de la explicación: el dibujo de sus alas y el aleteo crean ilusiones ópticas que confunden al depredador sobre su velocidad y trayectoria, y provocan que su ataque falle.\nEsta defensa se conoce como camuflaje de movimiento (motion dazzle, en inglés), una idea poco estudiada y difícil de testar experimentalmente. Hasta ahora. “Los estudios anteriores no filmaron a los animales a una velocidad lo suficientemente alta como para cuantificar correctamente su movimiento”, explica a SINC George Hancock, investigador posdoctoral en la Universidad de Exeter y primer autor del trabajo.\nEl equipo filmó mariposas a 1 000 fotogramas por segundo y analizó los vídeos con un modelo que imita cómo perciben el movimiento las aves, que ven el mundo al doble de velocidad que los humanos.\nEl primer vídeo destapó una sorpresa: la mariposa subía, pero el modelo detectaba movimiento hacia abajo. “Al principio pensé que había cometido un error en el código, pero luego me di cuenta de que era un efecto real”, explica Jolyon Troscianko, ecólogo visual de la Universidad de Exeter y director del estudio.\nEl efecto recuerda al del poste giratorio de las barberías, cuyas rayas parecen desplazarse en vertical aunque solo gira: al aletear, las alas de la mariposa se deforman y sus rayas cambian de ángulo. “El ave vería la mariposa sin problemas, pero predecir dónde estará exactamente dentro de 200 milisegundos resulta muy difícil”, añade.\nLos investigadores simularon en 3D el vuelo de 757 formas de ala de 397 especies de mariposas europeas y comprobaron que las rayas verticales, las bandas y las colas son los rasgos que más confunden. Después, cien voluntarios intentaron ‘cazar’ mariposas virtuales en una pantalla táctil de alta frecuencia: ante los diseños más engañosos, tocaban por detrás del insecto.\nPara Juan José Negro, experto en coloración animal de la Estación Biológica de Doñana (EBD-CSIC), que no ha participado en el estudio, esto refuerza una vieja idea sobre las colas de especies como el macaón o la chupaleche: “Si el predador calcula mal su ataque, acabaría quedándose con la cola y la mariposa aún tendría la posibilidad de escapar”.\nPor último, un algoritmo genético generó 57 600 mariposas virtuales a partir de diseños aleatorios. Muchas acabaron pareciéndose a las reales, pero también surgió la estrategia opuesta: alas blancas lisas que hacen que el depredador se pase de largo. “Las mariposas blancas son las más fáciles de ver en una pradera pero, a menudo, las más difíciles de atrapar. Este hallazgo fue la guinda del pastel”, dice Troscianko.\nEntre las especies ibéricas que más ‘confunden’, los investigadores destacan el macaón (Papilio machaon), la chupaleche (Iphiclides feisthamelii) e Hipparchia hermione.\nNegro considera que es un trabajo “muy concienzudo y metodológicamente muy complejo”, aunque recuerda que falta comprobar si las mariposas reales confundirían a los depredadores reales, algo “tremendamente difícil”.\nSegún el experto, el mecanismo podría darse también en vertebrados, lo que tendría valor para toda la disciplina: “Los estudios evolutivos sobre comportamiento adolecen de pocos paradigmas y leyes universales”.\nLos autores ya exploran esa vía. “Nuestros nuevos métodos abrirán la puerta a investigaciones en especies como aves, peces, reptiles y otros grupos de insectos”, afirma Troscianko."
+  },
+  "sha256": {
+    "titular": "49e9c31a52c47190b4bcd78f6dedceed5d6d4549b1a611e6055b08b187d9073f",
+    "entradilla": "9b3bd5539c586b889af2b50d5291579052b3c92456a7e012641f820b792961cb",
+    "cuerpo": "40238fba009417d24795771e5f8dc77473c6fc2a9671c7ba57c8c0bef9f6f14f"
+  }
+}

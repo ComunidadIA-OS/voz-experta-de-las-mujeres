@@ -1,0 +1,26 @@
+{
+  "id": "e32c4bc1d162",
+  "url": "https://www.agenciasinc.es/Noticias/La-mayor-revision-sobre-las-vacunas-de-ARNm-respalda-su-seguridad-y-eficacia",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-01T11:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Farmacología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:40:48+00:00",
+  "campos": {
+    "titular": "La mayor revisión sobre las vacunas de ARNm respalda su seguridad y eficacia",
+    "entradilla": "El análisis reúne la evidencia obtenida en ensayos clínicos, estudios de laboratorio y el uso de miles de millones de dosis. Sus autores destacan el potencial de esta tecnología para prevenir y tratar otras enfermedades, además de la covid-19.",
+    "cuerpo": "Las vacunas de ARN mensajero (ARNm) constituyen una herramienta segura y muy eficaz para prevenir enfermedades infecciosas como la covid-19 y podrían ampliar su uso a otras infecciones, algunos tipos de cáncer y dolencias autoinmunes, según una revisión publicada este martes en The Lancet.\nEl trabajo, liderado por investigadores de la Universidad de Columbia Británica (Canadá), integra resultados de investigaciones básicas, ensayos clínicos y estudios de efectividad en condiciones reales. Los autores describen el funcionamiento de estas vacunas, revisan su perfil de seguridad y eficacia y analizan las perspectivas de una tecnología que continúa evolucionando.\n“Después de miles de millones de dosis, contamos con una cantidad extraordinaria de evidencia científica”, afirma la autora principal, Anna Blakney, investigadora de los Michael Smith Laboratories y de la Escuela de Ingeniería Biomédica de la universidad canadiense. “Esta revisión confirma que las vacunas de ARNm constituyen una plataforma segura y muy eficaz, respaldada por rigurosos ensayos y por la vigilancia en condiciones reales. Proporciona una base científica para su expansión hacia nuevas áreas de la medicina”.\nLos investigadores recuerdan que, como cualquier vacuna, las de ARNm también pueden causar efectos secundarios. Sin embargo, la revisión concluye que las reacciones graves son poco frecuentes y que los beneficios de la vacunación superan ampliamente los riesgos\nEntre esos efectos figura la miocarditis, que aparece con mayor frecuencia en varones jóvenes, aunque los autores subrayan que su incidencia es baja y queda compensada por la protección frente a enfermedad grave, hospitalización y muerte.\nEl análisis confirma además que las vacunas ofrecen una elevada protección frente a las formas graves de la covid-19 en distintos grupos de población, incluidos niños, mujeres embarazadas y personas inmunodeprimidas. También destaca que las dosis de refuerzo prolongan esa protección y que la actualización de las formulaciones ha permitido mantener su eficacia frente a las nuevas variantes del virus.\n“Con cualquier vacuna o medicamento nuevo es importante comunicar de forma clara y transparente los datos de seguridad y el rigor de las pruebas que respaldan su uso”, señala Manish Sadarangani, profesor de Pediatría en la Universidad de Columbia Británica y director del Vaccine Evaluation Center del BC Children's Hospital Research Institute. “Esto es esencial para generar confianza pública, contrarrestar la desinformación y favorecer decisiones informadas sobre la vacunación”.\nLa revisión también aborda algunos de los mitos que aún rodean a estas vacunas. Los autores recuerdan que el ARN mensajero no modifica el ADN humano. Su función consiste en proporcionar instrucciones temporales para que las células produzcan una proteína inocua del virus que active la respuesta inmunitaria. Tanto el ARN como las nanopartículas lipídicas que lo transportan se degradan y eliminan del organismo poco después.\nAdemás de su uso frente a la covid-19, varios grupos desarrollan vacunas de ARNm contra la gripe y el virus respiratorio sincitial (VRS), así como vacunas personalizadas para determinados tumores y otras terapias basadas en ARN.\n“Esto trata, sobre todo, de lo que viene después”, afirma Blakney. “Estamos viendo cómo la misma plataforma se aplica al tratamiento del cáncer y de otras enfermedades. Comprender cómo funcionan estas vacunas y por qué son seguras ayudará a reforzar la confianza en la próxima generación de medicamentos”.\nLos autores consideran que el desarrollo futuro de esta tecnología dependerá también de ampliar la capacidad de fabricación, especialmente en los países de renta baja y media, mejorar el almacenamiento y la distribución, reducir los costes y mantener sistemas de vigilancia que permitan seguir evaluando su seguridad y eficacia."
+  },
+  "sha256": {
+    "titular": "9de88c3844944b9014f2b6ee95dc77d3f69eb3f4c7e3a7258e14e988a0b79d10",
+    "entradilla": "e28ebfc54160cde15302afd4f80fa824a07dca6ac96af61b9fab4df42a51f9ca",
+    "cuerpo": "b389e05065c02601b0c36e8fee3955ed9eda43b7feb530431d65a10346a719c3"
+  }
+}

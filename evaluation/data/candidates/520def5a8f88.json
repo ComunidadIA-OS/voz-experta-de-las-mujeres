@@ -1,0 +1,26 @@
+{
+  "id": "520def5a8f88",
+  "url": "https://www.agenciasinc.es/Noticias/Identifican-una-diana-terapeutica-para-frenar-la-propagacion-de-los-coronavirus",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-03T10:05:00+01:00",
+  "fuente_y_derechos": "Fuente: UPF | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Patología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:51:15+00:00",
+  "campos": {
+    "titular": "Identifican una diana terapéutica para frenar la propagación de los coronavirus",
+    "entradilla": "Un equipo de la Universidad Pompeu Fabra detecta una enzima que se activa en las células humanas como respuesta al estrés debido a la infección por un coronavirus, y provoca cambios en la maquinaria celular que favorecen su producción y propagación.",
+    "cuerpo": "Los coronavirus no solo utilizan la maquinaria de las células humanas que infectan: la modifican para tener condiciones óptimas para fabricar proteínas virales y así propagarse con mayor rapidez.\nEsta es la principal conclusión de un estudio de la Universidad Pompeu Fabra publicado en Nature Communications. El trabajo identifica unas enzimas que modifican los ARN de transferencia (ARNt) –pequeñas piezas celulares necesarias para la construcción de proteínas–, como elementos clave para la infección por coronavirus. Estas enzimas se activan por la respuesta al estrés que supone la infección vírica y podrían constituir una nueva diana terapéutica para desarrollar fármacos antivirales de amplio espectro contra los coronavirus.\nEn los últimos 25 años el mundo ha presenciado tres grandes brotes de enfermedades respiratorias causadas por coronavirus que han pasado de animales a humanos. El SARS-CoV-1 en 2002, el MERS en 2012 y el SARS-CoV-2 en 2019. Mientras que las dos primeras causaron epidemias, el SARS-CoV-2 desencadenó una pandemia que causó más de 7 millones de muertes.\n“Los coronavirus son muy peligrosos por su capacidad de generar nuevas variantes capaces de infectar a humanos tras circular en reservorios animales”, cuenta Juana Díez, directora del Grupo de Investigación en Virología Molecular de la Universidad Pompeu Fabra, que ha liderado la investigación. “Actualmente no tenemos ningún fármaco antiviral de amplio espectro eficaz frente a los coronavirus. Así que cuando emerja un nuevo coronavirus, un escenario considerado muy probable en la comunidad científica, estaremos como a finales del 2019, cuando no teníamos fármacos para controlar la propagación”.\n“Curiosamente, los coronavirus necesitan unos ARNt que están en baja concentración en las células. Por eso nos preguntamos, ¿cómo puede un virus propagarse tan deprisa dentro de una célula donde no abundan los ARNt que necesita para fabricar sus proteínas virales?”, explica Elena Muscolino, primera autora del trabajo.\nEl estudio muestra que la infección provoca un estrés que modifica químicamente los ARNt y cambia el funcionamiento de la maquinaria celular. Así, la célula deja de estar optimizada para producir sus propias proteínas y pasa a tener las condiciones ideales para responder al estrés.\nLos coronavirus han aprovechado esta situación, ya que “para fabricar proteínas de respuesta al estrés se necesitan los mismos ARNt que necesitan los coronavirus para fabricar sus proteínas virales”, explica Mireia Puig, también autora del trabajo.\nEste reajuste, impulsado por enzimas celulares que modifican los ARNt, permite que los coronavirus aceleren la producción de sus proteínas sin necesidad de generar nueva maquinaria, simplemente alterando la que ya existe. “Como los cambios en los ARNt son modificaciones de la maquinaria que ya tiene la célula y no generación de nuevas ‘piezas celulares’, la producción de proteínas virales se da rápidamente y los coronavirus pueden propagarse muy deprisa”, detalla Muscolino.\nLa modificación de los ARNt se ha observado tanto en SARS-CoV-2, asociado a infecciones graves, como en HCoV-OC43, que suele causar cuadros muy leves parecidos a un resfriado. Por tanto, podría tratarse de una estrategia común entre distintos coronavirus. Además, cuando se bloquea la actividad de estas enzimas modificadoras, la producción de proteínas virales disminuye de forma significativa.\n“La enzima de modificación de los ARNt es una candidata que promete para desarrollar antivirales de amplio espectro capaces de frenar la propagación de los coronavirus”, señala Díez. Y añade: “Un fármaco de este tipo nos permitiría contener las infecciones causadas por nuevos coronavirus desde sus fases iniciales y evitar su rápida expansión, y por tanto, la generación de nuevas pandemias”.\nEste trabajo, liderado por la Universidad Pompeu Fabra, se ha realizado en colaboración con los grupos de investigación dirigidos por Arvind H. Patel y Alfredo Castelló (Universidad de Glasgow), Rafael Sanjuán (Instituto de Biología Integrativa de Sistemas, Valencia) y Miguel Chillón (Universidad Autónoma de Barcelona)."
+  },
+  "sha256": {
+    "titular": "5dfaa80ee8a7c868b16155eb3d52df0b1dbfdb93726b5e285ccd5f8dc555b6ab",
+    "entradilla": "a6eb3f38cc0be0f6e7c49ce6aec20ae8288e05df3d3fb3c7a49a2eff8e2f8b27",
+    "cuerpo": "a40845c66a656141413a60cd82c8039fc039a82e47a80d0e3b78a7c18b13b819"
+  }
+}

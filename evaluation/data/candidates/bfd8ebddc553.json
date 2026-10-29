@@ -1,0 +1,26 @@
+{
+  "id": "bfd8ebddc553",
+  "url": "https://www.agenciasinc.es/Noticias/Hallan-evidencias-de-explosiones-cosmicas-que-no-dejan-rastro-de-agujeros-negros",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-04-01T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:48:40+00:00",
+  "campos": {
+    "titular": "Hallan evidencias de explosiones cósmicas que no dejan rastro de agujeros negros",
+    "entradilla": "Un equipo internacional ha descubierto indicios de un tipo inusual de estrella explosiva, lo que aporta una nueva visión acerca de uno de los eventos más catastróficos del universo.",
+    "cuerpo": "Al final de sus vidas, la mayoría de las estrellas masivas colapsan para formar agujeros negros, objetos con una gravedad tan intensa que ni siquiera la luz puede escapar de ellos. Sin embargo, se espera que algunas estrellas extremadamente masivas alcancen temperaturas tan elevadas que acaben saltando por los aires en lo que se conoce como una supernova por inestabilidad de parejas: una explosión tan violenta que la estrella se desintegra por completo, sin dejar ningún agujero negro como remanente.\nPredichas por primera vez en la década de 1960, estas supernovas son extremadamente difíciles de distinguir de las explosiones estelares comunes. Ahora, en un estudio publicado en la revista Nature, un equipo internacional de investigadores ha logrado medir las propiedades de estos objetos mediante ondas gravitacionales —vibraciones en el tejido del espacio-tiempo— detectadas por la red de observatorios LIGO-Virgo-KAGRA, confirmando la existencia de un “rango prohibido” en las masas de los agujeros negros.\nEl equipo ha determinado que los agujeros negros con masas superiores a 45 veces la del Sol son inusuales. La razón es que las estrellas que deberían haberlos originado terminaron estallando en estas colosales supernovas por inestabilidad de parejas, desapareciendo sin dejar rastro. El hallazgo confirma que existe una brecha donde, aparentemente, las estrellas no son capaces de dar lugar a agujeros negros.\n“La observación se explica bien por la inestabilidad de parejas; no hay agujeros negros de origen estelar en la zona prohibida porque las estrellas están sufriendo estas supernovas”, explica Hui Tong, investigador de la Escuela de Física y Astronomía de la Universidad de Monash (Australia) y autor principal del estudio. Según el científico, los únicos agujeros negros que se encuentran en este rango de masa no provienen de estrellas individuales, sino de la fusión de otros agujeros negros más pequeños.\nConfirmar la existencia de este vacío poblacional ayuda a resolver una de las grandes preguntas de la astrofísica: cómo viven y mueren las estrellas más grandes y cuál es el origen real de los agujeros negros que detectamos. El estudio destaca el potencial de las ondas gravitacionales para actuar como un microscopio que permite observar el ciclo vital de los objetos más masivos del cosmos.\n“Estamos viendo pruebas indirectas de uno de los estallidos más titánicos del universo”, afirma la profesora Maya Fishbach, de la Universidad de Toronto (Canada) y colaboradora del proyecto. Por su parte, el profesor Eric Thrane, investigador principal de OzGrav, centro impulsado por el gobierno australiano para investigar ondas gravitacionales, señala la elegancia del método: “Es un resultado fascinante porque estamos utilizando los agujeros negros para aprender sobre las reacciones nucleares que ocurren en el interior de las estrellas”."
+  },
+  "sha256": {
+    "titular": "4cf5c88f75af99f801a8fde1b25516c8e5286bc13c1df467a3a6ef32617c963f",
+    "entradilla": "a980554ade97d5a23cac39657d6fa92244e08e329fda37cb391673e42a144951",
+    "cuerpo": "8f639e40f9e282e3938b2cc50b6245c45142b388fc89cfb01f3b0dac51f729f4"
+  }
+}

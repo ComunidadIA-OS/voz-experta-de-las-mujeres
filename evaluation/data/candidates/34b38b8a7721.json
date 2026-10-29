@@ -1,0 +1,26 @@
+{
+  "id": "34b38b8a7721",
+  "url": "https://www.agenciasinc.es/Noticias/Vacunar-a-las-madres-durante-el-embarazo-protege-a-sus-bebes-de-una-superbacteria-letal",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-10-15T07:50:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:37+00:00",
+  "campos": {
+    "titular": "Vacunar a las madres durante el embarazo protege a sus bebés de una superbacteria letal",
+    "entradilla": "Un estudio demuestra que la inmunización materna transfiere anticuerpos duraderos que reducen drásticamente la mortalidad por sepsis causada por Klebsiella pneumoniae en crías de ratón, lo que abre la vía para proteger a recién nacidos en zonas de alto riesgo.",
+    "cuerpo": "Las infecciones neonatales provocadas por la bacteria Klebsiella pneumoniae representan una de las amenazas más graves para la salud infantil global. Este patógano, especialmente peligroso en países en vías de desarrollo, es una de las principales causas de sepsis neonatal, una infección sistémica de la sangre que resulta letal para miles de lactantes cada año. El problema se agrava por el rápido aumento de cepas resistentes a los antibióticos habituales, lo que deja a los profesionales sanitarios con un margen de maniobra cada vez más reducido y sin una vacuna autorizada para prevenir la enfermedad.\nPara atajar este vacío terapéutico, un equipo de investigación de la Escuela de Medicina de la Universidad de Washington en San Luis (EE UU) ha diseñado una estrategia basada en la inmunidad materna. Los resultados del trabajo, publicados este miércoles en la revista Science Advances, demuestran que la vacunación administrada a ratonas gestantes logra transferir una elevada carga de anticuerpos a las crías, protegiéndolas de la infección durante su etapa de mayor vulnerabilidad.\n“La Klebsiella pneumoniae es una amenaza grave para los recién nacidos que aún no han desarrollado sus propias defensas inmunitarias”, explica David A. Rosen, profesor asociado de Pediatría y Microbiología Molecular en la universidad estadounidense y uno de los autores del estudio. “Nuestra investigación demuestra que la inmunización materna puede tender un puente eficaz sobre esa ventana crítica de vulnerabilidad, proporcionando a los recién nacidos la protección que necesitan desde el mismo momento de su nacimiento”.\nEl equipo investigador, en colaboración con el laboratorio del pediatra Drew Schwartz, desarrolló un modelo experimental de sepsis neonatal en ratones para recrear el curso de la infección que sufren los niños. Durante el experimento, las hembras fueron inmunizadas en el momento del apareamiento y recibieron una o dos dosis adicionales durante la gestación. La vacuna utilizada, diseñada por la empresa biotecnológica Omniose, está orientada contra las variantes K1 y K2, dos de los serotipos más virulentos y peligrosos del microorganismo.\nLos análisis mostraron que las crías nacidas de madres vacunadas alcanzaron tasas de supervivencia superiores al 80 % tras ser expuestas a dosis letales de la bacteria dos semanas después del parto. Por el contrario, en el grupo de control formado por crías de madres no inmunizadas, la supervivencia fue nula ante la cepa K1 y menor al 35 % frente a la cepa K2. El número de dosis adicionales recibidas por la madre (dos o tres en total) no alteró el elevado nivel de protección observado en la descendencia.\nEl seguimiento serológico de las crías, realizado semanalmente desde el nacimiento hasta las seis semanas de vida, reveló una presencia constante de anticuerpos específicos en la sangre de las crías, así como en la leche materna captada durante el periodo de lactancia. Este hallazgo confirma que la vía placentaria y la lactancia actúan de manera conjunta para consolidar la protección pasiva.\n“Los ratones que nunca fueron inmunizados directamente quedaron altamente protegidos contra una infección letal gracias únicamente a la transferencia duradera de anticuerpos proporcionados por su madre”, destaca Paeton Wantuch, investigadora del laboratorio de Rosen y primera autora del trabajo.\nCon esta prueba de concepto validada en modelos animales, los científicos centran ahora sus esfuerzos en probar fórmulas vacunales de nueva generación que abarquen un espectro más amplio de cepas globales de Klebsiella pneumoniae. El objetivo final es consolidar la seguridad del preparado y avanzar hacia los primeros ensayos clínicos en humanos para reducir la mortalidad neonatal a escala global."
+  },
+  "sha256": {
+    "titular": "dca6679f33cc2fcc5b0d8e7c2050dc58c438373c9c611168b4e931586f78671d",
+    "entradilla": "cb42ffade09fd047dc9947c22dad6bf96787609a41d26a50e36b1ede87cd38be",
+    "cuerpo": "cd2ca3a6121ce1d5245bec572dbaf52b30b5a3f8667cd0029eef2518546de82e"
+  }
+}

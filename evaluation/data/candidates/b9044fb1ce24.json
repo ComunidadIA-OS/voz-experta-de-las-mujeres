@@ -1,0 +1,26 @@
+{
+  "id": "b9044fb1ce24",
+  "url": "https://www.agenciasinc.es/Noticias/Cuando-enfermar-es-una-senal-de-alarma-las-hormigas-moribundas-avisan-a-la-colonia-para-salvarla",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-02T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:51+00:00",
+  "campos": {
+    "titular": "Cuando enfermar es una señal de alarma: las hormigas moribundas avisan a la colonia para salvarla",
+    "entradilla": "Las colonias de hormigas funcionan como organismos colectivos hipercoordinados: cada individuo actúa como si fuera una célula dentro de un solo cuerpo. Y al igual que ocurre en un organismo, cuando una parte se infecta, el resto debe detectarla y eliminarla antes de que la enfermedad se propague.",
+    "cuerpo": "Una investigación del Instituto de Ciencia y Tecnología de Austria (ISTA), publicada en Nature Communications, revela un mecanismo sorprendente: las pupas terminalmente enfermas emiten un olor para advertir a la colonia de que van a morir y representan un riesgo sanitario.\nA diferencia de muchos animales sociales que ocultan la enfermedad para evitar la exclusión, las larvas de hormiga hacen exactamente lo contrario. Cuando la infección es irreversible, liberan un olor químico específico que actúa como señal de alarma. Las obreras reaccionan de inmediato: desembalan a la pupa de su capullo, perforan su superficie y aplican ácido fórmico, su propio desinfectante natural. Este tratamiento elimina los patógenos, pero también mata a la pupa.\nLejos de ser un sacrificio inútil, el mensaje beneficia a quien lo emite. “El aviso protege a sus compañeras, con las que comparte muchos genes”, explica Erika Dawson, primera autora. Al evitar que la infección se extienda, la pupa enferma contribuye a que la colonia sobreviva y produzca descendencia, lo que indirectamente perpetúa su propia línea genética.\nEl estudio, realizado en colaboración con el ecólogo químico Thomas Schmitt, documenta por primera vez esta señal altruista de enfermedad en insectos sociales. Si una pupa moribunda no alertara y muriera sin ser detectada, podría convertirse en un foco de infección masiva. El aviso precoz permite que la colonia actúe con precisión quirúrgica.\nLos investigadores comparan este proceso con lo que sucede en los organismos animales: las células infectadas emiten moléculas para que el sistema inmunitario las localice y las destruya. Este paralelismo funciona tanto a nivel químico como funcional. Las pupas enfermas y las células dañadas activan lo que se conoce como señal “encuéntrame y cómeme”.\nEl olor tiene que ser extremadamente preciso: lo bastante intenso para detectar todos los casos mortales, pero lo bastante específico para no inducir la eliminación de individuos capaces de recuperarse. El equipo halló que la señal no se basa en sustancias volátiles que se dispersan, sino en compuestos no volátiles presentes en la superficie del cuerpo, lo que permite identificar a cada pupa de manera individual.\nPara comprobarlo, los científicos transfirieron este olor a pupas sanas: las obreras reaccionaron exactamente igual que ante una pupa moribunda. El olor, por sí solo, desencadena la intervención.\nEl comportamiento también distingue entre diferentes castas. Las pupas de reina —con defensas inmunes más fuertes— no emiten la señal, porque aún pueden controlar la infección. Solo las pupas obreras terminalmente enfermas alertan al nido.\nEse equilibrio entre sacrificio individual y supervivencia colectiva demuestra un nivel de coordinación evolutiva extraordinario. Como resume Sylvia Cremer, directora del grupo: “La señal solo aparece cuando la infección es incontrolable. Así se protege al grupo sin eliminar individuos que todavía pueden recuperarse”.\nLo que desde fuera parece una tragedia individual es, en realidad, una demostración extrema de cooperación: la salud de la colonia antes que la vida de uno solo."
+  },
+  "sha256": {
+    "titular": "a5540b1c79e1f43182d39e10c80799ac65c8c9989299d1855285f4fd87ce113c",
+    "entradilla": "76937969bd90fe387ef078d96060c9973900216348b5495b5576e9e0d224b71b",
+    "cuerpo": "f6b823b1b240487ce1fcce00c25e451459b0cea957f011a6d8e7fa850a3a1338"
+  }
+}

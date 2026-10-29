@@ -1,0 +1,26 @@
+{
+  "id": "91faab74c3bf",
+  "url": "https://www.agenciasinc.es/Noticias/Investigadores-espanoles-mejoran-la-eficiencia-y-seguridad-de-las-terapias-genicas-para-enfermedades-de-la-sangre",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-12T09:41:00+01:00",
+  "fuente_y_derechos": "Fuente: CIEMAT | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:10+00:00",
+  "campos": {
+    "titular": "Investigadores españoles mejoran la eficiencia y seguridad de las terapias génicas para enfermedades de la sangre",
+    "entradilla": "Dos estudios presentan nuevas métodos para mejorar la edición génica y el trasplante de células madre hematopoyéticas. Las investigaciones muestran cómo reducir la toxicidad del acondicionamiento y mantener la diversidad celular, acercando tratamientos más seguros y eficaces para enfermedades de la sangre.",
+    "cuerpo": "Investigadores del CIEMAT, el Instituto de Investigación Sanitaria Fundación Jiménez Díaz y el CIBERER han publicado dos trabajos que suponen un paso adelante en la aplicación clínica de terapias de edición génica y trasplante de células madre hematopoyéticas.\nLos resultados, publicados en dos revistas del grupo Cell Press, detallan un nuevo método para mejorar la precisión y el seguimiento de células madre editadas, así como una estrategia de acondicionamiento no genotóxico que logra injertos más seguros y eficaces en modelos de enfermedad.\nEl primero de los avances presenta un sistema que permite seguir el comportamiento de células madre sanguíneas sometidas a edición genética, aumentando la eficiencia del proceso y preservando su diversidad a largo plazo.\nEste sistema facilita comprender cómo influye la edición en la formación y funcionamiento de estas células y aporta información clave para el desarrollo de terapias más robustas. Al mejorar la estabilidad y la policlonalidad de los injertos, abre nuevas posibilidades para su futura aplicación clínica en patologías hematológicas de origen genético.\nEl segundo estudio describe una alternativa al acondicionamiento con quimioterapia o radioterapia, tradicionalmente necesarios para permitir que las células madre sanas o corregidas puedan injertarse con éxito.\nLa nueva estrategia combina anticuerpos específicos con agentes que movilizan células madre hematopoyéticas desde la médula ósea hacia la sangre periférica. Esta movilización incrementa la sensibilidad de las células al tratamiento y permite alcanzar niveles de injerto superiores respecto al uso aislado de anticuerpos, con una reducción notable de la toxicidad.\nLos investigadores han demostrado su eficacia en dos modelos preclínicos representativos: una inmunodeficiencia y una anemia crónica de origen genético. Los resultados indican que es posible obtener injertos sólidos y duraderos sin recurrir a tratamientos agresivos, lo que plantea un posible beneficio para pacientes que no pueden someterse a quimioterapia o que presentan alto riesgo de complicaciones.\nEste enfoque “abre la puerta a tratamientos menos agresivos, más seguros y accesibles” para diversas enfermedades de la sangre, según señala José Carlos Segovia, jefe de la División de Tecnología Celular del CIEMAT. “Estos avances hacen más eficiente, segura y accesible la corrección precisa de genes para el tratamiento de enfermedades genéticas que afectan a la sangre”, afirma.\nAmbas investigaciones avanzan hacia un objetivo común: desarrollar terapias avanzadas más seguras, duraderas y accesibles para enfermedades raras hematológicas. Mientras el acondicionamiento no genotóxico reduce los riesgos del trasplante, la optimización de la edición génica refuerza la potencia y estabilidad de las células corregidas que se trasplantan."
+  },
+  "sha256": {
+    "titular": "73a71ddb25298c64f48fb4f2e1bf938906819e4ea99e35c71d073e5e49429337",
+    "entradilla": "7e579b4ec9561186391e0d5ba60b1c74337bfce04b063627cc2147fbd7ee3757",
+    "cuerpo": "a381574b318fa89570ad93e87d190db7f771a1da1596fb7e803f43bab7895253"
+  }
+}

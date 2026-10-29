@@ -1,0 +1,95 @@
+{
+  "article_id": "2d011ba2038e",
+  "url": "https://www.agenciasinc.es/Noticias/Un-estudio-revela-la-diversificacion-tecnologica-en-Europa-hace-400-000-anos",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T11:00:06+00:00",
+  "article_sha256": {
+    "titular": "6d7051ebc947f19418db0cf8588855959fa3af740efe391948e07f1dc6eaad5d",
+    "entradilla": "145dc1373e559aa1cef1f8a06f74a0513fa165f1ec4617596af71958f9f5c167",
+    "cuerpo": "52e43d151005bacda70a2129f85de4d836f2157d114832081c22815d6b6eab4b"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Paula García Medrano",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigadora del CENIEH",
+      "gender_representation": "woman",
+      "gender_evidence": "investigadora",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“El término ‘cladístico, habitual en biología evolutiva, se refiere a un método que permite reconstruir relaciones históricas a partir de innovaciones compartidas. En este caso, cada conjunto lítico se ha tratado como una unidad cultural, analizando qué características tecnológicas comparte con otros y cómo se organizan jerárquicamente.\nAsí, es posible evaluar qué innovaciones aparecen, cómo se combinan y cómo evolucionan a lo largo del tiempo”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793120432327",
+        "nombre": "Paula García Medrano",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2658,
+            "fin16": 2678,
+            "texto": "Paula García Medrano",
+            "inicio": 2658,
+            "fin": 2678
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2633,
+          "fin16": 2646,
+          "texto": "investigadora",
+          "inicio": 2633,
+          "fin": 2646
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2172,
+            "fin16": 2621,
+            "texto": "“El término ‘cladístico, habitual en biología evolutiva, se refiere a un método que permite reconstruir relaciones históricas a partir de innovaciones compartidas. En este caso, cada conjunto lítico se ha tratado como una unidad cultural, analizando qué características tecnológicas comparte con otros y cómo se organizan jerárquicamente.\nAsí, es posible evaluar qué innovaciones aparecen, cómo se combinan y cómo evolucionan a lo largo del tiempo”,",
+            "tipo": "directa",
+            "inicio": 2172,
+            "fin": 2621
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2633,
+          "fin16": 2657,
+          "texto": "investigadora del CENIEH",
+          "inicio": 2633,
+          "fin": 2657
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 111
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "9d1d03c883f6",
+  "url": "https://www.agenciasinc.es/Noticias/El-MICIU-lanza-el-portal-Ciencia-segura-para-para-proteger-los-resultados-de-la-investigacion",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-22T11:16:00+02:00",
+  "fuente_y_derechos": "Fuente: MICIU | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Política científica"
+  ],
+  "secciones": [
+    "Sociedad"
+  ],
+  "fecha_consulta": "2026-10-27T01:44:25+00:00",
+  "campos": {
+    "titular": "El MICIU lanza el portal ‘Ciencia segura’ para para proteger los resultados de la investigación",
+    "entradilla": "La iniciativa busca fortalecer la cooperación internacional sin comprometer la integridad científica ni la libertad académica. Se inscribe en el Plan de Acción Nacional de Seguridad en la Investigación y ofrece recursos para anticipar riesgos en la actividad científica.",
+    "cuerpo": "El Ministerio de Ciencia, Innovación y Universidades (MICIU) ha puesto en marcha, a través de la Fundación Española para la Ciencia y la Tecnología (FECYT), el portal web Ciencia segura, centrado en la seguridad en la investigación y en la protección del sistema científico frente a amenazas emergentes.\nLa plataforma se integra en el Plan de Acción Nacional de Seguridad en la Investigación, desarrollado en coordinación con el Sistema Español de Ciencia, Tecnología e Innovación. Este plan responde a las recomendaciones del Consejo de la Unión Europea y se alinea con la Agenda del Espacio Europeo de Investigación 2025-2027 y con la Estrategia de Seguridad Económica de la Unión Europea.\nEl objetivo es reforzar la capacidad del sistema científico para prevenir fugas no deseadas de conocimiento, injerencias externas o posibles daños reputacionales. También pretende proteger la libertad académica, la integridad científica y la confianza pública en la investigación.\nEl concepto de seguridad en la investigación engloba medidas para anticipar y gestionar riesgos asociados a la transferencia no deseada de conocimiento o tecnología, la influencia maliciosa de terceros y las vulneraciones éticas. Incluye situaciones como filtraciones de datos, apropiación indebida de resultados o usos contrarios a los valores europeos.\nEn este contexto, el portal ofrece información, orientaciones prácticas y recursos accesibles dirigidos a personal investigador, universidades, centros de investigación y agencias de financiación. Su propósito es facilitar la integración de la dimensión de seguridad en las actividades científicas.\nUno de los elementos clave es el apartado de análisis de riesgos, que propone un procedimiento sistemático para evaluar proyectos, especialmente en cooperación internacional. Este análisis contempla la sensibilidad del área científica o tecnológica, el perfil del país socio, las características del colaborador internacional y las vulnerabilidades de la propia organización.\nPermite así anticipar posibles impactos en la seguridad, los derechos humanos o el uso final de los resultados, y facilita la toma de decisiones responsables desde el inicio de las colaboraciones.\nEl portal también incluye una sección de actualidad con información sobre iniciativas nacionales e internacionales, así como eventos, publicaciones y novedades en geopolítica y seguridad económica. La web se actualizará de forma progresiva con guías prácticas, materiales formativos y contenidos audiovisuales para fomentar la concienciación en el sistema científico."
+  },
+  "sha256": {
+    "titular": "43b32f4b666be57ab6e497331925c572d19f8ee8c0075551392b21602d81ab19",
+    "entradilla": "949aeea8cd2d3b398e669884e3ffa9544bae69fdf0d2a140543140405095e4ea",
+    "cuerpo": "f54443b17dfc7abe35d733be8b681d156302e1bd8fbd9d2425b0dd808ef4654c"
+  }
+}

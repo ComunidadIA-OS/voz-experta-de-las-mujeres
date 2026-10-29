@@ -1,0 +1,26 @@
+{
+  "id": "da0956e83bc4",
+  "url": "https://www.agenciasinc.es/Noticias/Los-musgos-revelan-una-nueva-forma-de-control-del-agua-en-las-plantas-mas-alla-de-los-estomas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-27T10:10:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:44:04+00:00",
+  "campos": {
+    "titular": "Los musgos revelan una nueva forma de control del agua en las plantas más allá de los estomas",
+    "entradilla": "Un trabajo internacional liderado por la Universidad de las Illes Balears ha demostrado que los musgos regulan activamente su transpiración. Este hallazgo cuestiona la visión clásica de la fisiología vegetal y muestra que la regulación hídrica es más antigua evolutivamente, más diversa y más compleja de lo que se pensaba.",
+    "cuerpo": "La regulación de la pérdida de agua ha sido durante décadas una de las preguntas centrales de la fisiología vegetal. En plantas vasculares (como árboles, cultivos y arbustos), el consenso tradicional situaba a los estomas, pequeños poros en la superficie de las hojas y los tallos, como principales y casi exclusivos puntos de control de la transpiración.\nSin embargo, en los últimos años la comunidad científica se ha planteado si podían existir mecanismos alternativos de regulación hídrica. Ahora, un nuevo estudio liderado por la Universidad de las Illes Balears aporta por primera vez evidencias sólidas de que los estomas no son imprescindibles para controlar la pérdida de agua.\nSegún el trabajo, publicado en la revista científica New Phytologist, la clave está en los musgos, organismos terrestres antiguos que carecen de estomas funcionales en su ciclo biológico dominante y que, históricamente, se consideraban incapaces de regular su transpiración de manera activa. La investigación, realizada con 16 especies y bajo condiciones controladas de deshidratación, demuestra que estos organismos son capaces de modular la pérdida de agua, desmontando una idea ampliamente aceptada en botánica.\nDurante años, buena parte de la comunidad científica sostuvo que, sin estomas, no podía existir un control fisiológico real del flujo de agua hacia la atmósfera. Según esa visión, los musgos y otros grupos no vasculares simplemente se secaban pasivamente conforme cambiaban las condiciones ambientales.\nLos nuevos resultados van en otra dirección. Los autores observaron respuestas fisiológicas incompatibles con un comportamiento meramente pasivo, lo que indica la existencia de mecanismos alternativos capaces de ajustar la transpiración incluso en ausencia de estomas.\nEl hallazgo no solo cambia nuestra comprensión de la evolución temprana de las plantas terrestres, sino que también tiene consecuencias metodológicas inmediatas. Si organismos sin estomas pueden regular el intercambio hídrico, muchas mediciones clásicas de intercambio de gases realizadas en plantas podrían requerir reinterpretación, especialmente aquellas que atribuían automáticamente toda variación en transpiración al comportamiento estomático.\nEste estudio propone una visión más amplia: los estomas siguen siendo esenciales en plantas vasculares, pero no son el único sistema biológico capaz de gobernar la pérdida de agua. La regulación hídrica vegetal sería, por lo tanto, más antigua evolutivamente, más diversa y más compleja de lo que se pensaba.\n“Con esta evidencia, una de las discusiones más intensas de la fisiología vegetal reciente queda profundamente redefinida: el control del agua en las plantas no empieza ni termina en los estomas”, concluye la doctora Alicia Perera Castro, profesora del Departamento de Biología e investigadora del grupo consolidado de R+D+I de Ecofisiología de las Plantas (PlantEcophys) de la Universidad de las Illes Balears.\nOtras instituciones que han participado en el estudio son las universidades de Birmingham (Reino Unido) y Nuevo México (Estados Unidos)."
+  },
+  "sha256": {
+    "titular": "4d356f9e10ed98cd27e5425c3d173b20b0eb51b11b1e9ce9444a0533e4bb65e2",
+    "entradilla": "87e23e16b0ad8aa4d81dc3687445bd4b33428a198e76b2ef123e004b57393a3a",
+    "cuerpo": "bc1a135db1e462c383c469caa1f3f5b6572791fc0fcce8fe9bc7afb6d60ff349"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "article_id": "daadc1a590b0",
+  "url": "https://www.agenciasinc.es/Noticias/El-origen-de-3I-ATLAS-esta-en-un-sistema-planetario-primitivo-de-hace-12-000-millones-de-anos",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:28+00:00",
+  "article_sha256": {
+    "titular": "bcefc8a8e2caebf9033ede9435bf672a9704396602b22622a84a3f100fac9c41",
+    "entradilla": "b449e78fdff9b401e649e0c602155a99ac9bed280eaa00b2d1a2139aef08433a",
+    "cuerpo": "dd4f5b127cb8b85590cda755ec2aafa2446bbe95bcc7892717b0aa72f1b846f4"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Martin Cordiner",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "astrofísico del Centro de Vuelo Espacial Goddard de la NASA.",
+      "gender_representation": "man",
+      "gender_evidence": "astrofísico",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Los objetos interestelares nos proporcionan las únicas muestras directamente observables de planetesimales helados formados alrededor de otras estrellas, ofreciendo una ventana única a la diversidad química y física de la formación de exoplanetas”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793123219253",
+        "nombre": "Martin Cordiner",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1490,
+            "fin16": 1505,
+            "texto": "Martin Cordiner",
+            "inicio": 1490,
+            "fin": 1505
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1507,
+          "fin16": 1518,
+          "texto": "astrofísico",
+          "inicio": 1507,
+          "fin": 1518
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1209,
+            "fin16": 1458,
+            "texto": "“Los objetos interestelares nos proporcionan las únicas muestras directamente observables de planetesimales helados formados alrededor de otras estrellas, ofreciendo una ventana única a la diversidad química y física de la formación de exoplanetas”,",
+            "tipo": "directa",
+            "inicio": 1209,
+            "fin": 1458
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1507,
+          "fin16": 1567,
+          "texto": "astrofísico del Centro de Vuelo Espacial Goddard de la NASA.",
+          "inicio": 1507,
+          "fin": 1567
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 60
+  }
+}

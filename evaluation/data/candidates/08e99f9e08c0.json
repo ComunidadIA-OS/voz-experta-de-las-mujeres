@@ -1,0 +1,26 @@
+{
+  "id": "08e99f9e08c0",
+  "url": "https://www.agenciasinc.es/Noticias/Desarrollan-un-prototipo-de-test-en-sangre-para-detectar-cancer-de-pancreas-en-minutos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-01T12:00:00+02:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:40+00:00",
+  "campos": {
+    "titular": "Desarrollan un prototipo de test en sangre para detectar cáncer de páncreas en minutos",
+    "entradilla": "Un equipo español ha creado una prueba diagnóstica que detecta en sangre un biomarcador del adenocarcinoma ductal pancreático, el tipo más frecuente y agresivo de este cáncer. El dispositivo, aún en fase experimental, es portátil, de bajo coste y se basa en una tira reactiva similar a la de los test rápidos.",
+    "cuerpo": "Científicos del Instituto de Química Avanzada de Cataluña (IQAC-CSIC), el Instituto de Investigaciones Biomédicas de Barcelona (IIBB-CSIC) y el Hospital del Mar Research Institute ha desarrollado un test que permite detectar el cáncer de páncreas a partir de una muestra de sangre en pocos minutos. La prueba de concepto se ha evaluado con muestras de 20 pacientes y 20 personas sanas del Hospital del Mar (Barcelona).\nEl dispositivo es capaz de identificar en el plasma la proteína sAXL, un biomarcador del adenocarcinoma ductal pancreático, el tipo más frecuente y agresivo de este cáncer. Los resultados, publicados en Talanta, muestran un método sencillo, portátil y económico, aunque todavía requiere optimización antes de su aplicación clínica.\nEl sistema utiliza tiras reactivas similares a las de los test de antígenos para analizar muestras de plasma. Tras ajustar distintos componentes, el prototipo logró diferenciar con precisión entre pacientes y personas sanas.\n“Es la primera aplicación de un inmunoensayo de flujo lateral cuantitativo para detectar sAXL en plasma”, explica Juan Pablo Salvador, investigador del IQAC-CSIC y coautor del estudio.\nEl método se basa en anticuerpos que reconocen esta proteína, que forma parte del funcionamiento normal del organismo pero aparece sobreexpresada en varios tipos de cáncer. En el de páncreas, se encuentra en niveles elevados en más del 70 % de los tumores. “Hace años demostramos que su presencia en sangre es un marcador de pacientes con el tumor”, señala Pilar Navarro (IIBB-CSIC y HMRIB).\nEl equipo comparó los resultados con técnicas estándar como ELISA, lo que permitió validar la capacidad diagnóstica del dispositivo.\nEl adenocarcinoma ductal pancreático es la tercera causa de muerte por cáncer en países desarrollados. Su pronóstico es desfavorable porque suele detectarse en fases avanzadas: más del 85 % de los casos se diagnostican cuando ya no es posible operar.\nDisponer de herramientas rápidas y accesibles para su detección precoz es una prioridad clínica, destacan los investigadores.\nEl test requiere poco equipamiento, reduce el tiempo de análisis y podría utilizarse en entornos con recursos limitados o directamente en el punto de atención sanitaria. Este enfoque facilitaría un diagnóstico más accesible.\nSegún Navarro, el objetivo es acercar la detección del cáncer de páncreas a la práctica clínica habitual. Aun así, Núria Vázquez-Bellón, primera autora, subraya que el sistema necesita mejoras antes de su uso en pacientes.\nEl estudio surge de una colaboración impulsada por ayudas semilla del CSIC y ha contado con financiación pública y el apoyo de la Asociación de Pacientes con Cáncer de Páncreas (ACANPAN). En el proyecto han participado grupos del CIBER y del IDIBAPS junto a clínicos del Hospital del Mar. Los próximos pasos pasan por ampliar la cohorte de pacientes y mejorar la sensibilidad del test para acercarlo a su aplicación clínica."
+  },
+  "sha256": {
+    "titular": "29f93f9d01b318a8b520805317ce2c83fe68702f555357fd1d91118ebf0335f7",
+    "entradilla": "9d430476aa040cbfc8f6316e16ba01b64dd490140664205277484163de1dd22d",
+    "cuerpo": "ebc0f85f60dffa108938f7c9efe497b618ec389aefd6cf5f208e8959b251bbc1"
+  }
+}

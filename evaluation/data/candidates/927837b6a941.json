@@ -1,0 +1,26 @@
+{
+  "id": "927837b6a941",
+  "url": "https://www.agenciasinc.es/Noticias/Anuncian-la-creacion-de-una-celula-sintetica-con-un-ciclo-de-vida-completo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-02T12:36:00+02:00",
+  "fuente_y_derechos": "Fuente: EFE / SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:40:30+00:00",
+  "campos": {
+    "titular": "Anuncian la creación de una célula sintética con un ciclo de vida completo",
+    "entradilla": "Un sistema desarrollado a partir de componentes químicos no vivos es capaz de alimentarse, crecer, replicar su material genético y dividirse, según aseguran investigadores de la Universidad de Minnesota. El trabajo, enmarcado en el proyecto SpudCell, aún no se ha publicado en una revista científica revisada por pares.",
+    "cuerpo": "Un equipo de la Universidad de Minnesota (EE UU) ha anunciado la creación de una célula sintética que integra funciones esenciales de los organismos vivos, como el crecimiento, la replicación del genoma, la captación de nutrientes y la división celular. Según sus responsables, se trata del primer sistema construido a partir de componentes químicos no vivos que completa un ciclo de vida comparable al de una célula biológica.\nPara Kate Adamala, una de las responsables del proyecto, el equipo ha logrado reproducir en química “lo que antes solo era posible en biología: el conjunto completo de comportamientos de una célula”. En su opinión, el trabajo demuestra que “las funciones más fundamentales de la vida, como el crecimiento y la replicación, no necesitan una misteriosa chispa mágica”.\nDenominada SpudCell, incorpora un genoma artificial de unas 90 000 parejas de bases, muy inferior al de una célula humana, distribuido en siete plásmidos independientes. Esta organización modular permite programar distintas funciones de forma separada, explican los investigadores.\nUno de los aspectos más destacados del sistema es su mecanismo de división celular. A diferencia de las células naturales, SpudCell no utiliza un citoesqueleto, sino un conjunto de proteínas que se acumulan en la membrana hasta provocar su separación en dos células hijas.\nAdemás, el equipo obtuvo mediante modificación genética una variante que crecía con mayor rapidez. Tras cinco generaciones, esta desplazó a la versión original y mostró una ventaja aún mayor cuando los nutrientes escaseaban, un comportamiento que, según los autores, refleja procesos de selección y competencia en un sistema químico completamente sintético.\nLos investigadores sostienen que futuras versiones de estas células podrían facilitar transformaciones moleculares difíciles de conseguir mediante procesos industriales convencionales o servir como plataforma para producir moléculas terapéuticas con mayor precisión. Con ese objetivo también han impulsado Biotic, una organización sin ánimo de lucro dedicada al desarrollo de células sintéticas.\nLos resultados aún no se han publicado en una revista científica revisada por pares. El anuncio se ha difundido dentro del proyecto SpudCell, pero el trabajo todavía no ha superado el proceso habitual de evaluación científica independiente.\nSegún recoge el SMC España, a partir de una información publicada por la revista Science, Kate Adamala asegura que el manuscrito fue rechazado por Cell después de que uno de los revisores considerara que las SpudCells “no eran biología real”. El trabajo está disponible en la web del equipo y aún no ha sido publicado en una revista científica revisada por pares.\nLos especialistas consultados por el SMC España consideran que el anuncio supone un avance relevante para la biología sintética, aunque insisten en interpretarlo con prudencia mientras el trabajo no complete la revisión por pares.\nLuis Serrano, director del Centro de Regulación Genómica (CRG) y miembro de la Organización Europea de Biología Molecular (EMBO), lo califica de “avance importante”, aunque matiza que el sistema utiliza numerosos componentes naturales, como enzimas y ribosomas. En su opinión, “se parece más a una célula mínima, como la de Craig Venter, que a una célula diseñada”. Aun así, considera que “es un trabajo muy bueno” y destaca el mecanismo de división celular como su principal novedad.\nPor su parte, Juli Peretó, catedrático de Bioquímica y Biología Molecular de la Universidad de Valencia, afirma que “de confirmarse que todo está correcto, es un punto de inflexión en el campo”. No obstante, recuerda que el estudio se ha difundido “por una vía un poco heterodoxa”, mediante una plataforma de prepublicación y “sin revisión por pares”, por lo que considera necesario esperar a su evaluación científica. Aunque el sistema todavía presenta limitaciones, Peretó cree que constituye “un primer paso importante” para la biología sintética."
+  },
+  "sha256": {
+    "titular": "73d86325426935b79609f68b27419a8cb463bba0e06024cc4d06d8116d09ad33",
+    "entradilla": "a2e916405d3dcc09ba9c2431c2b38c71e4127a70914fc0be034f68be48b23e86",
+    "cuerpo": "a303a1c0bb90a5340abb027707393941360f865cfd417857a9cc15c632702071"
+  }
+}

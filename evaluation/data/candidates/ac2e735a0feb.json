@@ -1,0 +1,26 @@
+{
+  "id": "ac2e735a0feb",
+  "url": "https://www.agenciasinc.es/Noticias/Las-bacterias-de-la-saliva-pueden-ayudar-a-reducir-las-reacciones-alergicas-al-cacahuete",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-03T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:51:11+00:00",
+  "campos": {
+    "titular": "Las bacterias de la saliva pueden ayudar a reducir las reacciones alérgicas al cacahuete",
+    "entradilla": "Un equipo científico de España y Canadá ha demostrado que ciertos microorganismos presentes en la boca influyen en la respuesta del sistema inmunitario frente a este alimento. Los resultados revelan nuevas vías de prevención centradas en el equilibrio de la microbiota.",
+    "cuerpo": "Un estudio, publicado en la revista científica estadounidense Cell Host & Microbe por científicos del Instituto de Investigación Sanitaria del Hospital de La Princesa (IIS Princesa) en Madrid y de la Universidad McMaster (Ontario,Canadá) ha identificado una conexión entre las bacterias orales y la reacción del sistema inmunitario ante alérgenos alimentarios como el cacahuete.\nEl equipo comprobó que bacterias del género Rothia, presentes de forma natural en la cavidad oral, pueden degradar las proteínas del cacahuete responsables de las reacciones alérgicas y reducir así el riesgo de anafilaxia, una reacción aguda y potencialmente mortal que puede aparecer en pocos minutos.\nLos investigadores observaron que las proteínas más alergénicas eran descompuestas por estas bacterias. Cuando esos fragmentos se utilizaron para estimular células alérgicas, la respuesta fue menor que con cacahuete sin degradar.\nEn modelos de ratón colonizados con Rothia también disminuyó la gravedad de la reacción tras la administración oral del alimento. Del mismo modo, los ratones alérgicos mostraron síntomas menos intensos al recibir cacahuete previamente tratado con estas bacterias.\nEn dos cohortes de pacientes alérgicos al cacahuete del Massachusetts General Hospital y del Hospital Monte Sinaí, aquellos con mayor presencia en saliva de bacterias capaces de degradar el cacahuete, como Rothia, mostraron mayor tolerancia al alérgeno y un umbral más alto antes de sufrir una reacción.\nEste hallazgo puede explicar parte de las diferencias individuales en el riesgo de desarrollar reacciones alérgicas a alimentos y ayudar a identificar a los pacientes más vulnerables. También sugiere nuevas líneas para el tratamiento de la alergia al cacahuete, que afecta potencialmente a entre el 1 % y el 2 % de la población mundial y se asocia con frecuencia a episodios de anafilaxia.\nEl estudio plantea estrategias para aumentar la presencia de estas bacterias beneficiosas en el organismo y reducir la intensidad de las reacciones alérgicas. La intervención microbiana, por ejemplo mediante probióticos específicos, se perfila como una vía para abordar un problema de salud en aumento como las alergias alimentarias.\nFrente a un enfoque centrado únicamente en fármacos, la modulación de la microbiota mediante el incremento de determinadas bacterias podría ofrecer una alternativa innovadora para reducir riesgos y mejorar la tolerancia a alimentos potencialmente peligrosos.\nLa investigación ha sido liderada por Rodrigo Jiménez, jefe del Grupo de Investigación de Inmunidad Tipo 2 del IIS Princesa, y Alberto Caminero, profesor del Departamento de Medicina de la Universidad McMaster, en colaboración con sus respectivos equipos."
+  },
+  "sha256": {
+    "titular": "c71c1307eea6f91d8e81a516231ebadc364f77fd4b4ee86bbe0e253e57d5d83c",
+    "entradilla": "b46df768e501f4520a19846b394551b9e56f4fd5e90859e4716d5c754c47deaf",
+    "cuerpo": "1bcd756ba7032065cdc4a57d05c9c18997febb10ade9f4443df9c0a1dde17945"
+  }
+}

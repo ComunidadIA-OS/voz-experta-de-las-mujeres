@@ -1,0 +1,26 @@
+{
+  "id": "25ab2a421dcb",
+  "url": "https://www.agenciasinc.es/Noticias/Las-cientificas-hacen-menos-trampas-son-minoria-entre-los-autores-de-articulos-medicos-retractados",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2025-11-20T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Política científica"
+  ],
+  "secciones": [
+    "Sociedad"
+  ],
+  "fecha_consulta": "2026-10-27T01:58:40+00:00",
+  "campos": {
+    "titular": "Las científicas hacen menos trampas: son minoría entre los autores de artículos médicos retractados",
+    "entradilla": "Un análisis de 878 publicaciones retiradas en 131 revistas de alto impacto revela que solo el 16,5 % de las primeras autorías corresponden a mujeres, pese a representar más del 41 % en la literatura biomédica general.",
+    "cuerpo": "Las mujeres aparecen con mucha menor frecuencia que los hombres entre las autoras de artículos médicos que son retractados, especialmente en los casos asociados a mala conducta científica. Así lo concluye un nuevo estudio publicado esta semana en PLOS One, realizado por Paul Sebo, de la Universidad de Ginebra (Suiza), que analiza por primera vez la distribución de género en este tipo de publicaciones en un conjunto amplio de revistas de alto impacto.\nAunque las desigualdades de género en la autoría científica están ampliamente documentadas, se sabía poco sobre la presencia femenina en los trabajos que acaban siendo retirados. Comprender quién firma estos artículos puede ayudar a interpretar los factores sociales y profesionales que intervienen en las retractaciones.\nEl estudio examinó 878 artículos retractados de 131 revistas médicas de alto impacto, pertenecientes a nueve disciplinas clínicas. En total se analizaron 3 743 autores, cuyo género se infirió mediante una herramienta basada en inteligencia artificial con un umbral de confianza mínima del 60 %.\nLos resultados muestran una brecha notable. Solo un 23,1 % de todas las autorías correspondían a mujeres, que representaban el 16,5 % de las primeras autorías y el 12,7 % de las últimas. Estas cifras están muy por debajo de las observadas en la literatura biomédica general entre 2008 y 2017, donde el porcentaje de primeros autores femeninos ronda el 40 % del total. La desigualdad era aún mayor en las retractaciones relacionadas con mala conducta científica, donde las mujeres apenas alcanzaban el 11,5 % de las primeras autorías. Además, ellas tenían una probabilidad significativamente menor de acumular múltiples retractaciones.\nPaul Sebo, autor principal del estudio, señala que “las mujeres están sustancialmente infrarrepresentadas entre las autoras de publicaciones médicas retractadas, particularmente en los casos relacionados con mala conducta y en posiciones clave de autoría”. En su opinión, estos resultados sugieren que “las disparidades de género en la publicación científica persisten no solo en la autoría y la visibilidad, sino también en cómo las retractaciones afectan a la carrera investigadora”.\nDesde una perspectiva externa, Cristina Candal Pedreira, profesora ayudante doctora en el Área de Medicina Preventiva y Salud Pública de la Universidad de Santiago de Compostela, explica en declaraciones al Science Media Center (SMC) España que el trabajo “analiza artículos retractados por cualquier causa publicados en las 15 revistas con mayor factor de impacto dentro de nueve categorías de conocimiento” y destaca que “las fuentes usadas para identificar las retractaciones son sólidas y combinan distintas bases de datos”.\nCandal señala que el estudio confirma que “la proporción de mujeres autoras es menor que la de hombres”, aunque parte de esta diferencia puede reflejar “la infrarrepresentación femenina en la literatura científica en general y, en consecuencia, también en la literatura retractada”. También señala limitaciones metodológicas, como la dificultad de asignar el sexo de los autores. “En algunos casos no se conoce el nombre completo y, en otros, los nombres pueden ser unisex, particularmente en Asia. Estos casos se excluyeron del análisis, lo que podría introducir un sesgo de selección”, explica.\nA pesar de ello, considera que la investigación “es valiosa en el sentido de que la identificación del sexo en publicaciones científicas continúa siendo un reto metodológico”, y destaca que su aportación principal es “confirmar los resultados de estudios previos, pero con una metodología más robusta y un mayor tamaño muestral”."
+  },
+  "sha256": {
+    "titular": "fa1465615ad35a8b843d0715894177b965538b8d9cacb28a6f25545fcdb67a42",
+    "entradilla": "2aa13efa5e282715aae90fb956e82b96aef71ca9d7aefcb0b33a4cd7e7800eaf",
+    "cuerpo": "c8c8aafa63384c3a5746dde2babcf33133ec2214a55dff6a25d24683fc3ef5da"
+  }
+}

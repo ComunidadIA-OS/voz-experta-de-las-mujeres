@@ -1,0 +1,26 @@
+{
+  "id": "65e7038ca474",
+  "url": "https://www.agenciasinc.es/Noticias/Asocian-el-tabaco-la-dieta-y-los-pesticidas-con-el-cancer-colorrectal-en-jovenes",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-21T11:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:47:07+00:00",
+  "campos": {
+    "titular": "Asocian el tabaco, la dieta y los pesticidas con el cáncer colorrectal en jóvenes",
+    "entradilla": "Científicos españoles han abordado por primera vez el impacto de factores no genéticos en el cáncer de colon en adultos jóvenes mediante firmas epigenéticas, es decir, patrones específicos de modificaciones químicas en el ADN influenciadas por el entorno. El estudio identifica además una relación con un herbicida de uso extendido.",
+    "cuerpo": "El cáncer colorrectal actualmente es el segundo responsable del mayor número de muertes por cáncer a nivel mundial (9,3 %), solo por detrás del de pulmón. Según la Sociedad Española de Oncología Médica, este tumor será el más diagnosticado en España durante 2026, con una estimación de 44 132 nuevos casos.\nUn nuevo estudio liderado por un equipo de Vall d'Hebron Instituto de Oncología (VHIO) relaciona los cambios epigenéticos provocados por dieta, tabaco y exposición a pesticidas con el desarrollo de cáncer de colon en personas menores de 50 años.\nEl estudio, publicado en Nature Medicine, es el primero que aborda el impacto de factores no genéticos en este tumor de inicio temprano a través de firmas epigenéticas. Es decir, a través de los patrones específicos de modificaciones químicas en el ADN influenciados por el mundo que nos rodea.\nLos investigadores compararon las marcas epigenéticas de metilación en pacientes con cáncer colorrectal de aparición temprana con las de pacientes de inicio tardío. Confirmaron factores de riesgo previamente identificados como dieta o tabaco.\nTambién encontraron una asociación significativa con el picloram, un herbicida de uso extendido. Demostraron, a partir de datos poblacionales, que los condados de Estados Unidos con mayor utilización de este pesticida registran tasas más altas de cáncer colorrectal en adultos jóvenes, incluso al tener en cuenta factores socioeconómicos y el uso de otros pesticidas.\n“El cáncer colorrectal deaparición temprana tiene características clínicas y patológicas diferenciadas en comparación con este tumor en pacientes de mayor edad. Sin embargo, a nivel genómico, las alteraciones moleculares son similares y no se han identificado alteraciones específicas”, explica Jose Antonio Seoane, jefe del Grupo de Biología Computacional del Cáncer del VHIO e investigador sénior del estudio. “Las causas del aumento de la incidencia del cáncer colorrectal en adultos jóvenes no están claras”.\nLas hipótesis emergentes sugieren que las exposiciones ambientales y relacionadas con el estilo de vida, conocidas como el exposoma, podrían desempeñar un papel clave. Sin embargo, los esfuerzos por identificar factores de riesgo modificables específicos del cáncer colorrectal temprano han tenido un éxito limitado.\nLa mayoría de los estudios comparan casos tempranos con controles de la misma edad y detectan los mismos factores de riesgo descritos para el cáncer colorrectal de inicio tardío.\nEntre los factores que pueden afectar al cáncer colorrectal temprano, se han estudiado algunos como el tabaquismo, la dieta o el microbioma. El equipo destaca que los resultados tienen algunas limitaciones. Según ellos, se debe en parte a que no siempre se han medido de forma precisa las exposiciones ambientales a lo largo de la vida, lo que dificulta relacionarlas claramente con el riesgo de cáncer.\nNo obstante, estudios recientes han detectado cambios específicos en la metilación del ADN provocados por estas exposiciones. Esto abre nuevas líneas para entender mejor la enfermedad.\nLa principal conclusión de la investigación es la utilidad de la epigenética como una herramienta para medir la exposición ambiental en los tejidos. Los resultados, concluye Seoane, “sientan una base sólida para abordar las exposiciones ambientales y los factores relacionados con el estilo de vida con el fin de reducir el riesgo, destacando la importancia de impulsar intervenciones preventivas tanto a nivel individual como de políticas públicas”."
+  },
+  "sha256": {
+    "titular": "a7dbd29a5e0ba9e65de2e778488cafe8c8c2ce9e36eab9cbc5d13b5989b5604c",
+    "entradilla": "e94896ca19de0cbc18ba06dc197c175fd602fae998f10e3392471837353d13f0",
+    "cuerpo": "f672dbeb4057e7e2c8ea85da272a048a13b7a13b2af5fd6687a1a0e59ef21f42"
+  }
+}

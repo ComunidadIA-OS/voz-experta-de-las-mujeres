@@ -1,0 +1,303 @@
+{
+  "article_id": "96040fc07ec2",
+  "url": "https://www.agenciasinc.es/Noticias/Las-princesas-del-antiguo-Egipto-nacidas-hace-4-000-anos-eran-arqueras-expertas",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:19+00:00",
+  "article_sha256": {
+    "titular": "c3219341da290cd97e9d338f99b17a0528175a94303cbca0b6411291fb06f90e",
+    "entradilla": "c76986877dc21bba504290663702992f7eb3a715e2cb0ebe25a659826804f775",
+    "cuerpo": "a87b6dfa70e3391a6cdeaab8de2c0a347abb95dc9493018248521d0ae7f29d0c"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Zeinab Hashesh",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "primera autora del estudio",
+      "gender_representation": "woman",
+      "gender_evidence": "autora",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Los miembros de la familia real, especialmente las mujeres, participaban activamente en actividades que requerían destreza y esfuerzo físico, como el tiro con arco y la caza”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Esta conclusión se ve respaldada por la forma en que sus huesos se desarrollaron para soportar un uso muscular intenso, lo que se corresponde directamente con las armas descubiertas en sus tumbas”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La princesa Ita era una mujer joven de entre 28 y 34 años con una musculatura fuerte en la parte superior del cuerpo, lo que sugiere que solía usar armas como mazas o dagas”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Los marcadores que identificamos no eran indicativos de un esfuerzo manual generalizado, el cual suele dar como resultado patrones diferentes de degeneración articular y estrés musculoesquelético”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Lo más convincente fue el arqueamiento estructural del segundo metacarpiano derecho en la princesa Noub-Hotep. Esta es una respuesta biomecánica a la carga mecánica sostenida que se requiere para estabilizar un arco pesado, que típicamente comienza durante los años de desarrollo”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Esto explica directamente la presencia de arcos, flechas y mazas en las tumbas de las mujeres; no se trataba solo de regalos simbólicos, sino de herramientas que utilizaban activamente”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Estas lesiones probablemente fueron causadas por accidentes, caídas, golpes fuertes u otros impactos relacionados con un estilo de vida activo, ya sea por la caza, el entrenamiento militar u otras actividades exigentes”, afirma Hashesh.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Lo notable es que las lesiones sanaron bien, lo que sugiere que tuvieron acceso a atención médica avanzada para su época”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Nuestro sueño sería ir mucho más allá de la simple identificación de la realeza de Dahshur”, afirma Hashesh",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Intentaríamos contar sus historias de vida completas, sus familias, su salud e incluso sus roles políticos, con el mayor detalle posible. Más allá de la ciencia, preservaríamos los restos, crearíamos impresiones 3D para la enseñanza y exposiciones virtuales, y los exhibiríamos junto con sus joyas, armas y objetos funerarios. Todo esto se haría con respeto, asegurando que los restos se presenten de forma ética, tal como fueron enterrados originalmente”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Sus objetos y joyas son verdaderamente fascinantes, de una maestría artesanal impresionante. Sin embargo, si bien los arqueólogos se han centrado durante mucho tiempo en preservar estos tesoros, a menudo se ha olvidado a las personas que los crearon. Nuestro estudio busca cambiar eso.”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Hashesh destaca a SINC que si bien la reevaluación ha proporcionado una base biocultural sólida, aún quedan pendientes varias preguntas respecto a los orígenes geográficos y los lazos familiares exactos de esta cohorte real.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "Además, Hashesh explica que se realizará una GC-MS (Cromatografía de Gases-Espectrometría de Masas) en los restos resinosos.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "El objetivo es “refinar aún más nuestra comprensión de las aromáticas de alto valor utilizadas en su tratamiento funerario de élite estandarizado”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793122023376",
+        "nombre": "Zeinab Hashesh",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 541,
+            "fin16": 555,
+            "texto": "Zeinab Hashesh",
+            "inicio": 541,
+            "fin": 555
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 565,
+          "fin16": 571,
+          "texto": "autora",
+          "inicio": 565,
+          "fin": 571
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 357,
+            "fin16": 533,
+            "texto": "“Los miembros de la familia real, especialmente las mujeres, participaban activamente en actividades que requerían destreza y esfuerzo físico, como el tiro con arco y la caza”,",
+            "tipo": "directa",
+            "inicio": 357,
+            "fin": 533
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 637,
+            "fin16": 835,
+            "texto": "“Esta conclusión se ve respaldada por la forma en que sus huesos se desarrollaron para soportar un uso muscular intenso, lo que se corresponde directamente con las armas descubiertas en sus tumbas”,",
+            "tipo": "directa",
+            "inicio": 637,
+            "fin": 835
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2126,
+            "fin16": 2300,
+            "texto": "“La princesa Ita era una mujer joven de entre 28 y 34 años con una musculatura fuerte en la parte superior del cuerpo, lo que sugiere que solía usar armas como mazas o dagas”",
+            "tipo": "directa",
+            "inicio": 2126,
+            "fin": 2300
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2920,
+            "fin16": 3118,
+            "texto": "“Los marcadores que identificamos no eran indicativos de un esfuerzo manual generalizado, el cual suele dar como resultado patrones diferentes de degeneración articular y estrés musculoesquelético”,",
+            "tipo": "directa",
+            "inicio": 2920,
+            "fin": 3118
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3210,
+            "fin16": 3492,
+            "texto": "“Lo más convincente fue el arqueamiento estructural del segundo metacarpiano derecho en la princesa Noub-Hotep. Esta es una respuesta biomecánica a la carga mecánica sostenida que se requiere para estabilizar un arco pesado, que típicamente comienza durante los años de desarrollo”,",
+            "tipo": "directa",
+            "inicio": 3210,
+            "fin": 3492
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3511,
+            "fin16": 3698,
+            "texto": "“Esto explica directamente la presencia de arcos, flechas y mazas en las tumbas de las mujeres; no se trataba solo de regalos simbólicos, sino de herramientas que utilizaban activamente”,",
+            "tipo": "directa",
+            "inicio": 3511,
+            "fin": 3698
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4097,
+            "fin16": 4334,
+            "texto": "“Estas lesiones probablemente fueron causadas por accidentes, caídas, golpes fuertes u otros impactos relacionados con un estilo de vida activo, ya sea por la caza, el entrenamiento militar u otras actividades exigentes”, afirma Hashesh.",
+            "tipo": "directa",
+            "inicio": 4097,
+            "fin": 4334
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4335,
+            "fin16": 4458,
+            "texto": "“Lo notable es que las lesiones sanaron bien, lo que sugiere que tuvieron acceso a atención médica avanzada para su época”.",
+            "tipo": "directa",
+            "inicio": 4335,
+            "fin": 4458
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4729,
+            "fin16": 4837,
+            "texto": "“Nuestro sueño sería ir mucho más allá de la simple identificación de la realeza de Dahshur”, afirma Hashesh",
+            "tipo": "directa",
+            "inicio": 4729,
+            "fin": 4837
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4839,
+            "fin16": 5296,
+            "texto": "“Intentaríamos contar sus historias de vida completas, sus familias, su salud e incluso sus roles políticos, con el mayor detalle posible. Más allá de la ciencia, preservaríamos los restos, crearíamos impresiones 3D para la enseñanza y exposiciones virtuales, y los exhibiríamos junto con sus joyas, armas y objetos funerarios. Todo esto se haría con respeto, asegurando que los restos se presenten de forma ética, tal como fueron enterrados originalmente”.",
+            "tipo": "directa",
+            "inicio": 4839,
+            "fin": 5296
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5297,
+            "fin16": 5584,
+            "texto": "“Sus objetos y joyas son verdaderamente fascinantes, de una maestría artesanal impresionante. Sin embargo, si bien los arqueólogos se han centrado durante mucho tiempo en preservar estos tesoros, a menudo se ha olvidado a las personas que los crearon. Nuestro estudio busca cambiar eso.”",
+            "tipo": "directa",
+            "inicio": 5297,
+            "fin": 5584
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5585,
+            "fin16": 5809,
+            "texto": "Hashesh destaca a SINC que si bien la reevaluación ha proporcionado una base biocultural sólida, aún quedan pendientes varias preguntas respecto a los orígenes geográficos y los lazos familiares exactos de esta cohorte real.",
+            "tipo": "indirecta",
+            "inicio": 5585,
+            "fin": 5809
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 6319,
+            "fin16": 6443,
+            "texto": "Además, Hashesh explica que se realizará una GC-MS (Cromatografía de Gases-Espectrometría de Masas) en los restos resinosos.",
+            "tipo": "indirecta",
+            "inicio": 6319,
+            "fin": 6443
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 6444,
+            "fin16": 6591,
+            "texto": "El objetivo es “refinar aún más nuestra comprensión de las aromáticas de alto valor utilizadas en su tratamiento funerario de élite estandarizado”.",
+            "tipo": "directa",
+            "inicio": 6444,
+            "fin": 6591
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 557,
+          "fin16": 583,
+          "texto": "primera autora del estudio",
+          "inicio": 557,
+          "fin": 583
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 135
+  }
+}

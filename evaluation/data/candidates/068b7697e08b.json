@@ -1,0 +1,26 @@
+{
+  "id": "068b7697e08b",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-la-verdadera-forma-de-la-atmosfera-de-un-exoplaneta-caliente",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-16T13:31:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:24+00:00",
+  "campos": {
+    "titular": "Descubren la verdadera forma de la atmósfera de un exoplaneta caliente",
+    "entradilla": "WASP – 17b es un gigante gaseoso muy caliente que posee un hemisferio diurno e iluminado y otro nocturno y en penumbra. Los astrónomos los han estudiado con una técnica innovadora y han visto que sus vientos deforman su atmósfera por uno de sus lados.",
+    "cuerpo": "Hasta ahora, los exoplanetas calientes se representaban como circulares, pero una nueva investigación ha revelado que la verdadera forma de sus atmósferas podría ser más diversa,\nUn estudio, codirigido por la Universidad de Bristol en el Reino Unido, presenta la primera aplicación de un método pionero llamado ‘cuerdas de transmisión’ que expone los contornos desiguales de un exoplaneta.\nLa investigación se centró en la atmósfera de WASP – 17b, un gigante gaseoso caliente que órbita alrededor de una estrella situada a 1 300 años luz de la Tierra. Los hallazgos se han publicado en Nature Astronomy.\nLos resultados sobre su composición química y los cambios de temperatura concuerdan con las predicciones teóricas y otras técnicas de modelización. En conjunto, estos datos ofrecen una de las visiones tridimensionales más completas de su atmósfera y constituyen un importante punto de referencia para estudiar los más de 6 000 exoplanetas confirmados hasta la fecha.\nSegún explica la coautora e investigadora de la universidad británica, Hannah Wakeford, los planetas son caprichosos, y sus atmósferas caóticas. “El hecho de que todos estos datos nos mostraran una imagen tan estructurada y dinámica de este mundo gigante fue realmente emocionante”, expresa.\nEn estudios previos se utilizaba una técnica denominada ‘mapeo de eclipses’ que medía los cambios en la luz cuando un exoplaneta pasaba por detrás de su estrella. Ahora, un nuevo método, denominado ‘mapeo de tránsitos’, sigue la trayectoria del planeta a medida que pasa por delante de la estrella y capta la composición de la luz alrededor del borde de la atmósfera del cuerpo celeste.\nEn vez de suponer que la atmósfera es un círculo perfecto, esta técnica permite determinar distancias desde el centro hasta el borde. Con ello, los investigadores pueden recorrer toda la superficie.\nEn este caso, los investigadores descubrieron que los fuertes vientos del planeta transportaban calor desde el lado diurno –siempre iluminado–hasta el lado nocturno –en penumbra–, lo que hacía que la atmósfera se expandiera en uno de sus hemisferios.\nEste estudio allana el camino para cartografiar muchos otros candidatos. Ahora se está empezando a diferenciar las condiciones entre las distintas latitudes de los exoplanetas, más allá de los simples lados diurno y nocturno, lo que permitirá cartografiar la actividad meteorológica de estos exoplanetas.\n“Es emocionante disponer de este modelo matemático tan sólido. Los resultados son una demostración hermosa de la dinámica que tiene lugar en estos mundos multifacéticos”, concluye Wakeford."
+  },
+  "sha256": {
+    "titular": "23c4876e8c78088e9510c4a567dd73d521705fac0cec5f46fbdee0e69539c242",
+    "entradilla": "f7c12247de631f5b873f6b96e8f26f388bb0d984694d827328ca5d651c180ac4",
+    "cuerpo": "4bb5788e91b28ed312f417deca0c05e2efc681ce518aea3a0243404061c8ded4"
+  }
+}

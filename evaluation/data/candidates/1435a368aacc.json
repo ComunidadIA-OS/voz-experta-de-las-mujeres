@@ -1,0 +1,26 @@
+{
+  "id": "1435a368aacc",
+  "url": "https://www.agenciasinc.es/Noticias/El-sistema-inmunitario-retrasa-el-desarrollo-de-las-larvas-de-Drosophila-ante-un-exceso-de-azucar",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-23T10:13:00+02:00",
+  "fuente_y_derechos": "Fuente: IRB | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:41:28+00:00",
+  "campos": {
+    "titular": "El sistema inmunitario retrasa el desarrollo de las larvas de ‘Drosophila’ ante un exceso de azúcar",
+    "entradilla": "Un estudio en moscas del vinagre ha identificado una vía de comunicación entre nutrición, hormonas e inmunidad. La respuesta retrasa la metamorfosis y ayuda a amortiguar el impacto de una dieta rica en azúcar sobre el crecimiento.",
+    "cuerpo": "Las dietas ricas en azúcar pueden alterar procesos metabólicos esenciales durante el desarrollo. Ahora, un estudio liderado por investigadores del IRB Barcelona en la mosca del vinagre (Drosophila melanogaster) muestra que los macrófagos, células del sistema inmunitario, detectan este estrés nutricional y envían señales al sistema endocrino para retrasar temporalmente la metamorfosis.\nLos resultados, publicados en la revista Current Biology, revelan que estas células producen una molécula denominada Dpp, equivalente evolutiva de las proteínas BMP2/4 humanas, que actúa sobre el órgano encargado de sintetizar ecdisona, la hormona esteroidea que desencadena la transición de larva a pupa.\nLos macrófagos son conocidos por su función en la respuesta inmunitaria, pero también participan en la vigilancia del estado fisiológico del organismo. En situaciones de obesidad o resistencia a la insulina contribuyen a la inflamación metabólica y a la acumulación de lípidos en distintos tejidos.\nEl nuevo trabajo añade una función hasta ahora desconocida. Los investigadores observaron que, cuando las larvas reciben una dieta rica en azúcar, los macrófagos aumentan la producción de Dpp. Esta señal alcanza la glándula protorácica y reduce de forma temporal la síntesis de ecdisona, lo que retrasa la metamorfosis.\n“Sabíamos que los macrófagos responden al estrés metabólico, pero no que pudieran regular la producción de hormonas esteroideas. Nuestros resultados muestran que estas células conectan señales nutricionales externas con la fisiología de todo el organismo”, explica Sergio Juárez-Carreño, primer autor del estudio y actualmente jefe de grupo en el Centro Andaluz de Biología del Desarrollo.\nEn condiciones normales, las larvas de Drosophila completan esta etapa de desarrollo en unos cinco días. Sin embargo, una dieta rica en azúcar prolonga el proceso hasta seis o siete días.\nSegún los autores, este retraso actúa como un mecanismo de adaptación. Cuando bloquearon la señal Dpp producida por los macrófagos, las larvas redujeron parcialmente la demora en el desarrollo, pero alcanzaron un tamaño corporal menor.\nLos resultados sugieren que la respuesta inmunitaria ayuda a compensar los efectos negativos de una alimentación excesivamente azucarada, proporcionando tiempo adicional para crecer antes de la metamorfosis.\n“El sistema inmunitario no solo responde a infecciones o daños. También actúa como un sistema de vigilancia interna capaz de ajustar el ritmo del desarrollo cuando las condiciones nutricionales no son óptimas”, señala Marco Milán, investigador ICREA y jefe del laboratorio de Desarrollo y Control del Crecimiento del IRB Barcelona.\nLa mosca Drosophila melanogaster es uno de los modelos más utilizados para investigar procesos básicos del desarrollo, el metabolismo y la regulación hormonal. Su transición de larva a pupa permite estudiar cómo las hormonas esteroideas coordinan cambios fisiológicos profundos durante el crecimiento.\nAunque el estudio no demuestra que exista un mecanismo equivalente en humanos, los autores consideran que el hallazgo plantea nuevas preguntas sobre cómo el exceso de azúcar, la obesidad o la resistencia a la insulina podrían influir en la regulación hormonal durante etapas de crecimiento.\nLos próximos trabajos del equipo se centrarán en analizar las consecuencias del consumo excesivo de azúcar en organismos adultos."
+  },
+  "sha256": {
+    "titular": "232b72a4d99c253dbe15df1f0cc2cd3bc30536dbdccf96e461f2662ddbd521ee",
+    "entradilla": "c6fed74b71dceb8b619677b13c66dc29d499aa8f183c04ae12de5a55bc109754",
+    "cuerpo": "e12e6648d3e7273cbc0ea829f9bdbd149d426483fa36217c369c364610359eed"
+  }
+}

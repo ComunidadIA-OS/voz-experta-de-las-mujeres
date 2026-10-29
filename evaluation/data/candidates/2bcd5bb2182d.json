@@ -1,0 +1,26 @@
+{
+  "id": "2bcd5bb2182d",
+  "url": "https://www.agenciasinc.es/Noticias/Crean-tatuajes-electronicos-de-bajo-coste-para-monitorizar-la-salud-sobre-la-piel",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-08T11:02:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:39:58+00:00",
+  "campos": {
+    "titular": "Crean 'tatuajes electrónicos' de bajo coste para monitorizar la salud sobre la piel",
+    "entradilla": "Inspirados en las calcomanías temporales, estos dispositivos pueden transferirse a superficies curvas o irregulares sin perder sus propiedades eléctricas. El avance, publicado en ACS Nano, abre nuevas posibilidades para fabricar sensores portátiles y sistemas de monitorización biomédica de forma más sencilla y económica.",
+    "cuerpo": "Investigadores del Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC) han desarrollado un método de bajo coste y escalable para fabricar dispositivos electrónicos ultrafinos capaces de adaptarse a superficies con topografías muy diferentes, como la piel, los textiles, los tejidos biológicos o las hojas de las plantas. Gracias a esta versatilidad, estos tatuajes electrónicos podrían utilizarse, por ejemplo, para monitorizar parámetros de salud en pacientes.\nLos dispositivos pertenecen a la denominada electrónica conformable, diseñada para mantener un funcionamiento estable incluso cuando se coloca sobre superficies blandas, curvas o sometidas a deformaciones.\n“Los dispositivos conformables tienen que adaptarse perfectamente a superficies blandas, curvas y dinámicamente deformables, manteniendo un rendimiento eléctrico fiable”, explica Andrés Castellanos-Gómez, investigador del CSIC en el ICMM y líder del proyecto en España.\nSin embargo, fabricar este tipo de electrónica sigue siendo un desafío. Aunque los materiales semiconductores bidimensionales figuran entre los más prometedores para estas aplicaciones, su integración en dispositivos flexibles resulta todavía compleja.\n“Uno de los principales obstáculos tiene que ver con la falta de métodos de fabricación escalables que ofrezcan simultáneamente alta calidad electrónica, bajo coste y producción a gran escala”, señala Yigit Sozen, investigador del CSIC en el ICMM y uno de los autores principales del estudio.\nPara superar estas limitaciones, el equipo recurrió a una tecnología conocida por millones de personas: las calcomanías al agua de los tatuajes temporales.\nLos investigadores combinan un sistema propio de exfoliación mecánica de materiales bidimensionales —patentado por el grupo— con sustratos comerciales empleados para transferir tatuajes temporales. El resultado son películas semiconductoras ultrafinas que pueden colocarse directamente sobre superficies rugosas o curvas sin perder sus propiedades electrónicas.\nCon este procedimiento fabricaron fotodetectores, termistores y transistores que funcionan sobre materiales tan distintos como la piel, el cuero sintético o las hojas de las plantas.\n“Al combinar la producción escalable de materiales semiconductores de van der Waals con estrategias sencillas de transferencia ultradaptable, este trabajo extiende la electrónica basada en tatuajes más allá de los sistemas orgánicos y establece una plataforma práctica para dispositivos portátiles y con interfaz biológica de alto rendimiento”, afirma Sozen.\nEl nuevo método emplea una técnica de exfoliación mecánica mediante dos cilindros enfrentados que permite obtener películas secas e interconectadas de disulfuro de molibdeno (MoS₂), un semiconductor bidimensional ampliamente estudiado.\nSegún los investigadores, esta técnica supera algunas de las limitaciones de otros métodos para fabricar materiales bidimensionales, como el uso de disolventes, la escasa uniformidad de las películas o la necesidad de equipos muy costosos.\n“Al aprovechar esta plataforma de materiales junto con estrategias de transferencia sencillas basadas en calcomanías, fabricamos dispositivos ultraconformables que funcionan de manera fiable en superficies rugosas y flexibles”, concluye Castellanos-Gómez.\nLos autores consideran que esta tecnología podría facilitar el desarrollo de sensores portátiles para monitorizar parámetros fisiológicos, así como de otros dispositivos electrónicos destinados a aplicaciones biomédicas y a interfaces entre la electrónica y los tejidos biológicos."
+  },
+  "sha256": {
+    "titular": "4a339097bdd9d01096dc5134f2e41e1f6884443895fbcac76013dfe2ecfa6c20",
+    "entradilla": "58f9404741df61b89424032a329e60e0d52d07c049b33bae502f1e9f7066b1ab",
+    "cuerpo": "96a1b41e40c796f294b1c5728316ca3e582b8040c03c5a2034a9efb82cca0042"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "287553e38601",
+  "url": "https://www.agenciasinc.es/Noticias/El-secreto-de-la-orientacion-de-las-palomas-no-esta-en-su-cabeza-sino-en-su-higado",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-05-29T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:46+00:00",
+  "campos": {
+    "titular": "El secreto de la orientación de las palomas no está en su cabeza, sino en su hígado",
+    "entradilla": "Un nuevo estudio revela que unas células inmunitarias ricas en hierro actúan como sensores cuánticos del campo magnético terrestre, un hallazgo que revoluciona las teorías clásicas de la navegación animal.",
+    "cuerpo": "¿Cómo lo hacen las palomas mensajeras para recorrer cientos de kilómetros y regresar a su hogar? Muchos biólogos se han hecho esta misma pregunta desde hace décadas, sin llegar a encontrar una respuesta satisfactoria. Las hipótesis tradicionales apuntaban a receptores lumínicos en los ojos o a partículas magnéticas en el pico, pero ninguna había logrado un respaldo experimental sólido.\nAhora, un equipo internacional de científicos ha descubierto una respuesta tan sorprendente como inesperada: el secreto de su orientación no está en la cabeza, sino en el hígado.\nEl estudio, que se publica esta semana en la revista Science, demuestra que el sentido magnético de estas aves depende de los macrófagos hepáticos. Estas células del sistema inmunitario, encargadas de degradar los glóbulos rojos viejos, acumulan grandes cantidades de hierro en el proceso, lo que les confiere propiedades esenciales para detectar el campo magnético de la Tierra.\n“No esperábamos en absoluto que las células inmunitarias actuaran como sensores de campos magnéticos. Nuestros resultados revelan un mecanismo de percepción magnética en animales que hasta ahora era completamente desconocido”, explica Christian Kurts, director del Instituto de Medicina Molecular e Inmunología Experimental del Hospital Universitario de Bonn y uno de los autores principales del trabajo.\nPara localizar exactamente dónde se encontraban las células magnéticas, el equipo —que integra a inmunólogos de la Universidad de Bonn, físicos de la Universidad de Duisburgo-Essen y ornitólogos del Instituto Max Planck de Comportamiento Animal— utilizó técnicas avanzadas de magnetometría de muestra vibrante y separación celular magnética. Tras analizar los órganos tradicionalmente sospechosos, como los ojos, el pico y el cerebro, decidieron examinar el bazo y el hígado.\n“Teníamos algunas pistas de que el hígado y el bazo poseían propiedades magnéticas, ya que al descomponer los glóbulos rojos almacenan la mayor parte del hierro del organismo”, señala la primera autora, Clivia Lisowski, investigadora de la Universidad de Bonn. Los análisis confirmaron que, de todos los tejidos estudiados, el hígado presentaba, con diferencia, la mayor concentración de este mineral.\nSegún detalla Ulf Wiedwald, de la Universidad de Duisburgo-Essen, “el hierro se cristaliza en nanopartículas de óxido, lo que convierte a estas células en superparamagnéticas y sumamente reactivas a los campos magnéticos”. Una vez identificado este fenómeno, los análisis moleculares confirmaron que los responsables directos eran los macrófagos hepáticos.\nPara comprobar si estas células inmunitarias eran verdaderamente determinantes en el vuelo, los ornitólogos realizaron experimentos con palomas entrenadas para regresar a sus aviarios en Konstanz (Alemania) desde distancias superiores a los 20 kilómetros.\nTras eliminar selectivamente los macrófagos hepáticos, las aves perdieron por completo su sentido de la orientación en días nublados, cuando el sol no era visible. Sin embargo, cuando el cielo estaba despejado, regresaron a casa sin problemas utilizando los índices solares.\n“Lo que parecía un ‘instinto visceral’ en la navegación de las aves resulta tener una base física real”, añade Martin Wikelski, director del MPI-AB y coautor del estudio. Para entender cómo viaja esta información, el equipo utilizó microscopía electrónica y descubrió que los macrófagos ricos en hierro se sitúan adyacentes a fibras nerviosas, lo que sugiere una vía directa de comunicación para que las señales magnéticas viajen desde el hígado hasta el cerebro.\n“Estos hallazgos proporcionan la primera prueba concreta de cómo se percibe el campo magnético terrestre dentro del cuerpo y cómo se transmite al cerebro para guiar el movimiento”, subraya Lisowski. El descubrimiento no solo redefine la biología aviar, sino que abre la puerta a investigar si otros animales que navegan a ciegas, como los tiburones, o incluso los seres humanos, comparten mecanismos similares de percepción molecular."
+  },
+  "sha256": {
+    "titular": "fe5679cdd25c8cdecb7b5d18d905a067819e4ed5332d57fbf27d748c3db96c80",
+    "entradilla": "78fa6e7c3cae522417d6e0c6c355764542c5c8704230c33188ac1af3cde38cfb",
+    "cuerpo": "cf1900dea89daa654ea18f0a7321d5b624d9d91afcaa5ebd4e5637de047adde5"
+  }
+}

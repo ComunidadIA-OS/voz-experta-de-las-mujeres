@@ -1,0 +1,143 @@
+{
+  "article_id": "313a7d64993b",
+  "url": "https://www.agenciasinc.es/Noticias/Una-planta-de-las-Galapagos-que-estaba-al-borde-de-la-extincion-se-esta-recuperando",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:10+00:00",
+  "article_sha256": {
+    "titular": "1d52ee2dfe99755d5db67bcbaf57f5daec303f0abd8795e065a537cf1a71e517",
+    "entradilla": "5dc64c4a856fc5e4cec0777f1eb942bb3c3eccea0ad0dcd757417e6b5b2079b6",
+    "cuerpo": "8d46890dde5e5ff914e2927201b220873464692e781fd583345f3cfd44a04863"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Jaramillo Díaz",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "autora principal del estudio",
+      "gender_representation": "woman",
+      "gender_evidence": "autora",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Al estar junto a esas plantas, quedó claro que estábamos ante algo mucho más que un arbusto raro. Perderlas significaría perder una parte insustituible del patrimonio botánico de las Galápagos”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La verdadera restauración comienza cuando la naturaleza ya no depende de nosotros”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Al echar la vista atrás hoy, lo primero en lo que pienso no es en el número de plántulas que plantamos ni en los kilómetros que recorrimos a pie por los campos de lava. Pienso en las personas: los guardas del parque que protegieron los lugares de restauración, los auxiliares de campo que transportaron las plantas por terrenos difíciles, el personal del vivero que cuidó de miles de plántulas, los investigadores que diseñaron los experimentos, y los estudiantes y voluntarios cuyo entusiasmo ha sostenido este proyecto a lo largo de los años”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La conservación comienza con la curiosidad, avanza gracias a la ciencia y triunfa gracias a la colaboración”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793120470577",
+        "nombre": "Jaramillo Díaz",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1336,
+            "fin16": 1350,
+            "texto": "Jaramillo Díaz",
+            "inicio": 1336,
+            "fin": 1350
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1352,
+          "fin16": 1358,
+          "texto": "autora",
+          "inicio": 1352,
+          "fin": 1358
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1133,
+            "fin16": 1327,
+            "texto": "“Al estar junto a esas plantas, quedó claro que estábamos ante algo mucho más que un arbusto raro. Perderlas significaría perder una parte insustituible del patrimonio botánico de las Galápagos”",
+            "tipo": "directa",
+            "inicio": 1133,
+            "fin": 1327
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3126,
+            "fin16": 3210,
+            "texto": "“La verdadera restauración comienza cuando la naturaleza ya no depende de nosotros”.",
+            "tipo": "directa",
+            "inicio": 3126,
+            "fin": 3210
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3600,
+            "fin16": 4145,
+            "texto": "“Al echar la vista atrás hoy, lo primero en lo que pienso no es en el número de plántulas que plantamos ni en los kilómetros que recorrimos a pie por los campos de lava. Pienso en las personas: los guardas del parque que protegieron los lugares de restauración, los auxiliares de campo que transportaron las plantas por terrenos difíciles, el personal del vivero que cuidó de miles de plántulas, los investigadores que diseñaron los experimentos, y los estudiantes y voluntarios cuyo entusiasmo ha sostenido este proyecto a lo largo de los años”",
+            "tipo": "directa",
+            "inicio": 3600,
+            "fin": 4145
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4500,
+            "fin16": 4609,
+            "texto": "“La conservación comienza con la curiosidad, avanza gracias a la ciencia y triunfa gracias a la colaboración”",
+            "tipo": "directa",
+            "inicio": 4500,
+            "fin": 4609
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1352,
+          "fin16": 1380,
+          "texto": "autora principal del estudio",
+          "inicio": 1352,
+          "fin": 1380
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 64
+  }
+}

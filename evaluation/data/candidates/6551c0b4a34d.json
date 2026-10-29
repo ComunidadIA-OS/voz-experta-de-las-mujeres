@@ -1,0 +1,26 @@
+{
+  "id": "6551c0b4a34d",
+  "url": "https://www.agenciasinc.es/Noticias/La-peste-de-Mallorca-de-1820-no-fue-un-brote-bubonico-clasico",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-19T08:29:00+02:00",
+  "fuente_y_derechos": "Fuente: UOC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Historia"
+  ],
+  "secciones": [
+    "Sociedad"
+  ],
+  "fecha_consulta": "2026-10-27T01:35:55+00:00",
+  "campos": {
+    "titular": "La peste de Mallorca de 1820 no fue un brote bubónico clásico",
+    "entradilla": "Un estudio de la UAB y la UOC publicado en la revista PNAS revisa la naturaleza biológica de una de las últimas grandes plagas en Europa occidental del siglo XIX. La investigación ayuda a entender mejor cómo circulaba y se transmitía la enfermedad, la evolución de los brotes y la importancia de los confinamientos.",
+    "cuerpo": "En mayo de 1820, en la zona este de la isla de Mallorca empezó un brote de peste que tradicionalmente había sido clasificado como un episodio tardío de peste bubónica.\nAhora, el estudio, publicado en PNAS, realizado por los profesores Pere Puig, de la Universidad Autónoma de Barcelona (UAB) y del Centro de Investigación Matemática (CRM), y Joana Pujadas-Mora, de la Universidad Abierta de Cataluña (UOC) revisa cómo se transmitía la peste en un contexto anterior al desarrollo de la bacteriología.\nLa investigación recoge que en ese episodio la mortalidad alcanzó el 78 % y según los documentos históricos, los enfermos empeoraban muy rápidamente. Estas características hacen pensar que las formas neumónica y septicémica de la peste tuvieron un peso importante en el brote, en contra de las interpretaciones anteriores, que lo atribuían principalmente a la peste bubónica transmitida por las picaduras de pulgas asociadas a los roedores.\nLos datos históricos también descartan que las ratas actuaran como reservorio de la enfermedad y apuntan a los ectoparásitos humanos, como las pulgas y los piojos, o al contagio directo entre personas como las vías de propagación más probables en el episodio de 1820.\nSegún la investigación, el brote de 1820 de Mallorca llegó probablemente procedente de Tánger a través de los tripulantes de un barco, ya infectados, que desembarcaron de forma clandestina en la zona de Son Servera, en el este de la isla.\nEl pueblo no tenía puerto y las mercancías se desembarcaban con pequeñas barcas de remo, lo que hace improbable que las ratas infectadas llegaran al suelo. Lo más probable, según el estudio, es que pulgas infectadas provenientes del barco picaran habitantes de Son Servera, que posteriormente enfermaron.\nOtra posibilidad es que la enfermedad llegara a través del estrecho contacto con miembros infectados de la tripulación. A partir de este primer foco, la peste podría haberse extendido rápidamente a través de ectoparásitos humanos, como pulgas o piojos, y también mediante la transmisión directa entre personas de las formas septicémica y neumónica.\nSin embargo, la epidemia no se extendió de forma masiva gracias a las estrictas medidas de aislamiento que se implementaron una vez que el brote fue confirmado. Las poblaciones de Artà, Son Servera y Capdepera fueron acordonadas y también posteriormente Manacor.\nEstas medidas que supusieron una fuerte presencia militar y redujeron el comercio y el movimiento entre pueblos lo que demuestra la conciencia por parte de las autoridades de que la enfermedad era contagiosa.\nEn total, más de 2 400 de los 7 500 habitantes de la zona fallecieron durante este episodio que se conoce como el último gran brote de peste en la Europa del siglo XIX.\nEsta investigación cuestiona las interpretaciones tradicionales sobre la desaparición de la peste en Europa occidental y destacan el papel del comportamiento humano, la movilidad y los ectoparásitos en la evolución de las epidemias.\nEl estudio se basa en un registro histórico diario que hasta ahora no se había examinado y que recogía de forma sistemática el número de enfermos, muertes, convalecientes y pacientes recuperados durante todo el brote.\nCombinando esta documentación histórica con métodos cuantitativos avanzados, la investigación aporta nueva información sobre la naturaleza del brote y permite entender mejor cómo se desarrollaban las epidemias de peste antes de que se conocieran las bacterias responsables. Así contribuye a conectar las evidencias históricas con el conocimiento actual sobre la transmisión de las enfermedades.\nEste trabajo demuestra el valor de combinar la modelización matemática y estadística con fuentes archivísticas para reconstruir la ecología de enfermedades pasadas y mejorar nuestra comprensión de la transmisión de patógenos en poblaciones históricas."
+  },
+  "sha256": {
+    "titular": "27ebcfa8cab02e9a9178591d0d4a610da7b955b25b72246e3a2385137bf60e01",
+    "entradilla": "2e7551720bcc3bf447ea63322a632fa661599fb61ea38b5c8facecf71dc3d6be",
+    "cuerpo": "34323db0d9f6c4a21750ca5548791d6105fc6072891714bc26261ffe917e54a0"
+  }
+}

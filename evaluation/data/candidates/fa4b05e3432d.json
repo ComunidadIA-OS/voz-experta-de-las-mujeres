@@ -1,0 +1,26 @@
+{
+  "id": "fa4b05e3432d",
+  "url": "https://www.agenciasinc.es/Noticias/La-combinacion-de-dos-farmacos-en-una-sola-pastilla-diaria-simplifica-el-tratamiento-inicial-contra-el-VIH",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-26T14:00:00+01:00",
+  "fuente_y_derechos": "Fuente: IrsiCaixa | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias clínicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:51:29+00:00",
+  "campos": {
+    "titular": "La combinación de dos fármacos en una sola pastilla diaria simplifica el tratamiento inicial contra el VIH",
+    "entradilla": "Este medicamento contiene doravirina e islatravir y puede ser tan eficaz como la triple terapia utilizada al inicio del tratamiento. Un estudio internacional muestra una nueva vía para reducir el consumo de fármacos en personas seropositivas y ofrece otras opciones en caso de resistencias o intolerancias a las pastillas convencionales.",
+    "cuerpo": "Un ensayo clínico en fase 3 demuestra que la combinación de dos medicamentos antivirales en una sola pastilla diaria es un tipo de terapia igual de efectiva que los tratamientos iniciales clásicos para personas con VIH.\nEste nuevo fármaco se compone de doravirina e islatravir y ofrece una nueva línea terapéutica para pacientes con intolerancias o alguna resistencia a medicamentos de la familia de los inhibidores de la integrasa. El trabajo ha sido liderado por el Hospital Universitario de Bonn (Alemania) y se ha publicado en The Lancet HIV.\nPara saberlo, el estudio incluyó a 756 personas seropositivas que iniciaban su primer tratamiento tras el diagnóstico. La mitad recibió la combinación de estos dos fármacos mientras que al resto se le administró una triple terapia estandarizada, basada en bictegravir, emtricitabina y tenofovir alafenamida.\nDespués de un año, los expertos vieron que la carga viral del 90 % de los participantes de ambos grupos era indetectable y observaron una recuperación de las células CD4 del sistema inmunitario. Los resultados fueron consistentes independientemente de la carga del virus o del estado inmunológico.\nHoy en día, la mayoría de los tratamientos iniciales incluyen inhibidores de la integrasa, y aunque ya existen algunas dobles terapias, se suelen basar habitualmente en esta familia de fármacos.\nPor ello, disponer de opciones que no dependan de estos medicamentos amplía el abanico terapéutico en caso de resistencias o intolerancias.\nSegún expresa uno de los autores del trabajo e investigador principal de IrsiCaixa, Roger Paredes, este estudio demuestra que existen vías terapéuticas más simples, con menos fármacos y con la misma eficacia virológica. “La combinación de ambos medicamentos– doravirina e islatravir– ha demostrado una efectividad comparable a la triple terapia en perfiles clínicos diversos”, subraya.\nConcretamente, el islatravir es un compuesto muy potente y con una actividad prolongada en el tiempo, lo que podría facilitar pautas más espaciadas, como un comprimido a la semana o una inyección subcutánea cada seis meses, tal y como apunta el investigador.\nLos resultados refuerzan el desarrollo de estrategias con fármacos de larga duración y abre el camino hacia tratamientos contra el VIH más simples, flexibles y personalizados."
+  },
+  "sha256": {
+    "titular": "45f0636000bcc24222ba034a3e73696550477b4b99c122eb848a7930b31bf4a6",
+    "entradilla": "7e9642fa5e74f71644c0d90f59b95f48f668a898bae5f25f973ad71098b7b58f",
+    "cuerpo": "d9f83ecafb928de3481b196623450fdfa4a5b69f78c7ee6f4cfc39da96d4ea96"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "986437163e00",
+  "url": "https://www.agenciasinc.es/Noticias/El-asteroide-Ryugu-contiene-cinco-componentes-esenciales-de-la-vida-en-la-Tierra",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-03-17T11:08:00+01:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:05+00:00",
+  "campos": {
+    "titular": "El asteroide Ryugu contiene cinco componentes esenciales de la vida en la Tierra",
+    "entradilla": "El hallazgo de moléculas orgánicas presentes en el ADN y ARN terrestres en un objeto espacial permite entender la forma en la que se generan estos compuestos en entornos inhóspitos. Su descubrimiento refuerza la hipótesis de que los asteroides carbonáceos contribuyeron al inventario químico de la Tierra primitiva.",
+    "cuerpo": "Un equipo de científicos japonés ha encontrado adenina, guanina, citosina, timina y uracilo en el asteroide Ryugu, es decir, las cinco nucleobases o moléculas orgánicas presentes en el ADN y el ARN terrestres.\nLas nucleobases son componentes esenciales del ADN y el ARN, los 'ladrillos' sobre los que se sustenta la vida en la Tierra. Encontrarlas en material extraterrestre ayuda a los científicos a entender cómo se forman estos compuestos en ausencia de vida y cómo se transportan por el Sistema Solar.\nPara hacer el estudio, el equipo, liderado por científicos de la Agencia Japonesa para la Ciencia y la Tecnología Maritimo-Terrestre (JAMSTEC), analizó las muestras de Ryugu y las comparó con el material encontrado en otros asteroides. Los resultados se han publicado este lunes en Nature Astronomy.\nPrimero analizaron las dos muestras de Ryugu recolectadas por la misión Hayabusa 2 y detectaron las cinco nucleobases canónicas —adenina, guanina, citosina, timina y uracilo— en ambas muestras.\nDespués, compararon los resultados con los de los meteoritos Murchison y Orgueil y con las muestras del asteroide Bennu y hallaron diferencias significativas en las abundancias relativas de las nucleobases.\nRyugu contiene cantidades aproximadamente comparables de nucleobases de purina (adenina y guanina) y nucleobases de pirimidina (citosina, timina y uracilo), mientras que Murchison tiene más nucleobases de purina y las muestras de Bennu y Orgueil son más ricas en nucleobases de pirimidina.\nPara los autores, estos resultados reflejan las diferentes historias químicas, ambientales y evolutivas de sus respectivos cuerpos parentales.\nEncontrar estas nucleobases en materiales de asteroides y meteoritos, a pesar de sus diferencias químicas, “demuestra su presencia generalizada en todo el Sistema Solar y refuerza la hipótesis de que los asteroides carbonáceos contribuyeron al inventario químico prebiótico de la Tierra primitiva”, escriben los autores.\nPara el astrobiólogo y profesor de Bioquímica en la Universidad de Alcalá, César Menor, ajeno al estudio, aunque las conclusiones del trabajo no son “sorprendentes ni novedosas”, son “consistentes” con todo lo que se sabía y se había visto anteriormente, explica en declaraciones a la plataforma de recursos SMC.\n“Estos resultados son consistentes con lo que nosotros mismos hemos visto en Ryugu y en meteoritos del tipo condrita carbonácea, y es consistente con todo lo que se ha estudiado ya en trabajos previos. Esta consistencia es muy importante en ciencia”."
+  },
+  "sha256": {
+    "titular": "34659e8d4cf82b7b6ebc448d1135f667003fdfea6b5172280b03c47c7bfb9773",
+    "entradilla": "22cf20e742826d1c35232b1ffe686462d3da3d468f638ac49fd885b25fcaf807",
+    "cuerpo": "188fa2f7edba4b9a4bdf26f7d56e552d87f8d1d27699ca0ca3eb04e33f27a971"
+  }
+}

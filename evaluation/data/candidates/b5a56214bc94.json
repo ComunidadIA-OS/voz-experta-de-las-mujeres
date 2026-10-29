@@ -1,0 +1,26 @@
+{
+  "id": "b5a56214bc94",
+  "url": "https://www.agenciasinc.es/Noticias/El-cerebro-reutiliza-Legos-cognitivos-para-aprender-tareas-nuevas-con-una-flexibilidad-que-la-IA-no-alcanza",
+  "autoria": "Ana Hernando",
+  "fecha_publicacion": "2025-11-26T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "cerebro"
+  ],
+  "secciones": [
+    "tag"
+  ],
+  "fecha_consulta": "2026-10-27T01:58:16+00:00",
+  "campos": {
+    "titular": "El cerebro reutiliza ‘Legos cognitivos’ para aprender tareas nuevas con una flexibilidad que la IA no alcanza",
+    "entradilla": "La corteza prefrontal de los primates combina patrones neuronales modulares para construir comportamientos complejos. Esta capacidad de mezclar y recombinar ‘subtareas’ podría explicar por qué los humanos aprendemos más rápido y sin olvidar lo ya adquirido.",
+    "cuerpo": "La inteligencia artificial puede resumir libros enteros en segundos o diagnosticar enfermedades con gran precisión, pero los cerebros biológicos siguen teniendo ventaja en un aspecto clave: la flexibilidad.\nLos humanos nos adaptamos con rapidez a información nueva —usar un software desconocido, seguir una receta o aprender un juego inventado— mientras que la mayoría de sistemas de IA se bloquean cuando deben aprender sobre la marcha.\nUn equipo de neurocientíficos de la Universidad de Princeton ofrece ahora una pista sobre esta diferencia: el cerebro reutiliza los mismos bloques cognitivos en diversas tareas. Al combinarlos y recombinarlos, puede montar conductas nuevas sin tener que reaprenderlo todo desde cero.\n“En el estudio encontramos que el cerebro es flexible porque puede reutilizar componentes de la cognición en muchas tareas distintas. Al encajar estos ‘Legos cognitivos’, construye nuevos comportamientos”, explica a SINC el neurocientífico Tim Buschman, autor sénior de la investigación publicada en Nature.\nPara observar este proceso en acción, el equipo entrenó a dos macacos rhesus en tres tareas de categorización que compartían ciertos elementos. Gracias a registros neuronales, comprobaron que la corteza prefrontal activaba patrones específicos —verdaderos ‘bloques’ de color, forma o acción— que se usaban en más de una tarea.\nBuschman detalla qué les permitió concluir que esos bloques son reales y no simples correlaciones: “Identificamos circuitos neuronales que calculaban, por ejemplo, si un estímulo era más rojo o más verde, y esos mismos circuitos se activaban en distintas tareas que requerían ese juicio. Lo más convincente fue ver que podían combinarse de manera flexible: el bloque de color podía conectarse con un ‘bloque motor A’ en una tarea o con un ‘bloque motor B’ en otra”.\nAdemás, este patrón era propio de la corteza prefrontal: otras regiones codificaban el color, pero de forma específica para cada tarea, sin ese nivel de reutilización.\nEl estudio utilizó solo dos animales y tres tareas, algo que sus autores consideran el primer paso de una línea de investigación mucho más amplia. “Siempre somos prudentes al generalizar desde animales a humanos”, indica Buschman. “En humanos ya sabemos que podemos mezclar subtareas para afrontar retos complejos; lo que faltaba era entender cómo lo hace el cerebro. Aunque nuestro trabajo es solo el comienzo, muestra un mecanismo que puede escalar a problemas mucho más complejos que los tres estudiados aquí”.\nEl siguiente paso del equipo de Princeton es probar de forma directa si estos bloques causan cambios en el comportamiento. En esa línea, Buschman comenta que ese será el próximo experimento: “Desarrollar formas de estimular la corteza prefrontal para activar selectivamente solo uno de estos bloques. Así podremos comprobar si altera todas las tareas que dependen de él”.\nUna de las conexiones más directas del estudio es con la IA, cuyo talón de Aquiles es el “olvido catastrófico”: aprender algo nuevo suele borrar o deteriorar lo ya aprendido. Según explica Buschman a SINC, “nuestros resultados sugieren que el cerebro no necesita reentrenar los componentes, sino aprender a configurarlos: ensamblar bloques previamente adquiridos. Esto permite aprender tareas nuevas sin modificar los bloques, y por tanto sin olvidar tareas previas”.\nComprender este principio también podría ayudar a diseñar programas de rehabilitación cognitiva para trastornos en los que la flexibilidad mental está dañada, como la esquizofrenia, ciertos trastornos obsesivos o lesiones cerebrales.\nEl trabajo, financiado por los Institutos Nacionales de Salud de EE UU, abre una nueva vía para explorar cómo la arquitectura modular del cerebro sostiene nuestra sorprendente capacidad de adaptación, según los autores."
+  },
+  "sha256": {
+    "titular": "e01ade16ae9892e33425168b0b0c99b174752b4424f633725aa113534384cc99",
+    "entradilla": "9f5c7e19c24266230aee0567911ff942426ad9c98be57388db9ca71f93d47a0c",
+    "cuerpo": "419b05025dd541b5ed7fb8e63c822315e0b9b6eb0de3c5a03101d93dac95eb47"
+  }
+}

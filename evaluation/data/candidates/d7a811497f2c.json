@@ -1,0 +1,26 @@
+{
+  "id": "d7a811497f2c",
+  "url": "https://www.agenciasinc.es/Noticias/Hallan-el-mecanismo-molecular-que-hace-mortal-al-colera",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-15T09:46:00+01:00",
+  "fuente_y_derechos": "Fuente: CSIC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Patología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:55:27+00:00",
+  "campos": {
+    "titular": "Hallan el mecanismo molecular que hace mortal al cólera",
+    "entradilla": "Un estudio internacional con participación española revela cómo se activa la virulencia del cólera una vez que la bacteria que lo causa llega al intestino humano. Debido a los conflictos armados, el impacto climático y el desplazamiento poblacional, los brotes de esta enfermedad afectan actualmente a 43 países.",
+    "cuerpo": "El cólera sigue siendo un gran desafío global de salud pública, con una estimación anual de entre 1,3 y 4 millones de casos y decenas de miles de muertes reportadas en todo el mundo. Causada por la bacteria Vibrio cholerae, la enfermedad se propaga principalmente a través de agua y alimentos contaminados y sigue afectando de forma desproporcionada a regiones con acceso limitado a saneamiento seguro.\nLos conflictos armados, el impacto climático y el desplazamiento poblacional están provocando un aumento de brotes epidémicos de cólera. En respuesta al reciente resurgimiento global de casos, que afectan ya a 43 países, y a la mortalidad asociada —en particular, la alta mortalidad infantil— la Organización Mundial de la Salud (OMS) clasificó el cólera como una emergencia de grado 3, su nivel más alto de alerta, en 2023.\nAhora, un estudio internacional ofrece una explicación estructural, muy buscada, de la cascada de mecanismos moleculares que permite a Vibrio cholerae colonizar el intestino humano y producir la toxina del cólera que causa diarrea potencialmente mortal.\nEn la investigación han colaborado el Instituto de Biología Molecular de Barcelona del CSIC, el IRB Barcelona, el Laboratorio Europeo de Biología Molecular (EMBL) de Heidelberg (Alemania) y la Universidad de Detroit Mercy (EE UU).\nToxR y TcpP son factores de transcripción clave de Vibrio cholerae que detectan señales externas, como la presencia de sales biliares y bajos niveles de oxígeno, en el intestino delgado humano. Una vez activados, se unen al ADN bacteriano para desencadenar una cascada regulatoria, que conduce a la producción de la toxina cólera y del pilus corregulado por toxinas. Este último es una estructura filamentosa en la superficie de la bacteria, que le sirve de anclaje para adherirse a las paredes intestinales.\nAunque estas proteínas, ToxR y TcpP, fueron identificadas hace tiempo como los principales reguladores de la infección, el mapa 3D de cómo interactúan con el motor de transcripción de la célula bacteriana, la ARN polimerasa (RNAP), se desconocía. Ahora, este nuevo estudio revela la arquitectura molecular de esta interacción. Utilizando criomicroscopía electrónica, los investigadores demuestran que el mecanismo no es el que los científicos esperaban.\n“Comprender esta interacción a nivel molecular nos da una nueva visión de cómo se controla la virulencia bacteriana”, dice Miquel Coll, profesor de investigación del CSIC y exdirector del laboratorio de Biología Estructural de Complejos de Proteínas y Ácidos Nucleicos y Máquinas Moleculares en el IRB Barcelona.\nAunque muchos reguladores bacterianos están diseñados para forzar un cambio de forma en la polimerasa para iniciar la transcripción, este estudio revela que ToxR y TcpP no inducen ningún reajuste conformacional. En su lugar, actúan como anclas moleculares, estabilizando una parte específica de la enzima (el dominio alfa-CTD) directamente sobre el ADN. Estos hallazgos muestran que la activación del gen de virulencia no se logra remodelando la maquinaria de transcripción, sino estabilizándola en una configuración productiva.\nEl equipo identificó un único aminoácido, la fenilalanina, como el puente molecular crítico entre el factor de transcripción y la polimerasa. “Si solo se muta este aminoácido, todo el proceso de activación falla, haciendo que las bacterias sean inofensivas”, afirma Adrià Alcaide, primer autor del estudio e investigador del IBMB-CSIC.\nEl cólera puede causar una deshidratación mortal en pocas horas, especialmente en niños y personas mayores. Un tratamiento rápido con terapia de rehidratación y antibióticos puede reducir significativamente la tasa de mortalidad. La similitud molecular observada en este estudio entre los sitios activos (donde ocurre la transcripción del ADN al ARN) de la ARN polimerasa de V. cholerae y E. coli sugiere que los antibióticos existentes que actúan contra la polimerasa bacteriana podrían ser reutilizados u optimizados para tratar el cólera."
+  },
+  "sha256": {
+    "titular": "9b6e4f3b4ac500fa66a8343052575164d6cff0067d53a00720532543c6814973",
+    "entradilla": "f96ec724e8d4960ee65e1a8ae33d6be047780025ec30d2174ba6733a2fcc496a",
+    "cuerpo": "37b0debeb36fded710e269e689a3b230db014f006b1f3369e16c7e803fcd287c"
+  }
+}

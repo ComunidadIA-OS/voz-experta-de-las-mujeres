@@ -1,0 +1,371 @@
+{
+  "article_id": "263437d14adf",
+  "url": "https://www.agenciasinc.es/Noticias/Solo-la-mitad-de-los-humedales-espanoles-estan-conservados-en-alguna-medida",
+  "group": "calibration",
+  "source_type": "institution",
+  "annotator": "Eva_Mar",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-27T04:15:21+00:00",
+  "article_sha256": {
+    "titular": "88266476112c10c8a0096596b57228e0ec3249a864b3d6e78d593652e2ddef9c",
+    "entradilla": "9184897f24acb415e749d60136df780fc4a3a896390c5b19d836425340755b00",
+    "cuerpo": "6ecc8a2dbd223a6b8f168410d928362de8b1b1ec5a4b95a04e5e1be87d95f773"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Pedro Martínez",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "el profesor de la Facultad de Ciencias Biológicas de la Universidad Complutense de Madrid Pedro Martínez.",
+      "gender_representation": "man",
+      "gender_evidence": "el profesor",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Mario Giménez",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "el experto en este tipo de espacios naturales de SEO/Birdlife",
+      "gender_representation": "man",
+      "gender_evidence": "el experto",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "\"La Naturaleza necesita un espacio y el ser humano también, pero la forma de los humanos de tener el suyo es quitárselo a ella a través de muchas formas: agricultura, minería, transporte..., por medio de un montón de cosas que construimos a fin de desarrollar algún tipo de actividad\"",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "\"punto de no retorno\"",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "\"no se puede arreglar, es un humedal que se ha perdido\".",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "\"existe un patrón similar en todos: la agricultura instalada en sus cuencas consume demasiada agua y esto no está controlado\",",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "indirect",
+      "text": "quien ha advertido además del exceso de nutrientes que contamina y empeora la calidad de agua que llega hasta ellos",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "\"dependen del agua de lluvia y cuando no llueve entramos en ciclos de sequía\".",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "\"espacios que reaccionan muy rápido a acciones de conservación bien dirigidas\",",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "indirect",
+      "text": "o que supone una \"oportunidad valiosa\" para su recuperación si se destina recursos para ello, ha indicado Giménez.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "\"Un bosque que se quema puede tardar muchísimas décadas en recuperarse, pero un humedal tarda poco tiempo si vuelve el agua en calidad y cantidad suficiente\"",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "indirect",
+      "text": "por lo que este experto ha llamado a cumplir la normativa y aplicar buenas políticas de gestión ética",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "para \"frenar la degradación y conservar lo que ya tenemos\".",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "Martínez ha añadido que la legislación europea tiene un \"sesgo ambiental importante y tiende a proteger los ecosistemas\", lo que puede ayudar a afrontar \"las necesidades o caprichos que en muchas ocasiones nos lleva a eliminar los humedales\".",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "indirect",
+      "text": "Su conservación no es importante sólo por ellos sino por la biodiversidad que albergan, ha recordado Giménez, quien defiende específicamente el trabajo de SEO/Birdlife para preservar distintas especies de aves, en especial las más amenazadas como la cerceta pardilla.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793067653370",
+        "nombre": "Pedro Martínez",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1745,
+            "fin16": 1759,
+            "texto": "Pedro Martínez",
+            "inicio": 1745,
+            "fin": 1759
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1805,
+            "fin16": 1813,
+            "texto": "Martínez",
+            "inicio": 1805,
+            "fin": 1813
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1655,
+          "fin16": 1666,
+          "texto": "el profesor",
+          "inicio": 1655,
+          "fin": 1666
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1350,
+            "fin16": 1634,
+            "texto": "\"La Naturaleza necesita un espacio y el ser humano también, pero la forma de los humanos de tener el suyo es quitárselo a ella a través de muchas formas: agricultura, minería, transporte..., por medio de un montón de cosas que construimos a fin de desarrollar algún tipo de actividad\"",
+            "tipo": "directa",
+            "inicio": 1350,
+            "fin": 1634
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1844,
+            "fin16": 1865,
+            "texto": "\"punto de no retorno\"",
+            "tipo": "directa",
+            "inicio": 1844,
+            "fin": 1865
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1911,
+            "fin16": 1967,
+            "texto": "\"no se puede arreglar, es un humedal que se ha perdido\".",
+            "tipo": "directa",
+            "inicio": 1911,
+            "fin": 1967
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1655,
+          "fin16": 1760,
+          "texto": "el profesor de la Facultad de Ciencias Biológicas de la Universidad Complutense de Madrid Pedro Martínez.",
+          "inicio": 1655,
+          "fin": 1760
+        },
+        "participacion": "comenta"
+      },
+      {
+        "_id": "p1793070486030",
+        "nombre": "Mario Giménez",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2246,
+            "fin16": 2259,
+            "texto": "Mario Giménez",
+            "inicio": 2246,
+            "fin": 2259
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2695,
+            "fin16": 2702,
+            "texto": "Giménez",
+            "inicio": 2695,
+            "fin": 2702
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3046,
+            "fin16": 3054,
+            "texto": "Martínez",
+            "inicio": 3046,
+            "fin": 3054
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3390,
+            "fin16": 3398,
+            "texto": "Giménez,",
+            "inicio": 3390,
+            "fin": 3398
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2183,
+          "fin16": 2193,
+          "texto": "el experto",
+          "inicio": 2183,
+          "fin": 2193
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2045,
+            "fin16": 2171,
+            "texto": "\"existe un patrón similar en todos: la agricultura instalada en sus cuencas consume demasiada agua y esto no está controlado\",",
+            "tipo": "directa",
+            "inicio": 2045,
+            "fin": 2171
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2261,
+            "fin16": 2376,
+            "texto": "quien ha advertido además del exceso de nutrientes que contamina y empeora la calidad de agua que llega hasta ellos",
+            "tipo": "indirecta",
+            "inicio": 2261,
+            "fin": 2376
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2398,
+            "fin16": 2476,
+            "texto": "\"dependen del agua de lluvia y cuando no llueve entramos en ciclos de sequía\".",
+            "tipo": "directa",
+            "inicio": 2398,
+            "fin": 2476
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2508,
+            "fin16": 2587,
+            "texto": "\"espacios que reaccionan muy rápido a acciones de conservación bien dirigidas\",",
+            "tipo": "directa",
+            "inicio": 2508,
+            "fin": 2587
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2589,
+            "fin16": 2703,
+            "texto": "o que supone una \"oportunidad valiosa\" para su recuperación si se destina recursos para ello, ha indicado Giménez.",
+            "tipo": "indirecta",
+            "inicio": 2589,
+            "fin": 2703
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2704,
+            "fin16": 2861,
+            "texto": "\"Un bosque que se quema puede tardar muchísimas décadas en recuperarse, pero un humedal tarda poco tiempo si vuelve el agua en calidad y cantidad suficiente\"",
+            "tipo": "directa",
+            "inicio": 2704,
+            "fin": 2861
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2863,
+            "fin16": 2964,
+            "texto": "por lo que este experto ha llamado a cumplir la normativa y aplicar buenas políticas de gestión ética",
+            "tipo": "indirecta",
+            "inicio": 2863,
+            "fin": 2964
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2965,
+            "fin16": 3024,
+            "texto": "para \"frenar la degradación y conservar lo que ya tenemos\".",
+            "tipo": "directa",
+            "inicio": 2965,
+            "fin": 3024
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3046,
+            "fin16": 3288,
+            "texto": "Martínez ha añadido que la legislación europea tiene un \"sesgo ambiental importante y tiende a proteger los ecosistemas\", lo que puede ayudar a afrontar \"las necesidades o caprichos que en muchas ocasiones nos lleva a eliminar los humedales\".",
+            "tipo": "directa",
+            "inicio": 3046,
+            "fin": 3288
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3289,
+            "fin16": 3556,
+            "texto": "Su conservación no es importante sólo por ellos sino por la biodiversidad que albergan, ha recordado Giménez, quien defiende específicamente el trabajo de SEO/Birdlife para preservar distintas especies de aves, en especial las más amenazadas como la cerceta pardilla.",
+            "tipo": "indirecta",
+            "inicio": 3289,
+            "fin": 3556
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2183,
+          "fin16": 2244,
+          "texto": "el experto en este tipo de espacios naturales de SEO/Birdlife",
+          "inicio": 2183,
+          "fin": 2244
+        },
+        "participacion": "comenta"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 810
+  }
+}

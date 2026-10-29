@@ -1,0 +1,26 @@
+{
+  "id": "3a44ce1e11f2",
+  "url": "https://www.agenciasinc.es/Noticias/Los-astronautas-de-Artemis-II-inician-maniobra-para-ajustar-trayectoria-de-retorno-a-la-Tierra",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-04-08T11:29:00+02:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:48:21+00:00",
+  "campos": {
+    "titular": "Los astronautas de Artemis II inician maniobra para ajustar trayectoria de retorno a la Tierra",
+    "entradilla": "Con la Luna ya atrás y el amerizaje en el horizonte, la misión avanza hacia su fase final tras una semana de vuelos y pruebas clave en el espacio profundo. Las próximas horas estarán marcadas por ajustes técnicos y preparativos a bordo mientras la NASA afina los planes para el regreso seguro de la tripulación.",
+    "cuerpo": "La tripulación de la misión Artemis II ha iniciado con éxito este martes la maniobra de corrección de trayectoria de retorno (RTCB por sus siglas en inglés), acción clave para ajustar con precisión la trayectoria de retorno a la Tierra de la capsula Orión.\nLos astronautas de Orión encendieron con éxito los motores de la cápsula a las 8:03 horas del este de EE UU (14:03 horas en la España peninsular), la primera de las tres operaciones para corregir su trayectoria de regreso.\nSegún el control de misión, la primera corrección de trayectoria de la tripulación se ejecutó de manera exitosa.\nLa maniobra RTCB es un ajuste de propulsión sencillo que hace que la cápsula espacial pueda reentrar en la atmósfera terrestre con un ángulo que permita después realizar un amerizaje seguro.\nLa NASA dijo hoy también que prevé un clima favorable para que Orión americe el viernes en el océano Pacífico cerca de las costas de San Diego, en California.Está previsto que los recoja el barco de la marina estadounidense USS John Murtha.\nOrión abandonó este martes, séptimo de la misión Artemis II, la esfera de influencia de la Luna y sus cuatro astronautas iniciaron su regreso a Tierra tras orbitar el satélite el lunes.\nLa tripulación dedicará estos últimos días de la misión a preparar la nave, el equipo y sus trajes para su regreso a la Tierra.\nLa NASA considera que la observación de la cara más oculta de la Luna y el resto de hallazgos de esta misión ayudarán a los próximos proyectos de Estados Unidos, como instalar una base lunar y la futura exploración humana de Marte."
+  },
+  "sha256": {
+    "titular": "8284034a2486ba0cd91e7bec33429da69958f29c72127a79d1d98111819d1d47",
+    "entradilla": "aa530f96415babd4033579c20379009c11d931bca8542f1201f363cfc317bde6",
+    "cuerpo": "4b82e90cb4860dc22f6f1bed8da76543466efb6b67e361a4e6420ffc4c22470d"
+  }
+}

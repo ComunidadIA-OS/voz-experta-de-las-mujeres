@@ -1,0 +1,263 @@
+{
+  "article_id": "e21238aaf99d",
+  "url": "https://www.agenciasinc.es/Noticias/Adelantan-tres-millones-de-anos-el-origen-de-la-familia-de-las-comadrejas",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:30+00:00",
+  "article_sha256": {
+    "titular": "46d0a78aa4498ea08539036bdb5a99e91e8b696a988a25bbfb806d90831ac693",
+    "entradilla": "30420a12e56ed4a7e63371e7e5f6e4af2fe9a9f1854cc2d6d0a32dc0ec41c4d5",
+    "cuerpo": "f3059b2a2d5e2940483614da4b735d62f432c95c7f34e11c359ab5e9d17b0d74"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Alberto Valenciano",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "profesor ayudante doctor de Paleontología de la UCM.",
+      "gender_representation": "man",
+      "gender_evidence": "profesor ayudante doctor",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Daniel De Miguel",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "coautor y profesor del Departamento de Ciencias de la Tierra de la Universidad de Zaragoza",
+      "gender_representation": "man",
+      "gender_evidence": "coautor y profesor",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p3",
+      "name": "Jorge Morales",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "el investigador del MNCN",
+      "gender_representation": "man",
+      "gender_evidence": "el investigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“El hallazgo sugiere que la reducción de tamaño y las adaptaciones para capturar pequeños vertebrados aparecieron muy pronto en la historia evolutiva de este grupo, probablemente en relación con cambios ambientales y con la expansión de ciertos roedores durante el final del Mioceno”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "El siguiente paso, adelanta el investigador, será encontrar nuevos fósiles que permitan reconstruir con mayor detalle la evolución temprana de las comadrejas y sus parientes.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Paralelamente, el equipo continúa investigando el registro fósil de los mamíferos carnívoros del Mioceno y el Plioceno en la región mediterránea y en África, con el objetivo de reconstruir con mayor precisión la evolución temprana de distintas familias de carnívoros”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Esta investigación es un claro ejemplo de la gran riqueza fosilífera de mamíferos en Aragón, reconocida a nivel mundial: nuestro equipo lleva décadas contribuyendo a la excavación de yacimientos y al estudio de los fósiles de mamíferos”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "direct",
+      "text": "Este nuevo análisis permite establecer relaciones evolutivas más claras dentro de la familia, situándolo cerca de los linajes que dieron lugar a las nutrias (Lutrinae) y a los ictoniquinos (Ictonychinae), un grupo que incluye especies actuales como el turón jaspeado, la comadreja africana o el grisón”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793123617403",
+        "nombre": "Alberto Valenciano",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 968,
+            "fin16": 987,
+            "texto": "Alberto Valenciano,",
+            "inicio": 968,
+            "fin": 987
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 988,
+          "fin16": 1012,
+          "texto": "profesor ayudante doctor",
+          "inicio": 988,
+          "fin": 1012
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 675,
+            "fin16": 959,
+            "texto": "“El hallazgo sugiere que la reducción de tamaño y las adaptaciones para capturar pequeños vertebrados aparecieron muy pronto en la historia evolutiva de este grupo, probablemente en relación con cambios ambientales y con la expansión de ciertos roedores durante el final del Mioceno”,",
+            "tipo": "directa",
+            "inicio": 675,
+            "fin": 959
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2471,
+            "fin16": 2645,
+            "texto": "El siguiente paso, adelanta el investigador, será encontrar nuevos fósiles que permitan reconstruir con mayor detalle la evolución temprana de las comadrejas y sus parientes.",
+            "tipo": "indirecta",
+            "inicio": 2471,
+            "fin": 2645
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2646,
+            "fin16": 2914,
+            "texto": "“Paralelamente, el equipo continúa investigando el registro fósil de los mamíferos carnívoros del Mioceno y el Plioceno en la región mediterránea y en África, con el objetivo de reconstruir con mayor precisión la evolución temprana de distintas familias de carnívoros”",
+            "tipo": "directa",
+            "inicio": 2646,
+            "fin": 2914
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 988,
+          "fin16": 1040,
+          "texto": "profesor ayudante doctor de Paleontología de la UCM.",
+          "inicio": 988,
+          "fin": 1040
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793123650587",
+        "nombre": "Daniel De Miguel",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1866,
+            "fin16": 1883,
+            "texto": "Daniel De Miguel,",
+            "inicio": 1866,
+            "fin": 1883
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1884,
+          "fin16": 1902,
+          "texto": "coautor y profesor",
+          "inicio": 1884,
+          "fin": 1902
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1619,
+            "fin16": 1857,
+            "texto": "“Esta investigación es un claro ejemplo de la gran riqueza fosilífera de mamíferos en Aragón, reconocida a nivel mundial: nuestro equipo lleva décadas contribuyendo a la excavación de yacimientos y al estudio de los fósiles de mamíferos”,",
+            "tipo": "directa",
+            "inicio": 1619,
+            "fin": 1857
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1884,
+          "fin16": 1974,
+          "texto": "coautor y profesor del Departamento de Ciencias de la Tierra de la Universidad de Zaragoza",
+          "inicio": 1884,
+          "fin": 1974
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793123678753",
+        "nombre": "Jorge Morales",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2456,
+            "fin16": 2469,
+            "texto": "Jorge Morales",
+            "inicio": 2456,
+            "fin": 2469
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2430,
+          "fin16": 2445,
+          "texto": "el investigador",
+          "inicio": 2430,
+          "fin": 2445
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2118,
+            "fin16": 2421,
+            "texto": "Este nuevo análisis permite establecer relaciones evolutivas más claras dentro de la familia, situándolo cerca de los linajes que dieron lugar a las nutrias (Lutrinae) y a los ictoniquinos (Ictonychinae), un grupo que incluye especies actuales como el turón jaspeado, la comadreja africana o el grisón”,",
+            "tipo": "directa",
+            "inicio": 2118,
+            "fin": 2421
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2430,
+          "fin16": 2454,
+          "texto": "el investigador del MNCN",
+          "inicio": 2430,
+          "fin": 2454
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 154
+  }
+}

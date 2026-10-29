@@ -1,0 +1,26 @@
+{
+  "id": "303ab42a0c66",
+  "url": "https://www.agenciasinc.es/Noticias/La-depresion-mayor-afecta-a-una-de-cada-15-mujeres-tras-el-parto-segun-un-analisis-global",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-01T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: The Lancet | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Psiquiatría"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:46:10+00:00",
+  "campos": {
+    "titular": "La depresión mayor afecta a una de cada 15 mujeres tras el parto, según un análisis global",
+    "entradilla": "Una revisión sistemática publicada en The Lancet Psychiatry ofrece por primera vez cifras comparables a escala global sobre este trastorno durante el embarazo y el posparto. Los datos subrayan la importancia de mejorar la detección y la atención en salud mental materna.",
+    "cuerpo": "Alrededor de una de cada 15 mujeres (6,8 %) sufre trastorno depresivo mayor en el año posterior al parto, mientras que cerca de una de cada 16 (6,2 %) lo padece durante el embarazo, según una revisión sistemática y un metaanálisis publicados en la revista The Lancet Psychiatry.\nEl análisis revela además que la prevalencia alcanza su punto máximo en las dos primeras semanas tras el nacimiento (8,3 %), aunque se mantiene por encima de la de la población general tanto durante la gestación como en el primer año después del parto.\nEl trastorno depresivo mayor es una afección mental grave que, aunque relativamente frecuente en este periodo, ha sido difícil de cuantificar a escala global. Se diferencia de los cambios de ánimo leves y transitorios posteriores al parto —conocidos popularmente como “tristeza posparto”— por la presencia de síntomas intensos y persistentes, como tristeza profunda, pérdida de interés y dificultades para desenvolverse en la vida cotidiana.\nEstimaciones previas situaban la prevalencia de la depresión durante el embarazo y el posparto entre el 14 % y el 17 %, pero estos datos resultaban poco fiables debido a metodologías inconsistentes y a la falta de distinción entre el trastorno depresivo mayor y los cambios emocionales leves tras el nacimiento.\nEl nuevo estudio constituye la primera estimación global que analiza la frecuencia del trastorno en distintos momentos del embarazo y del primer año tras el parto, teniendo en cuenta las diferencias en la forma de medir la depresión.\nPara ello, los investigadores analizaron 780 estudios que abarcan a más de dos millones de mujeres y adolescentes de entre 10 y 59 años en 90 países. El análisis advierte de que las herramientas de cribado basadas en síntomas —de uso habitual— pueden sobreestimar la prevalencia del trastorno entre un 71 % y un 122 % frente a diagnósticos clínicos completos.\nEl trabajo también examina las diferencias regionales. En Europa occidental, la prevalencia se sitúa en el 5,0 % durante el embarazo y el 5,3 % en el año posterior, mientras que en América del Norte es del 4,3 % y el 4,6 %, respectivamente. En contraste, las tasas más altas se registran en el África subsahariana meridional (15,6% durante el embarazo y 16,6% después del parto), y las más bajas en regiones de Asia-Pacífico de altos ingresos (3,1 % y 3,3 %).\nLos autores señalan que estos hallazgos evidencian la necesidad de reforzar el cribado, la prevención y el tratamiento del trastorno depresivo mayor dentro de la atención rutinaria a la maternidad. Destacan que las primeras semanas tras el parto representan una ventana crítica para apoyar a las madres, al tiempo que subrayan que disponer de datos más precisos permitirá orientar mejor los recursos y evaluar los avances en el tiempo."
+  },
+  "sha256": {
+    "titular": "c42e03c18312541f17a06dbf45e8f95823dbe071078289724bfd5d70903f171b",
+    "entradilla": "68fcf0f880c82c056bb2fe9ab11c78da9f8bdbe45011050b794ef1d69bf6eaa4",
+    "cuerpo": "0f162102f98e75383b747451f6088a0b8c1b95c55c30efe1aac40a4d8b2a706e"
+  }
+}

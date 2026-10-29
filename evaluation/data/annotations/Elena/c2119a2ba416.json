@@ -1,0 +1,209 @@
+{
+  "article_id": "c2119a2ba416",
+  "url": "https://www.agenciasinc.es/Noticias/La-mision-tripulada-Artemis-II-a-la-Luna-se-aplaza-tras-parar-hoy-las-pruebas-por-una-fuga-de-combustible",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:24+00:00",
+  "article_sha256": {
+    "titular": "d1456af393ab8ee2d9c009143663d9d51b57a4c25f0c04a8d0a3bc8e112f6f1f",
+    "entradilla": "e1dd38cb840efd0aa982fb7b08e9595a2493751160df53c0a9a0f3d159fa5c8b",
+    "cuerpo": "330f7c62048c2361e708ff8338cb6ceb5cad808dc37a0c00ca5b0c46bb405d48"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Reid Wiseman",
+      "professional_role": "otro",
+      "technical_expert": "no",
+      "source_role": "other",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "astronautas",
+      "gender_representation": "unknown",
+      "gender_evidence": "",
+      "work_role": "mentioned",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Victor Glover",
+      "professional_role": "otro",
+      "technical_expert": "no",
+      "source_role": "other",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "astronautas",
+      "gender_representation": "unknown",
+      "gender_evidence": "",
+      "work_role": "mentioned",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p3",
+      "name": "Christina Koch",
+      "professional_role": "otro",
+      "technical_expert": "no",
+      "source_role": "other",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "astronautas",
+      "gender_representation": "unknown",
+      "gender_evidence": "",
+      "work_role": "mentioned",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p4",
+      "name": "Jeremy Hansen",
+      "professional_role": "otro",
+      "technical_expert": "no",
+      "source_role": "other",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "astronauta de la Agencia Espacial Canadiense (CSA)",
+      "gender_representation": "man",
+      "gender_evidence": "astronauta",
+      "work_role": "mentioned",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793122762973",
+        "nombre": "Reid Wiseman",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4254,
+            "fin16": 4266,
+            "texto": "Reid Wiseman",
+            "inicio": 4254,
+            "fin": 4266
+          }
+        ],
+        "genero": "desconocido",
+        "indicio_genero": null,
+        "citas": [],
+        "rol": "otro",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 4231,
+          "fin16": 4242,
+          "texto": "astronautas",
+          "inicio": 4231,
+          "fin": 4242
+        },
+        "participacion": "aparece"
+      },
+      {
+        "_id": "p1793122795223",
+        "nombre": "Victor Glover",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4268,
+            "fin16": 4281,
+            "texto": "Victor Glover",
+            "inicio": 4268,
+            "fin": 4281
+          }
+        ],
+        "genero": "desconocido",
+        "indicio_genero": null,
+        "citas": [],
+        "rol": "otro",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 4231,
+          "fin16": 4242,
+          "texto": "astronautas",
+          "inicio": 4231,
+          "fin": 4242
+        },
+        "participacion": "aparece"
+      },
+      {
+        "_id": "p1793122818439",
+        "nombre": "Christina Koch",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4284,
+            "fin16": 4298,
+            "texto": "Christina Koch",
+            "inicio": 4284,
+            "fin": 4298
+          }
+        ],
+        "genero": "desconocido",
+        "indicio_genero": null,
+        "citas": [],
+        "rol": "otro",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 4231,
+          "fin16": 4242,
+          "texto": "astronautas",
+          "inicio": 4231,
+          "fin": 4242
+        },
+        "participacion": "aparece"
+      },
+      {
+        "_id": "p1793122841089",
+        "nombre": "Jeremy Hansen",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4360,
+            "fin16": 4373,
+            "texto": "Jeremy Hansen",
+            "inicio": 4360,
+            "fin": 4373
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 4309,
+          "fin16": 4319,
+          "texto": "astronauta",
+          "inicio": 4309,
+          "fin": 4319
+        },
+        "citas": [],
+        "rol": "otro",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 4309,
+          "fin16": 4359,
+          "texto": "astronauta de la Agencia Espacial Canadiense (CSA)",
+          "inicio": 4309,
+          "fin": 4359
+        },
+        "participacion": "aparece"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 131
+  }
+}

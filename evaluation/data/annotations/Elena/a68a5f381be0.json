@@ -1,0 +1,77 @@
+{
+  "article_id": "a68a5f381be0",
+  "url": "https://www.agenciasinc.es/Noticias/Un-nuevo-control-compartido-entre-humano-y-maquina-mejora-la-destreza-de-las-manos-bionicas",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:21+00:00",
+  "article_sha256": {
+    "titular": "5afd1dae1dd20c7a53d3ac4f9e4d38b5906d40a7f146466381ac588ac7fe8e73",
+    "entradilla": "2fde5778b3232d73b181ea43e0f33de389ef3c2cd8ba912672b4fcbd542d2379",
+    "cuerpo": "a4c9ebbc557112cbcc1be18348c8ec670e438025208f622d7c4ac63d44aa0374"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Marshall Trout",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "dirigido por el investigador",
+      "gender_representation": "man",
+      "gender_evidence": "investigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793122392075",
+        "nombre": "Marshall Trout",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 342,
+            "fin16": 356,
+            "texto": "Marshall Trout",
+            "inicio": 342,
+            "fin": 356
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 329,
+          "fin16": 341,
+          "texto": "investigador",
+          "inicio": 329,
+          "fin": 341
+        },
+        "citas": [],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 313,
+          "fin16": 341,
+          "texto": "dirigido por el investigador",
+          "inicio": 313,
+          "fin": 341
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 40
+  }
+}

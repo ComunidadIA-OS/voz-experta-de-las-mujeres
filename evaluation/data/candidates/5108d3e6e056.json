@@ -1,0 +1,26 @@
+{
+  "id": "5108d3e6e056",
+  "url": "https://www.agenciasinc.es/Noticias/El-trabajo-remoto-no-siempre-evita-las-emisiones-de-carbono-a-veces-las-favorece",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-07-16T08:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Sociología"
+  ],
+  "secciones": [
+    "Sociedad"
+  ],
+  "fecha_consulta": "2026-10-27T01:39:10+00:00",
+  "campos": {
+    "titular": "El trabajo remoto no siempre evita las emisiones de carbono, a veces las favorece",
+    "entradilla": "Los efectos ambientales del teletrabajo varían en función de cómo se implemente y practique. Una investigación europea analiza que, si bien la reducción de las emisiones derivadas de los desplazamiento puede verse reducida, un consumo elevado en los domicilios puede contrarrestar estos beneficios.",
+    "cuerpo": "El teletrabajo, ya sea desde casa u espacios de coworking, reduce las emisiones de carbono de los desplazamientos. Sin embargo, un estudio publicado en PLOS Climate añade que este beneficio podría verse contrarrestado por el coste ambiental de hacerlo desde nuestros hogares.\nEste fenómeno laboral es muy popular en la actualidad, pero su contribución a la sostenibilidad sigue siendo objeto de debate ya que en estos espacios se siguen consumiendo servicios demandantes de energía y tecnologías de la información.\nAhora, un grupo de investigadores de la Universidad de Ciencias Aplicadas y Artes de Lucerna (Suiza) ha llevado a cabo una análisis para recopilar datos y estimar el coste de carbono de desplazamientos y de los trabajadores en remoto.\nLa encuesta, que estuvo disponible en línea para participantes suizos a finales de 2024, recibió 1 000 respuestas de personas que habían teletrabajado durante el mes anterior.\nLos cálculos del equipo revelaron que estos profesionales generaban menos emisiones, pero que los beneficios se veían compensados por el aumento del coste de carbono derivado de la vivienda y el uso de la tecnología para fines laborales, sobre todo si utilizaban un espacio de oficina independiente en su domicilio.\nEn concreto, las emisiones anuales de un teletrabajador ascienden a un total de 1 322 kg de Co2. Cuando van a la oficina consumen de media 532 kg en desplazamientos, mientras que cuando poseen un espacio independiente en casa gastan 466 kg. El uso tecnológico representó un consumo de 286 kg.\nLa investigación concluyó que el teletrabajo no tiene un efecto positivo general sobre las emisiones y que esta opción laboral no reduce de forma automática la producción de deshechos. Los expertos del estudio animan a que las personas que deseen reducir su huella de carbono tengan en cuenta otros aspectos y sean conscientes del consumo en sus hogares.\nAdemás, los expertos argumentan que el teletrabajo lleva a la multiplicación de los espacios de trabajo individuales en casa, y dado que el consumo de energía depende de ello, una ampliación del hogar puede generar una mayor cantidad de emisiones de Co2.\nCon respecto al uso de la tecnología, la gente que trabaja en remoto suele disponer de una ampliación de su infraestructura con monitores adicionales, ordenadores de escritorio o impresoras. Este fenómeno lleva a un aumento del consumo energético –a través de su fabricación– que generan emisiones adicionales.\nLos autores señalan que sus resultados ofrecen una visión general, pero que se basan en estimaciones simplificadas de las emisiones y carecían de un grupo de control formado por personas que no teletrabajaban. Asimismo, concluyen que los estudios futuros deberían ampliar los datos para identificar las opciones más respetuosas con el medio ambiente y con los trabajadores."
+  },
+  "sha256": {
+    "titular": "a8d05e678aa0629930ab058c8371d13054f0e1058831e4f82ad0001bdfb7d6bc",
+    "entradilla": "9565a54f4414f01692824c8ba9be2fdf53ccb65c217ded4956edd8e33b246c41",
+    "cuerpo": "6edfacb5445ea49fdd2e21d0faf5bb020c82619300d4471a2ca81046a19bf993"
+  }
+}

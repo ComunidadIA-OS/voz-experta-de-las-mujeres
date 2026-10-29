@@ -1,0 +1,26 @@
+{
+  "id": "deb6a25e1d18",
+  "url": "https://www.agenciasinc.es/Noticias/El-calor-extremo-aumenta-y-cada-vez-dura-mas-horas-en-todo-el-mundo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-08-10T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:36:36+00:00",
+  "campos": {
+    "titular": "El calor extremo aumenta y cada vez dura más horas en todo el mundo",
+    "entradilla": "Los días calurosos podrían sumar más de cuatro horas de temperaturas extremas a finales de siglo en un escenario de altas emisiones, según un estudio publicado en Nature Climate Change. El trabajo advierte además de que una parte de estos episodios quedaría fuera de las métricas habituales.",
+    "cuerpo": "El calentamiento del planeta no solo hará que aumenten las temperaturas, sino también el tiempo durante el que se mantienen en niveles extremos. Bajo un escenario de altas emisiones, los días calurosos podrían sumar más de cuatro horas de calor extremo a finales de siglo respecto a los niveles actuales, según un estudio publicado en Nature Climate Change.\nLos autores advierten de que una parte de estos episodios queda oculta cuando el calor se evalúa únicamente mediante indicadores diarios. Para identificar estas situaciones, el equipo ha analizado la evolución de las temperaturas a escala horaria y ha comparado los registros de 1981 a 2023 con proyecciones climáticas hasta finales del siglo XXI.\nEl estudio, liderado por Xiaoping Liu, de la Universidad Sun Yat-sen (China), parte de registros horarios globales que combinan observaciones meteorológicas con estimaciones de modelos para el periodo 1981–2023.\nEl análisis se completa con proyecciones climáticas hasta finales del siglo XXI. Durante el periodo estudiado, las áreas terrestres del planeta registraron una media de unas 269 horas de calor extremo cada verano.\nPara el análisis, los investigadores consideran extremo un episodio horario cuando la temperatura supera el percentil 90 de la registrada a esa misma hora durante el periodo de referencia 1981–2010.\nLos datos muestran que más del 80 % de las tierras del planeta experimentaron un aumento del calor entre 1981 y 2023, con una media de 62 horas adicionales de calor extremo por década. Además, el 28 % de estos episodios se produjo en días que las métricas diarias no habían clasificado como extremos de calor.\nPara José Miguel Viñas, meteorólogo de Meteored en tiempo.com y consultor de la OMM (España), el estudio aporta un enfoque novedoso al analizar la distribución de las temperaturas durante los episodios de calor extremo a escala horaria.\n“El conocimiento que proporciona este estudio también puede contribuir a mejorar las medidas de adaptación y el diseño de alertas tempranas a la población más eficaces que las actuales, que ofrezcan información sobre los momentos más críticos de las olas de calor”, en declaraciones a SMC España.\nLas proyecciones para un escenario de altas emisiones apuntan a que, entre 2070 y 2099, cada día caluroso podría sumar más de cuatro horas adicionales de calor respecto a los niveles registrados entre 2001 y 2023. Incluso los días que no se consideran calurosos podrían incorporar unas tres horas adicionales de calor, que probablemente no serían detectadas mediante las métricas diarias.\n“La utilización de datos horarios, como se hace en este trabajo para estudiar los episodios de calor extremo, es igualmente relevante en otras variables climatológicas tales como precipitación, viento, etc. El análisis de las consecuencias de las precipitaciones intensas, en forma de riadas repentinas o inundaciones, no es claramente el mismo si utilizamos datos horarios o si los agrupamos diariamente”, explica al SMC Ernesto Rodríguez Camino, meteorólogo superior del Estado y presidente de la Asociación Meteorológica Española.\nLos países de ingresos bajos y medios concentran más de tres cuartas partes de la exposición actual y proyectada al calor y son los que afrontan los mayores incrementos de exposición a lo largo de las generaciones.\nLos autores señalan que será necesario investigar los mecanismos responsables de los extremos térmicos a escala horaria, entre ellos las ráfagas de calor y los episodios repentinos de calor.\nComprender mejor estos fenómenos de corta duración podría ayudar a mejorar los sistemas de alerta temprana, las evaluaciones de posibles riesgos para la salud y las estrategias de adaptación a un clima cada vez más cálido."
+  },
+  "sha256": {
+    "titular": "042bc10fb716568edd2c16eea9bcc5bf3ff02ce70f001136b47555e3f42bb7fb",
+    "entradilla": "4caed4e84d9f0ec86ef96b0c28d56d19b2ccf01bc2a90f8d76a4ac2031328e23",
+    "cuerpo": "8e3dbacd62bc9d225039ff3e21e980c68e3087e6ed5f85006b1e9c1e4fe15d5b"
+  }
+}

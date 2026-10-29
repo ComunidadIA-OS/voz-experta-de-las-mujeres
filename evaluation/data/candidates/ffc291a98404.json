@@ -1,0 +1,26 @@
+{
+  "id": "ffc291a98404",
+  "url": "https://www.agenciasinc.es/Noticias/Premio-Fronteras-del-Conocimiento-para-MacDonald-y-Jarillo-Herrero-por-descubrir-el-angulo-magico-del-grafeno",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-15T12:58:00+01:00",
+  "fuente_y_derechos": "Fuente: FBBVA | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Física"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:55:22+00:00",
+  "campos": {
+    "titular": "Premio Fronteras del Conocimiento para MacDonald y Jarillo-Herrero por descubrir el ‘ángulo mágico’ del grafeno",
+    "entradilla": "La Fundación BBVA ha galardonado a los físicos Allan MacDonald y Pablo Jarillo-Herrero por abrir el campo de la twistrónica, que permite controlar propiedades como la superconductividad mediante la rotación de materiales bidimensionales.",
+    "cuerpo": "El Premio Fundación BBVA Fronteras del Conocimiento en Ciencias Básicas, en su XVIII edición, ha sido concedido al físico canadiense Allan MacDonald, profesor en la Universidad de Texas en Austin, y al físico español Pablo Jarillo-Herrero, catedrático en el Instituto Tecnológico de Massachusetts (MIT), por sus descubrimientos sobre el denominado ‘ángulo mágico’, que transforma el comportamiento de materiales como el grafeno. Este hallazgo ha dado lugar a la twistrónica, una nueva área de la física que explora cómo la rotación de capas bidimensionales permite obtener propiedades emergentes como superconductividad, magnetismo y aislamiento.\nLa fascinación científica de MacDonald por los materiales bidimensionales surgió durante su estancia en el Instituto Max Planck para la Investigación del Estado Sólido, junto al Nobel de Física Klaus von Klitzing. “Ellos tenían la visión de fabricar materiales artificiales y manipularlos a su gusto, pero con los métodos disponibles entonces no pudieron lograr el control suficiente, la estructura necesaria para observar los efectos más interesantes”, explica el físico canadiense. Esa visión guió su carrera hacia el estudio de láminas de grafeno superpuestas y otros materiales ultrafinos, buscando nuevas propiedades con potencial tecnológico.\nEn 2011, MacDonald predijo en un modelo teórico que al girar dos capas de grafeno a un ángulo muy preciso —en torno a 1,1 grados— los electrones ralentizan su movimiento hasta casi detenerse, generando fenómenos inéditos. Publicó esta predicción en Proceedings of the National Academy of Sciences, bautizando ese valor como el ‘ángulo mágico’.\nSiete años después, Jarillo-Herrero lideró la demostración experimental del efecto. “Era territorio inexplorado y por tanto tenía que dar lugar a algo interesante”, explica el investigador español, que desarrolló una técnica para controlar el ángulo entre capas de grafeno, un reto que parecía “ciencia ficción”. En 2018, su equipo publicó en Nature que el grafeno rotado a 1,1 grados se comporta como aislante o superconductor, y que es posible modificar sus propiedades con una precisión nunca vista. Aquellos artículos se convirtieron en los más citados del año en todas las áreas de conocimiento.\n“Su trabajo ha abierto nuevas fronteras de la física, con un gran impacto potencial”, destaca María José García Borge, profesora de Investigación en el Instituto de Estructura de la Materia (IEM-CSIC) y miembro del jurado.\nEntre las aplicaciones futuras figuran la transmisión eléctrica sin pérdidas, nuevos dispositivos electrónicos y avances en computación cuántica. Luis Viña, catedrático de Física de Materiales en la Universidad Autónoma de Madrid y presidente de la Real Sociedad Española de Física, subraya que “MacDonald, desde la teoría, y Jarillo-Herrero, desde el experimento, han creado una tecnología de vanguardia para diseñar materiales con propiedades inéditas”.\nEl reto ahora es fabricar estas estructuras a gran escala. Hoy, el proceso es artesanal y lleva semanas, lo que limita su aplicación. “Necesitamos una ‘imprenta’ que permita producir miles de dispositivos idénticos”, apunta Jarillo-Herrero. Si se logra, la twistrónica podría revolucionar la electrónica, la computación cuántica y la inteligencia artificial, reduciendo drásticamente el consumo energético."
+  },
+  "sha256": {
+    "titular": "ce594b44e312e7ecdac8ce42e21aaffd9c2588ac048620be95e058aff70b5dcf",
+    "entradilla": "2105e12f737e4f76f8a9ba1fa5125aaf6042f50957dda09a258878c1a84833d5",
+    "cuerpo": "dba0372eca54ac6c2da810d66e4aa9a327d71f2bf5f5f0ca662ed23beb93f2ef"
+  }
+}

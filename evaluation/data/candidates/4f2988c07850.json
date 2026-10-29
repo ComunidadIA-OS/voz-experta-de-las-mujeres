@@ -1,0 +1,26 @@
+{
+  "id": "4f2988c07850",
+  "url": "https://www.agenciasinc.es/Noticias/Moderna-y-Merck-anuncian-resultados-prometedores-de-una-vacuna-para-el-melanoma",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-08-20T09:48:00+02:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Patología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:35:43+00:00",
+  "campos": {
+    "titular": "Moderna y Merck anuncian resultados prometedores de una vacuna para el melanoma",
+    "entradilla": "Las farmacéuticas comunican en una nota de prensa el éxito de una vacuna personalizada para el melanoma, cuyo objetivo es reducir el riesgo de que este reaparezca. Según las compañías, presentarán los datos completos en una reunión médica internacional, que no especifican.",
+    "cuerpo": "La biotecnológica Moderna y la farmacéutica MSD divulgaron este miércoles unos resultados prometedores de una vacuna para el melanoma, combinada con un medicamento en un ensayo clínico en fase avanzada, y que describieron como un “momento histórico” en la investigación contra el cáncer.\nEl ensayo incluyó a 1 137 pacientes ya sometidos a cirugía para extirpar un melanoma, y su objetivo es reducir el riesgo de que este reaparezca mediante un régimen combinado de ‘intismeran autogene’, una terapia experimental personalizada y basada en tecnologías de ARN mensajero (ARNm), y el medicamento Keytruda, según se indica en un comunicado.\nSe trata del primer régimen combinado que demuestra “mejoras estadísticamente significativas y clínicamente relevantes en la supervivencia libre de recurrencia (SLR) y la supervivencia libre de metástasis a distancia (SLMD), frente a Keytruda en monoterapia, para estos pacientes en el contexto de tratamiento adyuvante del melanoma”, señala el texto.\n“Los resultados de hoy representan un momento histórico para el tratamiento adyuvante del melanoma”, dijo en la nota Georgina Long, investigadora principal del estudio y directora médica del Melanoma Institute Australia.\nModerna y MSD (conocida como Merck en EE UU) destacaron que, en un análisis interino previamente especificado, intismeran en combinación con Keytruda cumplió sus objetivos en pacientes con melanoma cutáneo en estadios IIB, IIC, III o IV completamente resecado que no habían recibido tratamiento sistémico previo; no obstante, anunciaron que los estudios continúan.\n“Conforme al protocolo del ensayo, el estudio continuará para evaluar otros objetivos secundarios clave, incluida la supervivencia global”, detallaron.\n“Estos hallazgos de fase 3 representan un momento decisivo para el campo de la investigación del cáncer. Durante muchos años, la idea de crear un tratamiento de ARNm diseñado específicamente para el cáncer de cada paciente era una aspiración. Ahora estamos ayudando a convertir esa visión en realidad”, dijo en la nota Stéphane Bancel, director ejecutivo de Moderna.\nLas compañías anunciaron que presentarán los datos en una reunión médica internacional, que no especificaron, y dialogarán con las autoridades regulatorias sobre la presentación de solicitudes para el tratamiento experimental.\nIntismeran autogene es una terapia individualizada de neoantígenos basada en ARNm, diseñada específicamente para cada paciente a partir del conjunto singular de mutaciones de su tumor, con el fin de entrenar y activar al sistema inmunitario para reconocer y combatir el cáncer, especifican las empresas.\nPor su parte, Keytruda es la marca comercial del ingrediente activo pembrolizumab, un anticuerpo monoclonal que bloquea el receptor PD-1 y ayuda al sistema inmunitario a reconocer y atacar células cancerosas.\nModerna y MSD colaboran en un programa llamado INTerpath, que evalúa la seguridad y eficacia de intismeran combinado con Keytruda y otras terapias anticancerosas, así como en monoterapia, y que abarca nueve ensayos clínicos de fases 2 y 3 en distintos tipos de tumores y estadios de la enfermedad, incluidos el melanoma, el cáncer de pulmón de células no pequeñas, el cáncer de vejiga y el carcinoma de células renales.\nTras la divulgación de los datos prometedores sobre el ensayo, las acciones de Moderna se disparaban en Wall Street un 126 % a media sesión, y las de MSD un 11 %."
+  },
+  "sha256": {
+    "titular": "7df516a0b49e6bca1b620e71ea418b5e830a1c12ae5191da2ea567f508fd8717",
+    "entradilla": "7c4ea3325eae92dce6129c954d92f6372a9f829eb368bfcd33be9a60cb7c7ebc",
+    "cuerpo": "930e4a1cae0c783cea83b249bf91b02d5b8bc336cbd6a390f2b36e8fb20dc28a"
+  }
+}

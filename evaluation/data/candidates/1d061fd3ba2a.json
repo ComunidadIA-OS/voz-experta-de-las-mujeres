@@ -1,0 +1,26 @@
+{
+  "id": "1d061fd3ba2a",
+  "url": "https://www.agenciasinc.es/Noticias/La-obesidad-deja-huellas-epigeneticas-en-el-ADN-de-los-ninos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-02T10:20:00+02:00",
+  "fuente_y_derechos": "Fuente: CIBER. | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:43:35+00:00",
+  "campos": {
+    "titular": "La obesidad deja huellas epigenéticas en el ADN de los niños",
+    "entradilla": "Determinados cambios químicos en el ADN que regulan la actividad de los genes son claves para distinguir qué niños mejoran, empeoran o mantienen estable su resistencia a la insulina durante la pubertad. Esto es lo que revela un nuevo estudio liderado por el Centro de Investigación Biomédica en Red.",
+    "cuerpo": "Un estudio revela que la obesidad deja huellas en el ADN infantil más allá de la propia genética. Los resultados del trabajo, liderado por el Centro de Investigación Biomédica en Red (CIBER), muestran que determinados cambios químicos en el ADN, conocidos como metilación y relacionados con la regulación de la actividad de los genes, permiten distinguir entre quienes mejoran, empeoran o mantienen estable su resistencia a la insulina durante la pubertad.\nEl equipo investigador ha identificado 120 regiones epigenéticas asociadas a distintas trayectorias de resistencia a la insulina en niños y niñas con obesidad. Además, muchas de estas señales no parecen depender únicamente de variantes genéticas heredadas, sino que podrían estar influenciadas por factores ambientales, el estilo de vida o el propio estado metabólico asociado a la obesidad mantenida en el tiempo. Los detalles de la investigación se publican en la revista Cardiovascular Diabetology.\n“La resistencia a la insulina en edades tempranas incrementa el riesgo futuro de desarrollar diabetes tipo 2 y enfermedad cardiovascular. Comprender cómo evolucionan estas señales epigenéticas durante la pubertad puede ayudar a identificar de forma precoz a los menores con mayor riesgo metabólico”, explican los coordinadores del estudio Concepción M. Aguilera García, del área de Fisiopatología de la Obesidad y Nutrición del CIBER (CIBEROBN), Jesús Alcalá-Fdez, del Instituto Andaluz Interuniversitario en Data Science and Computational Intelligence (DaSCI) y Augusto Anguita, del Instituto de Salud Global de Barcelona (ISGlobal).\nEl equipo investigador combinó análisis genéticos y epigenéticos de alta resolución para seguir cómo estas señales evolucionaban desde la prepubertad hasta la adolescencia.\nLos hallazgos refuerzan la relación entre el entorno, la obesidad y la salud metabólica desde edades tempranas y suponen un avance hacia estrategias de medicina de precisión orientadas a detectar precozmente el riesgo cardiometabólico e intervenir antes de que aparezcan alteraciones metabólicas más graves.\nEn este sentido, los resultados podrían contribuir en el futuro al desarrollo de biomarcadores tempranos y al diseño de intervenciones preventivas más personalizadas frente a enfermedades como la diabetes tipo 2 o las patologías cardiovasculares.\nEl trabajo está enmarcado dentro del proyecto europeo EprObes sobre prevención de la obesidad infantil, financiado por el Instituto de Salud Carlos III (ISCIII) a través del proyecto EXOMAIR. El estudio ha sido coliderado por la Universidad de Granada (UGR), en colaboración con el Instituto de Salud Global de Barcelona (ISGlobal), centro impulsado por Fundación ”la Caixa”."
+  },
+  "sha256": {
+    "titular": "fc33a13b04109d53d35744c1ea0e02feedcb7ddc5f52b7eae5f2ca10a8cd1d1d",
+    "entradilla": "da5243e480151a2d75ed074f0c2e34ec3ad6cb062b22014ad1ec3fa7cd8ae0dc",
+    "cuerpo": "7c413155849dde767617625515cc2a998cd5ce3b035e76ae8f10aedb5ebbf6f8"
+  }
+}

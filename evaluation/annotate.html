@@ -1,0 +1,405 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Anotar noticias</title>
+<style>
+  :root {
+    --fondo: #f6f5f2; --papel: #fff; --tinta: #1f1d1a; --suave: #6b665f; --linea: #e2ded6;
+    --acento: #6b3fa0; --ok: #2f7d4f; --aviso: #b4541a; --error: #b3261e;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 15px/1.5 system-ui, -apple-system, sans-serif; color: var(--tinta); background: var(--fondo); }
+  button { font: inherit; cursor: pointer; border: 1px solid var(--linea); background: var(--papel); border-radius: 6px; padding: 4px 10px; }
+  button:hover:not(:disabled) { border-color: var(--acento); }
+  button:disabled { opacity: .45; cursor: default; }
+  button.principal { background: var(--acento); color: #fff; border-color: var(--acento); }
+  input[type=text], textarea { font: inherit; border: 1px solid var(--linea); border-radius: 6px; padding: 4px 8px; width: 100%; }
+  kbd { font: 12px ui-monospace, monospace; border: 1px solid var(--linea); border-bottom-width: 2px; border-radius: 4px; padding: 0 4px; background: #faf9f7; }
+
+  #app { display: grid; grid-template-columns: 260px 1fr 380px; height: 100vh; }
+  aside, main, section { overflow-y: auto; }
+  aside { border-right: 1px solid var(--linea); padding: 12px; background: #efede8; }
+  main { padding: 16px 28px 80px; }
+  section#panel { border-left: 1px solid var(--linea); padding: 12px; background: #faf9f7; }
+
+  .lista-noticia { display: block; width: 100%; text-align: left; margin-bottom: 6px; padding: 6px 8px; font-size: 13px; line-height: 1.3; }
+  .lista-noticia.actual { border-color: var(--acento); box-shadow: inset 3px 0 0 var(--acento); }
+  .estado { font-size: 11px; display: block; margin-top: 2px; color: var(--suave); }
+  .estado.terminada { color: var(--ok); } .estado.en_curso { color: var(--aviso); }
+  #progreso { font-size: 13px; color: var(--suave); margin: 4px 0 12px; }
+
+  #barra { position: sticky; top: -16px; z-index: 2; background: var(--fondo); padding: 10px 0; border-bottom: 1px solid var(--linea); margin-bottom: 12px; }
+  #barra .botones { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+  #seleccion { font-size: 13px; color: var(--suave); min-height: 1.5em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #seleccion b { color: var(--tinta); }
+
+  .meta { font-size: 13px; color: var(--suave); margin-bottom: 10px; }
+  .etiqueta-campo { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--suave); margin: 18px 0 4px; }
+  .campo { white-space: pre-wrap; background: var(--papel); border: 1px solid var(--linea); border-radius: 8px; padding: 12px 14px; }
+  .campo[data-campo=titular] { font-size: 22px; font-weight: 650; line-height: 1.25; }
+  .campo[data-campo=entradilla] { font-size: 16px; font-style: italic; }
+  .campo[data-campo=cuerpo] { line-height: 1.7; }
+  mark { border-radius: 3px; padding: 0 1px; color: inherit; }
+  mark.cita { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; }
+  mark.activa { outline: 2px solid var(--acento); }
+
+  .persona { background: var(--papel); border: 1px solid var(--linea); border-left-width: 6px; border-radius: 8px; padding: 10px; margin-bottom: 10px; }
+  .persona.activa { box-shadow: 0 0 0 2px var(--acento); }
+  .persona h3 { margin: 0 0 6px; font-size: 14px; display: flex; gap: 6px; align-items: center; }
+  .persona h3 input { font-weight: 600; }
+  .fila { margin: 8px 0 2px; font-size: 12px; color: var(--suave); text-transform: uppercase; letter-spacing: .04em; }
+  .opciones { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 14px; }
+  .opciones label { cursor: pointer; }
+  .rol-opcion { display: block; font-size: 13.5px; margin: 2px 0; cursor: pointer; }
+  .rol-opcion small { color: var(--suave); }
+  .frag { font-size: 13px; background: #f3f1ec; border-radius: 4px; padding: 2px 6px; margin: 3px 0; display: flex; gap: 6px; align-items: flex-start; }
+  .frag span { flex: 1; }
+  .frag button { padding: 0 6px; font-size: 12px; }
+  .alerta { color: var(--aviso); font-size: 13px; margin-top: 4px; }
+  .vacio { color: var(--suave); font-size: 13px; }
+
+  #pie { position: fixed; bottom: 0; left: 260px; right: 380px; background: var(--papel); border-top: 1px solid var(--linea); padding: 10px 28px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+  #guardado { font-size: 13px; color: var(--suave); margin-left: auto; }
+  details { background: var(--papel); border: 1px solid var(--linea); border-radius: 8px; padding: 8px 10px; margin-bottom: 12px; font-size: 13.5px; }
+  details summary { cursor: pointer; font-weight: 600; }
+  details li { margin: 3px 0; }
+
+  #bienvenida { position: fixed; inset: 0; background: rgba(31,29,26,.45); display: grid; place-items: center; z-index: 10; }
+  #bienvenida div { background: var(--papel); padding: 24px; border-radius: 12px; width: min(420px, 90vw); }
+  #bienvenida h2 { margin-top: 0; }
+  #confirmar { display: inline-flex; gap: 4px; align-items: center; font-size: 13px; }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<div id="bienvenida">
+  <div>
+    <h2>¿Quién anota?</h2>
+    <p>Escribe tu nombre. Cada persona guarda sus anotaciones por separado, para poder compararlas después.</p>
+    <input type="text" id="nombre-anotadora" placeholder="Por ejemplo: Eva">
+    <p><button class="principal" id="entrar">Empezar</button></p>
+  </div>
+</div>
+
+<div id="app">
+  <aside>
+    <strong>Noticias</strong>
+    <div id="progreso"></div>
+    <div id="lista"></div>
+    <p style="font-size:13px"><a href="#" id="exportar">Descargar mis anotaciones (CSV)</a></p>
+    <p style="font-size:13px;color:var(--suave)">Anota: <b id="quien"></b> · <a href="#" id="cambiar">cambiar</a></p>
+  </aside>
+
+  <main>
+    <div id="barra">
+      <div id="seleccion">Selecciona texto de la noticia con el ratón.</div>
+      <div class="botones">
+        <button data-accion="persona" disabled>Nueva persona <kbd>N</kbd></button>
+        <button data-accion="mencion" disabled>Otra mención <kbd>M</kbd></button>
+        <button data-accion="directa" disabled>Cita directa <kbd>D</kbd></button>
+        <button data-accion="indirecta" disabled>Cita indirecta <kbd>I</kbd></button>
+        <button data-accion="genero" disabled>Prueba de género <kbd>G</kbd></button>
+        <button data-accion="rol" disabled>Prueba de rol <kbd>R</kbd></button>
+      </div>
+    </div>
+    <div id="noticia"><p class="vacio">Elige una noticia de la lista.</p></div>
+  </main>
+
+  <section id="panel">
+    <details>
+      <summary>Guía rápida</summary>
+      <ol>
+        <li><b>Una ficha por persona</b> que aparece en la noticia. Selecciona su nombre la primera vez que sale y pulsa <kbd>N</kbd>. Si sale en el <b>titular o la entradilla</b>, selecciona también esa mención y pulsa <kbd>M</kbd>, aunque solo se la describa sin nombre («una química catalana»).</li>
+        <li><b>No cuentes</b> a quien firma la noticia, ni organizaciones, ni grupos («el equipo»).</li>
+        <li><b>Género:</b> solo si el texto lo dice. Selecciona la palabra que lo demuestra («<i>la</i> directora», «ella») y pulsa <kbd>G</kbd>. <b>El nombre propio no vale.</b> Si no hay prueba: no indicado.</li>
+        <li><b>Citas:</b> marca <b>todas</b> las de cada persona, porque contamos cuántas recibe. Directa si va entre comillas (<kbd>D</kbd>); indirecta si se cuenta lo que dijo o encontró («según…», «explica que…») (<kbd>I</kbd>).</li>
+        <li><b>Mismas pruebas, misma etiqueta:</b> si a dos personas se las presenta igual («directora de…», «director de…»), deben tener el mismo rol.</li>
+        <li><b>Rol:</b> cómo la presenta la noticia, no lo que sabes de ella. Selecciona la frase que lo justifica y pulsa <kbd>R</kbd>.</li>
+        <li><b>¿Qué hace?</b> Protagoniza si dirige o hizo el trabajo del que trata la noticia, también si es coautora; comenta si opina sobre el trabajo de otras personas; aparece si solo se la nombra.</li>
+        <li>La persona activa (marco morado) es la que recibe lo que añades. Haz clic en una ficha para activarla.</li>
+        <li>Se guarda solo. Al acabar, pulsa <b>Noticia terminada</b>.</li>
+      </ol>
+    </details>
+    <div id="personas"></div>
+  </section>
+</div>
+
+<div id="pie">
+  <button class="principal" id="terminar" disabled>Noticia terminada</button>
+  <label style="font-size:14px"><input type="checkbox" id="sin-personas"> No sale ninguna persona</label>
+  <button id="siguiente">Siguiente pendiente →</button>
+  <span id="guardado"></span>
+</div>
+
+<script>
+const ROLES = [
+  ["especialista", "Especialista", "se le atribuye conocimiento sobre el tema: investiga, es autora del estudio, docente, especialista. No hace falta cargo directivo."],
+  ["portavoz_institucional", "Portavoz", "habla en nombre de una empresa u organismo, sin destacar su especialidad."],
+  ["cargo_politico", "Cargo político", "representante político o de gobierno."],
+  ["testimonio", "Testimonio", "cuenta su experiencia o es persona afectada."],
+  ["solo_mencion", "Solo mencionada", "aparece pero no habla ni se describe su papel."],
+  ["otro", "Otro", "otra función."],
+];
+const GENEROS = [["mujer", "Mujer"], ["hombre", "Hombre"], ["otro", "Otro"], ["desconocido", "No indicado"]];
+const PARTICIPACION = [
+  ["protagoniza", "Protagoniza", "dirige o hace el trabajo del que trata la noticia («ha desarrollado», «lidera el estudio»)."],
+  ["comenta", "Comenta", "opina o valora sin ser autora del trabajo."],
+  ["aparece", "Aparece", "solo se la menciona."],
+];
+const COLORES = ["#ffd8a8", "#b2f2bb", "#a5d8ff", "#fcc2d7", "#d0bfff", "#ffec99", "#99e9f2", "#e9ecef"];
+const CAMPOS = ["titular", "entradilla", "cuerpo"];
+
+let anotadora = null, lista = [], noticia = null, anot = null, activa = null, seleccion = null;
+let pendienteGuardar = null, segundosSesion = 0;
+const $ = s => document.querySelector(s);
+const esc = t => String(t ?? "").replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
+
+// ---------- Inicio ----------
+function guardarNombre(n) { try { localStorage.setItem("anotadora", n); } catch (e) {} }
+function leerNombre() { try { return localStorage.getItem("anotadora"); } catch (e) { return null; } }
+$("#entrar").onclick = () => {
+  const n = $("#nombre-anotadora").value.trim();
+  if (!n) return $("#nombre-anotadora").focus();
+  anotadora = n; guardarNombre(n); $("#bienvenida").hidden = true; $("#quien").textContent = n; cargarLista();
+};
+$("#nombre-anotadora").addEventListener("keydown", e => { if (e.key === "Enter") $("#entrar").click(); });
+$("#cambiar").onclick = e => { e.preventDefault(); $("#bienvenida").hidden = false; $("#nombre-anotadora").focus(); };
+$("#exportar").onclick = e => { e.preventDefault(); location.href = "/api/exportar.csv?anotadora=" + encodeURIComponent(anotadora); };
+const previo = leerNombre();
+if (previo) { $("#nombre-anotadora").value = previo; }
+$("#nombre-anotadora").focus();
+
+// ---------- Lista ----------
+async function cargarLista() {
+  lista = await (await fetch("/api/noticias?anotadora=" + encodeURIComponent(anotadora))).json();
+  pintarLista();
+  if (!noticia) { const p = lista.find(n => n.estado !== "terminada") || lista[0]; if (p) abrir(p.id); }
+}
+function pintarLista() {
+  const hechas = lista.filter(n => n.estado === "terminada").length;
+  $("#progreso").textContent = `${hechas} de ${lista.length} terminadas`;
+  $("#lista").innerHTML = lista.map(n => `
+    <button class="lista-noticia ${noticia && noticia.id === n.id ? "actual" : ""}" data-id="${n.id}">
+      ${esc(n.titular.slice(0, 90))}
+      <span class="estado ${n.estado.replace(" ", "_")}">${n.estado} · ${{calibration: "calibración", test: "prueba", calibracion: "calibración", prueba: "prueba", practica: "práctica"}[n.grupo] || n.grupo}</span>
+    </button>`).join("");
+  document.querySelectorAll(".lista-noticia").forEach(b => b.onclick = () => abrir(b.dataset.id));
+}
+
+// ---------- Abrir noticia ----------
+async function abrir(id) {
+  await guardarYa();
+  const datos = await (await fetch(`/api/noticia/${id}?anotadora=` + encodeURIComponent(anotadora))).json();
+  noticia = datos.noticia;
+  anot = datos.anotacion || { personas: [], sin_personas: false, terminada: false, notas: "", segundos: 0 };
+  anot.personas.forEach((p, i) => { p._id ??= "p" + i + Date.now(); });
+  activa = anot.personas[0]?._id ?? null;
+  seleccion = null; segundosSesion = 0;
+  $("#sin-personas").checked = !!anot.sin_personas;
+  pintarTodo(); pintarLista();
+  $("main").scrollTop = 0;
+}
+
+// ---------- Pintar texto con resaltados ----------
+function fragmentosDe(campo) {
+  const res = [];
+  anot.personas.forEach((p, i) => {
+    const color = COLORES[i % COLORES.length];
+    const add = (f, tipo) => { if (f && f.campo === campo) res.push({ ...f, color, tipo, persona: p._id }); };
+    p.menciones.forEach(f => add(f, "mencion"));
+    p.citas.forEach(f => add(f, "cita"));
+    add(p.indicio_genero, "genero"); add(p.evidencia_rol, "rol");
+  });
+  return res;
+}
+function pintarCampo(campo, texto) {
+  const frags = fragmentosDe(campo);
+  const cortes = new Set([0, texto.length]);
+  frags.forEach(f => { cortes.add(f.inicio16); cortes.add(f.fin16); });
+  const orden = [...cortes].sort((a, b) => a - b);
+  let html = "";
+  for (let k = 0; k < orden.length - 1; k++) {
+    const a = orden[k], b = orden[k + 1], trozo = esc(texto.slice(a, b));
+    const encima = frags.filter(f => f.inicio16 <= a && f.fin16 >= b);
+    if (!encima.length) { html += trozo; continue; }
+    const f = encima.find(x => x.persona === activa) || encima[encima.length - 1];
+    const cita = encima.some(x => x.tipo === "cita") ? "cita" : "";
+    html += `<mark class="${cita} ${f.persona === activa ? "activa" : ""}" style="background:${f.color}" data-persona="${f.persona}">${trozo}</mark>`;
+  }
+  return html;
+}
+function pintarNoticia() {
+  if (!noticia) return;
+  const n = noticia, c = n.campos;
+  $("#noticia").innerHTML = `
+    <div class="meta">${esc(n.fecha_publicacion?.slice(0, 10))} · ${esc(n.fuente_y_derechos)} · Firma: ${esc(n.autoria || "—")} ·
+      <a href="${esc(n.url)}" target="_blank" rel="noopener">ver en SINC</a></div>
+    ${CAMPOS.map(k => `<div class="etiqueta-campo">${k}</div>
+      <div class="campo" data-campo="${k}">${c[k] ? pintarCampo(k, c[k]) : '<span class="vacio">(sin ' + k + ')</span>'}</div>`).join("")}`;
+  document.querySelectorAll("mark[data-persona]").forEach(m => m.addEventListener("click", () => {
+    if (!window.getSelection().toString()) { activa = m.dataset.persona; pintarTodo(); }
+  }));
+}
+
+// ---------- Panel de personas ----------
+function alertasDe(p) {
+  const a = [];
+  if (!p.rol) a.push("Falta elegir el rol.");
+  if (!p.participacion) a.push("Falta elegir qué hace en la noticia.");
+  if (p.genero !== "desconocido" && !p.indicio_genero) a.push("Falta la prueba de género: selecciónala y pulsa G, o marca «No indicado».");
+  if (p.genero === "desconocido" && p.indicio_genero) a.push("Hay prueba de género pero el género está como no indicado.");
+  if (p.rol && p.rol !== "solo_mencion" && !p.evidencia_rol) a.push("Falta la frase que justifica el rol (R).");
+  return a;
+}
+function textoFrag(f, extra = "") {
+  return `<span>${extra}«${esc(f.texto.length > 140 ? f.texto.slice(0, 140) + "…" : f.texto)}» <small style="color:var(--suave)">${f.campo}</small></span>`;
+}
+function pintarPersonas() {
+  const cont = $("#personas");
+  if (!noticia) { cont.innerHTML = ""; return; }
+  if (!anot.personas.length) {
+    cont.innerHTML = `<p class="vacio">Todavía no hay personas. Selecciona el nombre de alguien en la noticia y pulsa <kbd>N</kbd>.</p>`;
+    return;
+  }
+  cont.innerHTML = anot.personas.map((p, i) => `
+    <div class="persona ${p._id === activa ? "activa" : ""}" data-id="${p._id}" style="border-left-color:${COLORES[i % COLORES.length]}">
+      <h3><input type="text" value="${esc(p.nombre)}" data-campo="nombre" aria-label="Nombre">
+        <span id="confirmar-${p._id}"><button data-borrar="${p._id}" title="Eliminar persona">✕</button></span></h3>
+      <div class="fila">Género según el texto</div>
+      <div class="opciones">${GENEROS.map(([v, t]) =>
+        `<label><input type="radio" name="g-${p._id}" value="${v}" ${p.genero === v ? "checked" : ""} data-campo="genero"> ${t}</label>`).join("")}</div>
+      ${p.indicio_genero ? `<div class="frag">${textoFrag(p.indicio_genero, "Prueba: ")}<button data-quitar="indicio_genero">✕</button></div>` : ""}
+      <div class="fila">Rol</div>
+      ${ROLES.map(([v, t, d]) => `<label class="rol-opcion"><input type="radio" name="r-${p._id}" value="${v}" ${p.rol === v ? "checked" : ""} data-campo="rol">
+        <b>${t}</b> <small>${d}</small></label>`).join("")}
+      ${p.evidencia_rol ? `<div class="frag">${textoFrag(p.evidencia_rol, "Prueba: ")}<button data-quitar="evidencia_rol">✕</button></div>` : ""}
+      <div class="fila">¿Qué hace en la noticia?</div>
+      ${PARTICIPACION.map(([v, t, d]) => `<label class="rol-opcion"><input type="radio" name="a-${p._id}" value="${v}" ${p.participacion === v ? "checked" : ""} data-campo="participacion">
+        <b>${t}</b> <small>${d}</small></label>`).join("")}
+      <div class="fila">Citas (${p.citas.length})</div>
+      ${p.citas.map((f, j) => `<div class="frag">${textoFrag(f, f.tipo === "directa" ? "Directa: " : "Indirecta: ")}<button data-quitar-cita="${j}">✕</button></div>`).join("") || '<div class="vacio">Ninguna</div>'}
+      <div class="fila">Menciones (${p.menciones.length})</div>
+      ${p.menciones.map((f, j) => `<div class="frag">${textoFrag(f)}<button data-quitar-mencion="${j}">✕</button></div>`).join("")}
+      ${alertasDe(p).map(a => `<div class="alerta">⚠ ${a}</div>`).join("")}
+    </div>`).join("");
+
+  cont.querySelectorAll(".persona").forEach(div => {
+    const p = anot.personas.find(x => x._id === div.dataset.id);
+    div.addEventListener("click", e => {
+      if (activa !== p._id && !e.target.closest("button,input")) { activa = p._id; pintarTodo(); }
+    });
+    div.querySelectorAll("input[data-campo]").forEach(inp => inp.addEventListener("change", () => {
+      p[inp.dataset.campo] = inp.value; activa = p._id; cambio();
+    }));
+    div.querySelector('input[data-campo=nombre]').addEventListener("input", e => { p.nombre = e.target.value; cambio(false); });
+    div.querySelectorAll("[data-quitar]").forEach(b => b.onclick = () => { p[b.dataset.quitar] = null; cambio(); });
+    div.querySelectorAll("[data-quitar-cita]").forEach(b => b.onclick = () => { p.citas.splice(+b.dataset.quitarCita, 1); cambio(); });
+    div.querySelectorAll("[data-quitar-mencion]").forEach(b => b.onclick = () => { p.menciones.splice(+b.dataset.quitarMencion, 1); cambio(); });
+    div.querySelector("[data-borrar]").onclick = () => {
+      $(`#confirmar-${p._id}`).innerHTML = `<span id="confirmar">¿Borrar? <button data-si>Sí</button><button data-no>No</button></span>`;
+      $(`#confirmar-${p._id} [data-si]`).onclick = () => {
+        anot.personas = anot.personas.filter(x => x !== p);
+        if (activa === p._id) activa = anot.personas[0]?._id ?? null;
+        cambio();
+      };
+      $(`#confirmar-${p._id} [data-no]`).onclick = () => pintarPersonas();
+    };
+  });
+}
+function pintarBotonTerminar() {
+  const problemas = anot ? anot.personas.flatMap(alertasDe) : ["sin noticia"];
+  const vacia = anot && !anot.personas.length && !anot.sin_personas;
+  $("#terminar").disabled = !noticia || problemas.length > 0 || vacia;
+  $("#terminar").title = problemas.length ? "Resuelve los avisos de las fichas" : vacia ? "Añade personas o marca que no sale ninguna" : "";
+  $("#terminar").textContent = anot?.terminada ? "Terminada ✓" : "Noticia terminada";
+}
+function pintarTodo() { pintarNoticia(); pintarPersonas(); pintarBotonTerminar(); actualizarBotones(); }
+
+// ---------- Selección de texto ----------
+function leerSeleccion() {
+  const sel = window.getSelection();
+  if (!sel.rangeCount || sel.isCollapsed) return null;
+  const r = sel.getRangeAt(0);
+  const cont = (n => (n.nodeType === 3 ? n.parentElement : n).closest("[data-campo]"));
+  const a = cont(r.startContainer), b = cont(r.endContainer);
+  if (!a || a !== b || !a.classList.contains("campo")) return null;
+  const pre = document.createRange(); pre.selectNodeContents(a); pre.setEnd(r.startContainer, r.startOffset);
+  let inicio = pre.toString().length, texto = r.toString();
+  const izq = texto.length - texto.trimStart().length, der = texto.length - texto.trimEnd().length;
+  inicio += izq; texto = texto.trim();
+  if (!texto) return null;
+  const campo = a.dataset.campo;
+  if (noticia.campos[campo].slice(inicio, inicio + texto.length) !== texto) return null;
+  return { campo, inicio16: inicio, fin16: inicio + texto.length, texto };
+}
+document.addEventListener("selectionchange", () => { seleccion = noticia ? leerSeleccion() : null; actualizarBotones(); });
+function actualizarBotones() {
+  const hay = !!seleccion, conPersona = hay && !!activa;
+  document.querySelectorAll("#barra button").forEach(b => b.disabled = b.dataset.accion === "persona" ? !hay : !conPersona);
+  const p = anot?.personas.find(x => x._id === activa);
+  $("#seleccion").innerHTML = hay
+    ? `Seleccionado: <b>«${esc(seleccion.texto.slice(0, 80))}${seleccion.texto.length > 80 ? "…" : ""}»</b>${p ? ` → se añadirá a <b>${esc(p.nombre)}</b>` : ""}`
+    : (p ? `Persona activa: <b>${esc(p.nombre)}</b>. Selecciona texto para añadirle algo.` : "Selecciona texto de la noticia con el ratón.");
+}
+function accion(tipo) {
+  if (!seleccion) return;
+  const f = { ...seleccion };
+  if (tipo === "persona") {
+    const p = { _id: "p" + Date.now(), nombre: f.texto, menciones: [f], genero: "desconocido", indicio_genero: null, citas: [], rol: null, evidencia_rol: null, participacion: null };
+    anot.personas.push(p); activa = p._id; anot.sin_personas = false; $("#sin-personas").checked = false;
+  } else {
+    const p = anot.personas.find(x => x._id === activa);
+    if (!p) return;
+    if (tipo === "mencion") p.menciones.push(f);
+    if (tipo === "directa" || tipo === "indirecta") p.citas.push({ ...f, tipo });
+    if (tipo === "genero") p.indicio_genero = f;
+    if (tipo === "rol") p.evidencia_rol = f;
+  }
+  window.getSelection().removeAllRanges(); seleccion = null;
+  cambio();
+}
+document.querySelectorAll("#barra button").forEach(b => b.onclick = () => accion(b.dataset.accion));
+document.addEventListener("keydown", e => {
+  if (e.target.matches("input[type=text], textarea") || e.metaKey || e.ctrlKey || e.altKey) return;
+  const teclas = { n: "persona", m: "mencion", d: "directa", i: "indirecta", g: "genero", r: "rol" };
+  const t = teclas[e.key.toLowerCase()];
+  if (t && seleccion) { e.preventDefault(); accion(t); }
+});
+
+// ---------- Guardar ----------
+function cambio(repintar = true) {
+  if (anot.terminada) anot.terminada = false;
+  if (repintar) pintarTodo(); else pintarBotonTerminar();
+  clearTimeout(pendienteGuardar);
+  pendienteGuardar = setTimeout(guardarYa, 600);
+  $("#guardado").textContent = "Guardando…";
+}
+async function guardarYa() {
+  clearTimeout(pendienteGuardar); pendienteGuardar = null;
+  if (!noticia || !anot || !anotadora) return;
+  anot.segundos = (anot.segundos || 0) + segundosSesion; segundosSesion = 0;
+  try {
+    const r = await fetch(`/api/anotacion/${noticia.id}?anotadora=` + encodeURIComponent(anotadora), {
+      method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify(anot) });
+    const res = await r.json();
+    $("#guardado").textContent = res.avisos?.length ? "⚠ " + res.avisos.join("; ") : "Guardado " + new Date().toLocaleTimeString().slice(0, 5);
+    const item = lista.find(n => n.id === noticia.id);
+    if (item) { item.estado = anot.terminada ? "terminada" : "en curso"; pintarLista(); }
+  } catch (err) {
+    $("#guardado").textContent = "⚠ No se pudo guardar. ¿Está abierta la terminal con la app?";
+  }
+}
+$("#sin-personas").onchange = e => { anot.sin_personas = e.target.checked; cambio(); };
+$("#terminar").onclick = async () => { anot.terminada = true; pintarBotonTerminar(); await guardarYa(); };
+$("#siguiente").onclick = () => {
+  const i = lista.findIndex(n => n.id === noticia?.id);
+  const sig = [...lista.slice(i + 1), ...lista.slice(0, i + 1)].find(n => n.estado !== "terminada");
+  if (sig) abrir(sig.id); else $("#guardado").textContent = "¡No quedan noticias pendientes!";
+};
+setInterval(() => { if (noticia && document.visibilityState === "visible") segundosSesion++; }, 1000);
+window.addEventListener("beforeunload", () => { if (pendienteGuardar) guardarYa(); });
+</script>
+</body>
+</html>

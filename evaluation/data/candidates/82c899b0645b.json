@@ -1,0 +1,26 @@
+{
+  "id": "82c899b0645b",
+  "url": "https://www.agenciasinc.es/Noticias/El-rover-Perseverance-detecta-descargas-electricas-en-Marte-y-confirma-actividad-atmosferica",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2025-11-27T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Astronomía y Astrofísica"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:58:12+00:00",
+  "campos": {
+    "titular": "El rover Perseverance detecta descargas eléctricas en Marte y confirma actividad atmosférica",
+    "entradilla": "Un análisis de 28 horas de audio del rover identifica 55 eventos eléctricos asociados a vientos intensos y remolinos de polvo, lo que revela una atmósfera marciana más dinámica y potencialmente más peligrosa para futuras misiones.",
+    "cuerpo": "La primera evidencia directa de actividad eléctrica en la atmósfera de Marte acaba de ser publicada en la revista Nature. Un equipo internacional encabezado por Baptiste Chide, investigador del Institut de Recherche en Astrophysique et Planétologie (Francia), ha identificado señales acústicas y eléctricas compatibles con descargas durante episodios de viento y levantamiento de polvo en el cráter Jezero, donde opera el rover Perseverance.\n“Esto constituye una evidencia de actividad eléctrica atmosférica en Marte”, afirma Chide, autor principal de un estudio que ha contado con participación española, concretamente, de la Universidad del País Vasco, el Instituto Nacional de Técnica Aeroespacial (INTA) y el Centro de Astrobiología INTA-CSIC. Hasta ahora, la electrificación marciana había sido una hipótesis recurrente ligada a la abundancia de tormentas de polvo, pero nunca se había detectado directamente.\nEl equipo analizó 28 horas de grabaciones del micrófono de Perseverance obtenidas durante dos años marcianos, equivalentes a casi cuatro años terrestres. En ellas identificaron 55 eventos eléctricos. “Los resultados muestran que las descargas se correlacionan más con actividades convectivas localizadas asociadas al levantamiento de polvo o arena, como diablos de polvo o frentes de tormentas, que con los periodos de mayor opacidad atmosférica”, explica Chide. Esto debilita la idea de que los campos eléctricos se intensifican automáticamente en las zonas donde la atmósfera es más turbia.\nDos de los eventos se registraron durante los únicos encuentros cercanos del rover con diablos de polvo, y ambos generaron descargas. Según los autores, “diablos de polvo con parámetros similares deberían ser también fuentes de descargas de energía comparable”. A partir de estas observaciones, el equipo estima que la energía eléctrica total generada por estos remolinos en la región de Jezero puede variar entre 1 y 105 microjulios por kilómetro cuadrado y por sol, dependiendo de la intensidad y la frecuencia de los vórtices.\nEl estudio también sugiere que los frentes activos de las tormentas de polvo —miles de ellos cada año en Marte— podrían ser responsables de la mayor parte de la electricidad atmosférica del planeta. “Los frentes de tormenta probablemente dominan el presupuesto eléctrico global de Marte”, indica el artículo.\nLas descargas eléctricas no solo afectan al polvo en suspensión: influyen en la dinámica atmosférica y en la química superficial del planeta. “Los campos eléctricos reducen la velocidad de fricción necesaria para levantar partículas, lo que realimenta positivamente el levantamiento de polvo y afecta al ciclo global del polvo y al clima”, señalan los autores. Además, la electrificación favorece la producción de oxidantes como el peróxido de hidrógeno y podría sostener el ciclo del cloro en Marte, factores que condicionan la preservación de compuestos orgánicos y la posible habitabilidad del entorno.\nMás allá de su interés científico, estas descargas podrían suponer un riesgo para futuros exploradores. “Un mejor conocimiento de estas descargas ayudará a proteger a los robots y astronautas”, advierte el equipo. En el pasado, fenómenos eléctricos han sido propuestos como una posible causa de fallos en misiones como la soviética Mars 3, que dejó de transmitir tras unos segundos en plena tormenta de polvo.\nEl hallazgo reabre un campo entero de investigación sobre la electrificación marciana. “Este estudio activa de nuevo la necesidad de contar con instrumentos dedicados que midan la actividad eléctrica in situ, así como de desarrollar nuevos modelos atmosféricos que incorporen estos fenómenos y sus consecuencias”, concluye Chide. Los resultados también apuntan a que fenómenos similares podrían darse en otros mundos polvorientos del sistema solar, como Venus o Titán."
+  },
+  "sha256": {
+    "titular": "1b44e7638bb991881435780de55f1b74427b2fb08acbee5c2af01489add809c4",
+    "entradilla": "17943ff0b13860f25de02b9c4e5c14793f2fb287a9f8c9d699ff645a1af024c2",
+    "cuerpo": "a0f82eb0ae7cedd2451c2143f36c5d06d01275daf5ccd36e036183278407a6c1"
+  }
+}

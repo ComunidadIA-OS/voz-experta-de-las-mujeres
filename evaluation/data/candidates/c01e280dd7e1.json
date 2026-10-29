@@ -1,0 +1,26 @@
+{
+  "id": "c01e280dd7e1",
+  "url": "https://www.agenciasinc.es/Noticias/Como-afecta-un-ictus-a-la-comprension-del-habla-Nuevas-claves-desde-el-cerebro",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-30T10:19:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:56:19+00:00",
+  "campos": {
+    "titular": "¿Cómo afecta un ictus a la comprensión del habla? Nuevas claves desde el cerebro",
+    "entradilla": "Un estudio revela que las personas con trastornos del lenguaje tras un accidente cerebro cardiovascular presentan diferencias significativas en la actividad cerebral respecto a individuos sanos, lo que ayuda a explicar por qué algunas tienen dificultades para procesar y comprender el lenguaje hablado.",
+    "cuerpo": "Tras un accidente cerebrovascular ictus, algunas personas desarrollan un trastorno del lenguaje que dificulta la comprensión de los sonidos del habla. Para analizar cómo cambia el cerebro en estos casos, un equipo de investigación liderado por Laura Gwilliams, de la Universidad de Stanford (EE UU), y Maaike Vandermosten, de la KU Leuven (Bélgica), comparó la actividad cerebral de 39 pacientes que habían sufrido un ictus con la de 24 personas sanas de edad similar.\nSegún se recoge en su artículo publicado en JNeurosci, los investigadores registraron la actividad cerebral mientras los participantes escuchaban una historia. Las personas con problemas de procesamiento del habla tras un ictus no tardaban más en analizar los sonidos, pero su procesamiento era mucho más débil que el de los participantes sanos. Esto indica que pueden oír los sonidos con normalidad, pero tienen dificultades para integrarlos y convertirlos en lenguaje comprensible.\nAdemás, cuando existía incertidumbre sobre qué palabras se estaban diciendo, las personas sanas mantenían el procesamiento de las características sonoras durante más tiempo que quienes habían sufrido un ictus. Este hallazgo sugiere que, tras un ictus, el cerebro no analiza los sonidos del habla el tiempo suficiente como para comprender palabras difíciles de identificar.\nSegún los autores, estos resultados apuntan a patrones de actividad cerebral que resultan esenciales para la comprensión del lenguaje verbal. La primera autora del estudio, Jill Kries, destaca el potencial de este enfoque sencillo —escuchar una historia— para mejorar el diagnóstico de los trastornos del procesamiento del lenguaje, que actualmente requieren largas y complejas pruebas conductuales."
+  },
+  "sha256": {
+    "titular": "f81e2b2f9454e163818a9c7eb8f74aad722226c11ae04dc71892a9d9d07690fd",
+    "entradilla": "239f049b866364f78439b449482a653618ecfcdaeca49d29045303f2a97e42b4",
+    "cuerpo": "9b6773b1dce24debe638e899b440cb813b465c521c3df954a003c40be370a78e"
+  }
+}

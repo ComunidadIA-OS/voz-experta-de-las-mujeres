@@ -1,0 +1,26 @@
+{
+  "id": "9942d623431f",
+  "url": "https://www.agenciasinc.es/Noticias/Un-ave-jurasica-no-voladora-revela-la-diversidad-de-la-evolucion-aviar",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-10-14T17:00:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:31:38+00:00",
+  "campos": {
+    "titular": "Un ave jurásica no voladora revela la diversidad de la evolución aviar",
+    "entradilla": "El análisis de un fósil hallado en China apunta a que algunos de los primeros representantes de este grupo llevaban una vida terrestre, lo que sugiere que el vuelo no era una característica universal en sus primeras etapas evolutivas.",
+    "cuerpo": "El análisis de Yuezhuornis yangyuanensis, una especie del Jurásico Superior, amplía el conocimiento sobre la diversidad de estrategias ecológicas de las primeras aves.\nSegún una investigación publicada en Nature, este animal, descubierto en China y datado hace entre 148 y 150 millones de años, habría llevado una vida terrestre y no voladora.\nEl hallazgo apunta a que los primeros representantes de este grupo ocupaban nichos ecológicos más variados de lo que se pensaba y que el vuelo no era una característica universal en sus primeras etapas evolutivas.\nLos fósiles de aves del Jurásico son escasos, lo que dificulta reconstruir cómo se diversificaron los primeros representantes de este grupo. Aunque el vuelo define a las aves modernas y se considera un factor importante en su evolución temprana, todavía se sabe poco sobre el modo de vida de los primeros avialanos, el grupo que incluye a las aves y a sus parientes extintos más próximos.\nMin Wang, de la Academia China de Ciencias, y su equipo describen Yuezhuornis yangyuanensis como una nueva especie descubierta en la provincia de Fujian, en China.\nEl análisis del esqueleto fosilizado sugiere que Yuezhuornis llevaba una vida terrestre y no podía volar. Además, lo sitúa entre los linajes de aves que se separaron más temprano del resto. Se estima que pesaba unos 821 gramos y que sus extremidades anteriores eran aproximadamente un tercio más cortas que las posteriores.\nAl comparar sus proporciones corporales con las de 377 especies de aves actuales, los investigadores observaron que eran más similares a las de las aves terrestres, incluidas las que viven en el suelo, como los faisanes.\nEl equipo también identificó un segundo dedo del pie especialmente flexible, con características distintivas. Este rasgo se conoce en los deinonicosaurios, un grupo de dinosaurios depredadores al que pertenece Velociraptor, pero no se había documentado hasta ahora en las aves.\nLos autores plantean que Yuezhuornis pudo ocupar un nicho ecológico poco habitual entre las primeras aves. El hallazgo se suma a las evidencias de que los primeros estadios de la evolución aviar estuvieron marcados por una notable diversidad de formas de vida.\nNo obstante, la especie se conoce a partir de un único ejemplar incompleto. El descubrimiento de nuevos fósiles será necesario para comprender mejor su modo de vida y su posición en el árbol evolutivo de las aves."
+  },
+  "sha256": {
+    "titular": "2c3b7a244ee04337d7c6cd72eb91e9faeef24c18d3232c44b4c737dfdcd646b6",
+    "entradilla": "2f70da2ed74ebae1c1c7d7c89c534c45e56dd6a035b373243018641412a2eca2",
+    "cuerpo": "2237fbb67a800cd25afdca9642a1e87ad1994728326d12c823cdf074e76c9c0b"
+  }
+}

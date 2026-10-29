@@ -1,0 +1,26 @@
+{
+  "id": "0365cc2262b2",
+  "url": "https://www.agenciasinc.es/Noticias/Por-que-los-virus-no-matan-a-los-mosquitos-que-los-transmiten",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-16T10:16:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:42:08+00:00",
+  "campos": {
+    "titular": "¿Por qué los virus no matan a los mosquitos que los transmiten?",
+    "entradilla": "Un trabajo de la Universidad Pompeu Fabra desvela el mecanismo que permite a virus como el dengue o el chikunguña mantenerse activos en los mosquitos sin provocarles daño. El hallazgo ayuda a explicar por qué estos insectos son vectores tan eficaces y apunta a nuevas vías para frenar su transmisión.",
+    "cuerpo": "El aumento de las infecciones causadas por virus transmitidos por mosquitos se ha convertido en una preocupación creciente para la salud pública. Enfermedades como el dengue o la causada por el virus del Nilo occidental, tradicionalmente confinadas a regiones tropicales o subtropicales, están ampliando su alcance geográfico. Europa ya no es una excepción y, en España, ya se han registrado infecciones autóctonas.\nDetrás de esta expansión hay múltiples factores, desde el cambio climático hasta la globalización. Pero también existe una cuestión biológica clave: ¿cómo consiguen estos virus persistir en los mosquitos durante toda su vida sin matarlos?\nCuando un mosquito pica a una persona infectada, adquiere el virus y queda infectado de por vida, pudiendo transmitirlo en cada nueva picadura. Sin embargo, a diferencia de lo que ocurre en humanos —donde la infección puede dañar o destruir las células y causar síntomas graves—, en los mosquitos el virus establece una relación mucho más discreta. Aunque permanece activo, no produce signos evidentes de enfermedad. Ese equilibrio es, precisamente, lo que hace tan eficiente la transmisión.\nUn estudio de la Universidad Pompeu Fabra (UPF), publicado en la revista PLOS Biology, demuestra que en las células de mosquito los virus no se comportan como en las humanas. En lugar de tomar el control total de la maquinaria celular para producir grandes cantidades de proteínas virales —una estrategia que en humanos acaba destruyendo la célula—, en los mosquitos adoptan un enfoque más moderado.\nEl equipo observó que, aunque el material genético viral se acumula en las células del mosquito, la producción de proteínas está limitada. “Es como si el virus bajara el volumen de su propia actividad”, cuenta Marc Talló, coprimer autor del estudio junto con Mireia Puig, ambos investigadores de virología en la UPF. Este fenómeno, conocido como represión de la traducción, permite que el virus siga replicándose sin sobrecargar ni dañar a la célula hospedadora.\nSe trata, por tanto, de un equilibrio sutil: el virus necesita producir suficientes partículas para garantizar su transmisión, pero no tantas como para perjudicar al mosquito y comprometer su vehículo de propagación.\nSegún el estudio, realizado con el apoyo de la Fundación “la Caixa”, este ajuste se explica porque, a diferencia de lo que ocurre en humanos, el virus no optimiza completamente el uso de la maquinaria celular del mosquito. Esta estrategia evolutiva permite alcanzar niveles suficientes para una transmisión eficaz sin afectar de forma significativa a la biología del insecto.\nComprender cómo los virus regulan su actividad en los mosquitos podría abrir nuevas vías para frenar su transmisión. “Si logramos alterar ese equilibrio, forzando al virus a replicarse de manera descontrolada o, por el contrario, bloqueando su capacidad de persistir, podríamos conseguir que los mosquitos dejaran de actuar como vectores de transmisión”, explica Juana Díez, coordinadora del estudio y directora del Grupo de Virología Molecular en la UPF.\nSin embargo, “aún estamos lejos de modificar la carga viral de estos insectos”, advierte Gemma Vilaró, que completa la autoría del trabajo junto con Sol Ribó, ambas investigadoras en virología molecular.\nEl estudio se ha llevado a cabo en modelos celulares, por lo que para avanzar hacia aplicaciones farmacológicas será necesario confirmar los resultados en condiciones más cercanas a la realidad, incluidos ensayos en mosquitos infectados tras alimentarse con sangre infectada.\n“En un contexto en el que los virus transmitidos por mosquitos avanzan hacia nuevas regiones, entender los mecanismos que regulan su supervivencia y transmisibilidad deja de ser una cuestión puramente académica”, señala Talló."
+  },
+  "sha256": {
+    "titular": "ca250cd5bdf0102da35008494fea33a50380405fec7084083228a14ed74bfcd2",
+    "entradilla": "dd619a066f284f7c5964f7951e7f5a029ab16dcadc0fe579cb5a0493e763e864",
+    "cuerpo": "a7a6e1e10a6cd3f18012063f2eee47834ceee9390927aa69ef2155bb923636a3"
+  }
+}

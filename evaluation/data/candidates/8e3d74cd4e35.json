@@ -1,0 +1,26 @@
+{
+  "id": "8e3d74cd4e35",
+  "url": "https://www.agenciasinc.es/Noticias/La-primera-cucaracha-modificada-con-fluorescencia-podria-iluminar-el-futuro-de-la-investigacion-con-insectos",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-02-04T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Vida"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:53:48+00:00",
+  "campos": {
+    "titular": "La primera cucaracha modificada con fluorescencia podría iluminar el futuro de la investigación con insectos",
+    "entradilla": "Un estudio liderado por el Instituto de Biología Evolutiva ha logrado, por primera vez, insertar un gen en la cucaracha alemana, Blattella germanica, de manera estable y heredable.",
+    "cuerpo": "Las técnicas de edición genética basadas en CRISPR/Cas9 han revolucionado la investigación biotecnológica durante la última década, ya que permiten “cortar y pegar” genes con gran precisión en una amplia variedad de organismos.\nSin embargo, su aplicación en insectos no modelo, como B. germanica, presentaba hasta ahora importantes limitaciones técnicas.\nAhora, un equipo del Instituto de Biología Evolutiva (IBE), un centro mixto del Consejo Superior de Investigaciones Científicas (CSIC) y la Universidad Pompeu Fabra (UPF), ha insertado por primera vez un gen estable y heredable en embriones de B. germanica mediante una nueva herramienta molecular basada en DIPA-CRISPR.\nEl avance podría iluminar los procesos biológicos, genéticos y evolutivos de estos insectos, de alta relevancia tanto en el estudio de la evolución como en el control de plagas.\nLa manipulación genética de embriones ha sido clave para el estudio del desarrollo de muchas especies, pero algunos insectos ponen huevos que no se pueden manipular fácilmente debido a su cubierta dura, frágil o difícilmente accesible.\nPara superar estos obstáculos, en 2022 el equipo del IBE (CSIC-UPF) participó en el desarrollo de DIPA-CRISPR, la primera técnica de edición genética capaz de inactivar genes (Knock-out, en inglés) en embriones de cucaracha mediante la inyección de tijeras genéticas (CRISPR) en el abdomen de la madre, haciendo estos cambios heredables.\nEsta nueva investigación publicada en Cell Reports Methods da un paso adelante con la primera inserción genética (knock-in, en inglés) en embriones de Blattella germanica.\nUtilizando una estrategia basada en CRISPR, el equipo ha podido “cortar” un gen clave para el desarrollo embrionario (distal-less) y fusionarlo con un gen de fluorescencia roja (mCherry), empleando la técnica de reparación dirigida por homología.\nLa inserción ha sido exitosa en aproximadamente un 30 % de las hembras inyectadas, produciendo embriones con fluorescencia detectable, y es estable y heredable.\n“Hemos desarrollado una nueva herramienta molecular simple, robusta y económica que, a diferencia de otros métodos, no requiere modificaciones complejas ni equipamiento especializado, lo que abre la puerta a la generación de proteínas de fusión en insectos no modelo”, comenta Maria Dolors Piulachs, investigadora principal del grupo de Reproducción de insectos del IBE que ha liderado la investigación.\nCon la inserción de fluorescencia en distal-less, el estudio ha mostrado la visualización en vivo y en tiempo real de la proteína Dll expresada por este gen en los apéndices en desarrollo y en el sistema nervioso de B. germanica durante la fase embrionaria.\nAdemás, la proteína fluorescente generada es funcional y no interfiere con el desarrollo normal del insecto. Un hito que abre las puertas a futuras investigaciones.\n“Hemos confirmado la distribución de una proteína clave para el desarrollo de muchos insectos. Gracias a esta nueva herramienta esperamos estudiar la expresión de diferentes proteínas de las cucarachas sin necesidad de emplear anticuerpos de fluorescencia, una herramienta a menudo inexistente o muy difícil de obtener en insectos no modelo, y bastante más costosa”, comenta Alfonso Ferrández-Roldán, investigador postdoctoral Juan de la Cierva del IBE y primer autor del estudio, quien añade: “ahora podremos resolver y explorar mecanismos de desarrollo de esta especie de interés sanitario y económico, pero también evolutivo”.\nLa cucaracha alemana (B. germanica) es un insecto de especial interés científico, tanto por su relevancia como plaga como por su posición evolutiva basal, que permite profundizar en el estudio de la evolución de los insectos.\nLa investigación sobre su reproducción, por otra parte, también puede contribuir al desarrollo de nuevas estrategias de control de plagas.\n“En el futuro, esta técnica podría aplicarse a otros insectos no modelo y permitir el estudio simultáneo de varios genes con diferentes marcadores fluorescentes”, concluye Piulachs."
+  },
+  "sha256": {
+    "titular": "f65b499a50c7ebd78e65ad4eb263de3130d02d87d78687b65e2d4d4ae3f080bd",
+    "entradilla": "3afb4506897fd6768aa80a588384c5bdcca1b3d393608ebd60391687a42b755e",
+    "cuerpo": "417c65f6ce633798975715a51dfe840f838a07dc27ac8e960e3d4e16a4d81cf0"
+  }
+}

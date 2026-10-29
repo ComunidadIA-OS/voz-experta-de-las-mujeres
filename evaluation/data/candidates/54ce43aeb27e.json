@@ -1,0 +1,26 @@
+{
+  "id": "54ce43aeb27e",
+  "url": "https://www.agenciasinc.es/Noticias/El-hallazgo-de-aminoacidos-en-el-asteroide-Bennu-reescribe-el-posible-origen-de-la-vida",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-02-09T13:20:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:53:10+00:00",
+  "campos": {
+    "titular": "El hallazgo de aminoácidos en el asteroide Bennu reescribe el posible origen de la vida",
+    "entradilla": "Un análisis de las muestras traídas por la misión OSIRIS-REx revela que los componentes básicos de las proteínas pudieron formarse en condiciones de frío extremo y radiación, y no solo en presencia de agua líquida como se creía hasta ahora.",
+    "cuerpo": "Los aminoácidos son los ladrillos fundamentales de la vida; moléculas esenciales que forman las proteínas y participan en la codificación del ADN. Hasta ahora, la comunidad científica sostenía que su formación en los asteroides dependía principalmente de la presencia de agua líquida templada. Sin embargo, un nuevo estudio liderado por la Universidad Estatal de Pensilvania (Penn State) y publicado esta semana en la revista PNAS sugiere que el origen de estos componentes en el sistema solar primitivo fue mucho más diverso y hostil de lo imaginado.\nEl equipo de investigación analizó una pequeña muestra de polvo espacial —apenas el tamaño de una cucharadita— procedente del asteroide Bennu, recolectada y traída a la Tierra por la misión OSIRIS-REx de la NASA en 2023. Al medir las variaciones en la masa de los átomos (isótopos) de la glicina, el aminoácido más simple, los científicos descubrieron patrones que contradicen las teorías establecidas.\n“Nuestros resultados dan un giro a la idea convencional sobre cómo se forman los aminoácidos en los asteroides”, afirma Allison Baczynski, profesora de geociencias en Penn State y coautora principal del estudio. “Parece que existen muchas más condiciones bajo las cuales estos bloques de la vida pueden surgir, no solo cuando hay agua líquida. Nuestro análisis muestra una diversidad mucho mayor en las vías y entornos de formación”.\nHistóricamente, se pensaba que la glicina se formaba mediante la denominada síntesis de Strecker, una reacción química que requiere agua líquida, amoníaco y aldehídos. No obstante, los datos de Bennu indican que su glicina pudo originarse en hielos congelados expuestos a la radiación en los confines más remotos y fríos del sistema solar joven.\nPara llegar a esta conclusión, los investigadores compararon los restos de Bennu con el meteorito Murchison, caído en Australia en 1969. Mientras que las moléculas de Murchison sí muestran firmas de haber sido creadas en un entorno con agua y temperaturas moderadas —similares a las de la Tierra primitiva—, las de Bennu presentan un patrón isotópico radicalmente distinto.\n“Lo que es una verdadera sorpresa es que los aminoácidos en Bennu muestran una firma isotópica muy diferente a la de Murchison”, señala Ophélie McIntosh, investigadora posdoctoral y coautora del trabajo. “Esto sugiere que los cuerpos parentales de ambos proceden de regiones del sistema solar químicamente distintas”.\nEl estudio no solo resuelve viejas dudas, sino que abre nuevos interrogantes sobre la propiedad de algunas moléculas de tener una forma derecha e izquierda, como las manos humanas, también conocido como quiralidad. En las muestras de Bennu, los investigadores hallaron que las dos formas del ácido glutámico muestran valores de nitrógeno drásticamente diferentes, algo que desafía las leyes químicas actuales, que asumen que ambos pares deberían ser idénticos.\n“Ahora tenemos más preguntas que respuestas”, concluye Baczynski. El equipo espera continuar analizando diferentes meteoritos para determinar si la diversidad de vías para crear vida es la norma o la excepción en el universo."
+  },
+  "sha256": {
+    "titular": "f9b0bf4278a2633080f4846e79dccb9c332c68e6e67e47749c2def4006e8d36f",
+    "entradilla": "bccc2fdfe066403965ea6bbd2bd486bf476a2360ce61daf310e1d8352dfaeb18",
+    "cuerpo": "7fba0515c870a7d6d93170df243ad6ea68928faf6fc00f453f362b3419285c42"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "a68a5f381be0",
+  "url": "https://www.agenciasinc.es/Noticias/Un-nuevo-control-compartido-entre-humano-y-maquina-mejora-la-destreza-de-las-manos-bionicas",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-09T17:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:24+00:00",
+  "campos": {
+    "titular": "Un nuevo control compartido entre humano y máquina mejora la destreza de las manos biónicas",
+    "entradilla": "La combinación continua entre la intención del usuario y la asistencia autónoma basada en IA permite ejecutar movimientos más precisos y naturales en manos protésicas, reduciendo al mismo tiempo el esfuerzo cognitivo necesario para manejarlas, según un estudio publicado en Nature Communications.",
+    "cuerpo": "Las manos biónicas comerciales han avanzado enormemente en su capacidad para replicar movimientos humanos, pero aún arrastran un problema decisivo: son difíciles de controlar y exigen un alto esfuerzo mental a quienes las usan.\nAhora, un equipo del Laboratorio de NeuroRobótica de la Universidad de Utah (EE UU), dirigido por el investigador Marshall Trout, propone una solución tan simple como transformadora: un sistema de control compartido en el que la prótesis y la persona cooperan de forma continua gracias a un modelo de IA que guía los movimientos más delicados.\nEl equipo ha integrado sensores de proximidad y presión en las yemas de una mano protésica comercial (TASKA Hand). Estos sensores, capaces incluso de “ver” objetos antes del contacto, alimentan un algoritmo que estima la distancia al objeto y ajusta de manera autónoma la posición de los dedos. A la vez, la prótesis incorpora señales humanas obtenidas de la actividad eléctrica de la piel o el músculo, combinando ambas fuentes en tiempo real.\nEl resultado es un control híbrido más preciso e intuitivo. En pruebas con nueve voluntarios sanos y cuatro personas amputadas, el sistema permitió manipular objetos frágiles o llevar a cabo tareas cotidianas —como sostener un huevo, recoger una hoja de papel o beber de una taza— con mayor finura, mejor modulación de la fuerza y menor carga mental que con los modos tradicionales de control exclusivamente humano o exclusivamente autónomo.\nLos autores subrayan que serán necesarios estudios a más largo plazo, pero el trabajo apunta hacia una nueva generación de prótesis basadas en IA que no solo imitan la mano humana, sino que colaboran con ella: máquinas que asisten, no que compiten por el control."
+  },
+  "sha256": {
+    "titular": "5afd1dae1dd20c7a53d3ac4f9e4d38b5906d40a7f146466381ac588ac7fe8e73",
+    "entradilla": "2fde5778b3232d73b181ea43e0f33de389ef3c2cd8ba912672b4fcbd542d2379",
+    "cuerpo": "a4c9ebbc557112cbcc1be18348c8ec670e438025208f622d7c4ac63d44aa0374"
+  },
+  "article": {
+    "headline": "Un nuevo control compartido entre humano y máquina mejora la destreza de las manos biónicas",
+    "introduction": "La combinación continua entre la intención del usuario y la asistencia autónoma basada en IA permite ejecutar movimientos más precisos y naturales en manos protésicas, reduciendo al mismo tiempo el esfuerzo cognitivo necesario para manejarlas, según un estudio publicado en Nature Communications.",
+    "body": "Las manos biónicas comerciales han avanzado enormemente en su capacidad para replicar movimientos humanos, pero aún arrastran un problema decisivo: son difíciles de controlar y exigen un alto esfuerzo mental a quienes las usan.\nAhora, un equipo del Laboratorio de NeuroRobótica de la Universidad de Utah (EE UU), dirigido por el investigador Marshall Trout, propone una solución tan simple como transformadora: un sistema de control compartido en el que la prótesis y la persona cooperan de forma continua gracias a un modelo de IA que guía los movimientos más delicados.\nEl equipo ha integrado sensores de proximidad y presión en las yemas de una mano protésica comercial (TASKA Hand). Estos sensores, capaces incluso de “ver” objetos antes del contacto, alimentan un algoritmo que estima la distancia al objeto y ajusta de manera autónoma la posición de los dedos. A la vez, la prótesis incorpora señales humanas obtenidas de la actividad eléctrica de la piel o el músculo, combinando ambas fuentes en tiempo real.\nEl resultado es un control híbrido más preciso e intuitivo. En pruebas con nueve voluntarios sanos y cuatro personas amputadas, el sistema permitió manipular objetos frágiles o llevar a cabo tareas cotidianas —como sostener un huevo, recoger una hoja de papel o beber de una taza— con mayor finura, mejor modulación de la fuerza y menor carga mental que con los modos tradicionales de control exclusivamente humano o exclusivamente autónomo.\nLos autores subrayan que serán necesarios estudios a más largo plazo, pero el trabajo apunta hacia una nueva generación de prótesis basadas en IA que no solo imitan la mano humana, sino que colaboran con ella: máquinas que asisten, no que compiten por el control."
+  },
+  "published": "2025-12-09T17:00:00+01:00",
+  "cc_licence": true,
+  "source_type": "sinc_newsroom",
+  "sections": [
+    "Innova"
+  ],
+  "group": "test"
+}

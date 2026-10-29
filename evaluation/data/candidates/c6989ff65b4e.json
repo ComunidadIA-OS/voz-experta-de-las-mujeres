@@ -1,0 +1,26 @@
+{
+  "id": "c6989ff65b4e",
+  "url": "https://www.agenciasinc.es/Noticias/Altamira-contara-con-un-gemelo-digital-para-reforzar-la-conservacion-de-la-cueva",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-06-22T12:19:00+02:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:41:35+00:00",
+  "campos": {
+    "titular": "Altamira contará con un 'gemelo digital' para reforzar la conservación de la cueva",
+    "entradilla": "La herramienta permitirá vigilar con mayor precisión el estado de una de las principales joyas del arte rupestre paleolítico, famosa por sus pinturas de bisontes y otros animales. El sistema reunirá información científica, ambiental e histórica para ayudar a prevenir posibles riesgos de deterioro.",
+    "cuerpo": "El Ministerio de Cultura está desarrollando un 'gemelo digital' de la cueva de Altamira, Patrimonio de la Humanidad, para reforzar su conservación mediante una plataforma que integrará la geometría de la cavidad, información geoespacial y datos en tiempo real de su interior recogidos por sensores ambientales.\nEl Instituto del Patrimonio Cultural de España y el Museo Nacional y Centro de Investigación de Altamira coordinan la gestión de esta plataforma, que está siendo desarrollada por Ineco, empresa pública de ingeniería dependiente del Ministerio de Transportes.\nLa plataforma colaborativa reunirá todos los datos geoespaciales, ambientales e históricos de la cueva y permitirá reproducir modelos predictivos generados con inteligencia artificial.\nDe este modo, toda la información estará disponible para los investigadores y conservadores que trabajan en el estudio y mantenimiento de Altamira.\nAdemás, estos datos, integrados en un único sistema, se complementarán con el archivo histórico y científico del museo, lo que permitirá disponer por primera vez de una visión global, precisa y continuamente actualizada del estado de la cueva.\nSegún el Ministerio de Cultura, esta capacidad de integración no solo mejora la investigación y la gestión, sino que también impulsa una nueva forma de abordar la conservación del patrimonio.\nUno de los principales avances del proyecto, añade el departamento que dirige Ernest Urtasun, es la incorporación de modelos predictivos basados en inteligencia artificial. Estas herramientas permitirán anticipar posibles alteraciones en el microclima de la cueva mediante el análisis de variables como el CO₂ o el radón, además de identificar patrones a partir de datos históricos.\nCon ello, se refuerza la conservación preventiva y se mejora la gestión de los protocolos y la toma de decisiones para controlar los riesgos de deterioro, un aspecto clave para preservar el arte rupestre en las mejores condiciones posibles."
+  },
+  "sha256": {
+    "titular": "150d0d0683fd27618d5db40d6f9f54317106c986002e2066f70c4b796e6f98b9",
+    "entradilla": "0fe0377a08c27059586bcf4316941498f46d5f8458b2383db0522f9e8736c302",
+    "cuerpo": "016e7a6611cfd807e922b73fb7fbda461ac7de204c128d7ffc51eaa8d74cc1bd"
+  }
+}

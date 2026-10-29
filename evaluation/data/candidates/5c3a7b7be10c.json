@@ -1,0 +1,26 @@
+{
+  "id": "5c3a7b7be10c",
+  "url": "https://www.agenciasinc.es/Noticias/Que-es-la-babesiosis-Identifican-una-nueva-especie-del-parasito-que-transmite-la-enfermedad",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-22T11:30:00+02:00",
+  "fuente_y_derechos": "Fuente: ISCIII | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Patología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:46:56+00:00",
+  "campos": {
+    "titular": "¿Qué es la babesiosis? Identifican una nueva especie del parásito que transmite la enfermedad",
+    "entradilla": "Esta infección se contagia de animales a personas debido a la picadura de una garrapata y puede provocar fiebre, anemia y malestar diverso. Un estudio reciente revela una nueva variante del parásito que causa esta patología y otro describe el comportamiento de la especie más común vista en humanos.",
+    "cuerpo": "Un equipo del Instituto de Salud Carlos III (ISCIII) ha publicado dos estudios que ofrecen nuevos hallazgos sobre la babesiosis humana, una infección zoonótica parasitaria similar a la malaria. El primero de ellos confirma la existencia de una nueva especie de Babesia –el parásito que causa la patología– y el segundo aporta análisis genómicos sobre la evolución y adaptación de la especie más común de este patógeno.\nEn concreto, la babesiosis es una infección causada por el parásito Babesia, transmitida de animales a personas por la picadura de garrapatas. A veces, puede ser asintomática y leve pero también puede generar fiebre, anemia y malestar diverso, por lo que afecta de forma grave a personas mayores e inmunodeprimidas. Su diagnóstico temprano es importante, y el tratamiento suele combinar fármacos antiparasitarios y antibióticos.\nLa primera de las investigaciones, publicada en Emerging Microbes & Infections y liderada por la Universidad de Yale, marca un hito en el estudio de enfermedades zoonóticas parasitarias. De hecho, confirma y hace oficial que el descubrimiento de una nueva especie de Babesia, denominada B. hegotelforum, está vinculada con el desarrollo de la enfermedad en humanos.\nEsta publicación se apoya en datos genómicos, filogenómicos y biológicos recabados en los últimos años, que demuestran que este organismo constituye un linaje claramente diferenciado de B. divergens, el tipo de Babesia que causa la babesiosis más grave en humanos. Ahora, los expertos establecen que el parásito zoonótico previamente denominado 'Babesia divergens like MO1' recibirá el nombre oficial: Babesia hegotelforum.\nEn el marco de la colaboración internacional que rodea esta investigación, coordinada por el investigador de Yale Choukri Ben Mamoum, la nueva nomenclatura del parásito ha sido la sugerida por el equipo del ISCIII, en reconocimiento a las contribuciones de Barbara Herwaldt, Sam Telford III y Heidi K. Goethert.\nEl hallazgo y su designación formal “contribuirán a clarificar la literatura científica y facilitará el avance en el estudio de la biología, epidemiología y aspectos clínicos de la babesiosis zoonótica en animales y humanos”, explican los investigadores de la institución española.\nPor otro lado, el segundo de los estudios, publicado en la revista International Journal of Molecular Sciences, aporta nuevas pistas sobre la divergencia evolutiva de 'B. divergens', su adaptación a distintos hospedadores y su especial influencia en la enfermedad humana, en contraste con otras especies del género.\nEl trabajo analiza la región intergénica –el espacio entre dos genes– del EF-1α en distintas muestras aisladas de pacientes humanos y bovinos gracias a la localización de una de las regiones del genoma del parásito. Tras analizar dicha área, identificaron tanto elementos evolutivos conservados en el genoma como zonas con una variabilidad muy significativa.\nLos investigadores proponen que las diferencias genómicas halladas podrían influir en la expresión del factor de elongación y determinar las características evolutivas clave para seguir estudiando cómo el parásito se relaciona con sus hospedadores y cómo se produce la infección en humanos."
+  },
+  "sha256": {
+    "titular": "3609489cdad148574633ecb4ac099e48b41692fcd026cabaceacba36da07bfe3",
+    "entradilla": "b67e6cbf3c6eba961aafc65dc75f1df1b6d5757e20e066fd2b13095335f41a3d",
+    "cuerpo": "3f289d1b373ccc24d7ffede33d2348df71cd4a595787debcdc5eb0a78287517e"
+  }
+}

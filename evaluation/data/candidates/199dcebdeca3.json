@@ -1,0 +1,26 @@
+{
+  "id": "199dcebdeca3",
+  "url": "https://www.agenciasinc.es/Noticias/Descubren-por-que-los-ordenadores-cuanticos-tienen-problemas-de-memoria-con-el-paso-del-tiempo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-22T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Innovación"
+  ],
+  "secciones": [
+    "Innova"
+  ],
+  "fecha_consulta": "2026-10-27T01:56:36+00:00",
+  "campos": {
+    "titular": "Descubren por qué los ordenadores cuánticos tienen problemas de memoria con el paso del tiempo",
+    "entradilla": "Comprender cómo se comporta el ruido en sistemas cuánticos es clave para su desarrollo. Un nuevo estudio internacional, liderado desde Australia, permite identificar patrones ocultos en los errores que afectan a estos dispositivos.",
+    "cuerpo": "Un equipo internacional liderado por científicos en Australia ha creado por primera vez una imagen completa de cómo se desarrollan los errores a lo largo del tiempo dentro de un ordenador cuántico, un avance que podría ayudar a que las futuras máquinas cuánticas sean mucho más fiables.\nLiderados por Christina Giarmatzi, de la Universidad de Macquarie (Australia), los investigadores descubrieron que los diminutos errores que afectan a los ordenadores cuánticos no aparecen de forma aleatoria. En lugar de eso, pueden persistir, evolucionar e incluso enlazarse entre distintos momentos en el tiempo.\n“Podemos pensar que los ordenadores cuánticos conservan una memoria de los errores, que puede ser clásica o cuántica dependiendo de la forma en que estos errores estén conectados”, explica esta física cuántica, que lleva afincada en Australia más de una década.\n“Muchos protocolos cuánticos asumen que los ordenadores cuánticos no tienen este tipo de memoria —lo que se conoce como comportamiento markoviano—, pero eso sencillamente no es cierto”.\nEste tipo de comportamiento es uno de los principales obstáculos para construir ordenadores cuánticos prácticos y escalables.\n“Hemos sido capaces de reconstruir toda la evolución de un proceso cuántico en múltiples instantes temporales, algo que no se había logrado hasta ahora”, señala Giarmatzi. “Esto nos permite ver no solo cuándo aparece el ruido, sino cómo se propaga a lo largo del tiempo”.\nEl avance abre vías métodos más avanzados para modelizar, predecir y corregir errores en dispositivos cuánticos, no solo en chips superconductores, sino también en sistemas como los iones atrapados y los cúbits de espín.\n“Hemos abierto una nueva ventana a la forma en que los sistemas cuánticos se comportan a lo largo del tiempo cuando sus errores están correlacionados”, añade Giarmatzi. “Eso es esencial si queremos que los ordenadores cuánticos sean realmente útiles y estén libres de errores”.\nPara lograrlo, el equipo llevó a cabo una serie de experimentos en procesadores cuánticos superconductores de última generación, algunos en el laboratorio de la Universidad de Queensland y otros a través de los ordenadores cuánticos en la nube de IBM.\nLos intentos previos de cartografiar el comportamiento temporal de los sistemas cuánticos se habían topado con el mismo obstáculo: tras medir un sistema cuántico a mitad del experimento, los científicos no podían prepararlo libremente para el siguiente paso, porque esa preparación depende de si el resultado de la medición fue 0 o 1.\nEl nuevo método resuelve este problema introduciendo un ingenioso giro: asumir que en el 50 % de los casos el resultado fue 1 y en el otro 50 %, 0. A continuación, los investigadores utilizaron software para trabajar hacia atrás con los datos y determinar en qué estado se encontraba el sistema.\n“El hardware podía hacerlo”, explica el coautor del estudio, Fabio Costa, de Nordita en Estocolmo. “Lo que descubrimos fue cómo preparar realmente el sistema tras una medición a mitad del circuito”.\nLos resultados muestran que incluso las mejores máquinas cuánticas actuales presentan patrones sutiles pero relevantes de ruido correlacionado en el tiempo, incluido ruido de naturaleza cuántica que procede de cúbits cercanos en el mismo chip.\nComprender estos patrones ayudará a los científicos a diseñar mejores herramientas de caracterización y corrección de errores, un paso crucial hacia la construcción de ordenadores cuánticos fiables y tolerantes a fallos.\n“Es muy gratificante cuando los modelos teóricos pueden hacerse realidad en hardware real, y más aún cuando ayudan a mejorar ese propio hardware”, afirma Tyler Jones, que participó en el proyecto como doctorando en la Universidad de Queensland. “La caracterización robusta de las correlaciones temporales en sistemas cuánticos es necesaria en el camino hacia la construcción de máquinas cuánticas potentes”, señala.\nEl equipo ha puesto a disposición pública sus datos experimentales y su código."
+  },
+  "sha256": {
+    "titular": "4fe738b1e574d8582f9abb7476dd7146b42e14c79e42729853841c1b4eae0650",
+    "entradilla": "e695b2ff51e94fa51895d37bbb51399acca0c60510786676f84829f99b0a35d9",
+    "cuerpo": "52e1eabd221073212d762fff5b9a501297eed8aca2a4196d3caad4254d7fc383"
+  }
+}

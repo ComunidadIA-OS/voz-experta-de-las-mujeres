@@ -1,0 +1,26 @@
+{
+  "id": "34cab1e78cb6",
+  "url": "https://www.agenciasinc.es/Noticias/Los-casos-de-ebola-en-la-Republica-Democratica-del-Congo-ya-superan-los-2-000",
+  "autoria": "EFE",
+  "fecha_publicacion": "2026-07-15T11:36:00+02:00",
+  "fuente_y_derechos": "Fuente: EFE | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Epidemiología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:39:18+00:00",
+  "campos": {
+    "titular": "Los casos de ébola en la República Democrática del Congo ya superan los 2 000",
+    "entradilla": "El brote se corresponde con la cepa de Bundibugyo, cuya tasa de letalidad oscila entre el 30 % y el 50 % y para la que no existe vacuna autorizada o tratamiento específico, según la Organización Mundial de la Salud, que considera “alto” el riesgo de expansión del brote en África subsahariana y “bajo” a escala global.",
+    "cuerpo": "El Gobierno de la República Democrática del Congo (RDC) elevó a 2 011 los casos confirmados de ébola, incluyendo 754 muertos, por el brote de esta enfermedad declarado en el este del país el pasado 15 de mayo. Según el último boletín del Ministerio congoleño de Comunicación y Medios, con datos recopilados hasta el 13 de julio, la tasa de letalidad se sitúa actualmente en el 37,5 %.\nAdemás, 753 pacientes se encuentran en situación de aislamiento u hospitalización, y 366 personas han logrado recuperarse de la enfermedad, mientras la tasa de rastreo de contactos asciende al 67,4 %. Hasta el momento se han visto afectadas las provincias orientales de Ituri (epicentro de la epidemia), Kivu del Norte y Kivu del Sur, así como Tshopo (centro-norte) y Haut-Uele (noreste).\nMientras suben las infecciones, el Ministerio destacó que se está llevando a cabo “un refuerzo continuo de la vigilancia, la atención a los pacientes y el seguimiento de contactos”. Por su lado, el Instituto Nacional de Salud Pública (INSP) de la RDC alertó en su propio boletín que la reciente “aparición de nuevos casos en Haut-Uele pone de manifiesto una extensión geográfica que requiere un refuerzo inmediato de la vigilancia, el diagnóstico y la preparación operativa”.\nEl brote se declaró oficialmente el 15 de mayo en Ituri, provincia fronteriza con Uganda y Sudán del Sur. La epidemia se propagó igualmente a Uganda, donde se han detectado 20 contagios confirmados, incluidos 15 casos que se consideran importados de la RDC y entre los que hay dos fallecimientos.\nEl brote se corresponde con la cepa de Bundibugyo, cuya tasa de letalidad oscila entre el 30 % y el 50 % y para la que no existe vacuna autorizada o tratamiento específico, según la Organización Mundial de la Salud (OMS), que considera “alto” el riesgo de expansión del brote en África subsahariana y “bajo” a escala global.\nLa OMS estima que el virus comenzó a circular en Ituri unos dos meses antes de declararse el brote y calificó la epidemia el 17 de mayo pasado como “emergencia de salud pública de importancia internacional”. Se trata de la tercera peor epidemia de ébola de la historia registrada hasta la fecha, y es la decimoséptima que afecta a la RDC.\nEl actual brote tan sólo está por detrás del que golpeó a África Occidental entre 2014 y 2016, que dejó unos 11 000 muertos y 28 000 contagios, y otro que afectó al este congoleño entre 2018 y 2020 y que causó 2 299 muertes y 3 481 casos. El virus del ébola se transmite por contacto directo con fluidos corporales de personas o animales infectados y causa fiebre hemorrágica grave, vómitos, diarrea y hemorragias internas."
+  },
+  "sha256": {
+    "titular": "b19ea313afc3fc8303c161ec1ce6ecaa8d2f51b81b394305981bd77051aabc89",
+    "entradilla": "ae690ad785e91428baa7a2000a81f03d1bfb386bf08004256a8a5139544a3c7e",
+    "cuerpo": "a9d5d8c8eb2740c904ab89f964dda317c5850075e7cfa52fe5005c6b754e9c75"
+  }
+}

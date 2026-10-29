@@ -1,0 +1,26 @@
+{
+  "id": "112efe068f40",
+  "url": "https://www.agenciasinc.es/Noticias/MicroBooNE-descarta-la-existencia-de-un-neutrino-esteril-tras-analizar-datos-de-dos-haces",
+  "autoria": "SINC",
+  "fecha_publicacion": "2025-12-04T11:26:00+01:00",
+  "fuente_y_derechos": "Fuente: CIEMAT | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Física"
+  ],
+  "secciones": [
+    "Ciencia"
+  ],
+  "fecha_consulta": "2026-10-27T01:57:36+00:00",
+  "campos": {
+    "titular": "MicroBooNE descarta la existencia de un neutrino estéril tras analizar datos de dos haces",
+    "entradilla": "Un nuevo estudio internacional con participación española vuelve a poner bajo el microscopio a una de las partículas más escurridizas del cosmos. Aunque durante años se ha planteado la posibilidad de un cuarto tipo de neutrino capaz de explicar ciertas anomalías, los últimos resultados reducen aún más el margen para su existencia.",
+    "cuerpo": "Un equipo científico del experimento MicroBooNE, ubicado en el Laboratorio Nacional de Aceleradores Fermi (Fermilab, EE UU), ha anunciado que no se ha encontrado evidencia de un cuarto tipo de neutrino, conocido como neutrino estéril.\nEl resultado, publicado en Nature, cuenta con la participación del CIEMAT y del Instituto de Física Corpuscular (IFIC, CSIC-Universitat de València), y descarta con un nivel de confianza del 95 % la hipótesis que durante tres décadas se consideró la explicación más plausible para anomalías observadas en experimentos anteriores.\nMicroBooNE utilizó un detector de argón líquido y combinó datos de dos haces de neutrinos —el Booster Neutrino Beam (BNB) y el NuMI— para realizar la búsqueda más exhaustiva hasta la fecha. “Es realmente emocionante realizar ciencia de vanguardia que tiene un gran impacto en nuestro campo, así como el desarrollo de nuevas técnicas que apoyarán y permitirán futuras medidas científicas”, afirma Matthew Toups, científico de Fermilab y coportavoz del experimento.\nEl Modelo Estándar describe tres tipos de neutrinos: electrónico, muónico y tauónico, que oscilan entre sí. Sin embargo, experimentos como LSND (1995) y MiniBooNE detectaron anomalías que sugerían la existencia de un cuarto neutrino. “Esos experimentos vieron un cambio de sabor en una escala de longitud que sencillamente no es consistente con que solo haya tres neutrinos”, explica Justin Evans, profesor en la Universidad de Manchester y coportavoz de MicroBooNE.\nEl neutrino estéril, de existir, interactuaría únicamente mediante la gravedad, lo que lo convertiría en una partícula extremadamente difícil de detectar. MicroBooNE tomó datos entre 2015 y 2021 y es el primer experimento que ha realizado esta búsqueda con un detector y dos haces simultáneamente, lo que permitió reducir las incertidumbres y excluir casi toda la región en la que podría esconderse el neutrino estéril.\nEl CIEMAT ha contribuido al sistema de lectura del detector y al comité de publicaciones. José Ignacio Crespo Anadón, investigador del centro, destaca: “Es un resultado significativo que confirma algo que sospechábamos desde hacía tiempo: la hipótesis de un neutrino estéril no es satisfactoria. Si las anomalías se deben a una nueva física, tiene que tratarse de algo más complejo”.\nAunque este hallazgo descarta una explicación para las anomalías observadas por LSND y MiniBooNE, el misterio persiste. El análisis se ha realizado con el 60% de los datos y los científicos ya trabajan en el resto.\nAdemás, MicroBooNE está proporcionando información clave sobre interacciones de neutrinos en argón líquido, lo que beneficiará a futuros experimentos como el Deep Underground Neutrino Experiment (DUNE).\nLa colaboración internacional MicroBooNE está organizada por Fermilab y reúne a 193 científicos de 40 instituciones en seis países. El CIEMAT y el IFIC también lideran la búsqueda de nueva física en el experimento SBND, operativo desde 2024, que podría arrojar luz sobre estas incógnitas: “Si hay algo desconocido en ese haz de neutrinos, en SBND lo veremos”, concluye Crespo Anadón."
+  },
+  "sha256": {
+    "titular": "9c45b1a8b9bfdbcb2d6af74cb9d9f5154e96350483245c2dd5d845fc9d74a36e",
+    "entradilla": "72e68a065b59beca81187c07ce8ffb807acb8e60494131aeefe2a2dc250a588c",
+    "cuerpo": "51094bd4b8a3507bdcf9d76524a89c5902610a27ddbb1e4a0c4500ed693c9f2e"
+  }
+}

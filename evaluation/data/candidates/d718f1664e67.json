@@ -1,0 +1,26 @@
+{
+  "id": "d718f1664e67",
+  "url": "https://www.agenciasinc.es/Noticias/Francia-confirma-su-primer-caso-de-ebola-en-un-cooperante-sanitario-llegado-de-la-RD-del-Congo",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-06-25T09:03:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:41:10+00:00",
+  "campos": {
+    "titular": "Francia confirma su primer caso de ébola en un cooperante sanitario llegado de la RD del Congo",
+    "entradilla": "El paciente participaba en una misión humanitaria en una zona afectada por el brote en la RDC. Permanece estable e ingresado en un centro especializado, según ha informado el Ministerio de Sanidad francés.",
+    "cuerpo": "El Ministerio de Sanidad de Francia ha confirmado la detección del primer caso de enfermedad por virus del Ébola en el país. Se trata de un médico cooperante que regresó de una misión humanitaria en una zona con transmisión activa del virus en la República Democrática del Congo (RDC). El paciente permanece estable y ha sido ingresado en un centro hospitalario especializado, donde permanece aislado bajo estrictas medidas de bioseguridad.\nLas autoridades sanitarias han iniciado el rastreo de contactos, que deberán permanecer en aislamiento domiciliario durante 21 días y serán sometidos a vigilancia sanitaria. El ministerio recuerda que el Centro Europeo para la Prevención y el Control de las Enfermedades (ECDC) considera bajo el riesgo de infección para los viajeros y residentes europeos, y muy bajo para la población general.\nFrancia recomienda evitar los desplazamientos a las zonas afectadas del este de la RDC, especialmente a las personas más vulnerables. Quienes deban viajar deben extremar la higiene de manos, evitar el contacto con personas con fiebre, con animales salvajes y con carne de caza. A quienes regresen de las áreas con transmisión activa se les aconseja controlar su temperatura durante 21 días y, si presentan fiebre de 38 ºC o superior, contactar inmediatamente con los servicios de emergencias sin acudir directamente a un centro sanitario.\nEl ébola es una enfermedad vírica grave que se transmite por contacto directo con la sangre y otros fluidos corporales de personas infectadas, así como con objetos contaminados. Su periodo de incubación oscila entre dos y 21 días, y las personas infectadas solo son contagiosas cuando presentan síntomas. Actualmente no existe un tratamiento específico, por lo que la atención médica se centra en el tratamiento de los síntomas y el soporte al paciente."
+  },
+  "sha256": {
+    "titular": "fe2e98c170681ac0b8905a5347d39520b62f81c93ece299da7f46e2aff715437",
+    "entradilla": "431daeb9a4072f2decdd9cc41ce7baf3448c0819127904418f96f48b093956bb",
+    "cuerpo": "580b59db5e52356a1128d6d7c5776e04607aa9ab5b186f5648d49671fa4a31a6"
+  }
+}

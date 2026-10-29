@@ -1,0 +1,163 @@
+{
+  "article_id": "fa6e899afec4",
+  "url": "https://www.agenciasinc.es/Noticias/La-exposicion-prolongada-a-la-contaminacion-del-aire-se-asocia-con-un-aumento-de-grasa-corporal",
+  "group": "calibration",
+  "source_type": "institution",
+  "annotator": "Eva_Mar",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-27T03:44:45+00:00",
+  "article_sha256": {
+    "titular": "d7a122a0935da694570134c70f6506ae7cf8a31aa1498e104f2a5be15b8f8a96",
+    "entradilla": "dffe402c76c3f41eaaab032eaf9ca4fa770a9600db37d930f96225029179ce20",
+    "cuerpo": "b51b4dc5f5662e4f3ce0f5a30bcd3f11516747fc01627ffa7d3f902c8cd8f912"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Ariadna Curto,",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "primera autora del estudio",
+      "gender_representation": "woman",
+      "gender_evidence": "primera autora del estudio",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Dora Romaguera",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "última autora del estudio",
+      "gender_representation": "woman",
+      "gender_evidence": "última autora del estudio",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“El carbono negro, un claro marcador del tráfico urbano, fue el contaminante con mayor impacto: vivir en zonas con niveles más elevados se asoció con una pérdida de casi un kilo de masa magra en tres años, lo que subraya la importancia de considerar la contaminación atmosférica como un factor ambiental que puede influir en la salud metabólica”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Nuestro estudio es además uno de los primeros en analizar esta asociación para la grasa visceral, la que se acumula en la cavidad abdominal. El efecto solo fue evidente en participantes menores de 65 años, lo que sugiere que los contaminantes podrían favorecer una mayor acumulación de grasa visceral en adultos más jóvenes, cuyo tejido adiposo aún tiene capacidad de crecer”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793072614513",
+        "nombre": "Ariadna Curto,",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1841,
+            "fin16": 1855,
+            "texto": "Ariadna Curto,",
+            "inicio": 1841,
+            "fin": 1855
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1856,
+          "fin16": 1882,
+          "texto": "primera autora del estudio",
+          "inicio": 1856,
+          "fin": 1882
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1892,
+            "fin16": 2237,
+            "texto": "“El carbono negro, un claro marcador del tráfico urbano, fue el contaminante con mayor impacto: vivir en zonas con niveles más elevados se asoció con una pérdida de casi un kilo de masa magra en tres años, lo que subraya la importancia de considerar la contaminación atmosférica como un factor ambiental que puede influir en la salud metabólica”",
+            "tipo": "directa",
+            "inicio": 1892,
+            "fin": 2237
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1856,
+          "fin16": 1882,
+          "texto": "primera autora del estudio",
+          "inicio": 1856,
+          "fin": 1882
+        },
+        "participacion": "protagoniza"
+      },
+      {
+        "_id": "p1793072640105",
+        "nombre": "Dora Romaguera",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2239,
+            "fin16": 2253,
+            "texto": "Dora Romaguera",
+            "inicio": 2239,
+            "fin": 2253
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2255,
+          "fin16": 2280,
+          "texto": "última autora del estudio",
+          "inicio": 2255,
+          "fin": 2280
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2289,
+            "fin16": 2666,
+            "texto": "“Nuestro estudio es además uno de los primeros en analizar esta asociación para la grasa visceral, la que se acumula en la cavidad abdominal. El efecto solo fue evidente en participantes menores de 65 años, lo que sugiere que los contaminantes podrían favorecer una mayor acumulación de grasa visceral en adultos más jóvenes, cuyo tejido adiposo aún tiene capacidad de crecer”.",
+            "tipo": "directa",
+            "inicio": 2289,
+            "fin": 2666
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2255,
+          "fin16": 2280,
+          "texto": "última autora del estudio",
+          "inicio": 2255,
+          "fin": 2280
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 151
+  }
+}

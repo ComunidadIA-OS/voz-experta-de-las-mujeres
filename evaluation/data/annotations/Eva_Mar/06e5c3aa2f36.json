@@ -1,0 +1,555 @@
+{
+  "article_id": "06e5c3aa2f36",
+  "url": "https://www.agenciasinc.es/Noticias/Recortes-que-amenazan-la-lucha-global-contra-el-VIH",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Eva_Mar",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-27T04:00:18+00:00",
+  "article_sha256": {
+    "titular": "a9e57237de50411a7ac057803a6b3f11163bb1d13fbb9ecb7facb7f31924bbeb",
+    "entradilla": "81e1b0dcae0d9bdf8cb5f06eae75bbaeb15b22f2cd44e9bf12f8e931121bf81b",
+    "cuerpo": "69a88c809f15873c1fda2fae1efbed082de8a677d1abdb249a0a717ec32f9ab1"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Claudia García-Vaz",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "coordinadora de Análisis de Políticas de ISGlobal,",
+      "gender_representation": "woman",
+      "gender_evidence": "coordinadora de Análisis de Políticas de ISGlobal",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p2",
+      "name": "Denise Naniche",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "profesora de investigación y directora científica de ISGlobal",
+      "gender_representation": "woman",
+      "gender_evidence": "profesora de investigación y directora científica de ISGlobal",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p3",
+      "name": "Elizabeth Diago",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "coordinadora del hub de Preparación y Respuesta de ISGlobal",
+      "gender_representation": "woman",
+      "gender_evidence": "coordinadora del hub de Preparación y Respuesta de ISGlobal",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "person_id": "p4",
+      "name": "Virginia Rodríguez",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "coordinadora de Incidencia Política de ISGlobal",
+      "gender_representation": "woman",
+      "gender_evidence": "coordinadora de Incidencia Política de ISGlobal",
+      "work_role": "comments",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "señala a SINC que cambios presupuestarios comprometen la lucha contra el VIH de dos formas: reducen recursos en infraestructura sanitaria frágil y limitan la investigación y la innovación.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“La semana pasada supimos que Estados Unidos disminuiría el doble de esa cantidad de sus aportaciones al Fondo”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Aún queda pendiente garantizar la financiación sostenida de proyectos de este tipo, esenciales para la salud global y desarrollados en un continente africano con un ecosistema de investigación en plena expansión, pero aún vulnerable a recortes”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“La principal barrera para lenacapavir inyectable en África, un tratamiento antirretroviral de última generación, es su alto coste y las limitaciones de las licencias voluntarias que restringen la accesibilidad”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Se ha logrado un primer acuerdo entre el Fondo Mundial y Gilead, el fabricante de lenacapavir, para asegurar su lanzamiento con precio asequible en algunos países de baja renta”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "indirect",
+      "text": "la profesora de investigación subraya la necesidad de reforzar los servicios sanitarios locales.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p2",
+      "type": "direct",
+      "text": "“Es imprescindible fortalecer la cadena de frío, capacitar al personal sanitario y contar con sistemas de seguimiento que apoyen la adherencia bianual”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "indirect",
+      "text": "enfatiza que las inversiones deben permitir que la atención llegue a quienes más la necesitan.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "direct",
+      "text": "“Se deben priorizar inversiones estructurales que permitan establecer una red de atención primaria accesible, con personal capacitado y servicios básicos integrados, móviles o basados en la comunidad”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "indirect",
+      "text": "También destaca la importancia de modernizar los sistemas de información para un monitoreo eficaz.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "direct",
+      "text": "“Invertir en sistemas simples pero robustos garantiza una vigilancia epidemiológica funcional y la capacidad de activar o reforzar áreas con mayores necesidades”,",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p3",
+      "type": "direct",
+      "text": "“Fortalecer la participación de las comunidades y proteger los recursos sociales es clave para sostener la prevención y el contacto con poblaciones vulnerables”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p4",
+      "type": "indirect",
+      "text": "advierte que Europa debe asumir un rol más activo en salud global.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p4",
+      "type": "direct",
+      "text": "“España y otros países europeos pueden mantener contribuciones financieras sostenidas y predecibles al Fondo Mundial, aunque la tendencia general no lo refleja. España es uno de los pocos que ha aumentado su compromiso para los próximos tres años”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p4",
+      "type": "direct",
+      "text": "“Alemania, probablemente Francia y, fuera de la UE, el Reino Unido han disminuido o anunciado reducciones en sus contribuciones. Más allá de los aportes económicos, las iniciativas de salud global requieren transformaciones profundas que los países donantes deben impulsar”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p4",
+      "type": "direct",
+      "text": "“Se deben promover mecanismos conjuntos para que GAVI, el Fondo Mundial y otros actores actúen de manera más coordinada, asegurando rendición de cuentas y colocando a los países implementadores en el centro de la toma de decisiones”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p4",
+      "type": "direct",
+      "text": "“Los sistemas sanitarios, especialmente en África, perderían apoyo clave para proveer tratamientos y enfrentar futuras crisis. Sin la flexibilidad de los mecanismos del Fondo, la capacidad de reacción ante emergencias sanitarias —desde la pandemia de Covid hasta brotes epidémicos— se vería limitada. Además, se dificultaría alcanzar los Objetivos de Desarrollo Sostenible, en particular el ODS 3”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793073119481",
+        "nombre": "Claudia García-Vaz",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 563,
+            "fin16": 581,
+            "texto": "Claudia García-Vaz",
+            "inicio": 563,
+            "fin": 581
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1437,
+            "fin16": 1447,
+            "texto": "García-Vaz",
+            "inicio": 1437,
+            "fin": 1447
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2106,
+            "fin16": 2116,
+            "texto": "García-Vaz",
+            "inicio": 2106,
+            "fin": 2116
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 583,
+          "fin16": 632,
+          "texto": "coordinadora de Análisis de Políticas de ISGlobal",
+          "inicio": 583,
+          "fin": 632
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 634,
+            "fin16": 822,
+            "texto": "señala a SINC que cambios presupuestarios comprometen la lucha contra el VIH de dos formas: reducen recursos en infraestructura sanitaria frágil y limitan la investigación y la innovación.",
+            "tipo": "indirecta",
+            "inicio": 634,
+            "fin": 822
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1316,
+            "fin16": 1427,
+            "texto": "“La semana pasada supimos que Estados Unidos disminuiría el doble de esa cantidad de sus aportaciones al Fondo”",
+            "tipo": "directa",
+            "inicio": 1316,
+            "fin": 1427
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1853,
+            "fin16": 2098,
+            "texto": "“Aún queda pendiente garantizar la financiación sostenida de proyectos de este tipo, esenciales para la salud global y desarrollados en un continente africano con un ecosistema de investigación en plena expansión, pero aún vulnerable a recortes”",
+            "tipo": "directa",
+            "inicio": 1853,
+            "fin": 2098
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 583,
+          "fin16": 633,
+          "texto": "coordinadora de Análisis de Políticas de ISGlobal,",
+          "inicio": 583,
+          "fin": 633
+        },
+        "participacion": "comenta"
+      },
+      {
+        "_id": "p1793073199055",
+        "nombre": "Denise Naniche",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2202,
+            "fin16": 2216,
+            "texto": "Denise Naniche",
+            "inicio": 2202,
+            "fin": 2216
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2829,
+            "fin16": 2836,
+            "texto": "Naniche",
+            "inicio": 2829,
+            "fin": 2836
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 2218,
+          "fin16": 2279,
+          "texto": "profesora de investigación y directora científica de ISGlobal",
+          "inicio": 2218,
+          "fin": 2279
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 2297,
+            "fin16": 2509,
+            "texto": "“La principal barrera para lenacapavir inyectable en África, un tratamiento antirretroviral de última generación, es su alto coste y las limitaciones de las licencias voluntarias que restringen la accesibilidad”.",
+            "tipo": "directa",
+            "inicio": 2297,
+            "fin": 2509
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2643,
+            "fin16": 2821,
+            "texto": "“Se ha logrado un primer acuerdo entre el Fondo Mundial y Gilead, el fabricante de lenacapavir, para asegurar su lanzamiento con precio asequible en algunos países de baja renta”",
+            "tipo": "directa",
+            "inicio": 2643,
+            "fin": 2821
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2866,
+            "fin16": 2962,
+            "texto": "la profesora de investigación subraya la necesidad de reforzar los servicios sanitarios locales.",
+            "tipo": "indirecta",
+            "inicio": 2866,
+            "fin": 2962
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2963,
+            "fin16": 3114,
+            "texto": "“Es imprescindible fortalecer la cadena de frío, capacitar al personal sanitario y contar con sistemas de seguimiento que apoyen la adherencia bianual”",
+            "tipo": "directa",
+            "inicio": 2963,
+            "fin": 3114
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 2218,
+          "fin16": 2279,
+          "texto": "profesora de investigación y directora científica de ISGlobal",
+          "inicio": 2218,
+          "fin": 2279
+        },
+        "participacion": "comenta"
+      },
+      {
+        "_id": "p1793073316847",
+        "nombre": "Elizabeth Diago",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3135,
+            "fin16": 3150,
+            "texto": "Elizabeth Diago",
+            "inicio": 3135,
+            "fin": 3150
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3519,
+            "fin16": 3524,
+            "texto": "Diago",
+            "inicio": 3519,
+            "fin": 3524
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 3152,
+          "fin16": 3211,
+          "texto": "coordinadora del hub de Preparación y Respuesta de ISGlobal",
+          "inicio": 3152,
+          "fin": 3211
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 3214,
+            "fin16": 3308,
+            "texto": "enfatiza que las inversiones deben permitir que la atención llegue a quienes más la necesitan.",
+            "tipo": "indirecta",
+            "inicio": 3214,
+            "fin": 3308
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3309,
+            "fin16": 3509,
+            "texto": "“Se deben priorizar inversiones estructurales que permitan establecer una red de atención primaria accesible, con personal capacitado y servicios básicos integrados, móviles o basados en la comunidad”",
+            "tipo": "directa",
+            "inicio": 3309,
+            "fin": 3509
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3533,
+            "fin16": 3631,
+            "texto": "También destaca la importancia de modernizar los sistemas de información para un monitoreo eficaz.",
+            "tipo": "indirecta",
+            "inicio": 3533,
+            "fin": 3631
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3632,
+            "fin16": 3794,
+            "texto": "“Invertir en sistemas simples pero robustos garantiza una vigilancia epidemiológica funcional y la capacidad de activar o reforzar áreas con mayores necesidades”,",
+            "tipo": "directa",
+            "inicio": 3632,
+            "fin": 3794
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 3900,
+            "fin16": 4060,
+            "texto": "“Fortalecer la participación de las comunidades y proteger los recursos sociales es clave para sostener la prevención y el contacto con poblaciones vulnerables”",
+            "tipo": "directa",
+            "inicio": 3900,
+            "fin": 4060
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 3152,
+          "fin16": 3211,
+          "texto": "coordinadora del hub de Preparación y Respuesta de ISGlobal",
+          "inicio": 3152,
+          "fin": 3211
+        },
+        "participacion": "comenta"
+      },
+      {
+        "_id": "p1793073377180",
+        "nombre": "Virginia Rodríguez",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4327,
+            "fin16": 4345,
+            "texto": "Virginia Rodríguez",
+            "inicio": 4327,
+            "fin": 4345
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4719,
+            "fin16": 4728,
+            "texto": "Rodríguez",
+            "inicio": 4719,
+            "fin": 4728
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5449,
+            "fin16": 5458,
+            "texto": "Rodríguez",
+            "inicio": 5449,
+            "fin": 5458
+          }
+        ],
+        "genero": "mujer",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 4347,
+          "fin16": 4394,
+          "texto": "coordinadora de Incidencia Política de ISGlobal",
+          "inicio": 4347,
+          "fin": 4394
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 4396,
+            "fin16": 4462,
+            "texto": "advierte que Europa debe asumir un rol más activo en salud global.",
+            "tipo": "indirecta",
+            "inicio": 4396,
+            "fin": 4462
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4463,
+            "fin16": 4710,
+            "texto": "“España y otros países europeos pueden mantener contribuciones financieras sostenidas y predecibles al Fondo Mundial, aunque la tendencia general no lo refleja. España es uno de los pocos que ha aumentado su compromiso para los próximos tres años”",
+            "tipo": "directa",
+            "inicio": 4463,
+            "fin": 4710
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 4834,
+            "fin16": 5107,
+            "texto": "“Alemania, probablemente Francia y, fuera de la UE, el Reino Unido han disminuido o anunciado reducciones en sus contribuciones. Más allá de los aportes económicos, las iniciativas de salud global requieren transformaciones profundas que los países donantes deben impulsar”",
+            "tipo": "directa",
+            "inicio": 4834,
+            "fin": 5107
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5207,
+            "fin16": 5439,
+            "texto": "“Se deben promover mecanismos conjuntos para que GAVI, el Fondo Mundial y otros actores actúen de manera más coordinada, asegurando rendición de cuentas y colocando a los países implementadores en el centro de la toma de decisiones”",
+            "tipo": "directa",
+            "inicio": 5207,
+            "fin": 5439
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 5664,
+            "fin16": 6061,
+            "texto": "“Los sistemas sanitarios, especialmente en África, perderían apoyo clave para proveer tratamientos y enfrentar futuras crisis. Sin la flexibilidad de los mecanismos del Fondo, la capacidad de reacción ante emergencias sanitarias —desde la pandemia de Covid hasta brotes epidémicos— se vería limitada. Además, se dificultaría alcanzar los Objetivos de Desarrollo Sostenible, en particular el ODS 3”",
+            "tipo": "directa",
+            "inicio": 5664,
+            "fin": 6061
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 4347,
+          "fin16": 4394,
+          "texto": "coordinadora de Incidencia Política de ISGlobal",
+          "inicio": 4347,
+          "fin": 4394
+        },
+        "participacion": "comenta"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 522
+  }
+}

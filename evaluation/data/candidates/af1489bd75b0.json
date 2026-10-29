@@ -1,0 +1,26 @@
+{
+  "id": "af1489bd75b0",
+  "url": "https://www.agenciasinc.es/Noticias/La-fertilidad-esta-relacionada-con-las-celulas-inmunitarias-del-cerebro",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-03-12T19:00:00+01:00",
+  "fuente_y_derechos": "Fuente: CNIO | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Otras especialidades médicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:50:22+00:00",
+  "campos": {
+    "titular": "La fertilidad está relacionada con las células inmunitarias del cerebro",
+    "entradilla": "Una investigación dirigida por el Centro Nacional de Investigaciones Oncológicas revela que células del sistema de defensa en el cerebro participan en el proceso de maduración sexual. El vínculo es RANK, una proteína implicada en desarrollo mamario.",
+    "cuerpo": "La señal para que comience la pubertad se inicia en el cerebro. Concretamente en el hipotálamo, donde neuronas específicas liberan una hormona que activa la hipófisis, en la base del cráneo, que a su vez lanza otras hormonas que desencadenan la maduración de las gónadas –los ovarios o los testículos–. Este mecanismo, que culmina en un organismo fértil, es el eje hipotálamo-hipófiso-gonadal.\nUna investigación del Centro Nacional de Investigaciones Oncológicas (CNIO) con modelos animales acaba de descubrir que en este sistema de regulación hormonal participan también dos elementos hasta ahora insospechados: la microglía, que son células defensivas del sistema nervioso, y la proteína RANK, que contribuye a la remodelación de los huesos y es esencial en el funcionamiento de las glándulas mamarias. Los detalles se publican en la revista Science y su primer autor es el investigador Alejandro Collado.\nEl eje hipotálamo-hipófiso-gonadal regula muchos procesos relacionados con la reproducción. Sus principales protagonistas en el hipotálamo son las neuronas liberadoras de hormonas gonadotropinas (GnRH, en su acrónimo inglés), que controlan la aparición de la pubertad, el desarrollo de las gónadas y la fertilidad. Se sabía que las neuronas GnRH están moduladas por otras neuronas, pero no que las células inmunitarias pudieran influir en su funcionamiento.\nEsa es la recién descubierta función de la microglía, células que eliminan posibles amenazas y moléculas inservibles en el sistema nervioso central. “El hecho de encontrar células que no son neuronas, sino células inmunitarias, regulando la fertilidad ya es importante”, destaca Eva González-Suárez, autora principal del trabajo.\nEl estudio muestra que la microglía regula la función de las neuronas GnRH mediante la expresión de la proteína RANK.\nCuando el equipo científico suprimió la expresión de la proteína RANK en modelos animales, la función reproductiva se distorsionó tanto en machos como en hembras. En los animales que nacían ya sin RANK, y en aquellos en que la proteína era eliminada antes de la pubertad, se observó una reducción de las hormonas sexuales y pérdida de funcionalidad de las gónadas conocida como hipogonadismo; estos animales no desarrollaron la pubertad. Cuando se eliminó RANK en ejemplares sexualmente maduros, los animales se volvieron infértiles en un mes.\nPara investigar la función de RANK en la fertilidad humana el equipo analizó muestras de pacientes con hipogonadismo hipogonadotrópico congénito, un síndrome raro asociado al retraso o ausencia de la pubertad, y a infertilidad. Se sabía que este síndrome está ocasionado por problemas en las neuronas GnRH, o en las moléculas que producen. La investigación identificó, en algunos pacientes, mutaciones en el gen que codifica la proteína RANK.\n“Estos resultados muestran que RANK podría ser una diana terapéutica para las alteraciones endocrinas y los síndromes que afectan a la fertilidad, y también un gen candidato para el diagnóstico molecular del hipogonadismo hipogonadotrófico congénito”, escriben los autores.\nGonzález-Suárez subraya que “el papel de la microglía como regulador de la función de las neuronas ‘reproductoras’ es nuevo, y esa regulación asociada a RANK puede ocurrir en otros ejes, para otras funciones, como podrían ser el eje del apetito-saciedad, del estrés, etcétera”."
+  },
+  "sha256": {
+    "titular": "67b5cf30530dfe9838ba24e64b32a26bd9bd1cac5fe4f44de4b919a81e989b2d",
+    "entradilla": "6d8506423ef0033b6d70af53419b4c1740b44fe82d4573820cc51e22cff62a6e",
+    "cuerpo": "40c8fd2426897c882bb5d24c6f30602b13d375c26538b642ba2578c54d57f08b"
+  }
+}

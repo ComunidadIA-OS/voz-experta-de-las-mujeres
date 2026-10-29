@@ -1,0 +1,127 @@
+{
+  "article_id": "3618f637a1a0",
+  "url": "https://www.agenciasinc.es/Noticias/Las-voces-hechas-con-IA-pueden-enganar-a-tu-oido-pero-no-a-tu-cerebro",
+  "group": "test",
+  "source_type": "sinc_newsroom",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:10+00:00",
+  "article_sha256": {
+    "titular": "250dff90d6670174cee1ba60a57cd926deedb83905a6b70bafbc3b6a752a04a7",
+    "entradilla": "042abdf3bd21ae0021a13f2c9e26fbaa412aee5414adf0b34484f19071ba0191",
+    "cuerpo": "6a843cf40cba8b73f433e9187e66d08d2fdda8640a76f0c5a4f779503d728b9d"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [
+    {
+      "person_id": "p1",
+      "name": "Xiangbin Teng",
+      "professional_role": "especialista",
+      "technical_expert": "yes",
+      "source_role": "specialist",
+      "in_headline": false,
+      "in_introduction": false,
+      "expert_evidence": "investigador principal del estudio",
+      "gender_representation": "man",
+      "gender_evidence": "investigador",
+      "work_role": "leads",
+      "work_role_evidence": "",
+      "headline_reference": "absent",
+      "headline_reference_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "reviewed_quotes": [
+    {
+      "speaker_id": "p1",
+      "type": "indirect",
+      "text": "sto sugiere que el sistema auditivo comienza a captar matices acústicos casi imperceptibles",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "aunque las personas aún no sean capaces de convertir esa información en una decisión conductual fiable”.",
+      "attribution_evidence": "",
+      "review_notes": ""
+    },
+    {
+      "speaker_id": "p1",
+      "type": "direct",
+      "text": "“Los seres humanos todavía se están adaptando al contenido generado por IA. Un rendimiento bajo en las pruebas no significa que las señales no estén ahí, sino que puede que aún no estemos utilizando las pistas adecuadas”",
+      "attribution_evidence": "",
+      "review_notes": ""
+    }
+  ],
+  "page_annotation": {
+    "personas": [
+      {
+        "_id": "p1793120536093",
+        "nombre": "Xiangbin Teng",
+        "menciones": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1367,
+            "fin16": 1380,
+            "texto": "Xiangbin Teng",
+            "inicio": 1367,
+            "fin": 1380
+          }
+        ],
+        "genero": "hombre",
+        "indicio_genero": {
+          "campo": "cuerpo",
+          "inicio16": 1382,
+          "fin16": 1394,
+          "texto": "investigador",
+          "inicio": 1382,
+          "fin": 1394
+        },
+        "citas": [
+          {
+            "campo": "cuerpo",
+            "inicio16": 1419,
+            "fin16": 1510,
+            "texto": "sto sugiere que el sistema auditivo comienza a captar matices acústicos casi imperceptibles",
+            "tipo": "indirecta",
+            "inicio": 1419,
+            "fin": 1510
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 1513,
+            "fin16": 1617,
+            "texto": "aunque las personas aún no sean capaces de convertir esa información en una decisión conductual fiable”.",
+            "tipo": "directa",
+            "inicio": 1513,
+            "fin": 1617
+          },
+          {
+            "campo": "cuerpo",
+            "inicio16": 2446,
+            "fin16": 2666,
+            "texto": "“Los seres humanos todavía se están adaptando al contenido generado por IA. Un rendimiento bajo en las pruebas no significa que las señales no estén ahí, sino que puede que aún no estemos utilizando las pistas adecuadas”",
+            "tipo": "directa",
+            "inicio": 2446,
+            "fin": 2666
+          }
+        ],
+        "rol": "especialista",
+        "evidencia_rol": {
+          "campo": "cuerpo",
+          "inicio16": 1382,
+          "fin16": 1416,
+          "texto": "investigador principal del estudio",
+          "inicio": 1382,
+          "fin": 1416
+        },
+        "participacion": "protagoniza"
+      }
+    ],
+    "sin_personas": false,
+    "terminada": true,
+    "notas": "",
+    "segundos": 69
+  }
+}

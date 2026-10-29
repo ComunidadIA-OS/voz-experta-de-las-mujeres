@@ -1,0 +1,26 @@
+{
+  "id": "4e2dfca1c010",
+  "url": "https://www.agenciasinc.es/Noticias/La-reserva-hidrica-en-Espana-esta-al-56-6-de-su-capacidad-debido-al-aumento-de-las-precipitaciones",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-01-08T12:10:00+01:00",
+  "fuente_y_derechos": "Fuente: Ministerio para la Transición Ecológica y el Reto Demográfico | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias de la Tierra y del Espacio"
+  ],
+  "secciones": [
+    "Tierra"
+  ],
+  "fecha_consulta": "2026-10-27T01:56:01+00:00",
+  "campos": {
+    "titular": "La reserva hídrica en España está al 56,6% de su capacidad debido al aumento de las precipitaciones",
+    "entradilla": "Los embalses almacenan actualmente 31 744 hectómetros cúbicos de agua. Durante la última semana han aumentado en 190 (hm ³), es decir un 0,3 % de su capacidad total.",
+    "cuerpo": "La reserva hídrica española ha alcanzado el 56,6 % de su capacidad total, según datos del Ministerio para la Transición Ecológica y el Reto Demográfico.\nEn este momento, los embalses tienen almacenados 31 744 de hectómetros cúbicos de agua (hm ³) debido a la abundancia de precipitaciones en toda la península. La máxima se ha producido en Ceuta con 95,2 litros por metro cuadrado.\nEn la última semana los niveles embalsados han crecido en 190 hm ³, es decir un 0,3 % de la capacidad total. Asimismo, la reserva total ha aumentado casi un 10 y un 14 % en comparación con el periodo anterior y la media de hace diez años, respectivamente.\nEl norte de España es la región que obtiene valores de captación más altos. La reserva por ámbitos es del 84,9 % en las cuencas internas de Cataluña, del 81 % en las cuencas internas del País Vasco, del 71,2 % en el Cantábrico Oriental, del 69,7 % en la costa de Galicia y del 61,6 % en la región del Miño – Sil.\nMientras tanto, en el interior se han alcanzado volúmenes del 62,1 % en el Tajo, del 57,7 % en el Ebro y del 55,4 % en el Duero.\nEn el sur se ha registrado un llenado del 89,5 % en las cuencas de Tinto, Odiel y Piedras, un 61 % en las cuencas del Guadiana, un 51,5 % en las del Júcar, un 51,1 % en la cuenca mediterránea andaluza, un 48,1 % en las de Guadalete y Barbate, un 46,4 % en las del Guadalquivir y un 26, % en las del Segura."
+  },
+  "sha256": {
+    "titular": "ffe1e746e0bc3ec4fb73dc46d89c31ddf0873a03d5f8f3fed4bb4dab8794eb0b",
+    "entradilla": "3adc5a9673be241cb6fb6a39114dbd49978fce3cfe802c8f2ad30cab02f17993",
+    "cuerpo": "dd0891585326def3cad5ea1fb98bf54742039212e86e35dcb9e51609334b6237"
+  }
+}

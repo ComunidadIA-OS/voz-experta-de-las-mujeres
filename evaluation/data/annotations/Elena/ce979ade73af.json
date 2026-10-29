@@ -1,0 +1,24 @@
+{
+  "article_id": "ce979ade73af",
+  "url": "https://www.agenciasinc.es/Noticias/El-jilguero-europeo-Ave-del-Ano-2026",
+  "group": "test",
+  "source_type": "institution",
+  "annotator": "Elena",
+  "guide_version": "0.4",
+  "saved_at": "2026-10-28T09:40:28+00:00",
+  "article_sha256": {
+    "titular": "577b7f8262f67223894ee1b84fa5c128ff5707d296762d68b8c9dd4c6890ec0f",
+    "entradilla": "94f22a63ad1b504769332094e006db28af826de18908efc3585bfb606f225191",
+    "cuerpo": "08cd5aa9806469dc7265e8eab33aa85eb10daba3f10020de716f5500a21a5d9f"
+  },
+  "review_status": "human_reviewed",
+  "reviewed_people": [],
+  "reviewed_quotes": [],
+  "page_annotation": {
+    "personas": [],
+    "sin_personas": true,
+    "terminada": true,
+    "notas": "",
+    "segundos": 11
+  }
+}

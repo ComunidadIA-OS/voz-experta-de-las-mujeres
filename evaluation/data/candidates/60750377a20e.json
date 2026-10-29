@@ -1,0 +1,26 @@
+{
+  "id": "60750377a20e",
+  "url": "https://www.agenciasinc.es/Noticias/Los-medicamentos-GLP-1-mejoran-la-salud-hepatica-aunque-no-se-pierda-peso",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-04-15T11:20:00+02:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Salud pública"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:47:44+00:00",
+  "campos": {
+    "titular": "Los medicamentos GLP-1 mejoran la salud hepática aunque no se pierda peso",
+    "entradilla": "Algunos fármacos para adelgazar mejoran la salud del hígado al reducir la inflamación, la fibrosis y la regeneración del tejido hepático. Hasta ahora, los expertos pensaban que era consecuencia de perder peso, pero un nuevo estudio señala que estos medicamentos poseen mecanismos adicionales que ayudarían a crear terapias específicas contra enfermedades complejas.",
+    "cuerpo": "Los fármacos basados en el compuesto GLP-1 han revolucionado el tratamiento de enfermedades metabólicas como la diabetes y la obesidad, y en los últimos años han demostrado beneficios que van mucho más allá del peso.\nAhora, un estudio realizado entre la Universidad de Toronto y el Centro de Investigación en Medicina Molecular (ambas en Canadá), y publicado en Cell Metabolism, demuestra que la semaglutida ejerce efectos directos sobre el hígado, independientemente de la pérdida de grasa, y revela su eficacia frente a la enfermedad hepática metabólica.\nEn concreto, esta investigación demuestra que el receptor de GLP-1 –la diana terapéutica de la semaglutida– se encuentra en un tipo muy específico de células endoteliales del hígado que actúan como coordinadoras del funcionamiento hepático.\nCuando la semaglutida activa este receptor, se desencadena una red de señales que reduce la inflamación, disminuye la fibrosis y favorece la recuperación del tejido en este órgano tan relevante.\nEl hallazgo supone un cambio relevante en la comprensión de cómo actúan los fármacos basados en GLP-1. Según la autora principal del estudio e investigadora del CiMUS, María Jesús González Rellán: “Identificar estos mecanismos directos ayuda a entender mejor su eficacia y abre la puerta a desarrollar terapias más específicas y a determinar qué pacientes pueden beneficiarse más de estos tratamientos”.\nLa enfermedad hepática metabólica afecta al 30 % de la población mundial y, hasta hace poco, no contaba con tratamientos eficaces. Dado que está estrechamente relacionada con la obesidad y la diabetes, se asumía que la mejoría observada con los fármacos era consecuencia indirecta de la pérdida de peso.\nNo obstante, ensayos clínicos recientes han mostrado resultados inesperados: algunos pacientes mejoraban incluso antes de adelgazar o sin hacerlo de forma significativa, lo que sugería la existencia de mecanismos adicionales.\n“Durante años se asumía que la mejoría hepática era consecuencia de la pérdida de peso, pero nuestros resultados muestran que la semaglutida actúa directamente sobre el hígado al activar células que coordinan la respuesta frente a la inflamación y la fibrosis”, explica González Rellán.\n“Este estudio refuerza, por tanto, la idea de que la semaglutida no solo ayuda a perder peso, sino que ejerce una acción protectora sobre el hígado, lo que consolida su papel como herramienta clave frente a enfermedades metabólicas complejas”, tal y como concluye la experta."
+  },
+  "sha256": {
+    "titular": "9197b4039c423e2b8fdf778225b1952981cab69beae0a2c58cfc47c0cc6bb65d",
+    "entradilla": "0be22ab69588c18777c790fbd4cb884da2c7b8e30961cf8cf24aa0097ca60778",
+    "cuerpo": "f8ba9b8ab15007967bbcac7f02a66c504863840f9b572bba88f2e6f025ef90b2"
+  }
+}

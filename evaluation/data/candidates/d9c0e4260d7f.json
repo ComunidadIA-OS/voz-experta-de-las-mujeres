@@ -1,0 +1,26 @@
+{
+  "id": "d9c0e4260d7f",
+  "url": "https://www.agenciasinc.es/Noticias/Un-raton-capaz-de-regenerar-tejidos-evita-el-desarrollo-de-tumores",
+  "autoria": "SINC",
+  "fecha_publicacion": "2026-05-21T08:49:00+02:00",
+  "fuente_y_derechos": "Fuente: Instituto de Investigaciones Biomédicas Sols-Morreale | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": false,
+  "etiquetas": [
+    "Ciencias clínicas"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:44:39+00:00",
+  "campos": {
+    "titular": "Un ratón capaz de regenerar tejidos evita el desarrollo de tumores",
+    "entradilla": "El ratón espinoso africano, un modelo único por su capacidad regenerativa, no desarrolla cáncer en condiciones experimentales, según un estudio liderado por el Instituto de Investigaciones Biomédicas Sols-Morreale, en colaboración con la Universidade do Algarve. Los resultados abren nuevas vías para investigar la relación entre regeneración tisular y cáncer.",
+    "cuerpo": "Un equipo de investigación del Instituto de Investigaciones Biomédicas Sols-Morreale (IIBM-CSIC-UAM), en colaboración con la Universidade do Algarve (Portugal), ha demostrado que el ratón espinoso africano (Acomys), conocido por su capacidad para regenerar tejidos complejos, presenta una notable resistencia al desarrollo de tumores.\nA diferencia de la mayoría de los mamíferos, que cicatrizan las heridas, este roedor es capaz de regenerar piel, músculo e incluso restablecer conexiones funcionales en la médula espinal. Esta característica lo ha convertido en un modelo clave para estudiar los mecanismos biológicos de la regeneración.\nDurante años, la comunidad científica ha comparado el cáncer con “una herida que nunca cicatriza”, ya que ambos procesos implican una intensa proliferación celular. Esto ha llevado a plantear si los organismos con alta capacidad regenerativa podrían tener un mayor riesgo de desarrollar tumores.\nSin embargo, los resultados del estudio apuntan en sentido contrario. Tras someter a los animales a un protocolo químico que induce tumores cutáneos, los ratones de laboratorio desarrollaron múltiples papilomas, mientras que los ratones espinosos no desarrollaron tumores.\nEl análisis molecular reveló que Acomys activa de forma más intensa genes supresores de tumores, despliega una respuesta inmunitaria más amplia y elimina con mayor eficacia las células dañadas mediante muerte celular programada.\n“Estos resultados indican que la regeneración y la resistencia al cáncer podrían estar estrechamente relacionadas”, explica Wolfgang Link, investigador del IIBM-CSIC. “Comprender estos mecanismos puede ayudar a identificar nuevas dianas terapéuticas”.\nEl trabajo sugiere que los procesos implicados en la regeneración tisular podrían desempeñar un papel clave en la prevención del cáncer, abriendo nuevas estrategias en oncología y medicina regenerativa."
+  },
+  "sha256": {
+    "titular": "fd3db065344af5bedb288840beebae42f94207475f1f3e5e910c076c8208b7bc",
+    "entradilla": "722971fcc75f37c8f24fd1d05f9ecc4cc7823f14a123adf886ea6dc9c7d8a99a",
+    "cuerpo": "1de5843eda2f11a8fac45cda0979fbb94a4b09122fa4503a2daaec0ff5d99d69"
+  }
+}

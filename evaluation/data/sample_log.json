@@ -1,0 +1,249 @@
+{
+  "seed": 2026,
+  "period": [
+    "2025-10-01",
+    "2026-09-30"
+  ],
+  "section": null,
+  "candidates": 1189,
+  "valid": {
+    "sinc_newsroom": 529,
+    "institution": 537
+  },
+  "groups": {
+    "calibration": [
+      {
+        "id": "3fce6f4efcdd",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Una-fosa-comun-de-la-Edad-de-Hierro-muestra-un-episodio-de-violencia-dirigida-a-mujeres-y-ninos"
+      },
+      {
+        "id": "99318b2973e3",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/La-division-de-un-grupo-de-chimpances-provoca-una-guerra-civil-entre-antiguos-aliados"
+      },
+      {
+        "id": "f6adfe788001",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Las-plantas-ajustan-su-crecimiento-espiando-el-aroma-de-sus-vecinas"
+      },
+      {
+        "id": "b3fb13c2ed24",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/El-cancer-de-mama-alcanzara-los-3-5-millones-de-casos-anuales-en-2050"
+      },
+      {
+        "id": "fa6e899afec4",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/La-exposicion-prolongada-a-la-contaminacion-del-aire-se-asocia-con-un-aumento-de-grasa-corporal"
+      },
+      {
+        "id": "263437d14adf",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/Solo-la-mitad-de-los-humedales-espanoles-estan-conservados-en-alguna-medida"
+      }
+    ],
+    "test": [
+      {
+        "id": "fd2c83d24eb7",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/El-estres-agudo-dificulta-la-conexion-de-recuerdos-y-la-deduccion-de-asociaciones"
+      },
+      {
+        "id": "3618f637a1a0",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Las-voces-hechas-con-IA-pueden-enganar-a-tu-oido-pero-no-a-tu-cerebro"
+      },
+      {
+        "id": "69ca08eca559",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/El-dolor-cronico-puede-aumentar-el-riesgo-de-hipertension-en-adultos"
+      },
+      {
+        "id": "cdad306eaf66",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Los-espanoles-tendran-mas-vinculos-sociales-para-2050-pero-la-tecnologia-podria-acentuar-la-soledad"
+      },
+      {
+        "id": "f1139b9f8d69",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/La-estimulacion-cerebral-impulsa-a-que-las-personas-se-comporten-de-forma-menos-egoista"
+      },
+      {
+        "id": "daadc1a590b0",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/El-origen-de-3I-ATLAS-esta-en-un-sistema-planetario-primitivo-de-hace-12-000-millones-de-anos"
+      },
+      {
+        "id": "732950a561a9",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Cultivar-garbanzos-en-tierra-lunar"
+      },
+      {
+        "id": "0122dafdd525",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Una-red-comercial-milenaria-transportaba-loros-vivos-de-la-Amazonia-a-la-costa-andina"
+      },
+      {
+        "id": "27e27381969e",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/La-evidencia-mas-antigua-de-peste-revela-brotes-letales-entre-cazadores-recolectores-hace-5-500-anos"
+      },
+      {
+        "id": "39eccecdd664",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Descubierto-un-posible-nuevo-objeto-astrofisico-que-combina-una-estrella-y-un-agujero-negro"
+      },
+      {
+        "id": "8770a58d8ee6",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Descubren-aranas-marinas-de-patas-peludas-y-ojos-rojos-en-un-mar-de-Canada"
+      },
+      {
+        "id": "313a7d64993b",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Una-planta-de-las-Galapagos-que-estaba-al-borde-de-la-extincion-se-esta-recuperando"
+      },
+      {
+        "id": "de49ae7fa9a6",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Como-la-profundidad-moldea-el-canto-de-las-ballenas"
+      },
+      {
+        "id": "06e5c3aa2f36",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Recortes-que-amenazan-la-lucha-global-contra-el-VIH"
+      },
+      {
+        "id": "96040fc07ec2",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Las-princesas-del-antiguo-Egipto-nacidas-hace-4-000-anos-eran-arqueras-expertas"
+      },
+      {
+        "id": "650ed997cc59",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/El-gran-mapa-del-genoma-cerebral-revela-que-la-maduracion-humana-se-extiende-hasta-los-24-anos"
+      },
+      {
+        "id": "c37f07811c3a",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/El-sabor-del-cafe-ya-puede-medirse-con-precision-molecular"
+      },
+      {
+        "id": "788d36af345f",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Hallan-por-primera-vez-una-cueva-volcanica-en-Venus"
+      },
+      {
+        "id": "a68a5f381be0",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Un-nuevo-control-compartido-entre-humano-y-maquina-mejora-la-destreza-de-las-manos-bionicas"
+      },
+      {
+        "id": "ae1a3804e2f5",
+        "source_type": "sinc_newsroom",
+        "url": "https://www.agenciasinc.es/Noticias/Los-simios-comparten-con-los-humanos-la-capacidad-de-imaginar-y-fingir"
+      },
+      {
+        "id": "a675a845affa",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/Identifican-un-farmaco-que-rejuvenece-las-celulas-madre-sanguineas"
+      },
+      {
+        "id": "2cd3d64e06fc",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/La-carrona-influye-sobre-la-ecologia-las-epidemias-y-la-evolucion-humana"
+      },
+      {
+        "id": "901b9580e41b",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/Esta-via-inmunitaria-podria-explicar-por-que-las-mujeres-son-mas-vulnerables-al-alzheimer"
+      },
+      {
+        "id": "8be323fdf720",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/Nuevo-metodo-mas-sensible-para-detectar-la-gripe-aviar-en-la-leche"
+      },
+      {
+        "id": "df644fd14fa2",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/Nacen-las-primeras-crias-de-cabra-montes-obtenidas-por-fecundacion-in-vitro"
+      },
+      {
+        "id": "472e3c570c5f",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/Miden-por-primera-vez-la-contaminacion-atmosferica-por-la-reentrada-de-un-cohete"
+      },
+      {
+        "id": "96af1d16dcb9",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/Tres-fragmentos-parietales-adultos-revelan-el-grosor-craneal-de-Homo-antecessor"
+      },
+      {
+        "id": "0ce4d9e7fa74",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/El-proyecto-Psyche-situa-las-mariposas-a-la-vanguardia-de-la-genomica-de-la-biodiversidad"
+      },
+      {
+        "id": "b027b3399398",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/LA-NASA-confirma-que-restos-de-un-cohete-de-SpaceX-impactaron-en-la-Luna"
+      },
+      {
+        "id": "af44d6b6dbb2",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/Pantallas-para-los-ninos-en-verano-la-importancia-de-mantener-las-rutinas"
+      },
+      {
+        "id": "e21238aaf99d",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/Adelantan-tres-millones-de-anos-el-origen-de-la-familia-de-las-comadrejas"
+      },
+      {
+        "id": "cdedf764511d",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/El-BSC-presenta-EuroQCS-Spain-su-tercer-ordenador-cuantico"
+      },
+      {
+        "id": "2d011ba2038e",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/Un-estudio-revela-la-diversificacion-tecnologica-en-Europa-hace-400-000-anos"
+      },
+      {
+        "id": "c26f5d4e06f6",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/El-mayor-estudio-hasta-la-fecha-sobre-arteritis-de-celulas-gigantes-identifica-cuatro-perfiles-de-riesgo"
+      },
+      {
+        "id": "f6808dec8f86",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/Los-telescopios-LST-1-y-MAGIC-detectan-el-blazar-de-muy-alta-energia-mas-lejano-observado-hasta-ahora"
+      },
+      {
+        "id": "3988fd0d6229",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/En-Espana-se-preven-300-000-nuevos-casos-de-cancer-en-2026-pero-con-mejor-supervivencia"
+      },
+      {
+        "id": "ce979ade73af",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/El-jilguero-europeo-Ave-del-Ano-2026"
+      },
+      {
+        "id": "f9b9d2af80f4",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/El-presupuesto-estatal-en-I-D-i-alcanza-los-15-676-millones-impulsado-por-la-inversion-en-defensa"
+      },
+      {
+        "id": "f1b81edaed18",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/El-28-de-agosto-tendra-lugar-un-eclipse-parcial-de-Luna-visible-en-toda-Espana"
+      },
+      {
+        "id": "c2119a2ba416",
+        "source_type": "institution",
+        "url": "https://www.agenciasinc.es/Noticias/La-mision-tripulada-Artemis-II-a-la-Luna-se-aplaza-tras-parar-hoy-las-pruebas-por-una-fuga-de-combustible"
+      }
+    ]
+  }
+}

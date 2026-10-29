@@ -1,0 +1,26 @@
+{
+  "id": "f1fbc64ee30c",
+  "url": "https://www.agenciasinc.es/Noticias/Este-es-el-mecanismo-molecular-por-el-cual-la-grasa-buena-protege-de-la-hipertension",
+  "autoria": "Antonio Villarreal",
+  "fecha_publicacion": "2026-01-19T08:00:00+01:00",
+  "fuente_y_derechos": "Fuente: SINC | Derechos: Creative Commons.",
+  "licencia_cc": true,
+  "fuente_sinc": true,
+  "etiquetas": [
+    "Patología"
+  ],
+  "secciones": [
+    "Salud"
+  ],
+  "fecha_consulta": "2026-10-27T01:55:15+00:00",
+  "campos": {
+    "titular": "Este es el mecanismo molecular por el cual la grasa ‘buena’ protege de la hipertensión",
+    "entradilla": "Investigadores de la Universidad Rockefeller han identificado una enzima que, ante la ausencia de grasa beige, desencadena la rigidez de las arterias. El hallazgo permite vislumbrar nuevas terapias de precisión contra las enfermedades cardiovasculares.",
+    "cuerpo": "La relación entre la obesidad y la hipertensión es de sobra conocida, pero la biología subyacente ha sido un misterio durante décadas. Ahora, un estudio publicado en la revista Science ha identificado el ‘eslabón perdido’: la grasa beige. Este tejido adiposo, que envuelve los vasos sanguíneos, no solo quema energía, sino que actúa como un guardián químico que impide que las arterias se vuelvan rígidas y sensibles a las hormonas que elevan la presión arterial.\n“Sabemos desde hace mucho tiempo que la obesidad aumenta el riesgo, pero ahora entendemos que no es solo la grasa en sí, sino el tipo de grasa, el que influye en cómo funciona la vasculatura”, explica Paul Cohen, director del Laboratorio de Metabolismo Molecular de la Universidad Rockefeller (EE UU) y autor principal del estudio.\nEl equipo de investigación descubrió que, en condiciones saludables, la grasa beige mantiene silenciada una enzima llamada QSOX1. Sin embargo, cuando se pierde la identidad ‘beige’ del tejido —un proceso vinculado a la obesidad—, esta enzima se produce en exceso.\nEl exceso de QSOX1 actúa como un interruptor que activa un programa genético de fibrosis: las arterias acumulan tejido rígido y fibroso, perdiendo su flexibilidad natural. Además, el estudio reveló que la falta de grasa beige hace que los vasos sanguíneos sean extremadamente sensibles a la angiotensina II, una de las hormonas más potentes del cuerpo a la hora de estrechar los vasos y elevar la presión.\nPara demostrar esta relación causal, los investigadores utilizaron un sofisticado modelo de ‘traducción inversa’. Primero observaron que los pacientes con más grasa marrón tenían menos hipertensión; después, en el laboratorio, crearon ratones que eran sanos en todo sentido excepto por una cosa: carecían del gen PRDM16 en sus células grasas, lo que les impedía formar grasa beige. Estos ratones, a pesar de no ser obesos ni tener inflamación, desarrollaron hipertensión de inmediato.\nAl eliminar también la enzima QSOX1 en estos ratones, los científicos lograron normalizar la función vascular y reducir la presión arterial, confirmando que esta enzima es la responsable del daño.\n“Cuanto más sepamos sobre estos vínculos moleculares, más cerca estaremos de concebir terapias dirigidas basadas en las características moleculares de cada individuo”, afirma Cohen.\nEste descubrimiento no solo explica por qué algunas personas con obesidad desarrollan hipertensión y otras no, sino que sitúa a la enzima QSOX1 como una diana terapéutica prometedora para futuras fármacos de precisión."
+  },
+  "sha256": {
+    "titular": "35cf24dc7354dc710fba49a72903880a413d410032d5f5e66339344a01bb628f",
+    "entradilla": "0e9ddccfcde313aaeb30b2a63127a3d754279459e3cfe5b045b8508a6a5b34ba",
+    "cuerpo": "474df8de9eb4407c860ffa07989d5ea3573fe7fbedff976671ef4a35654ded06"
+  }
+}
